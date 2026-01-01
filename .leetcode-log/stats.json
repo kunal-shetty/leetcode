@@ -61,10 +61,640 @@
      "submissionId": "2172325697"
     }
    }
+  },
+  "roman-to-integer": {
+   "id": "13",
+   "title": "Roman to Integer",
+   "slug": "roman-to-integer",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "Math",
+    "String"
+   ],
+   "dir": "problems/0013-roman-to-integer",
+   "firstSolved": "2025-04-15T03:09:24.000Z",
+   "lastSolved": "2025-04-15T03:09:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1607148956",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-04-15T03:09:24.000Z",
+     "submissionId": "1607148956"
+    }
+   }
+  },
+  "longest-common-prefix": {
+   "id": "14",
+   "title": "Longest Common Prefix",
+   "slug": "longest-common-prefix",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String",
+    "Trie"
+   ],
+   "dir": "problems/0014-longest-common-prefix",
+   "firstSolved": "2025-04-18T11:15:55.000Z",
+   "lastSolved": "2025-04-18T11:15:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1610435161",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-04-18T11:15:55.000Z",
+     "submissionId": "1610435161"
+    }
+   }
+  },
+  "check-if-the-sentence-is-pangram": {
+   "id": "1832",
+   "title": "Check if the Sentence Is Pangram",
+   "slug": "check-if-the-sentence-is-pangram",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/1832-check-if-the-sentence-is-pangram",
+   "firstSolved": "2025-04-19T14:20:24.000Z",
+   "lastSolved": "2025-04-19T14:20:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1611554777",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-04-19T14:20:24.000Z",
+     "submissionId": "1611554777"
+    }
+   }
+  },
+  "find-the-index-of-the-first-occurrence-in-a-string": {
+   "id": "28",
+   "title": "Find the Index of the First Occurrence in a String",
+   "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+   ],
+   "dir": "problems/0028-find-the-index-of-the-first-occurrence-in-a-string",
+   "firstSolved": "2025-05-04T13:02:06.000Z",
+   "lastSolved": "2025-05-04T13:02:06.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1625270929",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-05-04T13:02:06.000Z",
+     "submissionId": "1625270929"
+    }
+   }
+  },
+  "duplicate-emails": {
+   "id": "182",
+   "title": "Duplicate Emails",
+   "slug": "duplicate-emails",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0182-duplicate-emails",
+   "firstSolved": "2025-05-04T13:34:04.000Z",
+   "lastSolved": "2025-05-04T13:34:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1625291366",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "368 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-05-04T13:34:04.000Z",
+     "submissionId": "1625291366"
+    }
+   }
+  },
+  "divide-two-integers": {
+   "id": "29",
+   "title": "Divide Two Integers",
+   "slug": "divide-two-integers",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0029-divide-two-integers",
+   "firstSolved": "2025-12-03T09:17:35.000Z",
+   "lastSolved": "2025-12-03T09:17:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1845773683",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2578 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-03T09:17:35.000Z",
+     "submissionId": "1845773683"
+    }
+   }
+  },
+  "count-odd-numbers-in-an-interval-range": {
+   "id": "1523",
+   "title": "Count Odd Numbers in an Interval Range",
+   "slug": "count-odd-numbers-in-an-interval-range",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/1523-count-odd-numbers-in-an-interval-range",
+   "firstSolved": "2025-12-07T01:20:32.000Z",
+   "lastSolved": "2025-12-07T01:20:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1848801246",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2039 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-07T01:20:32.000Z",
+     "submissionId": "1848801246"
+    }
+   }
+  },
+  "fizz-buzz": {
+   "id": "412",
+   "title": "Fizz Buzz",
+   "slug": "fizz-buzz",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/0412-fizz-buzz",
+   "firstSolved": "2025-12-07T10:33:17.000Z",
+   "lastSolved": "2025-12-07T10:33:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1849188868",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-07T10:33:17.000Z",
+     "submissionId": "1849188868"
+    }
+   }
+  },
+  "find-the-difference": {
+   "id": "389",
+   "title": "Find the Difference",
+   "slug": "find-the-difference",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Sorting"
+   ],
+   "dir": "problems/0389-find-the-difference",
+   "firstSolved": "2025-12-07T10:40:28.000Z",
+   "lastSolved": "2025-12-07T10:40:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1849193392",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-07T10:40:28.000Z",
+     "submissionId": "1849193392"
+    }
+   }
+  },
+  "median-of-two-sorted-arrays": {
+   "id": "4",
+   "title": "Median of Two Sorted Arrays",
+   "slug": "median-of-two-sorted-arrays",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+   ],
+   "dir": "problems/0004-median-of-two-sorted-arrays",
+   "firstSolved": "2025-12-07T10:59:51.000Z",
+   "lastSolved": "2025-12-08T01:03:28.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1849701637",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "95.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-08T01:03:28.000Z",
+     "submissionId": "1849701637"
+    }
+   }
+  },
+  "missing-number": {
+   "id": "268",
+   "title": "Missing Number",
+   "slug": "missing-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+   ],
+   "dir": "problems/0268-missing-number",
+   "firstSolved": "2025-12-09T11:17:18.000Z",
+   "lastSolved": "2025-12-09T11:17:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1851023843",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "21.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-09T11:17:18.000Z",
+     "submissionId": "1851023843"
+    }
+   }
+  },
+  "is-subsequence": {
+   "id": "392",
+   "title": "Is Subsequence",
+   "slug": "is-subsequence",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0392-is-subsequence",
+   "firstSolved": "2025-12-10T01:37:21.000Z",
+   "lastSolved": "2025-12-10T01:37:21.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1851567595",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-10T01:37:21.000Z",
+     "submissionId": "1851567595"
+    }
+   }
+  },
+  "pascals-triangle-ii": {
+   "id": "119",
+   "title": "Pascal's Triangle II",
+   "slug": "pascals-triangle-ii",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0119-pascals-triangle-ii",
+   "firstSolved": "2025-12-13T17:32:12.000Z",
+   "lastSolved": "2025-12-13T17:32:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1854706544",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-13T17:32:12.000Z",
+     "submissionId": "1854706544"
+    }
+   }
+  },
+  "absolute-difference-between-maximum-and-minimum-k-elements": {
+   "id": "3774",
+   "title": "Absolute Difference Between Maximum and Minimum K Elements",
+   "slug": "absolute-difference-between-maximum-and-minimum-k-elements",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/3774-absolute-difference-between-maximum-and-minimum-k-elements",
+   "firstSolved": "2025-12-14T11:48:21.000Z",
+   "lastSolved": "2025-12-14T11:48:31.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1855338134",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "32.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-14T11:48:31.000Z",
+     "submissionId": "1855338134"
+    }
+   }
+  },
+  "reverse-words-with-same-vowel-count": {
+   "id": "3775",
+   "title": "Reverse Words With Same Vowel Count",
+   "slug": "reverse-words-with-same-vowel-count",
+   "difficulty": "Medium",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3775-reverse-words-with-same-vowel-count",
+   "firstSolved": "2025-12-14T12:37:53.000Z",
+   "lastSolved": "2025-12-14T12:38:07.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1855368964",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "114 ms",
+     "memory": "97.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-14T12:38:07.000Z",
+     "submissionId": "1855368964"
+    }
+   }
+  },
+  "number-of-smooth-descent-periods-of-a-stock": {
+   "id": "2110",
+   "title": "Number of Smooth Descent Periods of a Stock",
+   "slug": "number-of-smooth-descent-periods-of-a-stock",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Sliding Window"
+   ],
+   "dir": "problems/2110-number-of-smooth-descent-periods-of-a-stock",
+   "firstSolved": "2025-12-15T09:11:45.000Z",
+   "lastSolved": "2025-12-15T09:11:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1856116377",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "107.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-15T09:11:45.000Z",
+     "submissionId": "1856116377"
+    }
+   }
+  },
+  "can-make-arithmetic-progression-from-sequence": {
+   "id": "1502",
+   "title": "Can Make Arithmetic Progression From Sequence",
+   "slug": "can-make-arithmetic-progression-from-sequence",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/1502-can-make-arithmetic-progression-from-sequence",
+   "firstSolved": "2025-12-16T12:10:27.000Z",
+   "lastSolved": "2025-12-16T12:10:27.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1857108179",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-16T12:10:27.000Z",
+     "submissionId": "1857108179"
+    }
+   }
+  },
+  "customers-who-never-order": {
+   "id": "183",
+   "title": "Customers Who Never Order",
+   "slug": "customers-who-never-order",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0183-customers-who-never-order",
+   "firstSolved": "2025-12-18T06:54:18.000Z",
+   "lastSolved": "2025-12-18T06:54:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1858678691",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "536 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-18T06:54:18.000Z",
+     "submissionId": "1858678691"
+    }
+   }
+  },
+  "find-the-pivot-integer": {
+   "id": "2485",
+   "title": "Find the Pivot Integer",
+   "slug": "find-the-pivot-integer",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Prefix Sum"
+   ],
+   "dir": "problems/2485-find-the-pivot-integer",
+   "firstSolved": "2025-12-19T10:07:05.000Z",
+   "lastSolved": "2025-12-19T10:07:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1859678301",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2025-12-19T10:07:05.000Z",
+     "submissionId": "1859678301"
+    }
+   }
+  },
+  "plus-one": {
+   "id": "66",
+   "title": "Plus One",
+   "slug": "plus-one",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/0066-plus-one",
+   "firstSolved": "2025-05-04T13:16:27.000Z",
+   "lastSolved": "2026-01-01T03:35:09.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1870670870",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-01T03:35:09.000Z",
+     "submissionId": "1870670870"
+    }
+   }
   }
  },
  "days": {
   "2026-10-13": 1,
-  "2026-10-14": 1
+  "2026-10-14": 1,
+  "2025-04-15": 1,
+  "2025-04-18": 1,
+  "2025-04-19": 1,
+  "2025-05-04": 3,
+  "2025-12-03": 1,
+  "2025-12-07": 4,
+  "2025-12-09": 1,
+  "2025-12-10": 1,
+  "2025-12-13": 1,
+  "2025-12-14": 2,
+  "2025-12-15": 1,
+  "2025-12-16": 1,
+  "2025-12-18": 1,
+  "2025-12-19": 1
  }
 }
