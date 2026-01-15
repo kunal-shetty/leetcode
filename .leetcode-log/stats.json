@@ -677,6 +677,642 @@
      "submissionId": "1870670870"
     }
    }
+  },
+  "n-repeated-element-in-size-2n-array": {
+   "id": "961",
+   "title": "N-Repeated Element in Size 2N Array",
+   "slug": "n-repeated-element-in-size-2n-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Pigeonhole Principle"
+   ],
+   "dir": "problems/0961-n-repeated-element-in-size-2n-array",
+   "firstSolved": "2026-01-02T01:33:21.000Z",
+   "lastSolved": "2026-01-02T01:33:21.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1871500400",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "28.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-02T01:33:21.000Z",
+     "submissionId": "1871500400"
+    }
+   }
+  },
+  "number-of-ways-to-paint-n-3-grid": {
+   "id": "1411",
+   "title": "Number of Ways to Paint N × 3 Grid",
+   "slug": "number-of-ways-to-paint-n-3-grid",
+   "difficulty": "Hard",
+   "tags": [
+    "Dynamic Programming",
+    "Graph Coloring"
+   ],
+   "dir": "problems/1411-number-of-ways-to-paint-n-3-grid",
+   "firstSolved": "2026-01-03T04:50:28.000Z",
+   "lastSolved": "2026-01-03T04:50:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1872686930",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-03T04:50:28.000Z",
+     "submissionId": "1872686930"
+    }
+   }
+  },
+  "four-divisors": {
+   "id": "1390",
+   "title": "Four Divisors",
+   "slug": "four-divisors",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Prime Factorization",
+    "Sieve Theory"
+   ],
+   "dir": "problems/1390-four-divisors",
+   "firstSolved": "2026-01-04T04:53:40.000Z",
+   "lastSolved": "2026-01-04T04:53:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1873795116",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "16.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-04T04:53:40.000Z",
+     "submissionId": "1873795116"
+    }
+   }
+  },
+  "ugly-number": {
+   "id": "263",
+   "title": "Ugly Number",
+   "slug": "ugly-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/0263-ugly-number",
+   "firstSolved": "2026-01-04T11:53:47.000Z",
+   "lastSolved": "2026-01-04T11:53:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1874153811",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-04T11:53:47.000Z",
+     "submissionId": "1874153811"
+    }
+   }
+  },
+  "smallest-integer-divisible-by-k": {
+   "id": "1015",
+   "title": "Smallest Integer Divisible by K",
+   "slug": "smallest-integer-divisible-by-k",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Math",
+    "Pigeonhole Principle"
+   ],
+   "dir": "problems/1015-smallest-integer-divisible-by-k",
+   "firstSolved": "2025-12-19T10:26:16.000Z",
+   "lastSolved": "2026-01-04T11:54:00.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1874154011",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-04T11:54:00.000Z",
+     "submissionId": "1874154011"
+    }
+   }
+  },
+  "self-dividing-numbers": {
+   "id": "728",
+   "title": "Self Dividing Numbers",
+   "slug": "self-dividing-numbers",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/0728-self-dividing-numbers",
+   "firstSolved": "2026-01-04T11:56:08.000Z",
+   "lastSolved": "2026-01-04T11:56:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1874155783",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-04T11:56:08.000Z",
+     "submissionId": "1874155783"
+    }
+   }
+  },
+  "maximum-matrix-sum": {
+   "id": "1975",
+   "title": "Maximum Matrix Sum",
+   "slug": "maximum-matrix-sum",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Matrix"
+   ],
+   "dir": "problems/1975-maximum-matrix-sum",
+   "firstSolved": "2026-01-05T01:39:15.000Z",
+   "lastSolved": "2026-01-05T01:39:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1874766615",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "39.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-05T01:39:15.000Z",
+     "submissionId": "1874766615"
+    }
+   }
+  },
+  "maximum-level-sum-of-a-binary-tree": {
+   "id": "1161",
+   "title": "Maximum Level Sum of a Binary Tree",
+   "slug": "maximum-level-sum-of-a-binary-tree",
+   "difficulty": "Medium",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/1161-maximum-level-sum-of-a-binary-tree",
+   "firstSolved": "2026-01-06T09:51:47.000Z",
+   "lastSolved": "2026-01-06T09:51:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1876288825",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "109.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-06T09:51:47.000Z",
+     "submissionId": "1876288825"
+    }
+   }
+  },
+  "maximum-product-of-splitted-binary-tree": {
+   "id": "1339",
+   "title": "Maximum Product of Splitted Binary Tree",
+   "slug": "maximum-product-of-splitted-binary-tree",
+   "difficulty": "Medium",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/1339-maximum-product-of-splitted-binary-tree",
+   "firstSolved": "2026-01-07T01:27:30.000Z",
+   "lastSolved": "2026-01-07T01:27:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1877038533",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "78.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-07T01:27:30.000Z",
+     "submissionId": "1877038533"
+    }
+   }
+  },
+  "max-dot-product-of-two-subsequences": {
+   "id": "1458",
+   "title": "Max Dot Product of Two Subsequences",
+   "slug": "max-dot-product-of-two-subsequences",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+   ],
+   "dir": "problems/1458-max-dot-product-of-two-subsequences",
+   "firstSolved": "2026-01-08T06:08:40.000Z",
+   "lastSolved": "2026-01-08T06:08:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1878381694",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "13 ms",
+     "memory": "17.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-08T06:08:40.000Z",
+     "submissionId": "1878381694"
+    }
+   }
+  },
+  "count-negative-numbers-in-a-sorted-matrix": {
+   "id": "1351",
+   "title": "Count Negative Numbers in a Sorted Matrix",
+   "slug": "count-negative-numbers-in-a-sorted-matrix",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+   ],
+   "dir": "problems/1351-count-negative-numbers-in-a-sorted-matrix",
+   "firstSolved": "2026-01-08T06:14:41.000Z",
+   "lastSolved": "2026-01-08T06:14:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1878387474",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "14.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-08T06:14:41.000Z",
+     "submissionId": "1878387474"
+    }
+   }
+  },
+  "smallest-subtree-with-all-the-deepest-nodes": {
+   "id": "865",
+   "title": "Smallest Subtree with all the Deepest Nodes",
+   "slug": "smallest-subtree-with-all-the-deepest-nodes",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree",
+    "Binary Lifting",
+    "Lowest Common Ancestor",
+    "DP on Trees"
+   ],
+   "dir": "problems/0865-smallest-subtree-with-all-the-deepest-nodes",
+   "firstSolved": "2026-01-09T07:44:33.000Z",
+   "lastSolved": "2026-01-09T07:44:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1879535450",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-09T07:44:33.000Z",
+     "submissionId": "1879535450"
+    }
+   }
+  },
+  "lowest-common-ancestor-of-deepest-leaves": {
+   "id": "1123",
+   "title": "Lowest Common Ancestor of Deepest Leaves",
+   "slug": "lowest-common-ancestor-of-deepest-leaves",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree",
+    "Binary Lifting",
+    "Lowest Common Ancestor",
+    "DP on Trees"
+   ],
+   "dir": "problems/1123-lowest-common-ancestor-of-deepest-leaves",
+   "firstSolved": "2026-01-09T07:45:57.000Z",
+   "lastSolved": "2026-01-09T07:45:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1879536452",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "22 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-09T07:45:57.000Z",
+     "submissionId": "1879536452"
+    }
+   }
+  },
+  "minimum-ascii-delete-sum-for-two-strings": {
+   "id": "712",
+   "title": "Minimum ASCII Delete Sum for Two Strings",
+   "slug": "minimum-ascii-delete-sum-for-two-strings",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+   ],
+   "dir": "problems/0712-minimum-ascii-delete-sum-for-two-strings",
+   "firstSolved": "2026-01-10T06:12:48.000Z",
+   "lastSolved": "2026-01-10T06:12:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1880407419",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "13 ms",
+     "memory": "18.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-10T06:12:48.000Z",
+     "submissionId": "1880407419"
+    }
+   }
+  },
+  "maximal-rectangle": {
+   "id": "85",
+   "title": "Maximal Rectangle",
+   "slug": "maximal-rectangle",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/0085-maximal-rectangle",
+   "firstSolved": "2026-01-11T15:46:02.000Z",
+   "lastSolved": "2026-01-11T15:46:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1881930269",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "24 ms",
+     "memory": "17.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-11T15:46:02.000Z",
+     "submissionId": "1881930269"
+    }
+   }
+  },
+  "minimum-time-visiting-all-points": {
+   "id": "1266",
+   "title": "Minimum Time Visiting All Points",
+   "slug": "minimum-time-visiting-all-points",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math",
+    "Geometry"
+   ],
+   "dir": "problems/1266-minimum-time-visiting-all-points",
+   "firstSolved": "2026-01-12T01:33:02.000Z",
+   "lastSolved": "2026-01-12T01:33:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1882300733",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-12T01:33:02.000Z",
+     "submissionId": "1882300733"
+    }
+   }
+  },
+  "length-of-last-word": {
+   "id": "58",
+   "title": "Length of Last Word",
+   "slug": "length-of-last-word",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/0058-length-of-last-word",
+   "firstSolved": "2026-01-12T01:46:56.000Z",
+   "lastSolved": "2026-03-22T10:58:41.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1955670036",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-12T01:46:56.000Z",
+     "submissionId": "1882306521"
+    },
+    "solution.py": {
+     "lang": "python3",
+     "label": "Python3",
+     "runtime": "0 ms",
+     "memory": "19.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-22T10:58:41.000Z",
+     "submissionId": "1955670036"
+    }
+   }
+  },
+  "separate-squares-i": {
+   "id": "3453",
+   "title": "Separate Squares I",
+   "slug": "separate-squares-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/3453-separate-squares-i",
+   "firstSolved": "2026-01-13T14:49:59.000Z",
+   "lastSolved": "2026-01-13T14:49:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1883906756",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "92 ms",
+     "memory": "198.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-13T14:49:59.000Z",
+     "submissionId": "1883906756"
+    }
+   }
+  },
+  "separate-squares-ii": {
+   "id": "3454",
+   "title": "Separate Squares II",
+   "slug": "separate-squares-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Segment Tree",
+    "Sweep Line"
+   ],
+   "dir": "problems/3454-separate-squares-ii",
+   "firstSolved": "2026-01-14T05:21:02.000Z",
+   "lastSolved": "2026-01-14T05:21:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1884489263",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "669 ms",
+     "memory": "134 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-14T05:21:02.000Z",
+     "submissionId": "1884489263"
+    }
+   }
+  },
+  "maximize-area-of-square-hole-in-grid": {
+   "id": "2943",
+   "title": "Maximize Area of Square Hole in Grid",
+   "slug": "maximize-area-of-square-hole-in-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/2943-maximize-area-of-square-hole-in-grid",
+   "firstSolved": "2026-01-15T11:49:22.000Z",
+   "lastSolved": "2026-01-15T11:49:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1885756649",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-15T11:49:22.000Z",
+     "submissionId": "1885756649"
+    }
+   }
   }
  },
  "days": {
@@ -695,6 +1331,20 @@
   "2025-12-15": 1,
   "2025-12-16": 1,
   "2025-12-18": 1,
-  "2025-12-19": 1
+  "2025-12-19": 2,
+  "2026-01-02": 1,
+  "2026-01-03": 1,
+  "2026-01-04": 3,
+  "2026-01-05": 1,
+  "2026-01-06": 1,
+  "2026-01-07": 1,
+  "2026-01-08": 2,
+  "2026-01-09": 2,
+  "2026-01-10": 1,
+  "2026-01-11": 1,
+  "2026-01-12": 2,
+  "2026-01-13": 1,
+  "2026-01-14": 1,
+  "2026-01-15": 1
  }
 }

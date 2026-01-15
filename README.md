@@ -1,18 +1,18 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-22-2da44e) ![Streak](https://img.shields.io/badge/streak-0%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-4%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-42-2da44e) ![Streak](https://img.shields.io/badge/streak-0%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-14%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ████████████████████ 16
-Medium  ██████ 5
-Hard    █ 1
+Easy    ████████████████████ 22
+Medium  ██████████████ 15
+Hard    █████ 5
 ```
 
-**22** problems · **16** active days · current streak **0** · longest **4**
+**42** problems · **30** active days · current streak **0** · longest **14**
 
 ## Last 20 weeks
 
@@ -30,9 +30,9 @@ Hard    █ 1
 
 ## Languages & topics
 
-`C++` ×20 · `MySQL` ×2
+`C++` ×40 · `MySQL` ×2 · `Python3` ×1
 
-`Math` ×10 · `String` ×8 · `Array` ×8 · `Hash Table` ×4 · `Two Pointers` ×4 · `Sorting` ×4 · `Bit Manipulation` ×3 · `Dynamic Programming` ×3
+`Array` ×18 · `Math` ×15 · `String` ×10 · `Hash Table` ×8 · `Dynamic Programming` ×7 · `Sorting` ×5 · `Binary Search` ×5 · `Two Pointers` ×4
 
 ## Problems
 
@@ -44,19 +44,39 @@ Hard    █ 1
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) · [notes](problems/0014-longest-common-prefix/README.md) | 🟢 Easy | Array, String, Trie | [C++](problems/0014-longest-common-prefix/solution.cpp) | 2025-04-18 |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) · [notes](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | 🟢 Easy | Two Pointers, String, String Matching | [C++](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) | 2025-05-04 |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) · [notes](problems/0029-divide-two-integers/README.md) | 🟡 Medium | Math, Bit Manipulation | [C++](problems/0029-divide-two-integers/solution.cpp) | 2025-12-03 |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) · [notes](problems/0058-length-of-last-word/README.md) | 🟢 Easy | String | [C++](problems/0058-length-of-last-word/solution.cpp), [Python3](problems/0058-length-of-last-word/solution.py) | 2026-03-22 |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) · [notes](problems/0066-plus-one/README.md) | 🟢 Easy | Array, Math | [C++](problems/0066-plus-one/solution.cpp) | 2026-01-01 |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) · [notes](problems/0085-maximal-rectangle/README.md) | 🔴 Hard | Array, Dynamic Programming, Stack | [C++](problems/0085-maximal-rectangle/solution.cpp) | 2026-01-11 |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) · [notes](problems/0119-pascals-triangle-ii/README.md) | 🟢 Easy | Array, Dynamic Programming | [C++](problems/0119-pascals-triangle-ii/solution.cpp) | 2025-12-13 |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) · [notes](problems/0182-duplicate-emails/README.md) | 🟢 Easy | Database | [MySQL](problems/0182-duplicate-emails/solution.sql) | 2025-05-04 |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) · [notes](problems/0183-customers-who-never-order/README.md) | 🟢 Easy | Database | [MySQL](problems/0183-customers-who-never-order/solution.sql) | 2025-12-18 |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) · [notes](problems/0263-ugly-number/README.md) | 🟢 Easy | Math | [C++](problems/0263-ugly-number/solution.cpp) | 2026-01-04 |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) · [notes](problems/0268-missing-number/README.md) | 🟢 Easy | Array, Hash Table, Math | [C++](problems/0268-missing-number/solution.cpp) | 2025-12-09 |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) · [notes](problems/0389-find-the-difference/README.md) | 🟢 Easy | Hash Table, String, Bit Manipulation | [C++](problems/0389-find-the-difference/solution.cpp) | 2025-12-07 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) · [notes](problems/0392-is-subsequence/README.md) | 🟢 Easy | Two Pointers, String, Dynamic Programming | [C++](problems/0392-is-subsequence/solution.cpp) | 2025-12-10 |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) · [notes](problems/0412-fizz-buzz/README.md) | 🟢 Easy | Math, String, Simulation | [C++](problems/0412-fizz-buzz/solution.cpp) | 2025-12-07 |
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) · [notes](problems/0712-minimum-ascii-delete-sum-for-two-strings/README.md) | 🟡 Medium | String, Dynamic Programming, Longest Common Subsequence | [C++](problems/0712-minimum-ascii-delete-sum-for-two-strings/solution.cpp) | 2026-01-10 |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) · [notes](problems/0728-self-dividing-numbers/README.md) | 🟢 Easy | Math | [C++](problems/0728-self-dividing-numbers/solution.cpp) | 2026-01-04 |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) · [notes](problems/0865-smallest-subtree-with-all-the-deepest-nodes/README.md) | 🟡 Medium | Hash Table, Tree, Depth-First Search | [C++](problems/0865-smallest-subtree-with-all-the-deepest-nodes/solution.cpp) | 2026-01-09 |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) · [notes](problems/0961-n-repeated-element-in-size-2n-array/README.md) | 🟢 Easy | Array, Hash Table, Pigeonhole Principle | [C++](problems/0961-n-repeated-element-in-size-2n-array/solution.cpp) | 2026-01-02 |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) · [notes](problems/1015-smallest-integer-divisible-by-k/README.md) | 🟡 Medium | Hash Table, Math, Pigeonhole Principle | [C++](problems/1015-smallest-integer-divisible-by-k/solution.cpp) | 2026-01-04 |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) · [notes](problems/1123-lowest-common-ancestor-of-deepest-leaves/README.md) | 🟡 Medium | Hash Table, Tree, Depth-First Search | [C++](problems/1123-lowest-common-ancestor-of-deepest-leaves/solution.cpp) | 2026-01-09 |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) · [notes](problems/1161-maximum-level-sum-of-a-binary-tree/README.md) | 🟡 Medium | Tree, Depth-First Search, Breadth-First Search | [C++](problems/1161-maximum-level-sum-of-a-binary-tree/solution.cpp) | 2026-01-06 |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) · [notes](problems/1266-minimum-time-visiting-all-points/README.md) | 🟢 Easy | Array, Math, Geometry | [C++](problems/1266-minimum-time-visiting-all-points/solution.cpp) | 2026-01-12 |
+| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) · [notes](problems/1339-maximum-product-of-splitted-binary-tree/README.md) | 🟡 Medium | Tree, Depth-First Search, Binary Tree | [C++](problems/1339-maximum-product-of-splitted-binary-tree/solution.cpp) | 2026-01-07 |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) · [notes](problems/1351-count-negative-numbers-in-a-sorted-matrix/README.md) | 🟢 Easy | Array, Binary Search, Matrix | [C++](problems/1351-count-negative-numbers-in-a-sorted-matrix/solution.cpp) | 2026-01-08 |
+| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) · [notes](problems/1390-four-divisors/README.md) | 🟡 Medium | Array, Math, Prime Factorization | [C++](problems/1390-four-divisors/solution.cpp) | 2026-01-04 |
+| 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) · [notes](problems/1411-number-of-ways-to-paint-n-3-grid/README.md) | 🔴 Hard | Dynamic Programming, Graph Coloring | [C++](problems/1411-number-of-ways-to-paint-n-3-grid/solution.cpp) | 2026-01-03 |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) · [notes](problems/1458-max-dot-product-of-two-subsequences/README.md) | 🔴 Hard | Array, Dynamic Programming, Longest Common Subsequence | [C++](problems/1458-max-dot-product-of-two-subsequences/solution.cpp) | 2026-01-08 |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) · [notes](problems/1502-can-make-arithmetic-progression-from-sequence/README.md) | 🟢 Easy | Array, Sorting | [C++](problems/1502-can-make-arithmetic-progression-from-sequence/solution.cpp) | 2025-12-16 |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) · [notes](problems/1523-count-odd-numbers-in-an-interval-range/README.md) | 🟢 Easy | Math | [C++](problems/1523-count-odd-numbers-in-an-interval-range/solution.cpp) | 2025-12-07 |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) · [notes](problems/1832-check-if-the-sentence-is-pangram/README.md) | 🟢 Easy | Hash Table, String | [C++](problems/1832-check-if-the-sentence-is-pangram/solution.cpp) | 2025-04-19 |
+| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) · [notes](problems/1975-maximum-matrix-sum/README.md) | 🟡 Medium | Array, Greedy, Matrix | [C++](problems/1975-maximum-matrix-sum/solution.cpp) | 2026-01-05 |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) · [notes](problems/2110-number-of-smooth-descent-periods-of-a-stock/README.md) | 🟡 Medium | Array, Math, Two Pointers | [C++](problems/2110-number-of-smooth-descent-periods-of-a-stock/solution.cpp) | 2025-12-15 |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) · [notes](problems/2485-find-the-pivot-integer/README.md) | 🟢 Easy | Math, Prefix Sum | [C++](problems/2485-find-the-pivot-integer/solution.cpp) | 2025-12-19 |
+| 2943 | [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) · [notes](problems/2943-maximize-area-of-square-hole-in-grid/README.md) | 🟡 Medium | Array, Sorting | [C++](problems/2943-maximize-area-of-square-hole-in-grid/solution.cpp) | 2026-01-15 |
+| 3453 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) · [notes](problems/3453-separate-squares-i/README.md) | 🟡 Medium | Array, Binary Search | [C++](problems/3453-separate-squares-i/solution.cpp) | 2026-01-13 |
+| 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) · [notes](problems/3454-separate-squares-ii/README.md) | 🔴 Hard | Array, Binary Search, Segment Tree | [C++](problems/3454-separate-squares-ii/solution.cpp) | 2026-01-14 |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) · [notes](problems/3723-maximize-sum-of-squares-of-digits/README.md) | 🟡 Medium | Math, Greedy | [C++](problems/3723-maximize-sum-of-squares-of-digits/solution.cpp) | 2026-10-14 |
 | 3774 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) · [notes](problems/3774-absolute-difference-between-maximum-and-minimum-k-elements/README.md) | 🟢 Easy | Array, Sorting | [C++](problems/3774-absolute-difference-between-maximum-and-minimum-k-elements/solution.cpp) | 2025-12-14 |
 | 3775 | [Reverse Words With Same Vowel Count](https://leetcode.com/problems/reverse-words-with-same-vowel-count/) · [notes](problems/3775-reverse-words-with-same-vowel-count/README.md) | 🟡 Medium | Two Pointers, String, Simulation | [C++](problems/3775-reverse-words-with-same-vowel-count/solution.cpp) | 2025-12-14 |
