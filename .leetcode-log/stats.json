@@ -1313,6 +1313,639 @@
      "submissionId": "1885756649"
     }
    }
+  },
+  "maximum-square-area-by-removing-fences-from-a-field": {
+   "id": "2975",
+   "title": "Maximum Square Area by Removing Fences From a Field",
+   "slug": "maximum-square-area-by-removing-fences-from-a-field",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+   ],
+   "dir": "problems/2975-maximum-square-area-by-removing-fences-from-a-field",
+   "firstSolved": "2026-01-16T04:47:05.000Z",
+   "lastSolved": "2026-01-16T04:47:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1886443508",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1010 ms",
+     "memory": "250.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-16T04:47:05.000Z",
+     "submissionId": "1886443508"
+    }
+   }
+  },
+  "find-the-largest-area-of-square-inside-two-rectangles": {
+   "id": "3047",
+   "title": "Find the Largest Area of Square Inside Two Rectangles",
+   "slug": "find-the-largest-area-of-square-inside-two-rectangles",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Geometry"
+   ],
+   "dir": "problems/3047-find-the-largest-area-of-square-inside-two-rectangles",
+   "firstSolved": "2026-01-17T11:25:22.000Z",
+   "lastSolved": "2026-01-17T11:25:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1887677259",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "106 ms",
+     "memory": "59.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-17T11:25:22.000Z",
+     "submissionId": "1887677259"
+    }
+   }
+  },
+  "largest-magic-square": {
+   "id": "1895",
+   "title": "Largest Magic Square",
+   "slug": "largest-magic-square",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1895-largest-magic-square",
+   "firstSolved": "2026-01-18T03:06:42.000Z",
+   "lastSolved": "2026-01-18T03:06:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1888419541",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "14.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-18T03:06:42.000Z",
+     "submissionId": "1888419541"
+    }
+   }
+  },
+  "couples-holding-hands": {
+   "id": "765",
+   "title": "Couples Holding Hands",
+   "slug": "couples-holding-hands",
+   "difficulty": "Hard",
+   "tags": [
+    "Greedy",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+   ],
+   "dir": "problems/0765-couples-holding-hands",
+   "firstSolved": "2026-01-18T14:36:57.000Z",
+   "lastSolved": "2026-01-18T14:38:10.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1888959521",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-18T14:38:10.000Z",
+     "submissionId": "1888959521"
+    }
+   }
+  },
+  "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold": {
+   "id": "1292",
+   "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+   "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+   "firstSolved": "2026-01-19T11:09:15.000Z",
+   "lastSolved": "2026-01-19T11:09:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1889776960",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "9 ms",
+     "memory": "32.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-19T11:09:15.000Z",
+     "submissionId": "1889776960"
+    }
+   }
+  },
+  "best-time-to-buy-and-sell-stock-iii": {
+   "id": "123",
+   "title": "Best Time to Buy and Sell Stock III",
+   "slug": "best-time-to-buy-and-sell-stock-iii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0123-best-time-to-buy-and-sell-stock-iii",
+   "firstSolved": "2026-01-19T12:39:59.000Z",
+   "lastSolved": "2026-01-19T12:39:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1889839854",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "79.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-19T12:39:59.000Z",
+     "submissionId": "1889839854"
+    }
+   }
+  },
+  "sudoku-solver": {
+   "id": "37",
+   "title": "Sudoku Solver",
+   "slug": "sudoku-solver",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Backtracking",
+    "Matrix",
+    "Algorithm X",
+    "Dancing Links"
+   ],
+   "dir": "problems/0037-sudoku-solver",
+   "firstSolved": "2026-01-19T15:58:10.000Z",
+   "lastSolved": "2026-01-19T15:58:10.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1890039397",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "400 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-19T15:58:10.000Z",
+     "submissionId": "1890039397"
+    }
+   }
+  },
+  "construct-the-minimum-bitwise-array-i": {
+   "id": "3314",
+   "title": "Construct the Minimum Bitwise Array I",
+   "slug": "construct-the-minimum-bitwise-array-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3314-construct-the-minimum-bitwise-array-i",
+   "firstSolved": "2026-01-20T15:38:13.000Z",
+   "lastSolved": "2026-01-21T03:20:45.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1891656067",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "25.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-21T03:20:45.000Z",
+     "submissionId": "1891656067"
+    }
+   }
+  },
+  "construct-the-minimum-bitwise-array-ii": {
+   "id": "3315",
+   "title": "Construct the Minimum Bitwise Array II",
+   "slug": "construct-the-minimum-bitwise-array-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3315-construct-the-minimum-bitwise-array-ii",
+   "firstSolved": "2026-01-21T01:06:10.000Z",
+   "lastSolved": "2026-01-21T03:21:05.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1891656306",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "28.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-21T03:21:05.000Z",
+     "submissionId": "1891656306"
+    }
+   }
+  },
+  "minimum-pair-removal-to-sort-array-i": {
+   "id": "3507",
+   "title": "Minimum Pair Removal to Sort Array I",
+   "slug": "minimum-pair-removal-to-sort-array-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Heap (Priority Queue)",
+    "Simulation",
+    "Doubly-Linked List",
+    "Ordered Set"
+   ],
+   "dir": "problems/3507-minimum-pair-removal-to-sort-array-i",
+   "firstSolved": "2026-01-22T17:33:03.000Z",
+   "lastSolved": "2026-01-22T17:33:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1893556019",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "26.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-22T17:33:03.000Z",
+     "submissionId": "1893556019"
+    }
+   }
+  },
+  "minimum-pair-removal-to-sort-array-ii": {
+   "id": "3510",
+   "title": "Minimum Pair Removal to Sort Array II",
+   "slug": "minimum-pair-removal-to-sort-array-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Heap (Priority Queue)",
+    "Simulation",
+    "Doubly-Linked List",
+    "Ordered Set"
+   ],
+   "dir": "problems/3510-minimum-pair-removal-to-sort-array-ii",
+   "firstSolved": "2026-01-23T16:51:00.000Z",
+   "lastSolved": "2026-01-23T16:51:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1894539951",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1001 ms",
+     "memory": "234.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-23T16:51:00.000Z",
+     "submissionId": "1894539951"
+    }
+   }
+  },
+  "minimum-difference-between-highest-and-lowest-of-k-scores": {
+   "id": "1984",
+   "title": "Minimum Difference Between Highest and Lowest of K Scores",
+   "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sliding Window",
+    "Sorting"
+   ],
+   "dir": "problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+   "firstSolved": "2026-01-25T04:43:28.000Z",
+   "lastSolved": "2026-01-25T04:43:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1896074805",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "17.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-25T04:43:28.000Z",
+     "submissionId": "1896074805"
+    }
+   }
+  },
+  "minimum-absolute-difference": {
+   "id": "1200",
+   "title": "Minimum Absolute Difference",
+   "slug": "minimum-absolute-difference",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/1200-minimum-absolute-difference",
+   "firstSolved": "2026-01-26T16:20:49.000Z",
+   "lastSolved": "2026-01-26T16:21:24.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1897813647",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "36.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-26T16:21:24.000Z",
+     "submissionId": "1897813647"
+    }
+   }
+  },
+  "minimum-cost-path-with-edge-reversals": {
+   "id": "3650",
+   "title": "Minimum Cost Path with Edge Reversals",
+   "slug": "minimum-cost-path-with-edge-reversals",
+   "difficulty": "Medium",
+   "tags": [
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+   ],
+   "dir": "problems/3650-minimum-cost-path-with-edge-reversals",
+   "firstSolved": "2026-01-27T16:41:42.000Z",
+   "lastSolved": "2026-01-27T16:41:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1898843503",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "209 ms",
+     "memory": "289.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-27T16:41:42.000Z",
+     "submissionId": "1898843503"
+    }
+   }
+  },
+  "minimum-cost-path-with-teleportations": {
+   "id": "3651",
+   "title": "Minimum Cost Path with Teleportations",
+   "slug": "minimum-cost-path-with-teleportations",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+   ],
+   "dir": "problems/3651-minimum-cost-path-with-teleportations",
+   "firstSolved": "2026-01-28T01:24:41.000Z",
+   "lastSolved": "2026-01-28T01:24:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1899227679",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "476 ms",
+     "memory": "108.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-28T01:24:41.000Z",
+     "submissionId": "1899227679"
+    }
+   }
+  },
+  "3sum": {
+   "id": "15",
+   "title": "3Sum",
+   "slug": "3sum",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+   ],
+   "dir": "problems/0015-3sum",
+   "firstSolved": "2026-01-28T02:46:41.000Z",
+   "lastSolved": "2026-01-28T02:46:53.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1899266974",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "46 ms",
+     "memory": "29.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-28T02:46:53.000Z",
+     "submissionId": "1899266974"
+    }
+   }
+  },
+  "3sum-closest": {
+   "id": "16",
+   "title": "3Sum Closest",
+   "slug": "3sum-closest",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+   ],
+   "dir": "problems/0016-3sum-closest",
+   "firstSolved": "2026-01-28T03:01:05.000Z",
+   "lastSolved": "2026-01-28T03:01:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1899274590",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "14 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-28T03:01:05.000Z",
+     "submissionId": "1899274590"
+    }
+   }
+  },
+  "minimum-cost-to-convert-string-i": {
+   "id": "2976",
+   "title": "Minimum Cost to Convert String I",
+   "slug": "minimum-cost-to-convert-string-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "String",
+    "Graph Theory",
+    "Shortest Path"
+   ],
+   "dir": "problems/2976-minimum-cost-to-convert-string-i",
+   "firstSolved": "2026-01-29T01:30:07.000Z",
+   "lastSolved": "2026-01-29T01:30:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1900377306",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "95.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-29T01:30:07.000Z",
+     "submissionId": "1900377306"
+    }
+   }
+  },
+  "minimum-cost-to-convert-string-ii": {
+   "id": "2977",
+   "title": "Minimum Cost to Convert String II",
+   "slug": "minimum-cost-to-convert-string-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Trie",
+    "Shortest Path"
+   ],
+   "dir": "problems/2977-minimum-cost-to-convert-string-ii",
+   "firstSolved": "2026-01-30T13:38:57.000Z",
+   "lastSolved": "2026-01-30T13:38:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1902020395",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1957 ms",
+     "memory": "103.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-30T13:38:57.000Z",
+     "submissionId": "1902020395"
+    }
+   }
+  },
+  "find-smallest-letter-greater-than-target": {
+   "id": "744",
+   "title": "Find Smallest Letter Greater Than Target",
+   "slug": "find-smallest-letter-greater-than-target",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0744-find-smallest-letter-greater-than-target",
+   "firstSolved": "2026-01-31T03:57:28.000Z",
+   "lastSolved": "2026-01-31T03:57:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1902555098",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "19.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-31T03:57:28.000Z",
+     "submissionId": "1902555098"
+    }
+   }
   }
  },
  "days": {
@@ -1345,6 +1978,21 @@
   "2026-01-12": 2,
   "2026-01-13": 1,
   "2026-01-14": 1,
-  "2026-01-15": 1
+  "2026-01-15": 1,
+  "2026-01-16": 1,
+  "2026-01-17": 1,
+  "2026-01-18": 2,
+  "2026-01-19": 3,
+  "2026-01-20": 1,
+  "2026-01-21": 1,
+  "2026-01-22": 1,
+  "2026-01-23": 1,
+  "2026-01-25": 1,
+  "2026-01-26": 1,
+  "2026-01-27": 1,
+  "2026-01-28": 3,
+  "2026-01-29": 1,
+  "2026-01-30": 1,
+  "2026-01-31": 1
  }
 }
