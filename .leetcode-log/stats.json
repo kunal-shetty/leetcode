@@ -1946,6 +1946,628 @@
      "submissionId": "1902555098"
     }
    }
+  },
+  "letter-combinations-of-a-phone-number": {
+   "id": "17",
+   "title": "Letter Combinations of a Phone Number",
+   "slug": "letter-combinations-of-a-phone-number",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Backtracking"
+   ],
+   "dir": "problems/0017-letter-combinations-of-a-phone-number",
+   "firstSolved": "2026-01-31T10:31:08.000Z",
+   "lastSolved": "2026-01-31T10:31:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1902887498",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-31T10:31:08.000Z",
+     "submissionId": "1902887498"
+    }
+   }
+  },
+  "powx-n": {
+   "id": "50",
+   "title": "Pow(x, n)",
+   "slug": "powx-n",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Recursion"
+   ],
+   "dir": "problems/0050-powx-n",
+   "firstSolved": "2026-01-31T10:48:41.000Z",
+   "lastSolved": "2026-01-31T10:48:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1902901446",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-01-31T10:48:41.000Z",
+     "submissionId": "1902901446"
+    }
+   }
+  },
+  "divide-an-array-into-subarrays-with-minimum-cost-i": {
+   "id": "3010",
+   "title": "Divide an Array Into Subarrays With Minimum Cost I",
+   "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Enumeration"
+   ],
+   "dir": "problems/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+   "firstSolved": "2026-02-01T10:29:55.000Z",
+   "lastSolved": "2026-02-01T10:29:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1904225719",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "30.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-01T10:29:55.000Z",
+     "submissionId": "1904225719"
+    }
+   }
+  },
+  "permutations": {
+   "id": "46",
+   "title": "Permutations",
+   "slug": "permutations",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Backtracking"
+   ],
+   "dir": "problems/0046-permutations",
+   "firstSolved": "2026-02-01T10:49:55.000Z",
+   "lastSolved": "2026-02-01T10:49:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1904242245",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-01T10:49:55.000Z",
+     "submissionId": "1904242245"
+    }
+   }
+  },
+  "divide-an-array-into-subarrays-with-minimum-cost-ii": {
+   "id": "3013",
+   "title": "Divide an Array Into Subarrays With Minimum Cost II",
+   "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/3013-divide-an-array-into-subarrays-with-minimum-cost-ii",
+   "firstSolved": "2026-02-02T16:02:11.000Z",
+   "lastSolved": "2026-02-02T16:02:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1905642958",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "471 ms",
+     "memory": "174.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-02T16:02:11.000Z",
+     "submissionId": "1905642958"
+    }
+   }
+  },
+  "trionic-array-i": {
+   "id": "3637",
+   "title": "Trionic Array I",
+   "slug": "trionic-array-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3637-trionic-array-i",
+   "firstSolved": "2026-02-03T07:51:32.000Z",
+   "lastSolved": "2026-02-03T07:51:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1906424941",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "27.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-03T07:51:32.000Z",
+     "submissionId": "1906424941"
+    }
+   }
+  },
+  "trionic-array-ii": {
+   "id": "3640",
+   "title": "Trionic Array II",
+   "slug": "trionic-array-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3640-trionic-array-ii",
+   "firstSolved": "2026-02-04T01:27:53.000Z",
+   "lastSolved": "2026-02-04T01:27:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1907361332",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "132.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-04T01:27:53.000Z",
+     "submissionId": "1907361332"
+    }
+   }
+  },
+  "longest-consecutive-sequence": {
+   "id": "128",
+   "title": "Longest Consecutive Sequence",
+   "slug": "longest-consecutive-sequence",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Union-Find"
+   ],
+   "dir": "problems/0128-longest-consecutive-sequence",
+   "firstSolved": "2026-02-04T13:32:33.000Z",
+   "lastSolved": "2026-02-04T13:32:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1907958215",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "13 ms",
+     "memory": "60.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-04T13:32:33.000Z",
+     "submissionId": "1907958215"
+    }
+   }
+  },
+  "convert-a-number-to-hexadecimal": {
+   "id": "405",
+   "title": "Convert a Number to Hexadecimal",
+   "slug": "convert-a-number-to-hexadecimal",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "String",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0405-convert-a-number-to-hexadecimal",
+   "firstSolved": "2026-02-04T13:34:51.000Z",
+   "lastSolved": "2026-02-04T13:34:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1907960668",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-04T13:34:51.000Z",
+     "submissionId": "1907960668"
+    }
+   }
+  },
+  "transformed-array": {
+   "id": "3379",
+   "title": "Transformed Array",
+   "slug": "transformed-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/3379-transformed-array",
+   "firstSolved": "2026-02-05T01:28:29.000Z",
+   "lastSolved": "2026-02-05T01:28:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1908549727",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "25.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-05T01:28:29.000Z",
+     "submissionId": "1908549727"
+    }
+   }
+  },
+  "minimum-deletions-to-make-string-balanced": {
+   "id": "1653",
+   "title": "Minimum Deletions to Make String Balanced",
+   "slug": "minimum-deletions-to-make-string-balanced",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Stack"
+   ],
+   "dir": "problems/1653-minimum-deletions-to-make-string-balanced",
+   "firstSolved": "2026-02-07T00:43:52.000Z",
+   "lastSolved": "2026-02-07T00:43:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1910782327",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "25.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-07T00:43:52.000Z",
+     "submissionId": "1910782327"
+    }
+   }
+  },
+  "minimum-removals-to-balance-array": {
+   "id": "3634",
+   "title": "Minimum Removals to Balance Array",
+   "slug": "minimum-removals-to-balance-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting"
+   ],
+   "dir": "problems/3634-minimum-removals-to-balance-array",
+   "firstSolved": "2026-02-07T00:44:46.000Z",
+   "lastSolved": "2026-02-07T00:44:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1910782578",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "39 ms",
+     "memory": "104.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-07T00:44:46.000Z",
+     "submissionId": "1910782578"
+    }
+   }
+  },
+  "balanced-binary-tree": {
+   "id": "110",
+   "title": "Balanced Binary Tree",
+   "slug": "balanced-binary-tree",
+   "difficulty": "Easy",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0110-balanced-binary-tree",
+   "firstSolved": "2026-02-08T05:13:53.000Z",
+   "lastSolved": "2026-02-08T05:13:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1912061165",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "22.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-08T05:13:53.000Z",
+     "submissionId": "1912061165"
+    }
+   }
+  },
+  "balance-a-binary-search-tree": {
+   "id": "1382",
+   "title": "Balance a Binary Search Tree",
+   "slug": "balance-a-binary-search-tree",
+   "difficulty": "Medium",
+   "tags": [
+    "Divide and Conquer",
+    "Greedy",
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+   ],
+   "dir": "problems/1382-balance-a-binary-search-tree",
+   "firstSolved": "2026-02-09T17:00:43.000Z",
+   "lastSolved": "2026-02-09T17:00:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1913744764",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "24 ms",
+     "memory": "65.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-09T17:00:43.000Z",
+     "submissionId": "1913744764"
+    }
+   }
+  },
+  "longest-balanced-subarray-i": {
+   "id": "3719",
+   "title": "Longest Balanced Subarray I",
+   "slug": "longest-balanced-subarray-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3719-longest-balanced-subarray-i",
+   "firstSolved": "2026-02-10T01:48:13.000Z",
+   "lastSolved": "2026-02-10T01:48:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1914086139",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1889 ms",
+     "memory": "530.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-10T01:48:13.000Z",
+     "submissionId": "1914086139"
+    }
+   }
+  },
+  "search-a-2d-matrix": {
+   "id": "74",
+   "title": "Search a 2D Matrix",
+   "slug": "search-a-2d-matrix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+   ],
+   "dir": "problems/0074-search-a-2d-matrix",
+   "firstSolved": "2026-02-10T01:57:33.000Z",
+   "lastSolved": "2026-02-10T01:57:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1914090669",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-10T01:57:33.000Z",
+     "submissionId": "1914090669"
+    }
+   }
+  },
+  "rank-scores": {
+   "id": "178",
+   "title": "Rank Scores",
+   "slug": "rank-scores",
+   "difficulty": "Medium",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0178-rank-scores",
+   "firstSolved": "2026-02-10T02:01:36.000Z",
+   "lastSolved": "2026-02-10T02:01:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1914092618",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "310 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-10T02:01:36.000Z",
+     "submissionId": "1914092618"
+    }
+   }
+  },
+  "linked-list-cycle-ii": {
+   "id": "142",
+   "title": "Linked List Cycle II",
+   "slug": "linked-list-cycle-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+   ],
+   "dir": "problems/0142-linked-list-cycle-ii",
+   "firstSolved": "2026-02-10T03:50:41.000Z",
+   "lastSolved": "2026-02-10T03:50:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1914156710",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-10T03:50:41.000Z",
+     "submissionId": "1914156710"
+    }
+   }
+  },
+  "strictly-palindromic-number": {
+   "id": "2396",
+   "title": "Strictly Palindromic Number",
+   "slug": "strictly-palindromic-number",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Two Pointers",
+    "Brainteaser"
+   ],
+   "dir": "problems/2396-strictly-palindromic-number",
+   "firstSolved": "2026-02-10T16:05:35.000Z",
+   "lastSolved": "2026-02-10T16:05:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1914841135",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-10T16:05:35.000Z",
+     "submissionId": "1914841135"
+    }
+   }
+  },
+  "longest-balanced-subarray-ii": {
+   "id": "3721",
+   "title": "Longest Balanced Subarray II",
+   "slug": "longest-balanced-subarray-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3721-longest-balanced-subarray-ii",
+   "firstSolved": "2026-02-11T08:12:45.000Z",
+   "lastSolved": "2026-02-11T08:12:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1915564171",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "586 ms",
+     "memory": "160 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-11T08:12:45.000Z",
+     "submissionId": "1915564171"
+    }
+   }
   }
  },
  "days": {
@@ -1993,6 +2615,16 @@
   "2026-01-28": 3,
   "2026-01-29": 1,
   "2026-01-30": 1,
-  "2026-01-31": 1
+  "2026-01-31": 3,
+  "2026-02-01": 2,
+  "2026-02-02": 1,
+  "2026-02-03": 1,
+  "2026-02-04": 3,
+  "2026-02-05": 1,
+  "2026-02-07": 2,
+  "2026-02-08": 1,
+  "2026-02-09": 1,
+  "2026-02-10": 5,
+  "2026-02-11": 1
  }
 }
