@@ -2568,6 +2568,610 @@
      "submissionId": "1915564171"
     }
    }
+  },
+  "employee-bonus": {
+   "id": "577",
+   "title": "Employee Bonus",
+   "slug": "employee-bonus",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0577-employee-bonus",
+   "firstSolved": "2026-02-11T13:56:11.000Z",
+   "lastSolved": "2026-02-11T13:56:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1915857330",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "1055 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-11T13:56:11.000Z",
+     "submissionId": "1915857330"
+    }
+   }
+  },
+  "big-countries": {
+   "id": "595",
+   "title": "Big Countries",
+   "slug": "big-countries",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0595-big-countries",
+   "firstSolved": "2026-02-11T14:04:13.000Z",
+   "lastSolved": "2026-02-11T14:04:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1915865962",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "408 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-11T14:04:13.000Z",
+     "submissionId": "1915865962"
+    }
+   }
+  },
+  "sales-person": {
+   "id": "607",
+   "title": "Sales Person",
+   "slug": "sales-person",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0607-sales-person",
+   "firstSolved": "2026-02-11T15:46:44.000Z",
+   "lastSolved": "2026-02-11T15:46:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1915974549",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "1495 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-11T15:46:44.000Z",
+     "submissionId": "1915974549"
+    }
+   }
+  },
+  "longest-balanced-substring-i": {
+   "id": "3713",
+   "title": "Longest Balanced Substring I",
+   "slug": "longest-balanced-substring-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Counting",
+    "Enumeration"
+   ],
+   "dir": "problems/3713-longest-balanced-substring-i",
+   "firstSolved": "2026-02-12T02:51:44.000Z",
+   "lastSolved": "2026-02-12T02:51:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1916442086",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "367 ms",
+     "memory": "41.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T02:51:44.000Z",
+     "submissionId": "1916442086"
+    }
+   }
+  },
+  "delete-duplicate-emails": {
+   "id": "196",
+   "title": "Delete Duplicate Emails",
+   "slug": "delete-duplicate-emails",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0196-delete-duplicate-emails",
+   "firstSolved": "2026-02-12T03:19:32.000Z",
+   "lastSolved": "2026-02-12T03:19:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1916457455",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "782 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T03:19:32.000Z",
+     "submissionId": "1916457455"
+    }
+   }
+  },
+  "decode-ways": {
+   "id": "91",
+   "title": "Decode Ways",
+   "slug": "decode-ways",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0091-decode-ways",
+   "firstSolved": "2026-02-12T05:49:55.000Z",
+   "lastSolved": "2026-02-12T05:49:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1916588579",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T05:49:55.000Z",
+     "submissionId": "1916588579"
+    }
+   }
+  },
+  "combine-two-tables": {
+   "id": "175",
+   "title": "Combine Two Tables",
+   "slug": "combine-two-tables",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0175-combine-two-tables",
+   "firstSolved": "2025-05-04T13:58:50.000Z",
+   "lastSolved": "2026-02-12T14:51:00.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1917054521",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "1458 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T14:51:00.000Z",
+     "submissionId": "1917054521"
+    }
+   }
+  },
+  "employees-earning-more-than-their-managers": {
+   "id": "181",
+   "title": "Employees Earning More Than Their Managers",
+   "slug": "employees-earning-more-than-their-managers",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0181-employees-earning-more-than-their-managers",
+   "firstSolved": "2026-02-12T00:49:01.000Z",
+   "lastSolved": "2026-02-12T14:51:16.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1917054815",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "638 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T14:51:16.000Z",
+     "submissionId": "1917054815"
+    }
+   }
+  },
+  "not-boring-movies": {
+   "id": "620",
+   "title": "Not Boring Movies",
+   "slug": "not-boring-movies",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0620-not-boring-movies",
+   "firstSolved": "2025-12-11T02:22:23.000Z",
+   "lastSolved": "2026-02-12T14:51:48.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1917055316",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "242 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T14:51:48.000Z",
+     "submissionId": "1917055316"
+    }
+   }
+  },
+  "find-customer-referee": {
+   "id": "584",
+   "title": "Find Customer Referee",
+   "slug": "find-customer-referee",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0584-find-customer-referee",
+   "firstSolved": "2026-02-11T13:59:35.000Z",
+   "lastSolved": "2026-02-12T14:51:56.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1917055431",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "463 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-12T14:51:56.000Z",
+     "submissionId": "1917055431"
+    }
+   }
+  },
+  "longest-balanced-substring-ii": {
+   "id": "3714",
+   "title": "Longest Balanced Substring II",
+   "slug": "longest-balanced-substring-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3714-longest-balanced-substring-ii",
+   "firstSolved": "2026-02-13T17:03:26.000Z",
+   "lastSolved": "2026-02-13T17:03:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918220209",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "886 ms",
+     "memory": "232.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-13T17:03:26.000Z",
+     "submissionId": "1918220209"
+    }
+   }
+  },
+  "champagne-tower": {
+   "id": "799",
+   "title": "Champagne Tower",
+   "slug": "champagne-tower",
+   "difficulty": "Medium",
+   "tags": [
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0799-champagne-tower",
+   "firstSolved": "2026-02-14T01:08:00.000Z",
+   "lastSolved": "2026-02-14T01:08:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918481939",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T01:08:00.000Z",
+     "submissionId": "1918481939"
+    }
+   }
+  },
+  "longest-palindromic-substring": {
+   "id": "5",
+   "title": "Longest Palindromic Substring",
+   "slug": "longest-palindromic-substring",
+   "difficulty": "Medium",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Manacher"
+   ],
+   "dir": "problems/0005-longest-palindromic-substring",
+   "firstSolved": "2026-02-14T07:48:25.000Z",
+   "lastSolved": "2026-02-14T07:51:10.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918703033",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "9.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T07:51:10.000Z",
+     "submissionId": "1918703033"
+    }
+   }
+  },
+  "concatenation-of-array": {
+   "id": "1929",
+   "title": "Concatenation of Array",
+   "slug": "concatenation-of-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/1929-concatenation-of-array",
+   "firstSolved": "2026-02-14T09:40:31.000Z",
+   "lastSolved": "2026-02-14T09:40:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918775750",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "16.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T09:40:31.000Z",
+     "submissionId": "1918775750"
+    }
+   }
+  },
+  "shuffle-the-array": {
+   "id": "1470",
+   "title": "Shuffle the Array",
+   "slug": "shuffle-the-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/1470-shuffle-the-array",
+   "firstSolved": "2026-02-14T09:43:39.000Z",
+   "lastSolved": "2026-02-14T09:43:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918778038",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "13.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T09:43:39.000Z",
+     "submissionId": "1918778038"
+    }
+   }
+  },
+  "set-mismatch": {
+   "id": "645",
+   "title": "Set Mismatch",
+   "slug": "set-mismatch",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+   ],
+   "dir": "problems/0645-set-mismatch",
+   "firstSolved": "2026-02-14T09:53:46.000Z",
+   "lastSolved": "2026-02-14T09:53:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918784941",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "26.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T09:53:46.000Z",
+     "submissionId": "1918784941"
+    }
+   }
+  },
+  "how-many-numbers-are-smaller-than-the-current-number": {
+   "id": "1365",
+   "title": "How Many Numbers Are Smaller Than the Current Number",
+   "slug": "how-many-numbers-are-smaller-than-the-current-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort"
+   ],
+   "dir": "problems/1365-how-many-numbers-are-smaller-than-the-current-number",
+   "firstSolved": "2026-02-14T09:59:40.000Z",
+   "lastSolved": "2026-02-14T09:59:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918789016",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "14.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T09:59:40.000Z",
+     "submissionId": "1918789016"
+    }
+   }
+  },
+  "find-all-numbers-disappeared-in-an-array": {
+   "id": "448",
+   "title": "Find All Numbers Disappeared in an Array",
+   "slug": "find-all-numbers-disappeared-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/0448-find-all-numbers-disappeared-in-an-array",
+   "firstSolved": "2026-02-14T10:02:18.000Z",
+   "lastSolved": "2026-02-14T10:02:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918790887",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "53.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T10:02:18.000Z",
+     "submissionId": "1918790887"
+    }
+   }
+  },
+  "build-an-array-with-stack-operations": {
+   "id": "1441",
+   "title": "Build an Array With Stack Operations",
+   "slug": "build-an-array-with-stack-operations",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Stack",
+    "Simulation"
+   ],
+   "dir": "problems/1441-build-an-array-with-stack-operations",
+   "firstSolved": "2026-02-14T10:04:57.000Z",
+   "lastSolved": "2026-02-14T10:04:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918792878",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T10:04:57.000Z",
+     "submissionId": "1918792878"
+    }
+   }
+  },
+  "find-the-duplicate-number": {
+   "id": "287",
+   "title": "Find the Duplicate Number",
+   "slug": "find-the-duplicate-number",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Bit Manipulation",
+    "Pigeonhole Principle",
+    "Floyd's Cycle Finding Algorithm"
+   ],
+   "dir": "problems/0287-find-the-duplicate-number",
+   "firstSolved": "2026-02-14T12:54:05.000Z",
+   "lastSolved": "2026-02-14T12:54:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1918907055",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "65.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-14T12:54:05.000Z",
+     "submissionId": "1918907055"
+    }
+   }
   }
  },
  "days": {
@@ -2576,7 +3180,7 @@
   "2025-04-15": 1,
   "2025-04-18": 1,
   "2025-04-19": 1,
-  "2025-05-04": 3,
+  "2025-05-04": 4,
   "2025-12-03": 1,
   "2025-12-07": 4,
   "2025-12-09": 1,
@@ -2625,6 +3229,10 @@
   "2026-02-08": 1,
   "2026-02-09": 1,
   "2026-02-10": 5,
-  "2026-02-11": 1
+  "2026-02-11": 5,
+  "2026-02-12": 4,
+  "2025-12-11": 1,
+  "2026-02-13": 1,
+  "2026-02-14": 9
  }
 }
