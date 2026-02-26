@@ -3172,6 +3172,614 @@
      "submissionId": "1918907055"
     }
    }
+  },
+  "add-binary": {
+   "id": "67",
+   "title": "Add Binary",
+   "slug": "add-binary",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "String",
+    "Bit Manipulation",
+    "Simulation"
+   ],
+   "dir": "problems/0067-add-binary",
+   "firstSolved": "2026-01-31T10:52:57.000Z",
+   "lastSolved": "2026-02-15T05:30:38.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1919732336",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-15T05:30:38.000Z",
+     "submissionId": "1919732336"
+    }
+   }
+  },
+  "employees-whose-manager-left-the-company": {
+   "id": "1978",
+   "title": "Employees Whose Manager Left the Company",
+   "slug": "employees-whose-manager-left-the-company",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/1978-employees-whose-manager-left-the-company",
+   "firstSolved": "2026-02-16T07:22:38.000Z",
+   "lastSolved": "2026-02-16T07:22:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1920776488",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "315 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-16T07:22:38.000Z",
+     "submissionId": "1920776488"
+    }
+   }
+  },
+  "customer-placing-the-largest-number-of-orders": {
+   "id": "586",
+   "title": "Customer Placing the Largest Number of Orders",
+   "slug": "customer-placing-the-largest-number-of-orders",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0586-customer-placing-the-largest-number-of-orders",
+   "firstSolved": "2026-02-15T12:53:50.000Z",
+   "lastSolved": "2026-02-16T07:23:00.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1920776748",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "443 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-16T07:23:00.000Z",
+     "submissionId": "1920776748"
+    }
+   }
+  },
+  "classes-with-at-least-5-students": {
+   "id": "596",
+   "title": "Classes With at Least 5 Students",
+   "slug": "classes-with-at-least-5-students",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0596-classes-with-at-least-5-students",
+   "firstSolved": "2026-01-18T14:46:12.000Z",
+   "lastSolved": "2026-02-16T07:23:08.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1920776837",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "304 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-16T07:23:08.000Z",
+     "submissionId": "1920776837"
+    }
+   }
+  },
+  "reverse-bits": {
+   "id": "190",
+   "title": "Reverse Bits",
+   "slug": "reverse-bits",
+   "difficulty": "Easy",
+   "tags": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0190-reverse-bits",
+   "firstSolved": "2026-02-16T09:47:00.000Z",
+   "lastSolved": "2026-02-16T09:47:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1920891197",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-16T09:47:00.000Z",
+     "submissionId": "1920891197"
+    }
+   }
+  },
+  "a-number-after-a-double-reversal": {
+   "id": "2119",
+   "title": "A Number After a Double Reversal",
+   "slug": "a-number-after-a-double-reversal",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/2119-a-number-after-a-double-reversal",
+   "firstSolved": "2026-02-16T09:51:16.000Z",
+   "lastSolved": "2026-02-16T09:51:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1920895050",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-16T09:51:16.000Z",
+     "submissionId": "1920895050"
+    }
+   }
+  },
+  "binary-watch": {
+   "id": "401",
+   "title": "Binary Watch",
+   "slug": "binary-watch",
+   "difficulty": "Easy",
+   "tags": [
+    "Backtracking",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0401-binary-watch",
+   "firstSolved": "2026-02-17T01:01:39.000Z",
+   "lastSolved": "2026-02-17T01:01:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1921601648",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "9.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-17T01:01:39.000Z",
+     "submissionId": "1921601648"
+    }
+   }
+  },
+  "binary-number-with-alternating-bits": {
+   "id": "693",
+   "title": "Binary Number with Alternating Bits",
+   "slug": "binary-number-with-alternating-bits",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0693-binary-number-with-alternating-bits",
+   "firstSolved": "2026-02-18T04:27:59.000Z",
+   "lastSolved": "2026-02-18T04:28:52.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1922814063",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-18T04:28:52.000Z",
+     "submissionId": "1922814063"
+    }
+   }
+  },
+  "path-sum": {
+   "id": "112",
+   "title": "Path Sum",
+   "slug": "path-sum",
+   "difficulty": "Easy",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0112-path-sum",
+   "firstSolved": "2026-02-18T16:20:45.000Z",
+   "lastSolved": "2026-02-18T16:20:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1923468103",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "21.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-18T16:20:45.000Z",
+     "submissionId": "1923468103"
+    }
+   }
+  },
+  "count-binary-substrings": {
+   "id": "696",
+   "title": "Count Binary Substrings",
+   "slug": "count-binary-substrings",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/0696-count-binary-substrings",
+   "firstSolved": "2026-02-19T07:28:01.000Z",
+   "lastSolved": "2026-02-19T07:28:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1924107681",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "16.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-19T07:28:01.000Z",
+     "submissionId": "1924107681"
+    }
+   }
+  },
+  "special-binary-string": {
+   "id": "761",
+   "title": "Special Binary String",
+   "slug": "special-binary-string",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Divide and Conquer",
+    "Sorting"
+   ],
+   "dir": "problems/0761-special-binary-string",
+   "firstSolved": "2026-02-20T11:39:29.000Z",
+   "lastSolved": "2026-02-20T11:39:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1925324745",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "9.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-20T11:39:29.000Z",
+     "submissionId": "1925324745"
+    }
+   }
+  },
+  "zigzag-conversion": {
+   "id": "6",
+   "title": "Zigzag Conversion",
+   "slug": "zigzag-conversion",
+   "difficulty": "Medium",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/0006-zigzag-conversion",
+   "firstSolved": "2026-02-20T11:45:16.000Z",
+   "lastSolved": "2026-02-20T11:45:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1925328185",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-20T11:45:16.000Z",
+     "submissionId": "1925328185"
+    }
+   }
+  },
+  "prime-number-of-set-bits-in-binary-representation": {
+   "id": "762",
+   "title": "Prime Number of Set Bits in Binary Representation",
+   "slug": "prime-number-of-set-bits-in-binary-representation",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Primality Test"
+   ],
+   "dir": "problems/0762-prime-number-of-set-bits-in-binary-representation",
+   "firstSolved": "2026-02-21T06:56:01.000Z",
+   "lastSolved": "2026-02-21T06:56:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1926059533",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-21T06:56:01.000Z",
+     "submissionId": "1926059533"
+    }
+   }
+  },
+  "merge-two-sorted-lists": {
+   "id": "21",
+   "title": "Merge Two Sorted Lists",
+   "slug": "merge-two-sorted-lists",
+   "difficulty": "Easy",
+   "tags": [
+    "Linked List",
+    "Recursion"
+   ],
+   "dir": "problems/0021-merge-two-sorted-lists",
+   "firstSolved": "2026-02-21T07:02:08.000Z",
+   "lastSolved": "2026-02-21T07:02:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1926065361",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "19.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-21T07:02:08.000Z",
+     "submissionId": "1926065361"
+    }
+   }
+  },
+  "binary-gap": {
+   "id": "868",
+   "title": "Binary Gap",
+   "slug": "binary-gap",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0868-binary-gap",
+   "firstSolved": "2026-02-22T09:59:14.000Z",
+   "lastSolved": "2026-02-22T09:59:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1927299593",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-22T09:59:14.000Z",
+     "submissionId": "1927299593"
+    }
+   }
+  },
+  "check-if-a-string-contains-all-binary-codes-of-size-k": {
+   "id": "1461",
+   "title": "Check If a String Contains All Binary Codes of Size K",
+   "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Rolling Hash",
+    "Hash Function",
+    "Directed Acyclic Graph"
+   ],
+   "dir": "problems/1461-check-if-a-string-contains-all-binary-codes-of-size-k",
+   "firstSolved": "2026-02-23T00:11:56.000Z",
+   "lastSolved": "2026-02-23T00:11:56.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1927904201",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "425 ms",
+     "memory": "119.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-23T00:11:56.000Z",
+     "submissionId": "1927904201"
+    }
+   }
+  },
+  "multiply-strings": {
+   "id": "43",
+   "title": "Multiply Strings",
+   "slug": "multiply-strings",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/0043-multiply-strings",
+   "firstSolved": "2026-02-24T03:56:33.000Z",
+   "lastSolved": "2026-02-24T03:56:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1929169549",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "10.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-24T03:56:33.000Z",
+     "submissionId": "1929169549"
+    }
+   }
+  },
+  "sum-of-root-to-leaf-binary-numbers": {
+   "id": "1022",
+   "title": "Sum of Root To Leaf Binary Numbers",
+   "slug": "sum-of-root-to-leaf-binary-numbers",
+   "difficulty": "Easy",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/1022-sum-of-root-to-leaf-binary-numbers",
+   "firstSolved": "2026-02-24T16:37:41.000Z",
+   "lastSolved": "2026-02-24T16:37:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1929872861",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "17.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-24T16:37:41.000Z",
+     "submissionId": "1929872861"
+    }
+   }
+  },
+  "sort-integers-by-the-number-of-1-bits": {
+   "id": "1356",
+   "title": "Sort Integers by The Number of 1 Bits",
+   "slug": "sort-integers-by-the-number-of-1-bits",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Bit Manipulation",
+    "Sorting",
+    "Counting"
+   ],
+   "dir": "problems/1356-sort-integers-by-the-number-of-1-bits",
+   "firstSolved": "2026-02-25T12:26:39.000Z",
+   "lastSolved": "2026-02-25T12:26:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1930754163",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "17 ms",
+     "memory": "14.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-25T12:26:39.000Z",
+     "submissionId": "1930754163"
+    }
+   }
+  },
+  "number-of-steps-to-reduce-a-number-in-binary-representation-to-one": {
+   "id": "1404",
+   "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+   "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Bit Manipulation",
+    "Simulation"
+   ],
+   "dir": "problems/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+   "firstSolved": "2026-02-26T11:31:37.000Z",
+   "lastSolved": "2026-02-26T11:31:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1931756672",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-26T11:31:37.000Z",
+     "submissionId": "1931756672"
+    }
+   }
   }
  },
  "days": {
@@ -3207,7 +3815,7 @@
   "2026-01-15": 1,
   "2026-01-16": 1,
   "2026-01-17": 1,
-  "2026-01-18": 2,
+  "2026-01-18": 3,
   "2026-01-19": 3,
   "2026-01-20": 1,
   "2026-01-21": 1,
@@ -3219,7 +3827,7 @@
   "2026-01-28": 3,
   "2026-01-29": 1,
   "2026-01-30": 1,
-  "2026-01-31": 3,
+  "2026-01-31": 4,
   "2026-02-01": 2,
   "2026-02-02": 1,
   "2026-02-03": 1,
@@ -3233,6 +3841,18 @@
   "2026-02-12": 4,
   "2025-12-11": 1,
   "2026-02-13": 1,
-  "2026-02-14": 9
+  "2026-02-14": 9,
+  "2026-02-16": 3,
+  "2026-02-15": 1,
+  "2026-02-17": 1,
+  "2026-02-18": 2,
+  "2026-02-19": 1,
+  "2026-02-20": 2,
+  "2026-02-21": 2,
+  "2026-02-22": 1,
+  "2026-02-23": 1,
+  "2026-02-24": 2,
+  "2026-02-25": 1,
+  "2026-02-26": 1
  }
 }
