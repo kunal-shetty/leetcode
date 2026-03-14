@@ -3780,6 +3780,615 @@
      "submissionId": "1931756672"
     }
    }
+  },
+  "concatenation-of-consecutive-binary-numbers": {
+   "id": "1680",
+   "title": "Concatenation of Consecutive Binary Numbers",
+   "slug": "concatenation-of-consecutive-binary-numbers",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Simulation"
+   ],
+   "dir": "problems/1680-concatenation-of-consecutive-binary-numbers",
+   "firstSolved": "2026-02-28T04:11:04.000Z",
+   "lastSolved": "2026-02-28T04:11:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1933256344",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "44 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-02-28T04:11:04.000Z",
+     "submissionId": "1933256344"
+    }
+   }
+  },
+  "partitioning-into-minimum-number-of-deci-binary-numbers": {
+   "id": "1689",
+   "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+   "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Greedy"
+   ],
+   "dir": "problems/1689-partitioning-into-minimum-number-of-deci-binary-numbers",
+   "firstSolved": "2026-03-01T03:14:00.000Z",
+   "lastSolved": "2026-03-01T03:14:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1934284601",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "16.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-01T03:14:00.000Z",
+     "submissionId": "1934284601"
+    }
+   }
+  },
+  "permutation-sequence": {
+   "id": "60",
+   "title": "Permutation Sequence",
+   "slug": "permutation-sequence",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Recursion"
+   ],
+   "dir": "problems/0060-permutation-sequence",
+   "firstSolved": "2026-02-16T07:17:00.000Z",
+   "lastSolved": "2026-03-01T03:15:56.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1934287891",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-01T03:15:56.000Z",
+     "submissionId": "1934287891"
+    }
+   }
+  },
+  "intersection-of-two-linked-lists": {
+   "id": "160",
+   "title": "Intersection of Two Linked Lists",
+   "slug": "intersection-of-two-linked-lists",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers"
+   ],
+   "dir": "problems/0160-intersection-of-two-linked-lists",
+   "firstSolved": "2026-03-01T08:03:40.000Z",
+   "lastSolved": "2026-03-01T08:03:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1934533966",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "54 ms",
+     "memory": "24.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-01T08:03:40.000Z",
+     "submissionId": "1934533966"
+    }
+   }
+  },
+  "summary-ranges": {
+   "id": "228",
+   "title": "Summary Ranges",
+   "slug": "summary-ranges",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/0228-summary-ranges",
+   "firstSolved": "2026-03-01T08:15:59.000Z",
+   "lastSolved": "2026-03-01T08:15:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1934542302",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-01T08:15:59.000Z",
+     "submissionId": "1934542302"
+    }
+   }
+  },
+  "minimum-swaps-to-arrange-a-binary-grid": {
+   "id": "1536",
+   "title": "Minimum Swaps to Arrange a Binary Grid",
+   "slug": "minimum-swaps-to-arrange-a-binary-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Matrix"
+   ],
+   "dir": "problems/1536-minimum-swaps-to-arrange-a-binary-grid",
+   "firstSolved": "2026-03-02T13:25:17.000Z",
+   "lastSolved": "2026-03-02T13:25:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1935689014",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "29.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-02T13:25:17.000Z",
+     "submissionId": "1935689014"
+    }
+   }
+  },
+  "find-kth-bit-in-nth-binary-string": {
+   "id": "1545",
+   "title": "Find Kth Bit in Nth Binary String",
+   "slug": "find-kth-bit-in-nth-binary-string",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Recursion",
+    "Simulation"
+   ],
+   "dir": "problems/1545-find-kth-bit-in-nth-binary-string",
+   "firstSolved": "2026-03-03T11:19:46.000Z",
+   "lastSolved": "2026-03-03T11:19:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1936644855",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-03T11:19:46.000Z",
+     "submissionId": "1936644855"
+    }
+   }
+  },
+  "single-number": {
+   "id": "136",
+   "title": "Single Number",
+   "slug": "single-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0136-single-number",
+   "firstSolved": "2026-03-03T13:33:18.000Z",
+   "lastSolved": "2026-03-03T13:33:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1936748759",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "20.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-03T13:33:18.000Z",
+     "submissionId": "1936748759"
+    }
+   }
+  },
+  "contains-duplicate-ii": {
+   "id": "219",
+   "title": "Contains Duplicate II",
+   "slug": "contains-duplicate-ii",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+   ],
+   "dir": "problems/0219-contains-duplicate-ii",
+   "firstSolved": "2026-03-03T13:41:23.000Z",
+   "lastSolved": "2026-03-03T13:41:23.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1936755529",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1785 ms",
+     "memory": "73.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-03T13:41:23.000Z",
+     "submissionId": "1936755529"
+    }
+   }
+  },
+  "minimum-changes-to-make-alternating-binary-string": {
+   "id": "1758",
+   "title": "Minimum Changes To Make Alternating Binary String",
+   "slug": "minimum-changes-to-make-alternating-binary-string",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/1758-minimum-changes-to-make-alternating-binary-string",
+   "firstSolved": "2026-03-05T08:46:27.000Z",
+   "lastSolved": "2026-03-05T08:46:27.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1938564411",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-05T08:46:27.000Z",
+     "submissionId": "1938564411"
+    }
+   }
+  },
+  "check-if-binary-string-has-at-most-one-segment-of-ones": {
+   "id": "1784",
+   "title": "Check if Binary String Has at Most One Segment of Ones",
+   "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones",
+   "firstSolved": "2026-03-06T00:10:01.000Z",
+   "lastSolved": "2026-03-06T00:10:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1939230338",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-06T00:10:01.000Z",
+     "submissionId": "1939230338"
+    }
+   }
+  },
+  "minimum-number-of-flips-to-make-the-binary-string-alternating": {
+   "id": "1888",
+   "title": "Minimum Number of Flips to Make the Binary String Alternating",
+   "slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Sliding Window"
+   ],
+   "dir": "problems/1888-minimum-number-of-flips-to-make-the-binary-string-alternating",
+   "firstSolved": "2026-03-07T12:58:31.000Z",
+   "lastSolved": "2026-03-07T12:58:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1940794593",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "14.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-07T12:58:31.000Z",
+     "submissionId": "1940794593"
+    }
+   }
+  },
+  "find-unique-binary-string": {
+   "id": "1980",
+   "title": "Find Unique Binary String",
+   "slug": "find-unique-binary-string",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Backtracking"
+   ],
+   "dir": "problems/1980-find-unique-binary-string",
+   "firstSolved": "2026-03-08T13:05:58.000Z",
+   "lastSolved": "2026-03-08T13:05:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1941960777",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "12.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-08T13:05:58.000Z",
+     "submissionId": "1941960777"
+    }
+   }
+  },
+  "find-all-possible-stable-binary-arrays-i": {
+   "id": "3129",
+   "title": "Find All Possible Stable Binary Arrays I",
+   "slug": "find-all-possible-stable-binary-arrays-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Dynamic Programming",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3129-find-all-possible-stable-binary-arrays-i",
+   "firstSolved": "2026-03-09T14:01:12.000Z",
+   "lastSolved": "2026-03-09T14:01:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1942908431",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "16 ms",
+     "memory": "22.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-09T14:01:12.000Z",
+     "submissionId": "1942908431"
+    }
+   }
+  },
+  "find-all-possible-stable-binary-arrays-ii": {
+   "id": "3130",
+   "title": "Find All Possible Stable Binary Arrays II",
+   "slug": "find-all-possible-stable-binary-arrays-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Dynamic Programming",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3130-find-all-possible-stable-binary-arrays-ii",
+   "firstSolved": "2026-03-10T18:26:00.000Z",
+   "lastSolved": "2026-03-10T18:26:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1944264283",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "131 ms",
+     "memory": "159.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-10T18:26:00.000Z",
+     "submissionId": "1944264283"
+    }
+   }
+  },
+  "complement-of-base-10-integer": {
+   "id": "1009",
+   "title": "Complement of Base 10 Integer",
+   "slug": "complement-of-base-10-integer",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/1009-complement-of-base-10-integer",
+   "firstSolved": "2026-03-11T11:43:45.000Z",
+   "lastSolved": "2026-03-11T11:43:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1944945567",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-11T11:43:45.000Z",
+     "submissionId": "1944945567"
+    }
+   }
+  },
+  "number-complement": {
+   "id": "476",
+   "title": "Number Complement",
+   "slug": "number-complement",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0476-number-complement",
+   "firstSolved": "2026-03-11T11:46:37.000Z",
+   "lastSolved": "2026-03-11T11:46:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1944947547",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-11T11:46:37.000Z",
+     "submissionId": "1944947547"
+    }
+   }
+  },
+  "maximize-spanning-tree-stability-with-upgrades": {
+   "id": "3600",
+   "title": "Maximize Spanning Tree Stability with Upgrades",
+   "slug": "maximize-spanning-tree-stability-with-upgrades",
+   "difficulty": "Hard",
+   "tags": [
+    "Binary Search",
+    "Greedy",
+    "Union-Find",
+    "Graph Theory",
+    "Minimum Spanning Tree"
+   ],
+   "dir": "problems/3600-maximize-spanning-tree-stability-with-upgrades",
+   "firstSolved": "2026-03-12T18:11:11.000Z",
+   "lastSolved": "2026-03-12T18:11:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1946336783",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "55 ms",
+     "memory": "220.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-12T18:11:11.000Z",
+     "submissionId": "1946336783"
+    }
+   }
+  },
+  "minimum-number-of-seconds-to-make-mountain-height-zero": {
+   "id": "3296",
+   "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+   "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Greedy",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/3296-minimum-number-of-seconds-to-make-mountain-height-zero",
+   "firstSolved": "2026-03-13T12:47:58.000Z",
+   "lastSolved": "2026-03-13T12:47:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1947005406",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "29 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-13T12:47:58.000Z",
+     "submissionId": "1947005406"
+    }
+   }
+  },
+  "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n": {
+   "id": "1415",
+   "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+   "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Backtracking"
+   ],
+   "dir": "problems/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+   "firstSolved": "2026-03-14T17:01:57.000Z",
+   "lastSolved": "2026-03-14T17:01:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1948220448",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-14T17:01:57.000Z",
+     "submissionId": "1948220448"
+    }
+   }
   }
  },
  "days": {
@@ -3842,7 +4451,7 @@
   "2025-12-11": 1,
   "2026-02-13": 1,
   "2026-02-14": 9,
-  "2026-02-16": 3,
+  "2026-02-16": 4,
   "2026-02-15": 1,
   "2026-02-17": 1,
   "2026-02-18": 2,
@@ -3853,6 +4462,20 @@
   "2026-02-23": 1,
   "2026-02-24": 2,
   "2026-02-25": 1,
-  "2026-02-26": 1
+  "2026-02-26": 1,
+  "2026-02-28": 1,
+  "2026-03-01": 3,
+  "2026-03-02": 1,
+  "2026-03-03": 3,
+  "2026-03-05": 1,
+  "2026-03-06": 1,
+  "2026-03-07": 1,
+  "2026-03-08": 1,
+  "2026-03-09": 1,
+  "2026-03-10": 1,
+  "2026-03-11": 2,
+  "2026-03-12": 1,
+  "2026-03-13": 1,
+  "2026-03-14": 1
  }
 }
