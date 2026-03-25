@@ -4389,12 +4389,665 @@
      "submissionId": "1948220448"
     }
    }
+  },
+  "fancy-sequence": {
+   "id": "1622",
+   "title": "Fancy Sequence",
+   "slug": "fancy-sequence",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Design",
+    "Segment Tree",
+    "Number Theory",
+    "Fermat's Little Theorem"
+   ],
+   "dir": "problems/1622-fancy-sequence",
+   "firstSolved": "2026-03-15T01:58:16.000Z",
+   "lastSolved": "2026-03-15T01:58:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1948504310",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "77 ms",
+     "memory": "192.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-15T01:58:16.000Z",
+     "submissionId": "1948504310"
+    }
+   }
+  },
+  "integer-to-roman": {
+   "id": "12",
+   "title": "Integer to Roman",
+   "slug": "integer-to-roman",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Math",
+    "String"
+   ],
+   "dir": "problems/0012-integer-to-roman",
+   "firstSolved": "2026-03-15T02:15:37.000Z",
+   "lastSolved": "2026-03-15T02:15:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1948510232",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-15T02:15:37.000Z",
+     "submissionId": "1948510232"
+    }
+   }
+  },
+  "get-biggest-three-rhombus-sums-in-a-grid": {
+   "id": "1878",
+   "title": "Get Biggest Three Rhombus Sums in a Grid",
+   "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1878-get-biggest-three-rhombus-sums-in-a-grid",
+   "firstSolved": "2026-03-16T02:07:47.000Z",
+   "lastSolved": "2026-03-16T02:07:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1949605317",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "219 ms",
+     "memory": "65.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-16T02:07:47.000Z",
+     "submissionId": "1949605317"
+    }
+   }
+  },
+  "largest-submatrix-with-rearrangements": {
+   "id": "1727",
+   "title": "Largest Submatrix With Rearrangements",
+   "slug": "largest-submatrix-with-rearrangements",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Matrix"
+   ],
+   "dir": "problems/1727-largest-submatrix-with-rearrangements",
+   "firstSolved": "2026-03-17T07:05:24.000Z",
+   "lastSolved": "2026-03-17T07:05:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1950842028",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "50 ms",
+     "memory": "83.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-17T07:05:24.000Z",
+     "submissionId": "1950842028"
+    }
+   }
+  },
+  "count-submatrices-with-top-left-element-and-sum-less-than-k": {
+   "id": "3070",
+   "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+   "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3070-count-submatrices-with-top-left-element-and-sum-less-than-k",
+   "firstSolved": "2026-03-18T16:20:03.000Z",
+   "lastSolved": "2026-03-18T16:20:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1952267678",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "90.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-18T16:20:03.000Z",
+     "submissionId": "1952267678"
+    }
+   }
+  },
+  "count-submatrices-with-equal-frequency-of-x-and-y": {
+   "id": "3212",
+   "title": "Count Submatrices With Equal Frequency of X and Y",
+   "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3212-count-submatrices-with-equal-frequency-of-x-and-y",
+   "firstSolved": "2026-03-19T05:08:43.000Z",
+   "lastSolved": "2026-03-19T05:08:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1952698128",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "19 ms",
+     "memory": "101 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-19T05:08:43.000Z",
+     "submissionId": "1952698128"
+    }
+   }
+  },
+  "join-two-arrays-by-id": {
+   "id": "2722",
+   "title": "Join Two Arrays by ID",
+   "slug": "join-two-arrays-by-id",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/2722-join-two-arrays-by-id",
+   "firstSolved": "2026-03-19T05:17:09.000Z",
+   "lastSolved": "2026-03-19T05:17:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1952704462",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "248 ms",
+     "memory": "99.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-19T05:17:09.000Z",
+     "submissionId": "1952704462"
+    }
+   }
+  },
+  "remove-duplicates-from-sorted-list": {
+   "id": "83",
+   "title": "Remove Duplicates from Sorted List",
+   "slug": "remove-duplicates-from-sorted-list",
+   "difficulty": "Easy",
+   "tags": [
+    "Linked List"
+   ],
+   "dir": "problems/0083-remove-duplicates-from-sorted-list",
+   "firstSolved": "2026-03-19T05:22:24.000Z",
+   "lastSolved": "2026-03-19T05:22:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1952708413",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-19T05:22:24.000Z",
+     "submissionId": "1952708413"
+    }
+   }
+  },
+  "minimum-absolute-difference-in-sliding-submatrix": {
+   "id": "3567",
+   "title": "Minimum Absolute Difference in Sliding Submatrix",
+   "slug": "minimum-absolute-difference-in-sliding-submatrix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Matrix"
+   ],
+   "dir": "problems/3567-minimum-absolute-difference-in-sliding-submatrix",
+   "firstSolved": "2026-03-20T12:01:31.000Z",
+   "lastSolved": "2026-03-20T12:01:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1953890749",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "15 ms",
+     "memory": "32.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-20T12:01:31.000Z",
+     "submissionId": "1953890749"
+    }
+   }
+  },
+  "flip-square-submatrix-vertically": {
+   "id": "3643",
+   "title": "Flip Square Submatrix Vertically",
+   "slug": "flip-square-submatrix-vertically",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Matrix"
+   ],
+   "dir": "problems/3643-flip-square-submatrix-vertically",
+   "firstSolved": "2026-03-21T04:05:04.000Z",
+   "lastSolved": "2026-03-21T04:05:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1954417097",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "33.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-21T04:05:04.000Z",
+     "submissionId": "1954417097"
+    }
+   }
+  },
+  "two-sum": {
+   "id": "1",
+   "title": "Two Sum",
+   "slug": "two-sum",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/0001-two-sum",
+   "firstSolved": "2025-04-15T02:13:47.000Z",
+   "lastSolved": "2026-10-13T08:23:15.000Z",
+   "solves": 21,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2170982846",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "14.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-13T08:23:15.000Z",
+     "submissionId": "2170982846"
+    },
+    "solution.py": {
+     "lang": "python3",
+     "label": "Python3",
+     "runtime": "3493 ms",
+     "memory": "19.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-21T11:59:34.000Z",
+     "submissionId": "1954718963"
+    }
+   }
+  },
+  "palindrome-number": {
+   "id": "9",
+   "title": "Palindrome Number",
+   "slug": "palindrome-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/0009-palindrome-number",
+   "firstSolved": "2025-04-15T02:49:41.000Z",
+   "lastSolved": "2026-07-18T17:04:44.000Z",
+   "solves": 5,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2072595896",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "10.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-18T17:04:44.000Z",
+     "submissionId": "2072595896"
+    },
+    "solution.py": {
+     "lang": "python3",
+     "label": "Python3",
+     "runtime": "6 ms",
+     "memory": "19.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-21T12:07:47.000Z",
+     "submissionId": "1954723922"
+    }
+   }
+  },
+  "construct-uniform-parity-array-i": {
+   "id": "3875",
+   "title": "Construct Uniform Parity Array I",
+   "slug": "construct-uniform-parity-array-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3875-construct-uniform-parity-array-i",
+   "firstSolved": "2026-03-22T02:36:50.000Z",
+   "lastSolved": "2026-09-02T00:43:32.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2127821552",
+   "subs": {
+    "solution.py": {
+     "lang": "python3",
+     "label": "Python3",
+     "runtime": "0 ms",
+     "memory": "19.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-22T02:36:50.000Z",
+     "submissionId": "1955228894"
+    },
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "30.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-02T00:43:32.000Z",
+     "submissionId": "2127821552"
+    }
+   }
+  },
+  "construct-uniform-parity-array-ii": {
+   "id": "3876",
+   "title": "Construct Uniform Parity Array II",
+   "slug": "construct-uniform-parity-array-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3876-construct-uniform-parity-array-ii",
+   "firstSolved": "2026-03-22T02:38:11.000Z",
+   "lastSolved": "2026-09-03T00:22:38.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2129027445",
+   "subs": {
+    "solution.py": {
+     "lang": "python3",
+     "label": "Python3",
+     "runtime": "71 ms",
+     "memory": "35.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-22T02:38:11.000Z",
+     "submissionId": "1955232006"
+    },
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "165.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-03T00:22:38.000Z",
+     "submissionId": "2129027445"
+    }
+   }
+  },
+  "determine-whether-matrix-can-be-obtained-by-rotation": {
+   "id": "1886",
+   "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+   "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Matrix"
+   ],
+   "dir": "problems/1886-determine-whether-matrix-can-be-obtained-by-rotation",
+   "firstSolved": "2026-03-22T03:00:01.000Z",
+   "lastSolved": "2026-03-22T03:00:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1955278650",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "15.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-22T03:00:01.000Z",
+     "submissionId": "1955278650"
+    }
+   }
+  },
+  "game-play-analysis-i": {
+   "id": "511",
+   "title": "Game Play Analysis I",
+   "slug": "game-play-analysis-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0511-game-play-analysis-i",
+   "firstSolved": "2026-03-22T03:05:00.000Z",
+   "lastSolved": "2026-03-22T03:05:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1955288258",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "510 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-22T03:05:00.000Z",
+     "submissionId": "1955288258"
+    }
+   }
+  },
+  "maximum-non-negative-product-in-a-matrix": {
+   "id": "1594",
+   "title": "Maximum Non Negative Product in a Matrix",
+   "slug": "maximum-non-negative-product-in-a-matrix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+   ],
+   "dir": "problems/1594-maximum-non-negative-product-in-a-matrix",
+   "firstSolved": "2026-03-23T14:19:16.000Z",
+   "lastSolved": "2026-03-23T14:19:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1956770764",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "14.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-23T14:19:16.000Z",
+     "submissionId": "1956770764"
+    }
+   }
+  },
+  "merge-sorted-array": {
+   "id": "88",
+   "title": "Merge Sorted Array",
+   "slug": "merge-sorted-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+   ],
+   "dir": "problems/0088-merge-sorted-array",
+   "firstSolved": "2026-01-18T03:14:45.000Z",
+   "lastSolved": "2026-03-23T14:20:56.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1956772295",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-23T14:20:56.000Z",
+     "submissionId": "1956772295"
+    }
+   }
+  },
+  "construct-product-matrix": {
+   "id": "2906",
+   "title": "Construct Product Matrix",
+   "slug": "construct-product-matrix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/2906-construct-product-matrix",
+   "firstSolved": "2026-03-24T12:39:42.000Z",
+   "lastSolved": "2026-03-24T12:39:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1957746714",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "24 ms",
+     "memory": "131.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-24T12:39:42.000Z",
+     "submissionId": "1957746714"
+    }
+   }
+  },
+  "equal-sum-grid-partition-i": {
+   "id": "3546",
+   "title": "Equal Sum Grid Partition I",
+   "slug": "equal-sum-grid-partition-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Enumeration",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3546-equal-sum-grid-partition-i",
+   "firstSolved": "2026-03-25T09:22:20.000Z",
+   "lastSolved": "2026-03-25T09:22:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1958687163",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "126.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-25T09:22:20.000Z",
+     "submissionId": "1958687163"
+    }
+   }
   }
  },
  "days": {
   "2026-10-13": 1,
   "2026-10-14": 1,
-  "2025-04-15": 1,
+  "2025-04-15": 3,
   "2025-04-18": 1,
   "2025-04-19": 1,
   "2025-05-04": 4,
@@ -4424,7 +5077,7 @@
   "2026-01-15": 1,
   "2026-01-16": 1,
   "2026-01-17": 1,
-  "2026-01-18": 3,
+  "2026-01-18": 4,
   "2026-01-19": 3,
   "2026-01-20": 1,
   "2026-01-21": 1,
@@ -4476,6 +5129,17 @@
   "2026-03-11": 2,
   "2026-03-12": 1,
   "2026-03-13": 1,
-  "2026-03-14": 1
+  "2026-03-14": 1,
+  "2026-03-15": 2,
+  "2026-03-16": 1,
+  "2026-03-17": 1,
+  "2026-03-18": 1,
+  "2026-03-19": 3,
+  "2026-03-20": 1,
+  "2026-03-21": 1,
+  "2026-03-22": 4,
+  "2026-03-23": 1,
+  "2026-03-24": 1,
+  "2026-03-25": 1
  }
 }
