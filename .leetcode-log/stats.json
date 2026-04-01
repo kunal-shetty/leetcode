@@ -5042,6 +5042,618 @@
      "submissionId": "1958687163"
     }
    }
+  },
+  "equal-sum-grid-partition-ii": {
+   "id": "3548",
+   "title": "Equal Sum Grid Partition II",
+   "slug": "equal-sum-grid-partition-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Matrix",
+    "Enumeration",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3548-equal-sum-grid-partition-ii",
+   "firstSolved": "2026-03-26T06:08:53.000Z",
+   "lastSolved": "2026-03-26T06:08:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1959597037",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1416 ms",
+     "memory": "510.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-26T06:08:53.000Z",
+     "submissionId": "1959597037"
+    }
+   }
+  },
+  "matrix-similarity-after-cyclic-shifts": {
+   "id": "2946",
+   "title": "Matrix Similarity After Cyclic Shifts",
+   "slug": "matrix-similarity-after-cyclic-shifts",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math",
+    "Matrix",
+    "Simulation"
+   ],
+   "dir": "problems/2946-matrix-similarity-after-cyclic-shifts",
+   "firstSolved": "2026-03-27T03:46:09.000Z",
+   "lastSolved": "2026-03-27T03:46:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1960497721",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-27T03:46:09.000Z",
+     "submissionId": "1960497721"
+    }
+   }
+  },
+  "triangle-judgement": {
+   "id": "610",
+   "title": "Triangle Judgement",
+   "slug": "triangle-judgement",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0610-triangle-judgement",
+   "firstSolved": "2026-03-27T03:49:03.000Z",
+   "lastSolved": "2026-03-27T03:49:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1960499518",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "249 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-27T03:49:03.000Z",
+     "submissionId": "1960499518"
+    }
+   }
+  },
+  "swap-sex-of-employees": {
+   "id": "627",
+   "title": "Swap Sex of Employees",
+   "slug": "swap-sex-of-employees",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/0627-swap-sex-of-employees",
+   "firstSolved": "2026-03-27T03:50:12.000Z",
+   "lastSolved": "2026-03-27T03:50:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1960500254",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "235 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-27T03:50:12.000Z",
+     "submissionId": "1960500254"
+    }
+   }
+  },
+  "find-the-string-with-lcp": {
+   "id": "2573",
+   "title": "Find the String with LCP",
+   "slug": "find-the-string-with-lcp",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy",
+    "Union-Find",
+    "Matrix"
+   ],
+   "dir": "problems/2573-find-the-string-with-lcp",
+   "firstSolved": "2026-03-28T10:55:17.000Z",
+   "lastSolved": "2026-03-28T10:55:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1961667505",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "85.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-28T10:55:17.000Z",
+     "submissionId": "1961667505"
+    }
+   }
+  },
+  "minimum-absolute-difference-between-two-values": {
+   "id": "3880",
+   "title": "Minimum Absolute Difference Between Two Values",
+   "slug": "minimum-absolute-difference-between-two-values",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Enumeration"
+   ],
+   "dir": "problems/3880-minimum-absolute-difference-between-two-values",
+   "firstSolved": "2026-03-28T15:15:51.000Z",
+   "lastSolved": "2026-03-28T15:15:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1961906359",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "25.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-28T15:15:51.000Z",
+     "submissionId": "1961906359"
+    }
+   }
+  },
+  "direction-assignments-with-exactly-k-visible-people": {
+   "id": "3881",
+   "title": "Direction Assignments with Exactly K Visible People",
+   "slug": "direction-assignments-with-exactly-k-visible-people",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Combinatorics"
+   ],
+   "dir": "problems/3881-direction-assignments-with-exactly-k-visible-people",
+   "firstSolved": "2026-03-28T15:17:14.000Z",
+   "lastSolved": "2026-03-28T15:17:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1961908830",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "47 ms",
+     "memory": "74.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-28T15:17:14.000Z",
+     "submissionId": "1961908830"
+    }
+   }
+  },
+  "minimum-xor-path-in-a-grid": {
+   "id": "3882",
+   "title": "Minimum XOR Path in a Grid",
+   "slug": "minimum-xor-path-in-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Matrix"
+   ],
+   "dir": "problems/3882-minimum-xor-path-in-a-grid",
+   "firstSolved": "2026-03-28T15:20:11.000Z",
+   "lastSolved": "2026-03-28T15:20:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1961914071",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "287 ms",
+     "memory": "52.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-28T15:20:11.000Z",
+     "submissionId": "1961914071"
+    }
+   }
+  },
+  "first-matching-character-from-both-ends": {
+   "id": "3884",
+   "title": "First Matching Character From Both Ends",
+   "slug": "first-matching-character-from-both-ends",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/3884-first-matching-character-from-both-ends",
+   "firstSolved": "2026-03-29T02:36:49.000Z",
+   "lastSolved": "2026-03-29T02:36:49.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1962345994",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-29T02:36:49.000Z",
+     "submissionId": "1962345994"
+    }
+   }
+  },
+  "design-event-manager": {
+   "id": "3885",
+   "title": "Design Event Manager",
+   "slug": "design-event-manager",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+   ],
+   "dir": "problems/3885-design-event-manager",
+   "firstSolved": "2026-03-29T02:39:02.000Z",
+   "lastSolved": "2026-03-29T02:39:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1962349800",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "254 ms",
+     "memory": "311.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-29T02:39:02.000Z",
+     "submissionId": "1962349800"
+    }
+   }
+  },
+  "incremental-even-weighted-cycle-queries": {
+   "id": "3887",
+   "title": "Incremental Even-Weighted Cycle Queries",
+   "slug": "incremental-even-weighted-cycle-queries",
+   "difficulty": "Hard",
+   "tags": [
+    "Union-Find",
+    "Graph Theory"
+   ],
+   "dir": "problems/3887-incremental-even-weighted-cycle-queries",
+   "firstSolved": "2026-03-29T02:47:20.000Z",
+   "lastSolved": "2026-03-29T02:47:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1962362954",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "55 ms",
+     "memory": "300 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-29T02:47:20.000Z",
+     "submissionId": "1962362954"
+    }
+   }
+  },
+  "check-if-strings-can-be-made-equal-with-operations-i": {
+   "id": "2839",
+   "title": "Check if Strings Can be Made Equal With Operations I",
+   "slug": "check-if-strings-can-be-made-equal-with-operations-i",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/2839-check-if-strings-can-be-made-equal-with-operations-i",
+   "firstSolved": "2026-03-29T08:42:40.000Z",
+   "lastSolved": "2026-03-29T08:42:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1962670812",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "8.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-29T08:42:40.000Z",
+     "submissionId": "1962670812"
+    }
+   }
+  },
+  "check-if-strings-can-be-made-equal-with-operations-ii": {
+   "id": "2840",
+   "title": "Check if Strings Can be Made Equal With Operations II",
+   "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sorting"
+   ],
+   "dir": "problems/2840-check-if-strings-can-be-made-equal-with-operations-ii",
+   "firstSolved": "2026-03-30T03:19:40.000Z",
+   "lastSolved": "2026-03-30T03:19:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1963390069",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "55 ms",
+     "memory": "25.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-30T03:19:40.000Z",
+     "submissionId": "1963390069"
+    }
+   }
+  },
+  "lexicographically-smallest-generated-string": {
+   "id": "3474",
+   "title": "Lexicographically Smallest Generated String",
+   "slug": "lexicographically-smallest-generated-string",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Greedy",
+    "String Matching"
+   ],
+   "dir": "problems/3474-lexicographically-smallest-generated-string",
+   "firstSolved": "2026-03-31T03:24:22.000Z",
+   "lastSolved": "2026-03-31T03:24:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1964408098",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "44 ms",
+     "memory": "11.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-31T03:24:22.000Z",
+     "submissionId": "1964408098"
+    }
+   }
+  },
+  "monthly-transactions-i": {
+   "id": "1193",
+   "title": "Monthly Transactions I",
+   "slug": "monthly-transactions-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/1193-monthly-transactions-i",
+   "firstSolved": "2026-03-31T05:19:22.000Z",
+   "lastSolved": "2026-03-31T05:19:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1964490545",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "531 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-31T05:19:22.000Z",
+     "submissionId": "1964490545"
+    }
+   }
+  },
+  "user-activity-for-the-past-30-days-i": {
+   "id": "1141",
+   "title": "User Activity for the Past 30 Days I",
+   "slug": "user-activity-for-the-past-30-days-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/1141-user-activity-for-the-past-30-days-i",
+   "firstSolved": "2026-03-31T05:20:23.000Z",
+   "lastSolved": "2026-03-31T05:20:23.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1964491457",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "464 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-31T05:20:23.000Z",
+     "submissionId": "1964491457"
+    }
+   }
+  },
+  "list-the-products-ordered-in-a-period": {
+   "id": "1327",
+   "title": "List the Products Ordered in a Period",
+   "slug": "list-the-products-ordered-in-a-period",
+   "difficulty": "Easy",
+   "tags": [
+    "Database"
+   ],
+   "dir": "problems/1327-list-the-products-ordered-in-a-period",
+   "firstSolved": "2026-03-31T05:22:16.000Z",
+   "lastSolved": "2026-03-31T05:22:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1964493092",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "760 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-31T05:22:16.000Z",
+     "submissionId": "1964493092"
+    }
+   }
+  },
+  "4sum": {
+   "id": "18",
+   "title": "4Sum",
+   "slug": "4sum",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+   ],
+   "dir": "problems/0018-4sum",
+   "firstSolved": "2026-03-31T10:56:28.000Z",
+   "lastSolved": "2026-03-31T10:56:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1964761582",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "201 ms",
+     "memory": "53.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-03-31T10:56:28.000Z",
+     "submissionId": "1964761582"
+    }
+   }
+  },
+  "robot-collisions": {
+   "id": "2751",
+   "title": "Robot Collisions",
+   "slug": "robot-collisions",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Stack",
+    "Sorting",
+    "Simulation"
+   ],
+   "dir": "problems/2751-robot-collisions",
+   "firstSolved": "2026-04-01T10:51:24.000Z",
+   "lastSolved": "2026-04-01T10:51:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1965753534",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "65 ms",
+     "memory": "205 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-01T10:51:24.000Z",
+     "submissionId": "1965753534"
+    }
+   }
+  },
+  "insert-interval": {
+   "id": "57",
+   "title": "Insert Interval",
+   "slug": "insert-interval",
+   "difficulty": "Medium",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/0057-insert-interval",
+   "firstSolved": "2026-04-01T13:53:47.000Z",
+   "lastSolved": "2026-04-01T13:53:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1965883924",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "21.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-01T13:53:47.000Z",
+     "submissionId": "1965883924"
+    }
+   }
   }
  },
  "days": {
@@ -5140,6 +5752,13 @@
   "2026-03-22": 4,
   "2026-03-23": 1,
   "2026-03-24": 1,
-  "2026-03-25": 1
+  "2026-03-25": 1,
+  "2026-03-26": 1,
+  "2026-03-27": 3,
+  "2026-03-28": 4,
+  "2026-03-29": 4,
+  "2026-03-30": 1,
+  "2026-03-31": 5,
+  "2026-04-01": 2
  }
 }
