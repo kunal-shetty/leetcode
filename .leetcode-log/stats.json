@@ -5654,13 +5654,631 @@
      "submissionId": "1965883924"
     }
    }
+  },
+  "remove-element": {
+   "id": "27",
+   "title": "Remove Element",
+   "slug": "remove-element",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers"
+   ],
+   "dir": "problems/0027-remove-element",
+   "firstSolved": "2025-04-18T11:40:11.000Z",
+   "lastSolved": "2026-04-01T14:33:16.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1965920347",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-01T14:33:16.000Z",
+     "submissionId": "1965920347"
+    }
+   }
+  },
+  "maximum-amount-of-money-robot-can-earn": {
+   "id": "3418",
+   "title": "Maximum Amount of Money Robot Can Earn",
+   "slug": "maximum-amount-of-money-robot-can-earn",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+   ],
+   "dir": "problems/3418-maximum-amount-of-money-robot-can-earn",
+   "firstSolved": "2026-04-02T05:00:36.000Z",
+   "lastSolved": "2026-04-02T05:00:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1966463118",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "634 ms",
+     "memory": "275.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-02T05:00:36.000Z",
+     "submissionId": "1966463118"
+    }
+   }
+  },
+  "maximum-walls-destroyed-by-robots": {
+   "id": "3661",
+   "title": "Maximum Walls Destroyed by Robots",
+   "slug": "maximum-walls-destroyed-by-robots",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+   ],
+   "dir": "problems/3661-maximum-walls-destroyed-by-robots",
+   "firstSolved": "2026-04-03T09:43:05.000Z",
+   "lastSolved": "2026-04-03T09:43:36.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1967583386",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "159 ms",
+     "memory": "190.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-03T09:43:36.000Z",
+     "submissionId": "1967583386"
+    }
+   }
+  },
+  "decode-the-slanted-ciphertext": {
+   "id": "2075",
+   "title": "Decode the Slanted Ciphertext",
+   "slug": "decode-the-slanted-ciphertext",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/2075-decode-the-slanted-ciphertext",
+   "firstSolved": "2026-04-04T04:33:03.000Z",
+   "lastSolved": "2026-04-04T04:33:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1968242675",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "27 ms",
+     "memory": "41.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-04T04:33:03.000Z",
+     "submissionId": "1968242675"
+    }
+   }
+  },
+  "pascals-triangle": {
+   "id": "118",
+   "title": "Pascal's Triangle",
+   "slug": "pascals-triangle",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0118-pascals-triangle",
+   "firstSolved": "2026-02-16T07:19:13.000Z",
+   "lastSolved": "2026-04-04T06:42:05.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1968339451",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "9.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-04T06:42:05.000Z",
+     "submissionId": "1968339451"
+    }
+   }
+  },
+  "mirror-frequency-distance": {
+   "id": "3889",
+   "title": "Mirror Frequency Distance",
+   "slug": "mirror-frequency-distance",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/3889-mirror-frequency-distance",
+   "firstSolved": "2026-04-05T02:38:42.000Z",
+   "lastSolved": "2026-04-05T02:38:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1969085041",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "26 ms",
+     "memory": "58.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-05T02:38:42.000Z",
+     "submissionId": "1969085041"
+    }
+   }
+  },
+  "integers-with-multiple-sum-of-two-cubes": {
+   "id": "3890",
+   "title": "Integers With Multiple Sum of Two Cubes",
+   "slug": "integers-with-multiple-sum-of-two-cubes",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Enumeration"
+   ],
+   "dir": "problems/3890-integers-with-multiple-sum-of-two-cubes",
+   "firstSolved": "2026-04-05T02:42:42.000Z",
+   "lastSolved": "2026-04-05T02:42:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1969090929",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "570 ms",
+     "memory": "180.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-05T02:42:42.000Z",
+     "submissionId": "1969090929"
+    }
+   }
+  },
+  "walking-robot-simulation": {
+   "id": "874",
+   "title": "Walking Robot Simulation",
+   "slug": "walking-robot-simulation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Simulation"
+   ],
+   "dir": "problems/0874-walking-robot-simulation",
+   "firstSolved": "2026-04-06T08:29:22.000Z",
+   "lastSolved": "2026-04-06T08:29:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1970357996",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "70 ms",
+     "memory": "39.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-06T08:29:22.000Z",
+     "submissionId": "1970357996"
+    }
+   }
+  },
+  "walking-robot-simulation-ii": {
+   "id": "2069",
+   "title": "Walking Robot Simulation II",
+   "slug": "walking-robot-simulation-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Design",
+    "Simulation"
+   ],
+   "dir": "problems/2069-walking-robot-simulation-ii",
+   "firstSolved": "2026-04-07T05:33:54.000Z",
+   "lastSolved": "2026-04-07T05:33:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1971230318",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "19 ms",
+     "memory": "127.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-07T05:33:54.000Z",
+     "submissionId": "1971230318"
+    }
+   }
+  },
+  "xor-after-range-multiplication-queries-i": {
+   "id": "3653",
+   "title": "XOR After Range Multiplication Queries I",
+   "slug": "xor-after-range-multiplication-queries-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Simulation",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3653-xor-after-range-multiplication-queries-i",
+   "firstSolved": "2026-04-08T03:53:01.000Z",
+   "lastSolved": "2026-04-08T03:53:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1972165999",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "55 ms",
+     "memory": "158.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-08T03:53:01.000Z",
+     "submissionId": "1972165999"
+    }
+   }
+  },
+  "xor-after-range-multiplication-queries-ii": {
+   "id": "3655",
+   "title": "XOR After Range Multiplication Queries II",
+   "slug": "xor-after-range-multiplication-queries-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3655-xor-after-range-multiplication-queries-ii",
+   "firstSolved": "2026-04-09T11:35:07.000Z",
+   "lastSolved": "2026-04-09T11:35:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1973483443",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "472 ms",
+     "memory": "431.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-09T11:35:07.000Z",
+     "submissionId": "1973483443"
+    }
+   }
+  },
+  "first-unique-character-in-a-string": {
+   "id": "387",
+   "title": "First Unique Character in a String",
+   "slug": "first-unique-character-in-a-string",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Queue",
+    "Counting"
+   ],
+   "dir": "problems/0387-first-unique-character-in-a-string",
+   "firstSolved": "2026-04-10T12:26:26.000Z",
+   "lastSolved": "2026-04-10T12:26:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1974442572",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "18 ms",
+     "memory": "15 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-10T12:26:26.000Z",
+     "submissionId": "1974442572"
+    }
+   }
+  },
+  "rotate-array": {
+   "id": "189",
+   "title": "Rotate Array",
+   "slug": "rotate-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Two Pointers"
+   ],
+   "dir": "problems/0189-rotate-array",
+   "firstSolved": "2026-04-11T16:17:35.000Z",
+   "lastSolved": "2026-04-11T16:17:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975574908",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "29.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-11T16:17:35.000Z",
+     "submissionId": "1975574908"
+    }
+   }
+  },
+  "minimum-distance-between-three-equal-elements-ii": {
+   "id": "3741",
+   "title": "Minimum Distance Between Three Equal Elements II",
+   "slug": "minimum-distance-between-three-equal-elements-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/3741-minimum-distance-between-three-equal-elements-ii",
+   "firstSolved": "2026-04-11T16:19:43.000Z",
+   "lastSolved": "2026-04-11T16:19:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975576858",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "20 ms",
+     "memory": "225.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-11T16:19:43.000Z",
+     "submissionId": "1975576858"
+    }
+   }
+  },
+  "minimum-removals-to-achieve-target-xor": {
+   "id": "3877",
+   "title": "Minimum Removals to Achieve Target XOR",
+   "slug": "minimum-removals-to-achieve-target-xor",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3877-minimum-removals-to-achieve-target-xor",
+   "firstSolved": "2026-04-11T17:42:02.000Z",
+   "lastSolved": "2026-04-11T17:42:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975654036",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "667 ms",
+     "memory": "242.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-11T17:42:02.000Z",
+     "submissionId": "1975654036"
+    }
+   }
+  },
+  "minimum-deletion-cost-to-make-all-characters-equal": {
+   "id": "3784",
+   "title": "Minimum Deletion Cost to Make All Characters Equal",
+   "slug": "minimum-deletion-cost-to-make-all-characters-equal",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Enumeration"
+   ],
+   "dir": "problems/3784-minimum-deletion-cost-to-make-all-characters-equal",
+   "firstSolved": "2026-04-11T17:44:17.000Z",
+   "lastSolved": "2026-04-11T17:44:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975656146",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "115 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-11T17:44:17.000Z",
+     "submissionId": "1975656146"
+    }
+   }
+  },
+  "first-unique-even-element": {
+   "id": "3866",
+   "title": "First Unique Even Element",
+   "slug": "first-unique-even-element",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+   ],
+   "dir": "problems/3866-first-unique-even-element",
+   "firstSolved": "2026-04-11T17:54:01.000Z",
+   "lastSolved": "2026-04-11T17:54:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975665160",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "28.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-11T17:54:01.000Z",
+     "submissionId": "1975665160"
+    }
+   }
+  },
+  "minimum-capacity-box": {
+   "id": "3861",
+   "title": "Minimum Capacity Box",
+   "slug": "minimum-capacity-box",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3861-minimum-capacity-box",
+   "firstSolved": "2026-04-11T18:14:27.000Z",
+   "lastSolved": "2026-04-11T18:14:27.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975684981",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "23.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-11T18:14:27.000Z",
+     "submissionId": "1975684981"
+    }
+   }
+  },
+  "find-the-degree-of-each-vertex": {
+   "id": "3898",
+   "title": "Find the Degree of Each Vertex",
+   "slug": "find-the-degree-of-each-vertex",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Graph Theory",
+    "Matrix"
+   ],
+   "dir": "problems/3898-find-the-degree-of-each-vertex",
+   "firstSolved": "2026-04-12T02:31:55.000Z",
+   "lastSolved": "2026-04-12T02:31:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975895051",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "54.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-12T02:31:55.000Z",
+     "submissionId": "1975895051"
+    }
+   }
+  },
+  "angles-of-a-triangle": {
+   "id": "3899",
+   "title": "Angles of a Triangle",
+   "slug": "angles-of-a-triangle",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Geometry"
+   ],
+   "dir": "problems/3899-angles-of-a-triangle",
+   "firstSolved": "2026-04-12T02:34:51.000Z",
+   "lastSolved": "2026-04-12T02:34:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975902507",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "29 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-12T02:34:51.000Z",
+     "submissionId": "1975902507"
+    }
+   }
   }
  },
  "days": {
   "2026-10-13": 1,
   "2026-10-14": 1,
   "2025-04-15": 3,
-  "2025-04-18": 1,
+  "2025-04-18": 2,
   "2025-04-19": 1,
   "2025-05-04": 4,
   "2025-12-03": 1,
@@ -5716,7 +6334,7 @@
   "2025-12-11": 1,
   "2026-02-13": 1,
   "2026-02-14": 9,
-  "2026-02-16": 4,
+  "2026-02-16": 5,
   "2026-02-15": 1,
   "2026-02-17": 1,
   "2026-02-18": 2,
@@ -5759,6 +6377,17 @@
   "2026-03-29": 4,
   "2026-03-30": 1,
   "2026-03-31": 5,
-  "2026-04-01": 2
+  "2026-04-01": 2,
+  "2026-04-02": 1,
+  "2026-04-03": 1,
+  "2026-04-04": 1,
+  "2026-04-05": 2,
+  "2026-04-06": 1,
+  "2026-04-07": 1,
+  "2026-04-08": 1,
+  "2026-04-09": 1,
+  "2026-04-10": 1,
+  "2026-04-11": 6,
+  "2026-04-12": 2
  }
 }
