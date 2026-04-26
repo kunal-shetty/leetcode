@@ -6272,6 +6272,626 @@
      "submissionId": "1975902507"
     }
    }
+  },
+  "minimum-distance-to-type-a-word-using-two-fingers": {
+   "id": "1320",
+   "title": "Minimum Distance to Type a Word Using Two Fingers",
+   "slug": "minimum-distance-to-type-a-word-using-two-fingers",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/1320-minimum-distance-to-type-a-word-using-two-fingers",
+   "firstSolved": "2026-04-12T03:18:17.000Z",
+   "lastSolved": "2026-04-12T03:18:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1975976192",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-12T03:18:17.000Z",
+     "submissionId": "1975976192"
+    }
+   }
+  },
+  "minimum-distance-to-the-target-element": {
+   "id": "1848",
+   "title": "Minimum Distance to the Target Element",
+   "slug": "minimum-distance-to-the-target-element",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/1848-minimum-distance-to-the-target-element",
+   "firstSolved": "2026-04-13T02:46:44.000Z",
+   "lastSolved": "2026-04-13T02:46:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1976877628",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-13T02:46:44.000Z",
+     "submissionId": "1976877628"
+    }
+   }
+  },
+  "minimum-total-distance-traveled": {
+   "id": "2463",
+   "title": "Minimum Total Distance Traveled",
+   "slug": "minimum-total-distance-traveled",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+   ],
+   "dir": "problems/2463-minimum-total-distance-traveled",
+   "firstSolved": "2026-04-14T02:57:12.000Z",
+   "lastSolved": "2026-04-14T02:57:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1977847045",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "25 ms",
+     "memory": "13.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-14T02:57:12.000Z",
+     "submissionId": "1977847045"
+    }
+   }
+  },
+  "shortest-distance-to-target-string-in-a-circular-array": {
+   "id": "2515",
+   "title": "Shortest Distance to Target String in a Circular Array",
+   "slug": "shortest-distance-to-target-string-in-a-circular-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String"
+   ],
+   "dir": "problems/2515-shortest-distance-to-target-string-in-a-circular-array",
+   "firstSolved": "2026-04-15T03:28:36.000Z",
+   "lastSolved": "2026-04-15T03:28:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1978796575",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "18.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-15T03:28:36.000Z",
+     "submissionId": "1978796575"
+    }
+   }
+  },
+  "closest-equal-element-queries": {
+   "id": "3488",
+   "title": "Closest Equal Element Queries",
+   "slug": "closest-equal-element-queries",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search"
+   ],
+   "dir": "problems/3488-closest-equal-element-queries",
+   "firstSolved": "2026-04-16T08:06:42.000Z",
+   "lastSolved": "2026-04-16T08:06:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1979874309",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "219 ms",
+     "memory": "214 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-16T08:06:42.000Z",
+     "submissionId": "1979874309"
+    }
+   }
+  },
+  "minimum-absolute-distance-between-mirror-pairs": {
+   "id": "3761",
+   "title": "Minimum Absolute Distance Between Mirror Pairs",
+   "slug": "minimum-absolute-distance-between-mirror-pairs",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math"
+   ],
+   "dir": "problems/3761-minimum-absolute-distance-between-mirror-pairs",
+   "firstSolved": "2026-04-17T04:12:00.000Z",
+   "lastSolved": "2026-04-17T04:12:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1980583737",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "123 ms",
+     "memory": "131.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-17T04:12:00.000Z",
+     "submissionId": "1980583737"
+    }
+   }
+  },
+  "multi-source-flood-fill": {
+   "id": "3905",
+   "title": "Multi Source Flood Fill",
+   "slug": "multi-source-flood-fill",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+   ],
+   "dir": "problems/3905-multi-source-flood-fill",
+   "firstSolved": "2026-04-19T02:41:51.000Z",
+   "lastSolved": "2026-04-19T02:41:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1982190847",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "134 ms",
+     "memory": "209.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-19T02:41:51.000Z",
+     "submissionId": "1982190847"
+    }
+   }
+  },
+  "two-furthest-houses-with-different-colors": {
+   "id": "2078",
+   "title": "Two Furthest Houses With Different Colors",
+   "slug": "two-furthest-houses-with-different-colors",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/2078-two-furthest-houses-with-different-colors",
+   "firstSolved": "2026-04-20T05:36:48.000Z",
+   "lastSolved": "2026-04-20T05:36:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1983251794",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-20T05:36:48.000Z",
+     "submissionId": "1983251794"
+    }
+   }
+  },
+  "minimize-hamming-distance-after-swap-operations": {
+   "id": "1722",
+   "title": "Minimize Hamming Distance After Swap Operations",
+   "slug": "minimize-hamming-distance-after-swap-operations",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Depth-First Search",
+    "Union-Find"
+   ],
+   "dir": "problems/1722-minimize-hamming-distance-after-swap-operations",
+   "firstSolved": "2026-04-21T08:03:31.000Z",
+   "lastSolved": "2026-04-21T08:03:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1984274207",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "147 ms",
+     "memory": "153.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-21T08:03:31.000Z",
+     "submissionId": "1984274207"
+    }
+   }
+  },
+  "words-within-two-edits-of-dictionary": {
+   "id": "2452",
+   "title": "Words Within Two Edits of Dictionary",
+   "slug": "words-within-two-edits-of-dictionary",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "String",
+    "Trie"
+   ],
+   "dir": "problems/2452-words-within-two-edits-of-dictionary",
+   "firstSolved": "2026-04-22T03:14:39.000Z",
+   "lastSolved": "2026-04-22T03:14:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1984953346",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "18.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-22T03:14:39.000Z",
+     "submissionId": "1984953346"
+    }
+   }
+  },
+  "binary-search": {
+   "id": "704",
+   "title": "Binary Search",
+   "slug": "binary-search",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0704-binary-search",
+   "firstSolved": "2026-04-22T07:27:04.000Z",
+   "lastSolved": "2026-04-22T07:27:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1985123015",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-22T07:27:04.000Z",
+     "submissionId": "1985123015"
+    }
+   }
+  },
+  "mirror-distance-of-an-integer": {
+   "id": "3783",
+   "title": "Mirror Distance of an Integer",
+   "slug": "mirror-distance-of-an-integer",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3783-mirror-distance-of-an-integer",
+   "firstSolved": "2026-01-02T11:00:26.000Z",
+   "lastSolved": "2026-04-22T07:45:04.000Z",
+   "solves": 5,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1985133627",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-22T07:45:04.000Z",
+     "submissionId": "1985133627"
+    }
+   }
+  },
+  "maximum-distance-between-a-pair-of-values": {
+   "id": "1855",
+   "title": "Maximum Distance Between a Pair of Values",
+   "slug": "maximum-distance-between-a-pair-of-values",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+   ],
+   "dir": "problems/1855-maximum-distance-between-a-pair-of-values",
+   "firstSolved": "2026-04-19T02:52:02.000Z",
+   "lastSolved": "2026-04-23T06:31:26.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1985925536",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "102.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-23T06:31:26.000Z",
+     "submissionId": "1985925536"
+    }
+   }
+  },
+  "sum-of-distances": {
+   "id": "2615",
+   "title": "Sum of Distances",
+   "slug": "sum-of-distances",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+   ],
+   "dir": "problems/2615-sum-of-distances",
+   "firstSolved": "2026-04-23T11:02:20.000Z",
+   "lastSolved": "2026-04-23T11:02:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1986092442",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "107 ms",
+     "memory": "129.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-23T11:02:20.000Z",
+     "submissionId": "1986092442"
+    }
+   }
+  },
+  "furthest-point-from-origin": {
+   "id": "2833",
+   "title": "Furthest Point From Origin",
+   "slug": "furthest-point-from-origin",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/2833-furthest-point-from-origin",
+   "firstSolved": "2026-04-24T04:05:09.000Z",
+   "lastSolved": "2026-04-24T04:05:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1986660053",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "9.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-24T04:05:09.000Z",
+     "submissionId": "1986660053"
+    }
+   }
+  },
+  "count-monobit-integers": {
+   "id": "3827",
+   "title": "Count Monobit Integers",
+   "slug": "count-monobit-integers",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation",
+    "Enumeration"
+   ],
+   "dir": "problems/3827-count-monobit-integers",
+   "firstSolved": "2026-04-24T08:59:00.000Z",
+   "lastSolved": "2026-04-24T08:59:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1986853646",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-24T08:59:00.000Z",
+     "submissionId": "1986853646"
+    }
+   }
+  },
+  "maximize-the-distance-between-points-on-a-square": {
+   "id": "3464",
+   "title": "Maximize the Distance Between Points on a Square",
+   "slug": "maximize-the-distance-between-points-on-a-square",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Geometry",
+    "Sorting"
+   ],
+   "dir": "problems/3464-maximize-the-distance-between-points-on-a-square",
+   "firstSolved": "2026-04-25T04:59:57.000Z",
+   "lastSolved": "2026-04-25T04:59:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1987444795",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "45.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-25T04:59:57.000Z",
+     "submissionId": "1987444795"
+    }
+   }
+  },
+  "contains-duplicate": {
+   "id": "217",
+   "title": "Contains Duplicate",
+   "slug": "contains-duplicate",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+   ],
+   "dir": "problems/0217-contains-duplicate",
+   "firstSolved": "2026-03-01T08:48:41.000Z",
+   "lastSolved": "2026-08-31T12:57:09.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2126102569",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "91 ms",
+     "memory": "113.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-31T12:57:09.000Z",
+     "submissionId": "2126102569"
+    },
+    "solution.py": {
+     "lang": "python",
+     "label": "Python",
+     "runtime": "19 ms",
+     "memory": "25.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-25T13:04:25.000Z",
+     "submissionId": "1987727982"
+    }
+   }
+  },
+  "valid-elements-in-an-array": {
+   "id": "3912",
+   "title": "Valid Elements in an Array",
+   "slug": "valid-elements-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3912-valid-elements-in-an-array",
+   "firstSolved": "2026-04-26T02:36:06.000Z",
+   "lastSolved": "2026-04-26T02:36:06.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1988208427",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "32.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-26T02:36:06.000Z",
+     "submissionId": "1988208427"
+    }
+   }
+  },
+  "sort-vowels-by-frequency": {
+   "id": "3913",
+   "title": "Sort Vowels by Frequency",
+   "slug": "sort-vowels-by-frequency",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Sorting",
+    "Counting"
+   ],
+   "dir": "problems/3913-sort-vowels-by-frequency",
+   "firstSolved": "2026-04-26T02:43:36.000Z",
+   "lastSolved": "2026-04-26T02:43:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1988219655",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "159 ms",
+     "memory": "18.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-26T02:43:36.000Z",
+     "submissionId": "1988219655"
+    }
+   }
   }
  },
  "days": {
@@ -6291,7 +6911,7 @@
   "2025-12-16": 1,
   "2025-12-18": 1,
   "2025-12-19": 2,
-  "2026-01-02": 1,
+  "2026-01-02": 2,
   "2026-01-03": 1,
   "2026-01-04": 3,
   "2026-01-05": 1,
@@ -6347,7 +6967,7 @@
   "2026-02-25": 1,
   "2026-02-26": 1,
   "2026-02-28": 1,
-  "2026-03-01": 3,
+  "2026-03-01": 4,
   "2026-03-02": 1,
   "2026-03-03": 3,
   "2026-03-05": 1,
@@ -6388,6 +7008,19 @@
   "2026-04-09": 1,
   "2026-04-10": 1,
   "2026-04-11": 6,
-  "2026-04-12": 2
+  "2026-04-12": 3,
+  "2026-04-13": 1,
+  "2026-04-14": 1,
+  "2026-04-15": 1,
+  "2026-04-16": 1,
+  "2026-04-17": 1,
+  "2026-04-19": 2,
+  "2026-04-20": 1,
+  "2026-04-21": 1,
+  "2026-04-22": 2,
+  "2026-04-23": 1,
+  "2026-04-24": 2,
+  "2026-04-25": 1,
+  "2026-04-26": 2
  }
 }
