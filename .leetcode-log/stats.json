@@ -6892,6 +6892,625 @@
      "submissionId": "1988219655"
     }
    }
+  },
+  "minimum-operations-to-make-array-non-decreasing": {
+   "id": "3914",
+   "title": "Minimum Operations to Make Array Non Decreasing",
+   "slug": "minimum-operations-to-make-array-non-decreasing",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/3914-minimum-operations-to-make-array-non-decreasing",
+   "firstSolved": "2026-04-26T02:49:26.000Z",
+   "lastSolved": "2026-04-26T02:49:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1988228362",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "136.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-26T02:49:26.000Z",
+     "submissionId": "1988228362"
+    }
+   }
+  },
+  "detect-cycles-in-2d-grid": {
+   "id": "1559",
+   "title": "Detect Cycles in 2D Grid",
+   "slug": "detect-cycles-in-2d-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+   ],
+   "dir": "problems/1559-detect-cycles-in-2d-grid",
+   "firstSolved": "2026-04-26T09:59:33.000Z",
+   "lastSolved": "2026-04-26T09:59:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1988527204",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "27 ms",
+     "memory": "72.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-26T09:59:33.000Z",
+     "submissionId": "1988527204"
+    }
+   }
+  },
+  "check-if-there-is-a-valid-path-in-a-grid": {
+   "id": "1391",
+   "title": "Check if There is a Valid Path in a Grid",
+   "slug": "check-if-there-is-a-valid-path-in-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+   ],
+   "dir": "problems/1391-check-if-there-is-a-valid-path-in-a-grid",
+   "firstSolved": "2026-04-27T03:17:06.000Z",
+   "lastSolved": "2026-04-27T03:17:20.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1989060557",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "21 ms",
+     "memory": "74.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-27T03:17:20.000Z",
+     "submissionId": "1989060557"
+    }
+   }
+  },
+  "minimum-operations-to-make-a-uni-value-grid": {
+   "id": "2033",
+   "title": "Minimum Operations to Make a Uni-Value Grid",
+   "slug": "minimum-operations-to-make-a-uni-value-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Matrix"
+   ],
+   "dir": "problems/2033-minimum-operations-to-make-a-uni-value-grid",
+   "firstSolved": "2026-04-28T03:00:45.000Z",
+   "lastSolved": "2026-04-28T03:00:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1989857096",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "61 ms",
+     "memory": "99.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-28T03:00:45.000Z",
+     "submissionId": "1989857096"
+    }
+   }
+  },
+  "maximum-score-from-grid-operations": {
+   "id": "3225",
+   "title": "Maximum Score From Grid Operations",
+   "slug": "maximum-score-from-grid-operations",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3225-maximum-score-from-grid-operations",
+   "firstSolved": "2026-04-29T03:58:12.000Z",
+   "lastSolved": "2026-04-29T03:58:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1990701247",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "416 ms",
+     "memory": "207.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-29T03:58:12.000Z",
+     "submissionId": "1990701247"
+    }
+   }
+  },
+  "maximum-path-score-in-a-grid": {
+   "id": "3742",
+   "title": "Maximum Path Score in a Grid",
+   "slug": "maximum-path-score-in-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+   ],
+   "dir": "problems/3742-maximum-path-score-in-a-grid",
+   "firstSolved": "2026-04-30T03:20:06.000Z",
+   "lastSolved": "2026-04-30T03:20:06.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1991459106",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "731 ms",
+     "memory": "499.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-30T03:20:06.000Z",
+     "submissionId": "1991459106"
+    }
+   }
+  },
+  "toggle-light-bulbs": {
+   "id": "3842",
+   "title": "Toggle Light Bulbs",
+   "slug": "toggle-light-bulbs",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Simulation"
+   ],
+   "dir": "problems/3842-toggle-light-bulbs",
+   "firstSolved": "2026-04-30T05:27:24.000Z",
+   "lastSolved": "2026-04-30T05:27:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1991534126",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "34.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-30T05:27:24.000Z",
+     "submissionId": "1991534126"
+    }
+   }
+  },
+  "minimum-distance-between-three-equal-elements-i": {
+   "id": "3740",
+   "title": "Minimum Distance Between Three Equal Elements I",
+   "slug": "minimum-distance-between-three-equal-elements-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/3740-minimum-distance-between-three-equal-elements-i",
+   "firstSolved": "2026-04-10T03:42:29.000Z",
+   "lastSolved": "2026-04-30T10:36:33.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1991743714",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "28.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-30T10:36:33.000Z",
+     "submissionId": "1991743714"
+    }
+   }
+  },
+  "traffic-signal-color": {
+   "id": "3894",
+   "title": "Traffic Signal Color",
+   "slug": "traffic-signal-color",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3894-traffic-signal-color",
+   "firstSolved": "2026-04-11T15:34:46.000Z",
+   "lastSolved": "2026-04-30T10:45:26.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1991748923",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-30T10:45:26.000Z",
+     "submissionId": "1991748923"
+    }
+   }
+  },
+  "count-digit-appearances": {
+   "id": "3895",
+   "title": "Count Digit Appearances",
+   "slug": "count-digit-appearances",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3895-count-digit-appearances",
+   "firstSolved": "2026-04-11T15:57:35.000Z",
+   "lastSolved": "2026-04-30T10:48:22.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1991750743",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "36.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-04-30T10:48:22.000Z",
+     "submissionId": "1991750743"
+    }
+   }
+  },
+  "rotate-function": {
+   "id": "396",
+   "title": "Rotate Function",
+   "slug": "rotate-function",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0396-rotate-function",
+   "firstSolved": "2026-05-01T03:11:08.000Z",
+   "lastSolved": "2026-05-01T03:11:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1992217468",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "9 ms",
+     "memory": "99.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-01T03:11:08.000Z",
+     "submissionId": "1992217468"
+    }
+   }
+  },
+  "rotated-digits": {
+   "id": "788",
+   "title": "Rotated Digits",
+   "slug": "rotated-digits",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0788-rotated-digits",
+   "firstSolved": "2026-05-02T03:32:56.000Z",
+   "lastSolved": "2026-05-02T03:32:56.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1992988827",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-02T03:32:56.000Z",
+     "submissionId": "1992988827"
+    }
+   }
+  },
+  "valid-digit-number": {
+   "id": "3908",
+   "title": "Valid Digit Number",
+   "slug": "valid-digit-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3908-valid-digit-number",
+   "firstSolved": "2026-04-25T15:32:56.000Z",
+   "lastSolved": "2026-05-03T01:04:26.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1993708627",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T01:04:26.000Z",
+     "submissionId": "1993708627"
+    }
+   }
+  },
+  "reverse-vowels-of-a-string": {
+   "id": "345",
+   "title": "Reverse Vowels of a String",
+   "slug": "reverse-vowels-of-a-string",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/0345-reverse-vowels-of-a-string",
+   "firstSolved": "2026-05-03T01:56:22.000Z",
+   "lastSolved": "2026-05-03T01:56:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1993722130",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T01:56:22.000Z",
+     "submissionId": "1993722130"
+    }
+   }
+  },
+  "count-indices-with-opposite-parity": {
+   "id": "3917",
+   "title": "Count Indices With Opposite Parity",
+   "slug": "count-indices-with-opposite-parity",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3917-count-indices-with-opposite-parity",
+   "firstSolved": "2026-05-03T02:38:00.000Z",
+   "lastSolved": "2026-05-03T02:38:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1993744399",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "32.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T02:38:00.000Z",
+     "submissionId": "1993744399"
+    }
+   }
+  },
+  "sum-of-primes-between-number-and-its-reverse": {
+   "id": "3918",
+   "title": "Sum of Primes Between Number and Its Reverse",
+   "slug": "sum-of-primes-between-number-and-its-reverse",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Number Theory"
+   ],
+   "dir": "problems/3918-sum-of-primes-between-number-and-its-reverse",
+   "firstSolved": "2026-05-03T02:42:16.000Z",
+   "lastSolved": "2026-05-03T02:42:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1993751530",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T02:42:16.000Z",
+     "submissionId": "1993751530"
+    }
+   }
+  },
+  "minimum-cost-to-move-between-indices": {
+   "id": "3919",
+   "title": "Minimum Cost to Move Between Indices",
+   "slug": "minimum-cost-to-move-between-indices",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3919-minimum-cost-to-move-between-indices",
+   "firstSolved": "2026-05-03T02:56:30.000Z",
+   "lastSolved": "2026-05-03T02:56:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1993771834",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "75 ms",
+     "memory": "249.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T02:56:30.000Z",
+     "submissionId": "1993771834"
+    }
+   }
+  },
+  "student-attendance-record-i": {
+   "id": "551",
+   "title": "Student Attendance Record I",
+   "slug": "student-attendance-record-i",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/0551-student-attendance-record-i",
+   "firstSolved": "2026-05-03T13:02:59.000Z",
+   "lastSolved": "2026-05-03T13:02:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1994182269",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T13:02:59.000Z",
+     "submissionId": "1994182269"
+    }
+   }
+  },
+  "network-delay-time": {
+   "id": "743",
+   "title": "Network Delay Time",
+   "slug": "network-delay-time",
+   "difficulty": "Medium",
+   "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path",
+    "Dijkstra's Algorithm"
+   ],
+   "dir": "problems/0743-network-delay-time",
+   "firstSolved": "2026-05-03T13:06:02.000Z",
+   "lastSolved": "2026-05-03T13:06:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1994184224",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "104 ms",
+     "memory": "40.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T13:06:02.000Z",
+     "submissionId": "1994184224"
+    }
+   }
+  },
+  "palindrome-linked-list": {
+   "id": "234",
+   "title": "Palindrome Linked List",
+   "slug": "palindrome-linked-list",
+   "difficulty": "Easy",
+   "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+   ],
+   "dir": "problems/0234-palindrome-linked-list",
+   "firstSolved": "2026-05-03T13:10:13.000Z",
+   "lastSolved": "2026-05-03T13:10:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1994186818",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "126.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T13:10:13.000Z",
+     "submissionId": "1994186818"
+    }
+   }
   }
  },
  "days": {
@@ -7006,8 +7625,8 @@
   "2026-04-07": 1,
   "2026-04-08": 1,
   "2026-04-09": 1,
-  "2026-04-10": 1,
-  "2026-04-11": 6,
+  "2026-04-10": 2,
+  "2026-04-11": 8,
   "2026-04-12": 3,
   "2026-04-13": 1,
   "2026-04-14": 1,
@@ -7020,7 +7639,14 @@
   "2026-04-22": 2,
   "2026-04-23": 1,
   "2026-04-24": 2,
-  "2026-04-25": 1,
-  "2026-04-26": 2
+  "2026-04-25": 2,
+  "2026-04-26": 4,
+  "2026-04-27": 1,
+  "2026-04-28": 1,
+  "2026-04-29": 1,
+  "2026-04-30": 2,
+  "2026-05-01": 1,
+  "2026-05-02": 1,
+  "2026-05-03": 7
  }
 }
