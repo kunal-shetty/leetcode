@@ -7511,6 +7511,637 @@
      "submissionId": "1994186818"
     }
    }
+  },
+  "sort-characters-by-frequency": {
+   "id": "451",
+   "title": "Sort Characters By Frequency",
+   "slug": "sort-characters-by-frequency",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+   ],
+   "dir": "problems/0451-sort-characters-by-frequency",
+   "firstSolved": "2026-05-03T13:13:04.000Z",
+   "lastSolved": "2026-05-03T13:13:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1994188651",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "11.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-03T13:13:04.000Z",
+     "submissionId": "1994188651"
+    }
+   }
+  },
+  "rotate-image": {
+   "id": "48",
+   "title": "Rotate Image",
+   "slug": "rotate-image",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Matrix"
+   ],
+   "dir": "problems/0048-rotate-image",
+   "firstSolved": "2026-04-11T02:55:32.000Z",
+   "lastSolved": "2026-05-04T04:25:09.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1994648776",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-04T04:25:09.000Z",
+     "submissionId": "1994648776"
+    }
+   }
+  },
+  "rotate-list": {
+   "id": "61",
+   "title": "Rotate List",
+   "slug": "rotate-list",
+   "difficulty": "Medium",
+   "tags": [
+    "Linked List",
+    "Two Pointers"
+   ],
+   "dir": "problems/0061-rotate-list",
+   "firstSolved": "2026-05-05T02:27:25.000Z",
+   "lastSolved": "2026-05-05T02:27:25.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1995388499",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-05T02:27:25.000Z",
+     "submissionId": "1995388499"
+    }
+   }
+  },
+  "rotating-the-box": {
+   "id": "1861",
+   "title": "Rotating the Box",
+   "slug": "rotating-the-box",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Matrix"
+   ],
+   "dir": "problems/1861-rotating-the-box",
+   "firstSolved": "2026-05-06T02:32:34.000Z",
+   "lastSolved": "2026-05-06T02:32:34.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996262652",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "16 ms",
+     "memory": "56.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T02:32:34.000Z",
+     "submissionId": "1996262652"
+    }
+   }
+  },
+  "squares-of-a-sorted-array": {
+   "id": "977",
+   "title": "Squares of a Sorted Array",
+   "slug": "squares-of-a-sorted-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+   ],
+   "dir": "problems/0977-squares-of-a-sorted-array",
+   "firstSolved": "2026-05-05T10:01:10.000Z",
+   "lastSolved": "2026-05-06T02:43:14.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996266937",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "30.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T02:43:14.000Z",
+     "submissionId": "1996266937"
+    }
+   }
+  },
+  "binary-tree-inorder-traversal": {
+   "id": "94",
+   "title": "Binary Tree Inorder Traversal",
+   "slug": "binary-tree-inorder-traversal",
+   "difficulty": "Easy",
+   "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0094-binary-tree-inorder-traversal",
+   "firstSolved": "2026-02-05T01:31:18.000Z",
+   "lastSolved": "2026-05-06T10:22:19.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996535997",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T10:22:19.000Z",
+     "submissionId": "1996535997"
+    }
+   }
+  },
+  "same-tree": {
+   "id": "100",
+   "title": "Same Tree",
+   "slug": "same-tree",
+   "difficulty": "Easy",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0100-same-tree",
+   "firstSolved": "2026-01-31T11:23:16.000Z",
+   "lastSolved": "2026-05-06T10:41:36.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996547375",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T10:41:36.000Z",
+     "submissionId": "1996547375"
+    }
+   }
+  },
+  "binary-tree-preorder-traversal": {
+   "id": "144",
+   "title": "Binary Tree Preorder Traversal",
+   "slug": "binary-tree-preorder-traversal",
+   "difficulty": "Easy",
+   "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0144-binary-tree-preorder-traversal",
+   "firstSolved": "2026-02-18T16:26:05.000Z",
+   "lastSolved": "2026-05-06T10:46:41.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996550314",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "13.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T10:46:41.000Z",
+     "submissionId": "1996550314"
+    }
+   }
+  },
+  "symmetric-tree": {
+   "id": "101",
+   "title": "Symmetric Tree",
+   "slug": "symmetric-tree",
+   "difficulty": "Easy",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0101-symmetric-tree",
+   "firstSolved": "2026-02-10T02:47:58.000Z",
+   "lastSolved": "2026-05-06T15:14:44.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996684705",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "18.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T15:14:44.000Z",
+     "submissionId": "1996684705"
+    }
+   }
+  },
+  "binary-tree-postorder-traversal": {
+   "id": "145",
+   "title": "Binary Tree Postorder Traversal",
+   "slug": "binary-tree-postorder-traversal",
+   "difficulty": "Easy",
+   "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0145-binary-tree-postorder-traversal",
+   "firstSolved": "2026-02-18T16:29:24.000Z",
+   "lastSolved": "2026-05-06T15:32:44.000Z",
+   "solves": 5,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996697202",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T15:32:44.000Z",
+     "submissionId": "1996697202"
+    }
+   }
+  },
+  "n-ary-tree-preorder-traversal": {
+   "id": "589",
+   "title": "N-ary Tree Preorder Traversal",
+   "slug": "n-ary-tree-preorder-traversal",
+   "difficulty": "Easy",
+   "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search"
+   ],
+   "dir": "problems/0589-n-ary-tree-preorder-traversal",
+   "firstSolved": "2026-05-06T15:49:35.000Z",
+   "lastSolved": "2026-05-06T15:49:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996708329",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "23 ms",
+     "memory": "112.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T15:49:35.000Z",
+     "submissionId": "1996708329"
+    }
+   }
+  },
+  "n-ary-tree-postorder-traversal": {
+   "id": "590",
+   "title": "N-ary Tree Postorder Traversal",
+   "slug": "n-ary-tree-postorder-traversal",
+   "difficulty": "Easy",
+   "tags": [
+    "Stack",
+    "Tree",
+    "Depth-First Search"
+   ],
+   "dir": "problems/0590-n-ary-tree-postorder-traversal",
+   "firstSolved": "2026-05-06T16:02:06.000Z",
+   "lastSolved": "2026-05-06T16:07:49.000Z",
+   "solves": 11,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996719605",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "111.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-06T16:07:49.000Z",
+     "submissionId": "1996719605"
+    }
+   }
+  },
+  "jump-game-ix": {
+   "id": "3660",
+   "title": "Jump Game IX",
+   "slug": "jump-game-ix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3660-jump-game-ix",
+   "firstSolved": "2026-05-07T01:47:35.000Z",
+   "lastSolved": "2026-05-07T01:47:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1996996312",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "16 ms",
+     "memory": "225.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-07T01:47:35.000Z",
+     "submissionId": "1996996312"
+    }
+   }
+  },
+  "evaluate-reverse-polish-notation": {
+   "id": "150",
+   "title": "Evaluate Reverse Polish Notation",
+   "slug": "evaluate-reverse-polish-notation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Stack"
+   ],
+   "dir": "problems/0150-evaluate-reverse-polish-notation",
+   "firstSolved": "2026-05-07T13:10:25.000Z",
+   "lastSolved": "2026-05-07T13:10:25.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1997385469",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "17.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-07T13:10:25.000Z",
+     "submissionId": "1997385469"
+    }
+   }
+  },
+  "number-of-substrings-with-only-1s": {
+   "id": "1513",
+   "title": "Number of Substrings With Only 1s",
+   "slug": "number-of-substrings-with-only-1s",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "String"
+   ],
+   "dir": "problems/1513-number-of-substrings-with-only-1s",
+   "firstSolved": "2026-05-07T12:56:27.000Z",
+   "lastSolved": "2026-05-07T15:27:36.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1997480073",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-07T15:27:36.000Z",
+     "submissionId": "1997480073"
+    }
+   }
+  },
+  "minimum-jumps-to-reach-end-via-prime-teleportation": {
+   "id": "3629",
+   "title": "Minimum Jumps to Reach End via Prime Teleportation",
+   "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Breadth-First Search",
+    "Number Theory"
+   ],
+   "dir": "problems/3629-minimum-jumps-to-reach-end-via-prime-teleportation",
+   "firstSolved": "2026-05-08T02:39:15.000Z",
+   "lastSolved": "2026-05-08T02:39:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1997794279",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1105 ms",
+     "memory": "309.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-08T02:39:15.000Z",
+     "submissionId": "1997794279"
+    }
+   }
+  },
+  "design-hashmap": {
+   "id": "706",
+   "title": "Design HashMap",
+   "slug": "design-hashmap",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+   ],
+   "dir": "problems/0706-design-hashmap",
+   "firstSolved": "2026-05-08T03:57:46.000Z",
+   "lastSolved": "2026-05-08T15:33:00.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998227353",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "54 ms",
+     "memory": "220.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-08T15:33:00.000Z",
+     "submissionId": "1998227353"
+    }
+   }
+  },
+  "cyclically-rotating-a-grid": {
+   "id": "1914",
+   "title": "Cyclically Rotating a Grid",
+   "slug": "cyclically-rotating-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+   ],
+   "dir": "problems/1914-cyclically-rotating-a-grid",
+   "firstSolved": "2026-05-09T02:35:55.000Z",
+   "lastSolved": "2026-05-09T02:35:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998500248",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "17 ms",
+     "memory": "18.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-09T02:35:55.000Z",
+     "submissionId": "1998500248"
+    }
+   }
+  },
+  "design-hashset": {
+   "id": "705",
+   "title": "Design HashSet",
+   "slug": "design-hashset",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+   ],
+   "dir": "problems/0705-design-hashset",
+   "firstSolved": "2026-05-09T02:40:40.000Z",
+   "lastSolved": "2026-05-09T02:40:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998501596",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "35 ms",
+     "memory": "83.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-09T02:40:40.000Z",
+     "submissionId": "1998501596"
+    }
+   }
+  },
+  "destination-city": {
+   "id": "1436",
+   "title": "Destination City",
+   "slug": "destination-city",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/1436-destination-city",
+   "firstSolved": "2026-05-09T02:54:37.000Z",
+   "lastSolved": "2026-05-09T02:54:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998505709",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "16.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-09T02:54:37.000Z",
+     "submissionId": "1998505709"
+    }
+   }
   }
  },
  "days": {
@@ -7558,16 +8189,16 @@
   "2026-01-28": 3,
   "2026-01-29": 1,
   "2026-01-30": 1,
-  "2026-01-31": 4,
+  "2026-01-31": 5,
   "2026-02-01": 2,
   "2026-02-02": 1,
   "2026-02-03": 1,
   "2026-02-04": 3,
-  "2026-02-05": 1,
+  "2026-02-05": 2,
   "2026-02-07": 2,
   "2026-02-08": 1,
   "2026-02-09": 1,
-  "2026-02-10": 5,
+  "2026-02-10": 6,
   "2026-02-11": 5,
   "2026-02-12": 4,
   "2025-12-11": 1,
@@ -7576,7 +8207,7 @@
   "2026-02-16": 5,
   "2026-02-15": 1,
   "2026-02-17": 1,
-  "2026-02-18": 2,
+  "2026-02-18": 4,
   "2026-02-19": 1,
   "2026-02-20": 2,
   "2026-02-21": 2,
@@ -7626,7 +8257,7 @@
   "2026-04-08": 1,
   "2026-04-09": 1,
   "2026-04-10": 2,
-  "2026-04-11": 8,
+  "2026-04-11": 9,
   "2026-04-12": 3,
   "2026-04-13": 1,
   "2026-04-14": 1,
@@ -7647,6 +8278,11 @@
   "2026-04-30": 2,
   "2026-05-01": 1,
   "2026-05-02": 1,
-  "2026-05-03": 7
+  "2026-05-03": 8,
+  "2026-05-05": 2,
+  "2026-05-06": 3,
+  "2026-05-07": 3,
+  "2026-05-08": 2,
+  "2026-05-09": 3
  }
 }
