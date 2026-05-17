@@ -8142,6 +8142,626 @@
      "submissionId": "1998505709"
     }
    }
+  },
+  "score-validator": {
+   "id": "3921",
+   "title": "Score Validator",
+   "slug": "score-validator",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3921-score-validator",
+   "firstSolved": "2026-05-09T14:36:16.000Z",
+   "lastSolved": "2026-05-09T14:36:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998883827",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "53.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-09T14:36:16.000Z",
+     "submissionId": "1998883827"
+    }
+   }
+  },
+  "minimum-generations-to-target-point": {
+   "id": "3923",
+   "title": "Minimum Generations to Target Point",
+   "slug": "minimum-generations-to-target-point",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Simulation"
+   ],
+   "dir": "problems/3923-minimum-generations-to-target-point",
+   "firstSolved": "2026-05-09T15:00:50.000Z",
+   "lastSolved": "2026-05-09T15:01:21.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998940731",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "845 ms",
+     "memory": "229 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-09T15:01:21.000Z",
+     "submissionId": "1998940731"
+    }
+   }
+  },
+  "minimum-flips-to-make-binary-string-coherent": {
+   "id": "3922",
+   "title": "Minimum Flips to Make Binary String Coherent",
+   "slug": "minimum-flips-to-make-binary-string-coherent",
+   "difficulty": "Medium",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/3922-minimum-flips-to-make-binary-string-coherent",
+   "firstSolved": "2026-05-09T15:31:00.000Z",
+   "lastSolved": "2026-05-09T15:31:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1998993243",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "15 ms",
+     "memory": "19.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-09T15:31:00.000Z",
+     "submissionId": "1998993243"
+    }
+   }
+  },
+  "concatenate-array-with-reverse": {
+   "id": "3925",
+   "title": "Concatenate Array With Reverse",
+   "slug": "concatenate-array-with-reverse",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/3925-concatenate-array-with-reverse",
+   "firstSolved": "2026-05-10T02:31:18.000Z",
+   "lastSolved": "2026-05-10T02:31:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1999308947",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "30.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-10T02:31:18.000Z",
+     "submissionId": "1999308947"
+    }
+   }
+  },
+  "count-valid-word-occurrences": {
+   "id": "3926",
+   "title": "Count Valid Word Occurrences",
+   "slug": "count-valid-word-occurrences",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/3926-count-valid-word-occurrences",
+   "firstSolved": "2026-05-10T02:51:09.000Z",
+   "lastSolved": "2026-05-10T02:51:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1999337479",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "115 ms",
+     "memory": "239.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-10T02:51:09.000Z",
+     "submissionId": "1999337479"
+    }
+   }
+  },
+  "minimize-array-sum-using-divisible-replacements": {
+   "id": "3927",
+   "title": "Minimize Array Sum Using Divisible Replacements",
+   "slug": "minimize-array-sum-using-divisible-replacements",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Greedy",
+    "Number Theory"
+   ],
+   "dir": "problems/3927-minimize-array-sum-using-divisible-replacements",
+   "firstSolved": "2026-05-10T02:52:08.000Z",
+   "lastSolved": "2026-05-10T02:52:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1999338897",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "619 ms",
+     "memory": "187.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-10T02:52:08.000Z",
+     "submissionId": "1999338897"
+    }
+   }
+  },
+  "maximum-number-of-jumps-to-reach-the-last-index": {
+   "id": "2770",
+   "title": "Maximum Number of Jumps to Reach the Last Index",
+   "slug": "maximum-number-of-jumps-to-reach-the-last-index",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/2770-maximum-number-of-jumps-to-reach-the-last-index",
+   "firstSolved": "2026-05-10T03:08:30.000Z",
+   "lastSolved": "2026-05-10T03:08:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "1999362262",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "14 ms",
+     "memory": "68.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-10T03:08:30.000Z",
+     "submissionId": "1999362262"
+    }
+   }
+  },
+  "separate-the-digits-in-an-array": {
+   "id": "2553",
+   "title": "Separate the Digits in an Array",
+   "slug": "separate-the-digits-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/2553-separate-the-digits-in-an-array",
+   "firstSolved": "2026-05-11T04:32:46.000Z",
+   "lastSolved": "2026-05-11T12:57:30.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2000516607",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "15.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-11T12:57:30.000Z",
+     "submissionId": "2000516607"
+    }
+   }
+  },
+  "minimum-initial-energy-to-finish-tasks": {
+   "id": "1665",
+   "title": "Minimum Initial Energy to Finish Tasks",
+   "slug": "minimum-initial-energy-to-finish-tasks",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/1665-minimum-initial-energy-to-finish-tasks",
+   "firstSolved": "2026-05-12T02:39:28.000Z",
+   "lastSolved": "2026-05-12T12:09:41.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2001315187",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "78 ms",
+     "memory": "110.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-12T12:09:41.000Z",
+     "submissionId": "2001315187"
+    }
+   }
+  },
+  "distribute-candies": {
+   "id": "575",
+   "title": "Distribute Candies",
+   "slug": "distribute-candies",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/0575-distribute-candies",
+   "firstSolved": "2026-05-09T03:23:36.000Z",
+   "lastSolved": "2026-10-01T05:53:14.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2158867944",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "108 ms",
+     "memory": "120.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-01T05:53:14.000Z",
+     "submissionId": "2158867944"
+    },
+    "solution.py": {
+     "lang": "python3",
+     "label": "Python3",
+     "runtime": "23 ms",
+     "memory": "21.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-12T13:29:09.000Z",
+     "submissionId": "2001364663"
+    }
+   }
+  },
+  "minimum-moves-to-make-array-complementary": {
+   "id": "1674",
+   "title": "Minimum Moves to Make Array Complementary",
+   "slug": "minimum-moves-to-make-array-complementary",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1674-minimum-moves-to-make-array-complementary",
+   "firstSolved": "2026-05-13T06:10:20.000Z",
+   "lastSolved": "2026-05-13T06:10:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2001901064",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "9 ms",
+     "memory": "93.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-13T06:10:20.000Z",
+     "submissionId": "2001901064"
+    }
+   }
+  },
+  "find-users-with-high-token-usage": {
+   "id": "3793",
+   "title": "Find Users with High Token Usage",
+   "slug": "find-users-with-high-token-usage",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/3793-find-users-with-high-token-usage",
+   "firstSolved": "2026-05-14T04:03:00.000Z",
+   "lastSolved": "2026-05-14T04:03:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2002612704",
+   "subs": {
+    "solution.sql": {
+     "lang": "mysql",
+     "label": "MySQL",
+     "runtime": "337 ms",
+     "memory": "0.0B",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-14T04:03:00.000Z",
+     "submissionId": "2002612704"
+    }
+   }
+  },
+  "check-if-array-is-good": {
+   "id": "2784",
+   "title": "Check if Array is Good",
+   "slug": "check-if-array-is-good",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+   ],
+   "dir": "problems/2784-check-if-array-is-good",
+   "firstSolved": "2026-05-14T02:55:04.000Z",
+   "lastSolved": "2026-05-14T15:22:31.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2003081345",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "26.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-14T15:22:31.000Z",
+     "submissionId": "2003081345"
+    }
+   }
+  },
+  "find-minimum-in-rotated-sorted-array": {
+   "id": "153",
+   "title": "Find Minimum in Rotated Sorted Array",
+   "slug": "find-minimum-in-rotated-sorted-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0153-find-minimum-in-rotated-sorted-array",
+   "firstSolved": "2026-05-15T05:23:38.000Z",
+   "lastSolved": "2026-05-15T05:23:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2003505391",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "14.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-15T05:23:38.000Z",
+     "submissionId": "2003505391"
+    }
+   }
+  },
+  "find-minimum-in-rotated-sorted-array-ii": {
+   "id": "154",
+   "title": "Find Minimum in Rotated Sorted Array II",
+   "slug": "find-minimum-in-rotated-sorted-array-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0154-find-minimum-in-rotated-sorted-array-ii",
+   "firstSolved": "2026-05-16T00:50:18.000Z",
+   "lastSolved": "2026-05-16T00:50:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2004173117",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-16T00:50:18.000Z",
+     "submissionId": "2004173117"
+    }
+   }
+  },
+  "check-adjacent-digit-differences": {
+   "id": "3931",
+   "title": "Check Adjacent Digit Differences",
+   "slug": "check-adjacent-digit-differences",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/3931-check-adjacent-digit-differences",
+   "firstSolved": "2026-05-17T02:32:48.000Z",
+   "lastSolved": "2026-05-17T02:32:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2005019595",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-17T02:32:48.000Z",
+     "submissionId": "2005019595"
+    }
+   }
+  },
+  "smallest-unique-subarray": {
+   "id": "3934",
+   "title": "Smallest Unique Subarray",
+   "slug": "smallest-unique-subarray",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Rolling Hash",
+    "Suffix Array",
+    "Hash Function"
+   ],
+   "dir": "problems/3934-smallest-unique-subarray",
+   "firstSolved": "2026-05-17T03:18:39.000Z",
+   "lastSolved": "2026-05-17T03:18:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2005121995",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "696 ms",
+     "memory": "387.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-17T03:18:39.000Z",
+     "submissionId": "2005121995"
+    }
+   }
+  },
+  "count-k-th-roots-in-a-range": {
+   "id": "3932",
+   "title": "Count K-th Roots in a Range",
+   "slug": "count-k-th-roots-in-a-range",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Binary Search"
+   ],
+   "dir": "problems/3932-count-k-th-roots-in-a-range",
+   "firstSolved": "2026-05-17T03:23:56.000Z",
+   "lastSolved": "2026-05-17T03:23:56.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2005131304",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-17T03:23:56.000Z",
+     "submissionId": "2005131304"
+    }
+   }
+  },
+  "minimum-cost-to-split-into-ones": {
+   "id": "3857",
+   "title": "Minimum Cost to Split into Ones",
+   "slug": "minimum-cost-to-split-into-ones",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3857-minimum-cost-to-split-into-ones",
+   "firstSolved": "2026-05-17T13:09:28.000Z",
+   "lastSolved": "2026-05-17T13:09:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2005557403",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-17T13:09:28.000Z",
+     "submissionId": "2005557403"
+    }
+   }
+  },
+  "jump-game-iii": {
+   "id": "1306",
+   "title": "Jump Game III",
+   "slug": "jump-game-iii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search"
+   ],
+   "dir": "problems/1306-jump-game-iii",
+   "firstSolved": "2026-05-17T09:13:19.000Z",
+   "lastSolved": "2026-05-17T16:45:46.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2005717250",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "40.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-17T16:45:46.000Z",
+     "submissionId": "2005717250"
+    }
+   }
   }
  },
  "days": {
@@ -8283,6 +8903,14 @@
   "2026-05-06": 3,
   "2026-05-07": 3,
   "2026-05-08": 2,
-  "2026-05-09": 3
+  "2026-05-09": 7,
+  "2026-05-10": 4,
+  "2026-05-11": 1,
+  "2026-05-12": 1,
+  "2026-05-13": 1,
+  "2026-05-14": 2,
+  "2026-05-15": 1,
+  "2026-05-16": 1,
+  "2026-05-17": 5
  }
 }
