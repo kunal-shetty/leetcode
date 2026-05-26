@@ -8762,6 +8762,623 @@
      "submissionId": "2005717250"
     }
    }
+  },
+  "jump-game-iv": {
+   "id": "1345",
+   "title": "Jump Game IV",
+   "slug": "jump-game-iv",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Breadth-First Search"
+   ],
+   "dir": "problems/1345-jump-game-iv",
+   "firstSolved": "2026-05-18T06:09:54.000Z",
+   "lastSolved": "2026-05-18T06:09:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2006107755",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "69 ms",
+     "memory": "74.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-18T06:09:54.000Z",
+     "submissionId": "2006107755"
+    }
+   }
+  },
+  "minimum-common-value": {
+   "id": "2540",
+   "title": "Minimum Common Value",
+   "slug": "minimum-common-value",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search"
+   ],
+   "dir": "problems/2540-minimum-common-value",
+   "firstSolved": "2026-05-19T02:42:59.000Z",
+   "lastSolved": "2026-05-19T02:42:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2006847745",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "54.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-19T02:42:59.000Z",
+     "submissionId": "2006847745"
+    }
+   }
+  },
+  "restore-finishing-order": {
+   "id": "3668",
+   "title": "Restore Finishing Order",
+   "slug": "restore-finishing-order",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/3668-restore-finishing-order",
+   "firstSolved": "2026-05-19T11:27:43.000Z",
+   "lastSolved": "2026-05-19T11:27:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2007240590",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "52.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-19T11:27:43.000Z",
+     "submissionId": "2007240590"
+    }
+   }
+  },
+  "find-the-prefix-common-array-of-two-arrays": {
+   "id": "2657",
+   "title": "Find the Prefix Common Array of Two Arrays",
+   "slug": "find-the-prefix-common-array-of-two-arrays",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/2657-find-the-prefix-common-array-of-two-arrays",
+   "firstSolved": "2026-05-20T04:01:31.000Z",
+   "lastSolved": "2026-05-20T04:01:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2007771943",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "86.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-20T04:01:31.000Z",
+     "submissionId": "2007771943"
+    }
+   }
+  },
+  "sort-array-by-parity": {
+   "id": "905",
+   "title": "Sort Array By Parity",
+   "slug": "sort-array-by-parity",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+   ],
+   "dir": "problems/0905-sort-array-by-parity",
+   "firstSolved": "2026-05-20T09:28:31.000Z",
+   "lastSolved": "2026-05-20T09:28:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2008016425",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "21.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-20T09:28:31.000Z",
+     "submissionId": "2008016425"
+    }
+   }
+  },
+  "find-the-length-of-the-longest-common-prefix": {
+   "id": "3043",
+   "title": "Find the Length of the Longest Common Prefix",
+   "slug": "find-the-length-of-the-longest-common-prefix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie"
+   ],
+   "dir": "problems/3043-find-the-length-of-the-longest-common-prefix",
+   "firstSolved": "2026-05-21T04:10:01.000Z",
+   "lastSolved": "2026-05-21T04:10:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2008665184",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "346 ms",
+     "memory": "152.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-21T04:10:01.000Z",
+     "submissionId": "2008665184"
+    }
+   }
+  },
+  "search-in-rotated-sorted-array": {
+   "id": "33",
+   "title": "Search in Rotated Sorted Array",
+   "slug": "search-in-rotated-sorted-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0033-search-in-rotated-sorted-array",
+   "firstSolved": "2026-05-22T02:36:48.000Z",
+   "lastSolved": "2026-05-22T02:36:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2009484501",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "15.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-22T02:36:48.000Z",
+     "submissionId": "2009484501"
+    }
+   }
+  },
+  "check-if-array-is-sorted-and-rotated": {
+   "id": "1752",
+   "title": "Check if Array Is Sorted and Rotated",
+   "slug": "check-if-array-is-sorted-and-rotated",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/1752-check-if-array-is-sorted-and-rotated",
+   "firstSolved": "2026-05-23T03:22:02.000Z",
+   "lastSolved": "2026-05-23T03:22:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2010350728",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-23T03:22:02.000Z",
+     "submissionId": "2010350728"
+    }
+   }
+  },
+  "design-ride-sharing-system": {
+   "id": "3829",
+   "title": "Design Ride Sharing System",
+   "slug": "design-ride-sharing-system",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Design",
+    "Queue",
+    "Data Stream"
+   ],
+   "dir": "problems/3829-design-ride-sharing-system",
+   "firstSolved": "2026-05-23T13:56:25.000Z",
+   "lastSolved": "2026-05-23T13:56:25.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2010799582",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "52 ms",
+     "memory": "145 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-23T13:56:25.000Z",
+     "submissionId": "2010799582"
+    }
+   }
+  },
+  "minimum-swaps-to-move-zeros-to-end": {
+   "id": "3936",
+   "title": "Minimum Swaps to Move Zeros to End",
+   "slug": "minimum-swaps-to-move-zeros-to-end",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers"
+   ],
+   "dir": "problems/3936-minimum-swaps-to-move-zeros-to-end",
+   "firstSolved": "2026-05-23T14:51:35.000Z",
+   "lastSolved": "2026-05-23T14:51:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2010835614",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-23T14:51:35.000Z",
+     "submissionId": "2010835614"
+    }
+   }
+  },
+  "minimum-operations-to-make-array-modulo-alternating-i": {
+   "id": "3937",
+   "title": "Minimum Operations to Make Array Modulo Alternating I",
+   "slug": "minimum-operations-to-make-array-modulo-alternating-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Enumeration"
+   ],
+   "dir": "problems/3937-minimum-operations-to-make-array-modulo-alternating-i",
+   "firstSolved": "2026-05-23T14:56:47.000Z",
+   "lastSolved": "2026-05-23T14:56:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2010848200",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "24.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-23T14:56:47.000Z",
+     "submissionId": "2010848200"
+    }
+   }
+  },
+  "count-non-adjacent-subsets-in-a-rooted-tree": {
+   "id": "3939",
+   "title": "Count Non Adjacent Subsets in a Rooted Tree",
+   "slug": "count-non-adjacent-subsets-in-a-rooted-tree",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Tree",
+    "Depth-First Search"
+   ],
+   "dir": "problems/3939-count-non-adjacent-subsets-in-a-rooted-tree",
+   "firstSolved": "2026-05-23T15:29:19.000Z",
+   "lastSolved": "2026-05-23T15:29:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2010906312",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "882 ms",
+     "memory": "121.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-23T15:29:19.000Z",
+     "submissionId": "2010906312"
+    }
+   }
+  },
+  "jump-game-v": {
+   "id": "1340",
+   "title": "Jump Game V",
+   "slug": "jump-game-v",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+   ],
+   "dir": "problems/1340-jump-game-v",
+   "firstSolved": "2026-05-24T02:24:32.000Z",
+   "lastSolved": "2026-05-24T02:24:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2011244366",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "19 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-24T02:24:32.000Z",
+     "submissionId": "2011244366"
+    }
+   }
+  },
+  "limit-occurrences-in-sorted-array": {
+   "id": "3940",
+   "title": "Limit Occurrences in Sorted Array",
+   "slug": "limit-occurrences-in-sorted-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers"
+   ],
+   "dir": "problems/3940-limit-occurrences-in-sorted-array",
+   "firstSolved": "2026-05-24T02:33:52.000Z",
+   "lastSolved": "2026-05-24T02:33:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2011250616",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "33.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-24T02:33:52.000Z",
+     "submissionId": "2011250616"
+    }
+   }
+  },
+  "password-strength": {
+   "id": "3941",
+   "title": "Password Strength",
+   "slug": "password-strength",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/3941-password-strength",
+   "firstSolved": "2026-05-24T02:37:14.000Z",
+   "lastSolved": "2026-05-24T02:37:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2011258097",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "15 ms",
+     "memory": "17.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-24T02:37:14.000Z",
+     "submissionId": "2011258097"
+    }
+   }
+  },
+  "maximum-strength-of-a-group": {
+   "id": "2708",
+   "title": "Maximum Strength of a Group",
+   "slug": "maximum-strength-of-a-group",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Backtracking",
+    "Greedy",
+    "Bit Manipulation",
+    "Sorting",
+    "Enumeration"
+   ],
+   "dir": "problems/2708-maximum-strength-of-a-group",
+   "firstSolved": "2026-05-24T14:18:52.000Z",
+   "lastSolved": "2026-05-24T14:18:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2011784026",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "51.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-24T14:18:52.000Z",
+     "submissionId": "2011784026"
+    }
+   }
+  },
+  "jump-game-vii": {
+   "id": "1871",
+   "title": "Jump Game VII",
+   "slug": "jump-game-vii",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1871-jump-game-vii",
+   "firstSolved": "2026-05-25T03:22:30.000Z",
+   "lastSolved": "2026-05-25T03:22:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2012177941",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "19 ms",
+     "memory": "20 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-25T03:22:30.000Z",
+     "submissionId": "2012177941"
+    }
+   }
+  },
+  "compare-sums-of-bitonic-parts": {
+   "id": "3909",
+   "title": "Compare Sums of Bitonic Parts",
+   "slug": "compare-sums-of-bitonic-parts",
+   "difficulty": "Medium",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3909-compare-sums-of-bitonic-parts",
+   "firstSolved": "2026-04-25T15:34:32.000Z",
+   "lastSolved": "2026-05-25T11:04:48.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2012536598",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "125.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-25T11:04:48.000Z",
+     "submissionId": "2012536598"
+    }
+   }
+  },
+  "special-positions-in-a-binary-matrix": {
+   "id": "1582",
+   "title": "Special Positions in a Binary Matrix",
+   "slug": "special-positions-in-a-binary-matrix",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Matrix"
+   ],
+   "dir": "problems/1582-special-positions-in-a-binary-matrix",
+   "firstSolved": "2026-03-04T06:00:05.000Z",
+   "lastSolved": "2026-05-25T12:48:38.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2012610861",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-25T12:48:38.000Z",
+     "submissionId": "2012610861"
+    }
+   }
+  },
+  "count-the-number-of-special-characters-i": {
+   "id": "3120",
+   "title": "Count the Number of Special Characters I",
+   "slug": "count-the-number-of-special-characters-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/3120-count-the-number-of-special-characters-i",
+   "firstSolved": "2026-05-26T03:30:56.000Z",
+   "lastSolved": "2026-05-26T09:56:42.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2013484504",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "9.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-26T09:56:42.000Z",
+     "submissionId": "2013484504"
+    }
+   }
   }
  },
  "days": {
@@ -8890,7 +9507,7 @@
   "2026-04-22": 2,
   "2026-04-23": 1,
   "2026-04-24": 2,
-  "2026-04-25": 2,
+  "2026-04-25": 3,
   "2026-04-26": 4,
   "2026-04-27": 1,
   "2026-04-28": 1,
@@ -8911,6 +9528,16 @@
   "2026-05-14": 2,
   "2026-05-15": 1,
   "2026-05-16": 1,
-  "2026-05-17": 5
+  "2026-05-17": 5,
+  "2026-05-18": 1,
+  "2026-05-19": 2,
+  "2026-05-20": 2,
+  "2026-05-21": 1,
+  "2026-05-22": 1,
+  "2026-05-23": 5,
+  "2026-05-24": 4,
+  "2026-05-25": 1,
+  "2026-03-04": 1,
+  "2026-05-26": 1
  }
 }
