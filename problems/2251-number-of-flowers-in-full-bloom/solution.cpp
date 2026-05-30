@@ -1,0 +1,26 @@
+// 2251. Number of Flowers in Full Bloom
+// Difficulty: Hard
+// https://leetcode.com/problems/number-of-flowers-in-full-bloom/
+// Runtime: 59 ms (beats —)
+// Memory: 93.6 MB (beats —)
+// Submitted: 2026-05-30
+
+class Solution {
+public:
+    vector<int> fullBloomFlowers(vector<vector<int>>& flowers, vector<int>& people) {
+        vector<int> start, end;
+        for(auto flower : flowers){
+            start.push_back(flower[0]);
+            end.push_back(flower[1]);
+        }
+        sort(start.begin(), start.end());
+        sort(end.begin(), end.end());
+        vector<int> res;
+        for(int t : people){
+            auto started = upper_bound(start.begin(), start.end(), t) - start.begin(); 
+            auto ended = lower_bound(end.begin(), end.end(), t) - end.begin();
+            res.push_back(started - ended); 
+        }
+        return res;
+    }
+};
