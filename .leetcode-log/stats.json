@@ -9379,6 +9379,610 @@
      "submissionId": "2013484504"
     }
    }
+  },
+  "count-the-number-of-special-characters-ii": {
+   "id": "3121",
+   "title": "Count the Number of Special Characters II",
+   "slug": "count-the-number-of-special-characters-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/3121-count-the-number-of-special-characters-ii",
+   "firstSolved": "2026-05-27T03:36:17.000Z",
+   "lastSolved": "2026-05-27T05:01:13.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2014185957",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "92 ms",
+     "memory": "24.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-27T05:01:13.000Z",
+     "submissionId": "2014185957"
+    }
+   }
+  },
+  "minimum-operations-to-sort-a-permutation": {
+   "id": "3942",
+   "title": "Minimum Operations to Sort a Permutation",
+   "slug": "minimum-operations-to-sort-a-permutation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3942-minimum-operations-to-sort-a-permutation",
+   "firstSolved": "2026-05-27T05:31:53.000Z",
+   "lastSolved": "2026-05-27T05:31:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2014212497",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "141.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-27T05:31:53.000Z",
+     "submissionId": "2014212497"
+    }
+   }
+  },
+  "display-the-first-three-rows": {
+   "id": "2879",
+   "title": "Display the First Three Rows",
+   "slug": "display-the-first-three-rows",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2879-display-the-first-three-rows",
+   "firstSolved": "2026-05-27T16:17:59.000Z",
+   "lastSolved": "2026-05-27T16:17:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2014737007",
+   "subs": {
+    "solution.py": {
+     "lang": "pythondata",
+     "label": "Pandas",
+     "runtime": "329 ms",
+     "memory": "66.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-27T16:17:59.000Z",
+     "submissionId": "2014737007"
+    }
+   }
+  },
+  "minimum-operations-to-make-array-sum-divisible-by-k": {
+   "id": "3512",
+   "title": "Minimum Operations to Make Array Sum Divisible by K",
+   "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3512-minimum-operations-to-make-array-sum-divisible-by-k",
+   "firstSolved": "2026-05-27T16:20:41.000Z",
+   "lastSolved": "2026-05-27T16:20:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2014739370",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "45.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-27T16:20:41.000Z",
+     "submissionId": "2014739370"
+    }
+   }
+  },
+  "longest-common-suffix-queries": {
+   "id": "3093",
+   "title": "Longest Common Suffix Queries",
+   "slug": "longest-common-suffix-queries",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "String",
+    "Trie"
+   ],
+   "dir": "problems/3093-longest-common-suffix-queries",
+   "firstSolved": "2026-05-28T02:44:51.000Z",
+   "lastSolved": "2026-05-28T02:44:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015046629",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1012 ms",
+     "memory": "317.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-28T02:44:51.000Z",
+     "submissionId": "2015046629"
+    }
+   }
+  },
+  "design-parking-system": {
+   "id": "1603",
+   "title": "Design Parking System",
+   "slug": "design-parking-system",
+   "difficulty": "Easy",
+   "tags": [
+    "Design",
+    "Simulation",
+    "Counting"
+   ],
+   "dir": "problems/1603-design-parking-system",
+   "firstSolved": "2026-05-28T03:39:30.000Z",
+   "lastSolved": "2026-05-28T03:39:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015072980",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "38.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-28T03:39:30.000Z",
+     "submissionId": "2015072980"
+    }
+   }
+  },
+  "add-two-promises": {
+   "id": "2723",
+   "title": "Add Two Promises",
+   "slug": "add-two-promises",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2723-add-two-promises",
+   "firstSolved": "2026-05-28T12:06:33.000Z",
+   "lastSolved": "2026-05-28T12:06:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015458812",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "53 ms",
+     "memory": "54.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-28T12:06:33.000Z",
+     "submissionId": "2015458812"
+    }
+   }
+  },
+  "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+   "id": "3190",
+   "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+   "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+   "firstSolved": "2026-05-28T12:08:35.000Z",
+   "lastSolved": "2026-05-28T12:08:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015460284",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "23.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-28T12:08:35.000Z",
+     "submissionId": "2015460284"
+    }
+   }
+  },
+  "score-of-a-string": {
+   "id": "3110",
+   "title": "Score of a String",
+   "slug": "score-of-a-string",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/3110-score-of-a-string",
+   "firstSolved": "2026-05-28T12:13:54.000Z",
+   "lastSolved": "2026-05-28T12:13:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015464351",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-28T12:13:54.000Z",
+     "submissionId": "2015464351"
+    }
+   }
+  },
+  "build-array-from-permutation": {
+   "id": "1920",
+   "title": "Build Array from Permutation",
+   "slug": "build-array-from-permutation",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/1920-build-array-from-permutation",
+   "firstSolved": "2026-05-28T12:16:30.000Z",
+   "lastSolved": "2026-05-28T12:16:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015466332",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "20.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-28T12:16:30.000Z",
+     "submissionId": "2015466332"
+    }
+   }
+  },
+  "minimum-element-after-replacement-with-digit-sum": {
+   "id": "3300",
+   "title": "Minimum Element After Replacement With Digit Sum",
+   "slug": "minimum-element-after-replacement-with-digit-sum",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3300-minimum-element-after-replacement-with-digit-sum",
+   "firstSolved": "2026-05-29T01:55:08.000Z",
+   "lastSolved": "2026-05-29T01:55:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2015958959",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "27.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-29T01:55:08.000Z",
+     "submissionId": "2015958959"
+    }
+   }
+  },
+  "can-place-flowers": {
+   "id": "605",
+   "title": "Can Place Flowers",
+   "slug": "can-place-flowers",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/0605-can-place-flowers",
+   "firstSolved": "2026-05-29T15:47:50.000Z",
+   "lastSolved": "2026-05-29T15:47:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2016557793",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "24 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-29T15:47:50.000Z",
+     "submissionId": "2016557793"
+    }
+   }
+  },
+  "block-placement-queries": {
+   "id": "3161",
+   "title": "Block Placement Queries",
+   "slug": "block-placement-queries",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Ordered Set"
+   ],
+   "dir": "problems/3161-block-placement-queries",
+   "firstSolved": "2026-05-30T06:01:44.000Z",
+   "lastSolved": "2026-05-30T06:01:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2016965644",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "670 ms",
+     "memory": "364.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-30T06:01:44.000Z",
+     "submissionId": "2016965644"
+    }
+   }
+  },
+  "number-of-flowers-in-full-bloom": {
+   "id": "2251",
+   "title": "Number of Flowers in Full Bloom",
+   "slug": "number-of-flowers-in-full-bloom",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Sorting",
+    "Prefix Sum",
+    "Ordered Set"
+   ],
+   "dir": "problems/2251-number-of-flowers-in-full-bloom",
+   "firstSolved": "2026-05-30T06:51:36.000Z",
+   "lastSolved": "2026-05-30T06:51:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2017006978",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "59 ms",
+     "memory": "93.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-30T06:51:36.000Z",
+     "submissionId": "2017006978"
+    }
+   }
+  },
+  "destroying-asteroids": {
+   "id": "2126",
+   "title": "Destroying Asteroids",
+   "slug": "destroying-asteroids",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/2126-destroying-asteroids",
+   "firstSolved": "2026-05-31T02:13:58.000Z",
+   "lastSolved": "2026-05-31T02:13:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2017665210",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "23 ms",
+     "memory": "106.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T02:13:58.000Z",
+     "submissionId": "2017665210"
+    }
+   }
+  },
+  "digit-frequency-score": {
+   "id": "3945",
+   "title": "Digit Frequency Score",
+   "slug": "digit-frequency-score",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "Math"
+   ],
+   "dir": "problems/3945-digit-frequency-score",
+   "firstSolved": "2026-05-31T02:32:59.000Z",
+   "lastSolved": "2026-05-31T02:32:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2017677715",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "9.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T02:32:59.000Z",
+     "submissionId": "2017677715"
+    }
+   }
+  },
+  "lexicographically-maximum-mex-array": {
+   "id": "3948",
+   "title": "Lexicographically Maximum MEX Array",
+   "slug": "lexicographically-maximum-mex-array",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Queue"
+   ],
+   "dir": "problems/3948-lexicographically-maximum-mex-array",
+   "firstSolved": "2026-05-31T02:42:44.000Z",
+   "lastSolved": "2026-05-31T02:42:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2017693246",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "139 ms",
+     "memory": "125.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T02:42:44.000Z",
+     "submissionId": "2017693246"
+    }
+   }
+  },
+  "maximum-number-of-items-from-sale-ii": {
+   "id": "3947",
+   "title": "Maximum Number of Items From Sale II",
+   "slug": "maximum-number-of-items-from-sale-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/3947-maximum-number-of-items-from-sale-ii",
+   "firstSolved": "2026-05-31T03:07:48.000Z",
+   "lastSolved": "2026-05-31T03:07:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2017721133",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "323 ms",
+     "memory": "318.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T03:07:48.000Z",
+     "submissionId": "2017721133"
+    }
+   }
+  },
+  "maximum-number-of-items-from-sale-i": {
+   "id": "3946",
+   "title": "Maximum Number of Items From Sale I",
+   "slug": "maximum-number-of-items-from-sale-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/3946-maximum-number-of-items-from-sale-i",
+   "firstSolved": "2026-05-31T03:21:57.000Z",
+   "lastSolved": "2026-05-31T03:21:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2017737916",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "135 ms",
+     "memory": "145.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T03:21:57.000Z",
+     "submissionId": "2017737916"
+    }
+   }
+  },
+  "modify-columns": {
+   "id": "2884",
+   "title": "Modify Columns",
+   "slug": "modify-columns",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2884-modify-columns",
+   "firstSolved": "2026-05-31T11:54:36.000Z",
+   "lastSolved": "2026-05-31T11:54:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018129492",
+   "subs": {
+    "solution.py": {
+     "lang": "pythondata",
+     "label": "Pandas",
+     "runtime": "243 ms",
+     "memory": "66.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T11:54:36.000Z",
+     "submissionId": "2018129492"
+    }
+   }
   }
  },
  "days": {
@@ -9538,6 +10142,11 @@
   "2026-05-24": 4,
   "2026-05-25": 1,
   "2026-03-04": 1,
-  "2026-05-26": 1
+  "2026-05-26": 1,
+  "2026-05-27": 4,
+  "2026-05-28": 6,
+  "2026-05-29": 2,
+  "2026-05-30": 2,
+  "2026-05-31": 6
  }
 }
