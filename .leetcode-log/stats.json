@@ -9983,6 +9983,621 @@
      "submissionId": "2018129492"
     }
    }
+  },
+  "maximum-substrings-with-distinct-start": {
+   "id": "3760",
+   "title": "Maximum Substrings With Distinct Start",
+   "slug": "maximum-substrings-with-distinct-start",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/3760-maximum-substrings-with-distinct-start",
+   "firstSolved": "2026-05-31T11:57:38.000Z",
+   "lastSolved": "2026-05-31T11:57:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018131689",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "29 ms",
+     "memory": "25.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T11:57:38.000Z",
+     "submissionId": "2018131689"
+    }
+   }
+  },
+  "find-the-maximum-achievable-number": {
+   "id": "2769",
+   "title": "Find the Maximum Achievable Number",
+   "slug": "find-the-maximum-achievable-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/2769-find-the-maximum-achievable-number",
+   "firstSolved": "2026-05-31T12:02:58.000Z",
+   "lastSolved": "2026-05-31T12:02:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018135546",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T12:02:58.000Z",
+     "submissionId": "2018135546"
+    }
+   }
+  },
+  "divisible-and-non-divisible-sums-difference": {
+   "id": "2894",
+   "title": "Divisible and Non-divisible Sums Difference",
+   "slug": "divisible-and-non-divisible-sums-difference",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/2894-divisible-and-non-divisible-sums-difference",
+   "firstSolved": "2026-05-31T12:06:28.000Z",
+   "lastSolved": "2026-05-31T12:06:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018138090",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T12:06:28.000Z",
+     "submissionId": "2018138090"
+    }
+   }
+  },
+  "happy-number": {
+   "id": "202",
+   "title": "Happy Number",
+   "slug": "happy-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "Math",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+   ],
+   "dir": "problems/0202-happy-number",
+   "firstSolved": "2025-04-03T12:13:15.000Z",
+   "lastSolved": "2026-05-31T12:26:49.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018153353",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T12:26:49.000Z",
+     "submissionId": "2018153353"
+    }
+   }
+  },
+  "find-the-original-array-of-prefix-xor": {
+   "id": "2433",
+   "title": "Find The Original Array of Prefix Xor",
+   "slug": "find-the-original-array-of-prefix-xor",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/2433-find-the-original-array-of-prefix-xor",
+   "firstSolved": "2026-05-31T12:42:29.000Z",
+   "lastSolved": "2026-05-31T12:42:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018164849",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "6 ms",
+     "memory": "83.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-05-31T12:42:29.000Z",
+     "submissionId": "2018164849"
+    }
+   }
+  },
+  "max-points-on-a-line": {
+   "id": "149",
+   "title": "Max Points on a Line",
+   "slug": "max-points-on-a-line",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Geometry",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+   ],
+   "dir": "problems/0149-max-points-on-a-line",
+   "firstSolved": "2026-06-01T02:53:48.000Z",
+   "lastSolved": "2026-06-01T02:53:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018619855",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "23 ms",
+     "memory": "17.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-01T02:53:48.000Z",
+     "submissionId": "2018619855"
+    }
+   }
+  },
+  "minimum-amount-of-time-to-collect-garbage": {
+   "id": "2391",
+   "title": "Minimum Amount of Time to Collect Garbage",
+   "slug": "minimum-amount-of-time-to-collect-garbage",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "String",
+    "Prefix Sum"
+   ],
+   "dir": "problems/2391-minimum-amount-of-time-to-collect-garbage",
+   "firstSolved": "2026-06-01T05:58:11.000Z",
+   "lastSolved": "2026-06-01T05:58:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018758921",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "37 ms",
+     "memory": "108.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-01T05:58:11.000Z",
+     "submissionId": "2018758921"
+    }
+   }
+  },
+  "encode-and-decode-tinyurl": {
+   "id": "535",
+   "title": "Encode and Decode TinyURL",
+   "slug": "encode-and-decode-tinyurl",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Design",
+    "Hash Function"
+   ],
+   "dir": "problems/0535-encode-and-decode-tinyurl",
+   "firstSolved": "2026-06-01T06:03:33.000Z",
+   "lastSolved": "2026-06-01T06:03:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018764256",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-01T06:03:33.000Z",
+     "submissionId": "2018764256"
+    }
+   }
+  },
+  "subrectangle-queries": {
+   "id": "1476",
+   "title": "Subrectangle Queries",
+   "slug": "subrectangle-queries",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Design",
+    "Matrix"
+   ],
+   "dir": "problems/1476-subrectangle-queries",
+   "firstSolved": "2026-06-01T07:25:00.000Z",
+   "lastSolved": "2026-06-01T07:25:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018847303",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "26 ms",
+     "memory": "25.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-01T07:25:00.000Z",
+     "submissionId": "2018847303"
+    }
+   }
+  },
+  "minimum-cost-of-buying-candies-with-discount": {
+   "id": "2144",
+   "title": "Minimum Cost of Buying Candies With Discount",
+   "slug": "minimum-cost-of-buying-candies-with-discount",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/2144-minimum-cost-of-buying-candies-with-discount",
+   "firstSolved": "2026-06-01T01:29:11.000Z",
+   "lastSolved": "2026-06-01T07:58:43.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2018874897",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "6 ms",
+     "memory": "16.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-01T07:58:43.000Z",
+     "submissionId": "2018874897"
+    }
+   }
+  },
+  "earliest-finish-time-for-land-and-water-rides-i": {
+   "id": "3633",
+   "title": "Earliest Finish Time for Land and Water Rides I",
+   "slug": "earliest-finish-time-for-land-and-water-rides-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/3633-earliest-finish-time-for-land-and-water-rides-i",
+   "firstSolved": "2026-06-02T03:11:44.000Z",
+   "lastSolved": "2026-06-02T03:11:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2019670495",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "91.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-02T03:11:44.000Z",
+     "submissionId": "2019670495"
+    }
+   }
+  },
+  "video-stitching": {
+   "id": "1024",
+   "title": "Video Stitching",
+   "slug": "video-stitching",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/1024-video-stitching",
+   "firstSolved": "2026-06-02T07:10:38.000Z",
+   "lastSolved": "2026-06-02T07:10:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2019891414",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-02T07:10:38.000Z",
+     "submissionId": "2019891414"
+    }
+   }
+  },
+  "earliest-finish-time-for-land-and-water-rides-ii": {
+   "id": "3635",
+   "title": "Earliest Finish Time for Land and Water Rides II",
+   "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/3635-earliest-finish-time-for-land-and-water-rides-ii",
+   "firstSolved": "2026-06-03T09:36:58.000Z",
+   "lastSolved": "2026-06-03T09:36:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2021088236",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "238.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-03T09:36:58.000Z",
+     "submissionId": "2021088236"
+    }
+   }
+  },
+  "total-waviness-of-numbers-in-range-i": {
+   "id": "3751",
+   "title": "Total Waviness of Numbers in Range I",
+   "slug": "total-waviness-of-numbers-in-range-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
+   ],
+   "dir": "problems/3751-total-waviness-of-numbers-in-range-i",
+   "firstSolved": "2026-06-04T02:54:29.000Z",
+   "lastSolved": "2026-06-04T02:54:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2021781581",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "51 ms",
+     "memory": "9.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-04T02:54:29.000Z",
+     "submissionId": "2021781581"
+    }
+   }
+  },
+  "left-and-right-sum-differences": {
+   "id": "2574",
+   "title": "Left and Right Sum Differences",
+   "slug": "left-and-right-sum-differences",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/2574-left-and-right-sum-differences",
+   "firstSolved": "2026-06-06T04:17:38.000Z",
+   "lastSolved": "2026-06-06T04:17:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2023807499",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "15.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T04:17:38.000Z",
+     "submissionId": "2023807499"
+    }
+   }
+  },
+  "total-waviness-of-numbers-in-range-ii": {
+   "id": "3753",
+   "title": "Total Waviness of Numbers in Range II",
+   "slug": "total-waviness-of-numbers-in-range-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3753-total-waviness-of-numbers-in-range-ii",
+   "firstSolved": "2026-06-05T05:12:22.000Z",
+   "lastSolved": "2026-06-06T04:45:35.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2023828431",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "21 ms",
+     "memory": "21.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T04:45:35.000Z",
+     "submissionId": "2023828431"
+    }
+   }
+  },
+  "largest-even-number": {
+   "id": "3798",
+   "title": "Largest Even Number",
+   "slug": "largest-even-number",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/3798-largest-even-number",
+   "firstSolved": "2026-06-06T07:54:47.000Z",
+   "lastSolved": "2026-06-06T07:54:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2023997290",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T07:54:47.000Z",
+     "submissionId": "2023997290"
+    }
+   }
+  },
+  "earliest-time-to-finish-one-task": {
+   "id": "3683",
+   "title": "Earliest Time to Finish One Task",
+   "slug": "earliest-time-to-finish-one-task",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/3683-earliest-time-to-finish-one-task",
+   "firstSolved": "2026-06-06T07:57:50.000Z",
+   "lastSolved": "2026-06-06T07:57:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2023999680",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "38.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T07:57:50.000Z",
+     "submissionId": "2023999680"
+    }
+   }
+  },
+  "transform-array-by-parity": {
+   "id": "3467",
+   "title": "Transform Array by Parity",
+   "slug": "transform-array-by-parity",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Counting"
+   ],
+   "dir": "problems/3467-transform-array-by-parity",
+   "firstSolved": "2026-06-06T08:03:47.000Z",
+   "lastSolved": "2026-06-06T08:03:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024004409",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "28.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T08:03:47.000Z",
+     "submissionId": "2024004409"
+    }
+   }
+  },
+  "exactly-one-consecutive-set-bits-pair": {
+   "id": "3950",
+   "title": "Exactly One Consecutive Set Bits Pair",
+   "slug": "exactly-one-consecutive-set-bits-pair",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3950-exactly-one-consecutive-set-bits-pair",
+   "firstSolved": "2026-06-06T14:34:32.000Z",
+   "lastSolved": "2026-06-06T14:34:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024319046",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T14:34:32.000Z",
+     "submissionId": "2024319046"
+    }
+   }
   }
  },
  "days": {
@@ -10147,6 +10762,13 @@
   "2026-05-28": 6,
   "2026-05-29": 2,
   "2026-05-30": 2,
-  "2026-05-31": 6
+  "2026-05-31": 10,
+  "2025-04-03": 1,
+  "2026-06-01": 5,
+  "2026-06-02": 2,
+  "2026-06-03": 1,
+  "2026-06-04": 1,
+  "2026-06-06": 5,
+  "2026-06-05": 1
  }
 }
