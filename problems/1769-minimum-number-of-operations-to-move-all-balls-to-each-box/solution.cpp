@@ -1,0 +1,43 @@
+// 1769. Minimum Number of Operations to Move All Balls to Each Box
+// Difficulty: Medium
+// https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+// Runtime: 1 ms (beats —)
+// Memory: 12.8 MB (beats —)
+// Submitted: 2026-06-12
+
+class Solution {
+public:
+    vector<int> minOperations(string boxes) {
+        int n = boxes.length();
+        vector<int> distances(n, 0);
+
+        int prefixCount = 0;
+        int prefixSum = 0;
+
+        for (int i = 0; i < n; ++i) {
+            distances[i] = prefixCount * i - prefixSum;
+            if (boxes[i] == '1') {
+                prefixCount++;
+                prefixSum += i;
+            }
+        }
+
+        int suffixCount = 0;
+        int suffixSum = 0;
+
+        for (int i = n - 1; i >= 0; --i) {
+            distances[i] += suffixSum - suffixCount * i;
+            if (boxes[i] == '1') {
+                suffixCount++;
+                suffixSum += i;
+            }
+        }
+
+        vector<int> ans;
+        for (int dist : distances) {
+            ans.push_back(dist);
+        }
+
+        return ans;
+    }
+};
