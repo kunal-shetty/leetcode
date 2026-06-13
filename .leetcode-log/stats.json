@@ -10598,6 +10598,626 @@
      "submissionId": "2024319046"
     }
    }
+  },
+  "maximum-total-value-of-covered-indices": {
+   "id": "3952",
+   "title": "Maximum Total Value of Covered Indices",
+   "slug": "maximum-total-value-of-covered-indices",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/3952-maximum-total-value-of-covered-indices",
+   "firstSolved": "2026-06-06T14:47:59.000Z",
+   "lastSolved": "2026-06-06T14:47:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024360411",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "319 ms",
+     "memory": "261.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T14:47:59.000Z",
+     "submissionId": "2024360411"
+    }
+   }
+  },
+  "minimum-energy-to-maintain-brightness": {
+   "id": "3951",
+   "title": "Minimum Energy to Maintain Brightness",
+   "slug": "minimum-energy-to-maintain-brightness",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/3951-minimum-energy-to-maintain-brightness",
+   "firstSolved": "2026-06-06T14:55:51.000Z",
+   "lastSolved": "2026-06-06T14:55:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024380695",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "59 ms",
+     "memory": "203.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-06T14:55:51.000Z",
+     "submissionId": "2024380695"
+    }
+   }
+  },
+  "create-binary-tree-from-descriptions": {
+   "id": "2196",
+   "title": "Create Binary Tree From Descriptions",
+   "slug": "create-binary-tree-from-descriptions",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
+   ],
+   "dir": "problems/2196-create-binary-tree-from-descriptions",
+   "firstSolved": "2026-06-07T02:20:12.000Z",
+   "lastSolved": "2026-06-07T02:20:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024830753",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "164 ms",
+     "memory": "272.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-07T02:20:12.000Z",
+     "submissionId": "2024830753"
+    }
+   }
+  },
+  "sum-of-compatible-numbers-in-range-i": {
+   "id": "3954",
+   "title": "Sum of Compatible Numbers in Range I",
+   "slug": "sum-of-compatible-numbers-in-range-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Enumeration"
+   ],
+   "dir": "problems/3954-sum-of-compatible-numbers-in-range-i",
+   "firstSolved": "2026-06-07T02:38:44.000Z",
+   "lastSolved": "2026-06-07T02:38:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024853388",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-07T02:38:44.000Z",
+     "submissionId": "2024853388"
+    }
+   }
+  },
+  "valid-binary-strings-with-cost-limit": {
+   "id": "3955",
+   "title": "Valid Binary Strings With Cost Limit",
+   "slug": "valid-binary-strings-with-cost-limit",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Backtracking",
+    "Bit Manipulation",
+    "Enumeration"
+   ],
+   "dir": "problems/3955-valid-binary-strings-with-cost-limit",
+   "firstSolved": "2026-06-07T02:51:04.000Z",
+   "lastSolved": "2026-06-07T02:51:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2024877770",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "195 ms",
+     "memory": "119.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-07T02:51:04.000Z",
+     "submissionId": "2024877770"
+    }
+   }
+  },
+  "partition-array-according-to-given-pivot": {
+   "id": "2161",
+   "title": "Partition Array According to Given Pivot",
+   "slug": "partition-array-according-to-given-pivot",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+   ],
+   "dir": "problems/2161-partition-array-according-to-given-pivot",
+   "firstSolved": "2026-06-08T04:17:55.000Z",
+   "lastSolved": "2026-06-08T04:17:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2025896759",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "139.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-08T04:17:55.000Z",
+     "submissionId": "2025896759"
+    }
+   }
+  },
+  "final-value-of-variable-after-performing-operations": {
+   "id": "2011",
+   "title": "Final Value of Variable After Performing Operations",
+   "slug": "final-value-of-variable-after-performing-operations",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/2011-final-value-of-variable-after-performing-operations",
+   "firstSolved": "2026-06-08T06:08:59.000Z",
+   "lastSolved": "2026-06-08T06:08:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2026005073",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "17.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-08T06:08:59.000Z",
+     "submissionId": "2026005073"
+    }
+   }
+  },
+  "maximum-total-subarray-value-i": {
+   "id": "3689",
+   "title": "Maximum Total Subarray Value I",
+   "slug": "maximum-total-subarray-value-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/3689-maximum-total-subarray-value-i",
+   "firstSolved": "2026-06-09T02:44:27.000Z",
+   "lastSolved": "2026-06-09T02:44:27.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2026936133",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "103.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-09T02:44:27.000Z",
+     "submissionId": "2026936133"
+    }
+   }
+  },
+  "bitwise-or-of-even-numbers-in-an-array": {
+   "id": "3688",
+   "title": "Bitwise OR of Even Numbers in an Array",
+   "slug": "bitwise-or-of-even-numbers-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Bit Manipulation",
+    "Simulation"
+   ],
+   "dir": "problems/3688-bitwise-or-of-even-numbers-in-an-array",
+   "firstSolved": "2026-06-09T15:11:04.000Z",
+   "lastSolved": "2026-06-09T15:11:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2027653802",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "24.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-09T15:11:04.000Z",
+     "submissionId": "2027653802"
+    }
+   }
+  },
+  "maximum-total-subarray-value-ii": {
+   "id": "3691",
+   "title": "Maximum Total Subarray Value II",
+   "slug": "maximum-total-subarray-value-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Segment Tree",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/3691-maximum-total-subarray-value-ii",
+   "firstSolved": "2026-06-10T10:43:50.000Z",
+   "lastSolved": "2026-06-10T10:43:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2028531631",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "359 ms",
+     "memory": "238.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-10T10:43:50.000Z",
+     "submissionId": "2028531631"
+    }
+   }
+  },
+  "number-of-ways-to-assign-edge-weights-i": {
+   "id": "3558",
+   "title": "Number of Ways to Assign Edge Weights I",
+   "slug": "number-of-ways-to-assign-edge-weights-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Tree",
+    "Depth-First Search"
+   ],
+   "dir": "problems/3558-number-of-ways-to-assign-edge-weights-i",
+   "firstSolved": "2026-06-11T05:46:17.000Z",
+   "lastSolved": "2026-06-11T05:46:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2029334339",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "447 ms",
+     "memory": "367.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-11T05:46:17.000Z",
+     "submissionId": "2029334339"
+    }
+   }
+  },
+  "number-of-ways-to-assign-edge-weights-ii": {
+   "id": "3559",
+   "title": "Number of Ways to Assign Edge Weights II",
+   "slug": "number-of-ways-to-assign-edge-weights-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Tree",
+    "Depth-First Search"
+   ],
+   "dir": "problems/3559-number-of-ways-to-assign-edge-weights-ii",
+   "firstSolved": "2026-06-12T02:43:10.000Z",
+   "lastSolved": "2026-06-12T02:43:10.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2030281523",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "391 ms",
+     "memory": "388.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-12T02:43:10.000Z",
+     "submissionId": "2030281523"
+    }
+   }
+  },
+  "debounce": {
+   "id": "2627",
+   "title": "Debounce",
+   "slug": "debounce",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/2627-debounce",
+   "firstSolved": "2026-06-12T02:47:15.000Z",
+   "lastSolved": "2026-06-12T02:47:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2030283180",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "48 ms",
+     "memory": "54.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-12T02:47:15.000Z",
+     "submissionId": "2030283180"
+    }
+   }
+  },
+  "insert-greatest-common-divisors-in-linked-list": {
+   "id": "2807",
+   "title": "Insert Greatest Common Divisors in Linked List",
+   "slug": "insert-greatest-common-divisors-in-linked-list",
+   "difficulty": "Medium",
+   "tags": [
+    "Linked List",
+    "Math",
+    "Number Theory"
+   ],
+   "dir": "problems/2807-insert-greatest-common-divisors-in-linked-list",
+   "firstSolved": "2026-06-12T02:53:34.000Z",
+   "lastSolved": "2026-06-12T02:53:34.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2030285813",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "36.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-12T02:53:34.000Z",
+     "submissionId": "2030285813"
+    }
+   }
+  },
+  "minimum-number-of-operations-to-move-all-balls-to-each-box": {
+   "id": "1769",
+   "title": "Minimum Number of Operations to Move All Balls to Each Box",
+   "slug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "String",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1769-minimum-number-of-operations-to-move-all-balls-to-each-box",
+   "firstSolved": "2026-06-12T09:41:54.000Z",
+   "lastSolved": "2026-06-12T09:41:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2030656267",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "12.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-12T09:41:54.000Z",
+     "submissionId": "2030656267"
+    }
+   }
+  },
+  "n-queens-ii": {
+   "id": "52",
+   "title": "N-Queens II",
+   "slug": "n-queens-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Backtracking",
+    "Algorithm X"
+   ],
+   "dir": "problems/0052-n-queens-ii",
+   "firstSolved": "2026-06-12T09:50:36.000Z",
+   "lastSolved": "2026-06-12T09:50:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2030664994",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-12T09:50:36.000Z",
+     "submissionId": "2030664994"
+    }
+   }
+  },
+  "sqrtx": {
+   "id": "69",
+   "title": "Sqrt(x)",
+   "slug": "sqrtx",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Binary Search",
+    "Newton's Method"
+   ],
+   "dir": "problems/0069-sqrtx",
+   "firstSolved": "2025-04-19T16:55:41.000Z",
+   "lastSolved": "2026-06-13T08:59:10.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2031586300",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-13T08:59:10.000Z",
+     "submissionId": "2031586300"
+    }
+   }
+  },
+  "reverse-string": {
+   "id": "344",
+   "title": "Reverse String",
+   "slug": "reverse-string",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/0344-reverse-string",
+   "firstSolved": "2025-05-04T13:42:59.000Z",
+   "lastSolved": "2026-06-13T13:48:49.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2031826773",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "27.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-13T13:48:49.000Z",
+     "submissionId": "2031826773"
+    }
+   }
+  },
+  "count-submatrices-with-all-ones": {
+   "id": "1504",
+   "title": "Count Submatrices With All Ones",
+   "slug": "count-submatrices-with-all-ones",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Stack",
+    "Matrix",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/1504-count-submatrices-with-all-ones",
+   "firstSolved": "2026-06-13T13:52:53.000Z",
+   "lastSolved": "2026-06-13T13:52:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2031830068",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "21.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-13T13:52:53.000Z",
+     "submissionId": "2031830068"
+    }
+   }
+  },
+  "rotate-string": {
+   "id": "796",
+   "title": "Rotate String",
+   "slug": "rotate-string",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "String Matching"
+   ],
+   "dir": "problems/0796-rotate-string",
+   "firstSolved": "2026-03-04T11:02:19.000Z",
+   "lastSolved": "2026-06-13T13:55:28.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2031832139",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-13T13:55:28.000Z",
+     "submissionId": "2031832139"
+    }
+   }
   }
  },
  "days": {
@@ -10605,8 +11225,8 @@
   "2026-10-14": 1,
   "2025-04-15": 3,
   "2025-04-18": 2,
-  "2025-04-19": 1,
-  "2025-05-04": 4,
+  "2025-04-19": 2,
+  "2025-05-04": 5,
   "2025-12-03": 1,
   "2025-12-07": 4,
   "2025-12-09": 1,
@@ -10756,7 +11376,7 @@
   "2026-05-23": 5,
   "2026-05-24": 4,
   "2026-05-25": 1,
-  "2026-03-04": 1,
+  "2026-03-04": 2,
   "2026-05-26": 1,
   "2026-05-27": 4,
   "2026-05-28": 6,
@@ -10768,7 +11388,14 @@
   "2026-06-02": 2,
   "2026-06-03": 1,
   "2026-06-04": 1,
-  "2026-06-06": 5,
-  "2026-06-05": 1
+  "2026-06-06": 7,
+  "2026-06-05": 1,
+  "2026-06-07": 3,
+  "2026-06-08": 2,
+  "2026-06-09": 2,
+  "2026-06-10": 1,
+  "2026-06-11": 1,
+  "2026-06-12": 5,
+  "2026-06-13": 1
  }
 }
