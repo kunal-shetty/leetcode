@@ -11218,6 +11218,611 @@
      "submissionId": "2031832139"
     }
    }
+  },
+  "majority-element-ii": {
+   "id": "229",
+   "title": "Majority Element II",
+   "slug": "majority-element-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+   ],
+   "dir": "problems/0229-majority-element-ii",
+   "firstSolved": "2026-06-13T13:58:05.000Z",
+   "lastSolved": "2026-06-13T13:58:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2031834344",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "26.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-13T13:58:05.000Z",
+     "submissionId": "2031834344"
+    }
+   }
+  },
+  "power-of-four": {
+   "id": "342",
+   "title": "Power of Four",
+   "slug": "power-of-four",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+   ],
+   "dir": "problems/0342-power-of-four",
+   "firstSolved": "2026-06-13T14:04:07.000Z",
+   "lastSolved": "2026-06-13T14:04:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2031839139",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-13T14:04:07.000Z",
+     "submissionId": "2031839139"
+    }
+   }
+  },
+  "maximum-twin-sum-of-a-linked-list": {
+   "id": "2130",
+   "title": "Maximum Twin Sum of a Linked List",
+   "slug": "maximum-twin-sum-of-a-linked-list",
+   "difficulty": "Medium",
+   "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Stack"
+   ],
+   "dir": "problems/2130-maximum-twin-sum-of-a-linked-list",
+   "firstSolved": "2026-06-14T02:05:11.000Z",
+   "lastSolved": "2026-06-14T02:05:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2032251780",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "88 ms",
+     "memory": "159.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-14T02:05:11.000Z",
+     "submissionId": "2032251780"
+    }
+   }
+  },
+  "check-good-integer": {
+   "id": "3959",
+   "title": "Check Good Integer",
+   "slug": "check-good-integer",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Simulation"
+   ],
+   "dir": "problems/3959-check-good-integer",
+   "firstSolved": "2026-06-14T02:31:20.000Z",
+   "lastSolved": "2026-06-14T02:31:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2032261064",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-14T02:31:20.000Z",
+     "submissionId": "2032261064"
+    }
+   }
+  },
+  "frequency-balance-subarray": {
+   "id": "3960",
+   "title": "Frequency Balance Subarray",
+   "slug": "frequency-balance-subarray",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+   ],
+   "dir": "problems/3960-frequency-balance-subarray",
+   "firstSolved": "2026-06-14T02:51:12.000Z",
+   "lastSolved": "2026-06-14T02:51:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2032296437",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1637 ms",
+     "memory": "473 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-14T02:51:12.000Z",
+     "submissionId": "2032296437"
+    }
+   }
+  },
+  "relative-sort-array": {
+   "id": "1122",
+   "title": "Relative Sort Array",
+   "slug": "relative-sort-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort",
+    "Quicksort",
+    "Bubble Sort"
+   ],
+   "dir": "problems/1122-relative-sort-array",
+   "firstSolved": "2026-06-14T15:15:52.000Z",
+   "lastSolved": "2026-06-14T15:15:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2032947776",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-14T15:15:52.000Z",
+     "submissionId": "2032947776"
+    }
+   }
+  },
+  "delete-the-middle-node-of-a-linked-list": {
+   "id": "2095",
+   "title": "Delete the Middle Node of a Linked List",
+   "slug": "delete-the-middle-node-of-a-linked-list",
+   "difficulty": "Medium",
+   "tags": [
+    "Linked List",
+    "Two Pointers"
+   ],
+   "dir": "problems/2095-delete-the-middle-node-of-a-linked-list",
+   "firstSolved": "2026-06-15T02:47:09.000Z",
+   "lastSolved": "2026-06-15T02:47:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2033343582",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "312.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-15T02:47:09.000Z",
+     "submissionId": "2033343582"
+    }
+   }
+  },
+  "circular-sentence": {
+   "id": "2490",
+   "title": "Circular Sentence",
+   "slug": "circular-sentence",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/2490-circular-sentence",
+   "firstSolved": "2026-06-15T10:35:09.000Z",
+   "lastSolved": "2026-06-15T10:35:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2033823276",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-15T10:35:09.000Z",
+     "submissionId": "2033823276"
+    }
+   }
+  },
+  "product-of-array-except-self": {
+   "id": "238",
+   "title": "Product of Array Except Self",
+   "slug": "product-of-array-except-self",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/0238-product-of-array-except-self",
+   "firstSolved": "2026-04-17T17:01:33.000Z",
+   "lastSolved": "2026-06-15T10:49:34.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2033837740",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "40.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-15T10:49:34.000Z",
+     "submissionId": "2033837740"
+    }
+   }
+  },
+  "process-string-with-special-operations-i": {
+   "id": "3612",
+   "title": "Process String with Special Operations I",
+   "slug": "process-string-with-special-operations-i",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3612-process-string-with-special-operations-i",
+   "firstSolved": "2026-06-16T01:28:02.000Z",
+   "lastSolved": "2026-06-16T04:12:58.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2034591978",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "39.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-16T04:12:58.000Z",
+     "submissionId": "2034591978"
+    }
+   }
+  },
+  "longest-palindrome": {
+   "id": "409",
+   "title": "Longest Palindrome",
+   "slug": "longest-palindrome",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Greedy"
+   ],
+   "dir": "problems/0409-longest-palindrome",
+   "firstSolved": "2026-06-16T16:59:19.000Z",
+   "lastSolved": "2026-06-16T16:59:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2035437257",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-16T16:59:19.000Z",
+     "submissionId": "2035437257"
+    }
+   }
+  },
+  "process-string-with-special-operations-ii": {
+   "id": "3614",
+   "title": "Process String with Special Operations II",
+   "slug": "process-string-with-special-operations-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3614-process-string-with-special-operations-ii",
+   "firstSolved": "2026-06-17T09:28:30.000Z",
+   "lastSolved": "2026-06-17T09:28:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2036181871",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "51 ms",
+     "memory": "88 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-17T09:28:30.000Z",
+     "submissionId": "2036181871"
+    }
+   }
+  },
+  "lemonade-change": {
+   "id": "860",
+   "title": "Lemonade Change",
+   "slug": "lemonade-change",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/0860-lemonade-change",
+   "firstSolved": "2026-06-17T17:27:35.000Z",
+   "lastSolved": "2026-06-17T17:27:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2036677827",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "87.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-17T17:27:35.000Z",
+     "submissionId": "2036677827"
+    }
+   }
+  },
+  "angle-between-hands-of-a-clock": {
+   "id": "1344",
+   "title": "Angle Between Hands of a Clock",
+   "slug": "angle-between-hands-of-a-clock",
+   "difficulty": "Medium",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/1344-angle-between-hands-of-a-clock",
+   "firstSolved": "2026-06-18T05:16:01.000Z",
+   "lastSolved": "2026-06-18T05:16:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2037085714",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-18T05:16:01.000Z",
+     "submissionId": "2037085714"
+    }
+   }
+  },
+  "find-the-highest-altitude": {
+   "id": "1732",
+   "title": "Find the Highest Altitude",
+   "slug": "find-the-highest-altitude",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1732-find-the-highest-altitude",
+   "firstSolved": "2026-06-19T01:23:36.000Z",
+   "lastSolved": "2026-06-19T01:23:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2038109628",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-19T01:23:36.000Z",
+     "submissionId": "2038109628"
+    }
+   }
+  },
+  "find-words-containing-character": {
+   "id": "2942",
+   "title": "Find Words Containing Character",
+   "slug": "find-words-containing-character",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String"
+   ],
+   "dir": "problems/2942-find-words-containing-character",
+   "firstSolved": "2026-06-19T08:53:44.000Z",
+   "lastSolved": "2026-06-19T08:53:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2038516974",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "32.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-19T08:53:44.000Z",
+     "submissionId": "2038516974"
+    }
+   }
+  },
+  "convert-the-temperature": {
+   "id": "2469",
+   "title": "Convert the Temperature",
+   "slug": "convert-the-temperature",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/2469-convert-the-temperature",
+   "firstSolved": "2026-06-19T08:54:59.000Z",
+   "lastSolved": "2026-06-19T08:54:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2038518246",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-19T08:54:59.000Z",
+     "submissionId": "2038518246"
+    }
+   }
+  },
+  "license-key-formatting": {
+   "id": "482",
+   "title": "License Key Formatting",
+   "slug": "license-key-formatting",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/0482-license-key-formatting",
+   "firstSolved": "2025-12-12T09:52:31.000Z",
+   "lastSolved": "2026-06-19T09:18:43.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2038544502",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-19T09:18:43.000Z",
+     "submissionId": "2038544502"
+    }
+   }
+  },
+  "maximum-building-height": {
+   "id": "1840",
+   "title": "Maximum Building Height",
+   "slug": "maximum-building-height",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+   ],
+   "dir": "problems/1840-maximum-building-height",
+   "firstSolved": "2026-06-20T09:14:35.000Z",
+   "lastSolved": "2026-06-20T09:14:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2039582024",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "46 ms",
+     "memory": "106.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-20T09:14:35.000Z",
+     "submissionId": "2039582024"
+    }
+   }
+  },
+  "create-grid-with-exactly-one-path": {
+   "id": "3963",
+   "title": "Create Grid With Exactly One Path",
+   "slug": "create-grid-with-exactly-one-path",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/3963-create-grid-with-exactly-one-path",
+   "firstSolved": "2026-06-20T14:36:00.000Z",
+   "lastSolved": "2026-06-20T14:36:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2039857072",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "11 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-20T14:36:00.000Z",
+     "submissionId": "2039857072"
+    }
+   }
   }
  },
  "days": {
@@ -11339,7 +11944,7 @@
   "2026-04-14": 1,
   "2026-04-15": 1,
   "2026-04-16": 1,
-  "2026-04-17": 1,
+  "2026-04-17": 2,
   "2026-04-19": 2,
   "2026-04-20": 1,
   "2026-04-21": 1,
@@ -11396,6 +12001,14 @@
   "2026-06-10": 1,
   "2026-06-11": 1,
   "2026-06-12": 5,
-  "2026-06-13": 1
+  "2026-06-13": 3,
+  "2026-06-14": 4,
+  "2026-06-15": 2,
+  "2026-06-16": 2,
+  "2026-06-17": 2,
+  "2026-06-18": 1,
+  "2026-06-19": 3,
+  "2025-12-12": 1,
+  "2026-06-20": 2
  }
 }
