@@ -11823,6 +11823,628 @@
      "submissionId": "2039857072"
     }
    }
+  },
+  "minimum-lights-to-illuminate-a-road": {
+   "id": "3964",
+   "title": "Minimum Lights to Illuminate a Road",
+   "slug": "minimum-lights-to-illuminate-a-road",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3964-minimum-lights-to-illuminate-a-road",
+   "firstSolved": "2026-06-20T14:42:41.000Z",
+   "lastSolved": "2026-06-20T14:42:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2039874292",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "19 ms",
+     "memory": "288.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-20T14:42:41.000Z",
+     "submissionId": "2039874292"
+    }
+   }
+  },
+  "count-good-integers-in-a-range": {
+   "id": "3966",
+   "title": "Count Good Integers in a Range",
+   "slug": "count-good-integers-in-a-range",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3966-count-good-integers-in-a-range",
+   "firstSolved": "2026-06-20T15:05:29.000Z",
+   "lastSolved": "2026-06-20T15:05:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2039929684",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "10.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-20T15:05:29.000Z",
+     "submissionId": "2039929684"
+    }
+   }
+  },
+  "maximum-ice-cream-bars": {
+   "id": "1833",
+   "title": "Maximum Ice Cream Bars",
+   "slug": "maximum-ice-cream-bars",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+   ],
+   "dir": "problems/1833-maximum-ice-cream-bars",
+   "firstSolved": "2026-06-21T02:15:11.000Z",
+   "lastSolved": "2026-06-21T02:15:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2040367990",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "35 ms",
+     "memory": "80.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-21T02:15:11.000Z",
+     "submissionId": "2040367990"
+    }
+   }
+  },
+  "array-partition": {
+   "id": "561",
+   "title": "Array Partition",
+   "slug": "array-partition",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
+   ],
+   "dir": "problems/0561-array-partition",
+   "firstSolved": "2026-06-21T02:27:22.000Z",
+   "lastSolved": "2026-06-21T02:27:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2040373086",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "31.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-21T02:27:22.000Z",
+     "submissionId": "2040373086"
+    }
+   }
+  },
+  "maximum-manhattan-distance-after-all-moves": {
+   "id": "3968",
+   "title": "Maximum Manhattan Distance After All Moves",
+   "slug": "maximum-manhattan-distance-after-all-moves",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/3968-maximum-manhattan-distance-after-all-moves",
+   "firstSolved": "2026-06-21T02:32:09.000Z",
+   "lastSolved": "2026-06-21T02:32:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2040375254",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "22.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-21T02:32:09.000Z",
+     "submissionId": "2040375254"
+    }
+   }
+  },
+  "valid-subarrays-with-matching-sum-digits-i": {
+   "id": "3969",
+   "title": "Valid Subarrays With Matching Sum Digits I",
+   "slug": "valid-subarrays-with-matching-sum-digits-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Enumeration",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3969-valid-subarrays-with-matching-sum-digits-i",
+   "firstSolved": "2026-06-21T02:35:50.000Z",
+   "lastSolved": "2026-06-21T02:35:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2040381019",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "155 ms",
+     "memory": "34.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-21T02:35:50.000Z",
+     "submissionId": "2040381019"
+    }
+   }
+  },
+  "shortest-path-with-at-most-k-consecutive-identical-characters": {
+   "id": "3970",
+   "title": "Shortest Path With At Most K Consecutive Identical Characters",
+   "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+   ],
+   "dir": "problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+   "firstSolved": "2026-06-21T02:53:57.000Z",
+   "lastSolved": "2026-06-21T02:53:57.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2040421214",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "333 ms",
+     "memory": "330.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-21T02:53:57.000Z",
+     "submissionId": "2040421214"
+    }
+   }
+  },
+  "maximum-total-value": {
+   "id": "3971",
+   "title": "Maximum Total Value",
+   "slug": "maximum-total-value",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Greedy"
+   ],
+   "dir": "problems/3971-maximum-total-value",
+   "firstSolved": "2026-06-21T03:33:31.000Z",
+   "lastSolved": "2026-06-21T03:33:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2040489738",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "159 ms",
+     "memory": "423.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-21T03:33:31.000Z",
+     "submissionId": "2040489738"
+    }
+   }
+  },
+  "maximum-number-of-balloons": {
+   "id": "1189",
+   "title": "Maximum Number of Balloons",
+   "slug": "maximum-number-of-balloons",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/1189-maximum-number-of-balloons",
+   "firstSolved": "2026-06-22T05:36:02.000Z",
+   "lastSolved": "2026-06-22T05:36:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2041683851",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-22T05:36:02.000Z",
+     "submissionId": "2041683851"
+    }
+   }
+  },
+  "group-the-people-given-the-group-size-they-belong-to": {
+   "id": "1282",
+   "title": "Group the People Given the Group Size They Belong To",
+   "slug": "group-the-people-given-the-group-size-they-belong-to",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy"
+   ],
+   "dir": "problems/1282-group-the-people-given-the-group-size-they-belong-to",
+   "firstSolved": "2026-06-22T09:49:05.000Z",
+   "lastSolved": "2026-06-22T09:49:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2041988344",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "9 ms",
+     "memory": "18.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-22T09:49:05.000Z",
+     "submissionId": "2041988344"
+    }
+   }
+  },
+  "rearrange-characters-to-make-target-string": {
+   "id": "2287",
+   "title": "Rearrange Characters to Make Target String",
+   "slug": "rearrange-characters-to-make-target-string",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/2287-rearrange-characters-to-make-target-string",
+   "firstSolved": "2026-06-22T10:41:47.000Z",
+   "lastSolved": "2026-06-22T10:41:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2042051647",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-22T10:41:47.000Z",
+     "submissionId": "2042051647"
+    }
+   }
+  },
+  "number-of-zigzag-arrays-i": {
+   "id": "3699",
+   "title": "Number of ZigZag Arrays I",
+   "slug": "number-of-zigzag-arrays-i",
+   "difficulty": "Hard",
+   "tags": [
+    "Dynamic Programming",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3699-number-of-zigzag-arrays-i",
+   "firstSolved": "2026-06-23T06:03:36.000Z",
+   "lastSolved": "2026-06-23T06:03:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2042960580",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "255 ms",
+     "memory": "11.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-23T06:03:36.000Z",
+     "submissionId": "2042960580"
+    }
+   }
+  },
+  "lru-cache": {
+   "id": "146",
+   "title": "LRU Cache",
+   "slug": "lru-cache",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+   ],
+   "dir": "problems/0146-lru-cache",
+   "firstSolved": "2026-05-14T03:52:09.000Z",
+   "lastSolved": "2026-06-23T06:18:27.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2042980453",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "264 ms",
+     "memory": "172 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-23T06:18:27.000Z",
+     "submissionId": "2042980453"
+    }
+   }
+  },
+  "find-common-characters": {
+   "id": "1002",
+   "title": "Find Common Characters",
+   "slug": "find-common-characters",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/1002-find-common-characters",
+   "firstSolved": "2026-06-23T10:20:43.000Z",
+   "lastSolved": "2026-06-23T10:20:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2043255722",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-23T10:20:43.000Z",
+     "submissionId": "2043255722"
+    }
+   }
+  },
+  "split-a-string-in-balanced-strings": {
+   "id": "1221",
+   "title": "Split a String in Balanced Strings",
+   "slug": "split-a-string-in-balanced-strings",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Greedy",
+    "Counting"
+   ],
+   "dir": "problems/1221-split-a-string-in-balanced-strings",
+   "firstSolved": "2026-06-23T10:22:54.000Z",
+   "lastSolved": "2026-06-23T10:22:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2043258182",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-23T10:22:54.000Z",
+     "submissionId": "2043258182"
+    }
+   }
+  },
+  "number-of-zigzag-arrays-ii": {
+   "id": "3700",
+   "title": "Number of ZigZag Arrays II",
+   "slug": "number-of-zigzag-arrays-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3700-number-of-zigzag-arrays-ii",
+   "firstSolved": "2026-06-24T12:09:23.000Z",
+   "lastSolved": "2026-06-24T12:09:23.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2044579122",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "187 ms",
+     "memory": "91.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-24T12:09:23.000Z",
+     "submissionId": "2044579122"
+    }
+   }
+  },
+  "count-subarrays-with-majority-element-i": {
+   "id": "3737",
+   "title": "Count Subarrays With Majority Element I",
+   "slug": "count-subarrays-with-majority-element-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Counting",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3737-count-subarrays-with-majority-element-i",
+   "firstSolved": "2026-06-25T04:30:04.000Z",
+   "lastSolved": "2026-06-25T04:30:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2045265382",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "27 ms",
+     "memory": "41.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-25T04:30:04.000Z",
+     "submissionId": "2045265382"
+    }
+   }
+  },
+  "string-to-integer-atoi": {
+   "id": "8",
+   "title": "String to Integer (atoi)",
+   "slug": "string-to-integer-atoi",
+   "difficulty": "Medium",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/0008-string-to-integer-atoi",
+   "firstSolved": "2026-02-16T10:04:02.000Z",
+   "lastSolved": "2026-06-25T08:58:42.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2045567754",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-25T08:58:42.000Z",
+     "submissionId": "2045567754"
+    }
+   }
+  },
+  "minimum-moves-to-equal-array-elements-iii": {
+   "id": "3736",
+   "title": "Minimum Moves to Equal Array Elements III",
+   "slug": "minimum-moves-to-equal-array-elements-iii",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3736-minimum-moves-to-equal-array-elements-iii",
+   "firstSolved": "2026-06-25T17:39:42.000Z",
+   "lastSolved": "2026-06-25T17:41:43.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2046071209",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-25T17:41:43.000Z",
+     "submissionId": "2046071209"
+    }
+   }
+  },
+  "monotonic-array": {
+   "id": "896",
+   "title": "Monotonic Array",
+   "slug": "monotonic-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/0896-monotonic-array",
+   "firstSolved": "2026-05-13T06:31:35.000Z",
+   "lastSolved": "2026-06-26T05:08:31.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2046410034",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "100.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-26T05:08:31.000Z",
+     "submissionId": "2046410034"
+    }
+   }
   }
  },
  "days": {
@@ -11885,7 +12507,7 @@
   "2025-12-11": 1,
   "2026-02-13": 1,
   "2026-02-14": 9,
-  "2026-02-16": 5,
+  "2026-02-16": 6,
   "2026-02-15": 1,
   "2026-02-17": 1,
   "2026-02-18": 4,
@@ -11968,8 +12590,8 @@
   "2026-05-10": 4,
   "2026-05-11": 1,
   "2026-05-12": 1,
-  "2026-05-13": 1,
-  "2026-05-14": 2,
+  "2026-05-13": 2,
+  "2026-05-14": 3,
   "2026-05-15": 1,
   "2026-05-16": 1,
   "2026-05-17": 5,
@@ -12009,6 +12631,11 @@
   "2026-06-18": 1,
   "2026-06-19": 3,
   "2025-12-12": 1,
-  "2026-06-20": 2
+  "2026-06-20": 4,
+  "2026-06-21": 6,
+  "2026-06-22": 3,
+  "2026-06-23": 3,
+  "2026-06-24": 1,
+  "2026-06-25": 2
  }
 }
