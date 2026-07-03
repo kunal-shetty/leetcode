@@ -12445,6 +12445,633 @@
      "submissionId": "2046410034"
     }
    }
+  },
+  "count-subarrays-with-majority-element-ii": {
+   "id": "3739",
+   "title": "Count Subarrays With Majority Element II",
+   "slug": "count-subarrays-with-majority-element-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3739-count-subarrays-with-majority-element-ii",
+   "firstSolved": "2026-06-25T17:24:22.000Z",
+   "lastSolved": "2026-06-26T06:36:25.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2046492254",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "95.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-26T06:36:25.000Z",
+     "submissionId": "2046492254"
+    }
+   }
+  },
+  "find-the-maximum-number-of-elements-in-subset": {
+   "id": "3020",
+   "title": "Find the Maximum Number of Elements in Subset",
+   "slug": "find-the-maximum-number-of-elements-in-subset",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Enumeration"
+   ],
+   "dir": "problems/3020-find-the-maximum-number-of-elements-in-subset",
+   "firstSolved": "2026-06-27T05:13:07.000Z",
+   "lastSolved": "2026-06-27T05:13:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2047435729",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "86 ms",
+     "memory": "122.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-27T05:13:07.000Z",
+     "submissionId": "2047435729"
+    }
+   }
+  },
+  "defanging-an-ip-address": {
+   "id": "1108",
+   "title": "Defanging an IP Address",
+   "slug": "defanging-an-ip-address",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/1108-defanging-an-ip-address",
+   "firstSolved": "2026-06-27T07:30:58.000Z",
+   "lastSolved": "2026-06-27T07:30:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2047570403",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-27T07:30:58.000Z",
+     "submissionId": "2047570403"
+    }
+   }
+  },
+  "simple-bank-system": {
+   "id": "2043",
+   "title": "Simple Bank System",
+   "slug": "simple-bank-system",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Design",
+    "Simulation"
+   ],
+   "dir": "problems/2043-simple-bank-system",
+   "firstSolved": "2026-01-04T11:58:42.000Z",
+   "lastSolved": "2026-06-27T10:03:53.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2047707630",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "13 ms",
+     "memory": "123.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-27T10:03:53.000Z",
+     "submissionId": "2047707630"
+    }
+   }
+  },
+  "maximum-total-sum-of-k-selected-elements": {
+   "id": "3974",
+   "title": "Maximum Total Sum of K Selected Elements",
+   "slug": "maximum-total-sum-of-k-selected-elements",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/3974-maximum-total-sum-of-k-selected-elements",
+   "firstSolved": "2026-06-28T02:37:59.000Z",
+   "lastSolved": "2026-06-28T02:37:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2048369650",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "69 ms",
+     "memory": "186.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-28T02:37:59.000Z",
+     "submissionId": "2048369650"
+    }
+   }
+  },
+  "filter-occupied-intervals": {
+   "id": "3975",
+   "title": "Filter Occupied Intervals",
+   "slug": "filter-occupied-intervals",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/3975-filter-occupied-intervals",
+   "firstSolved": "2026-06-28T02:45:26.000Z",
+   "lastSolved": "2026-06-28T02:45:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2048386108",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "177 ms",
+     "memory": "214 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-28T02:45:26.000Z",
+     "submissionId": "2048386108"
+    }
+   }
+  },
+  "maximum-element-after-decreasing-and-rearranging": {
+   "id": "1846",
+   "title": "Maximum Element After Decreasing and Rearranging",
+   "slug": "maximum-element-after-decreasing-and-rearranging",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/1846-maximum-element-after-decreasing-and-rearranging",
+   "firstSolved": "2026-06-28T02:57:20.000Z",
+   "lastSolved": "2026-06-28T02:57:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2048407942",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "16 ms",
+     "memory": "55.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-28T02:57:20.000Z",
+     "submissionId": "2048407942"
+    }
+   }
+  },
+  "house-robber": {
+   "id": "198",
+   "title": "House Robber",
+   "slug": "house-robber",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0198-house-robber",
+   "firstSolved": "2026-06-28T13:19:11.000Z",
+   "lastSolved": "2026-06-28T13:19:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2048969626",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-28T13:19:11.000Z",
+     "submissionId": "2048969626"
+    }
+   }
+  },
+  "first-missing-positive": {
+   "id": "41",
+   "title": "First Missing Positive",
+   "slug": "first-missing-positive",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/0041-first-missing-positive",
+   "firstSolved": "2026-04-19T10:48:46.000Z",
+   "lastSolved": "2026-06-29T07:36:26.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2049753480",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "54.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-29T07:36:26.000Z",
+     "submissionId": "2049753480"
+    }
+   }
+  },
+  "min-stack": {
+   "id": "155",
+   "title": "Min Stack",
+   "slug": "min-stack",
+   "difficulty": "Medium",
+   "tags": [
+    "Stack",
+    "Design"
+   ],
+   "dir": "problems/0155-min-stack",
+   "firstSolved": "2026-06-29T07:53:18.000Z",
+   "lastSolved": "2026-06-29T07:53:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2049769237",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "71 ms",
+     "memory": "152.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-29T07:53:18.000Z",
+     "submissionId": "2049769237"
+    }
+   }
+  },
+  "number-of-strings-that-appear-as-substrings-in-word": {
+   "id": "1967",
+   "title": "Number of Strings That Appear as Substrings in Word",
+   "slug": "number-of-strings-that-appear-as-substrings-in-word",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String"
+   ],
+   "dir": "problems/1967-number-of-strings-that-appear-as-substrings-in-word",
+   "firstSolved": "2026-06-29T01:32:33.000Z",
+   "lastSolved": "2026-06-29T12:40:50.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2050054249",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-29T12:40:50.000Z",
+     "submissionId": "2050054249"
+    }
+   }
+  },
+  "remove-duplicates-from-sorted-array": {
+   "id": "26",
+   "title": "Remove Duplicates from Sorted Array",
+   "slug": "remove-duplicates-from-sorted-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers"
+   ],
+   "dir": "problems/0026-remove-duplicates-from-sorted-array",
+   "firstSolved": "2025-05-04T12:42:59.000Z",
+   "lastSolved": "2026-06-29T15:21:53.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2050212855",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "23.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-29T15:21:53.000Z",
+     "submissionId": "2050212855"
+    }
+   }
+  },
+  "number-of-substrings-containing-all-three-characters": {
+   "id": "1358",
+   "title": "Number of Substrings Containing All Three Characters",
+   "slug": "number-of-substrings-containing-all-three-characters",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/1358-number-of-substrings-containing-all-three-characters",
+   "firstSolved": "2026-06-30T02:01:08.000Z",
+   "lastSolved": "2026-06-30T02:01:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2050609770",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "11 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-30T02:01:08.000Z",
+     "submissionId": "2050609770"
+    }
+   }
+  },
+  "richest-customer-wealth": {
+   "id": "1672",
+   "title": "Richest Customer Wealth",
+   "slug": "richest-customer-wealth",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Matrix"
+   ],
+   "dir": "problems/1672-richest-customer-wealth",
+   "firstSolved": "2026-06-30T05:03:58.000Z",
+   "lastSolved": "2026-06-30T05:03:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2050737537",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-06-30T05:03:58.000Z",
+     "submissionId": "2050737537"
+    }
+   }
+  },
+  "find-the-safest-path-in-a-grid": {
+   "id": "2812",
+   "title": "Find the Safest Path in a Grid",
+   "slug": "find-the-safest-path-in-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix"
+   ],
+   "dir": "problems/2812-find-the-safest-path-in-a-grid",
+   "firstSolved": "2026-07-01T06:07:30.000Z",
+   "lastSolved": "2026-07-01T06:07:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2051955449",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "346 ms",
+     "memory": "137.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-01T06:07:30.000Z",
+     "submissionId": "2051955449"
+    }
+   }
+  },
+  "reverse-integer": {
+   "id": "7",
+   "title": "Reverse Integer",
+   "slug": "reverse-integer",
+   "difficulty": "Medium",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/0007-reverse-integer",
+   "firstSolved": "2025-04-19T17:03:11.000Z",
+   "lastSolved": "2026-07-01T06:37:36.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2051991214",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-01T06:37:36.000Z",
+     "submissionId": "2051991214"
+    }
+   }
+  },
+  "best-time-to-buy-and-sell-stock-ii": {
+   "id": "122",
+   "title": "Best Time to Buy and Sell Stock II",
+   "slug": "best-time-to-buy-and-sell-stock-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/0122-best-time-to-buy-and-sell-stock-ii",
+   "firstSolved": "2026-01-19T12:37:41.000Z",
+   "lastSolved": "2026-07-01T12:11:32.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2052324958",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "19.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-01T12:11:32.000Z",
+     "submissionId": "2052324958"
+    }
+   }
+  },
+  "find-a-safe-walk-through-a-grid": {
+   "id": "3286",
+   "title": "Find a Safe Walk Through a Grid",
+   "slug": "find-a-safe-walk-through-a-grid",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Shortest Path"
+   ],
+   "dir": "problems/3286-find-a-safe-walk-through-a-grid",
+   "firstSolved": "2026-07-02T04:15:43.000Z",
+   "lastSolved": "2026-07-02T04:15:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2052987501",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "31.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-02T04:15:43.000Z",
+     "submissionId": "2052987501"
+    }
+   }
+  },
+  "count-primes": {
+   "id": "204",
+   "title": "Count Primes",
+   "slug": "count-primes",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory",
+    "Primality Test",
+    "Sieve Theory",
+    "Prime Number Sieve"
+   ],
+   "dir": "problems/0204-count-primes",
+   "firstSolved": "2026-07-02T05:28:15.000Z",
+   "lastSolved": "2026-07-02T05:28:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2053062689",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "177 ms",
+     "memory": "12.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-02T05:28:15.000Z",
+     "submissionId": "2053062689"
+    }
+   }
+  },
+  "network-recovery-pathways": {
+   "id": "3620",
+   "title": "Network Recovery Pathways",
+   "slug": "network-recovery-pathways",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Graph Theory",
+    "Topological Sort",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+   ],
+   "dir": "problems/3620-network-recovery-pathways",
+   "firstSolved": "2026-07-03T09:39:37.000Z",
+   "lastSolved": "2026-07-03T09:39:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2054494315",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "199 ms",
+     "memory": "303 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-03T09:39:37.000Z",
+     "submissionId": "2054494315"
+    }
+   }
   }
  },
  "days": {
@@ -12452,8 +13079,8 @@
   "2026-10-14": 1,
   "2025-04-15": 3,
   "2025-04-18": 2,
-  "2025-04-19": 2,
-  "2025-05-04": 5,
+  "2025-04-19": 3,
+  "2025-05-04": 6,
   "2025-12-03": 1,
   "2025-12-07": 4,
   "2025-12-09": 1,
@@ -12466,7 +13093,7 @@
   "2025-12-19": 2,
   "2026-01-02": 2,
   "2026-01-03": 1,
-  "2026-01-04": 3,
+  "2026-01-04": 4,
   "2026-01-05": 1,
   "2026-01-06": 1,
   "2026-01-07": 1,
@@ -12481,7 +13108,7 @@
   "2026-01-16": 1,
   "2026-01-17": 1,
   "2026-01-18": 4,
-  "2026-01-19": 3,
+  "2026-01-19": 4,
   "2026-01-20": 1,
   "2026-01-21": 1,
   "2026-01-22": 1,
@@ -12567,7 +13194,7 @@
   "2026-04-15": 1,
   "2026-04-16": 1,
   "2026-04-17": 2,
-  "2026-04-19": 2,
+  "2026-04-19": 3,
   "2026-04-20": 1,
   "2026-04-21": 1,
   "2026-04-22": 2,
@@ -12636,6 +13263,13 @@
   "2026-06-22": 3,
   "2026-06-23": 3,
   "2026-06-24": 1,
-  "2026-06-25": 2
+  "2026-06-25": 3,
+  "2026-06-27": 2,
+  "2026-06-28": 4,
+  "2026-06-29": 2,
+  "2026-06-30": 2,
+  "2026-07-01": 1,
+  "2026-07-02": 2,
+  "2026-07-03": 1
  }
 }
