@@ -13072,6 +13072,626 @@
      "submissionId": "2054494315"
     }
    }
+  },
+  "minimum-score-of-a-path-between-two-cities": {
+   "id": "2492",
+   "title": "Minimum Score of a Path Between Two Cities",
+   "slug": "minimum-score-of-a-path-between-two-cities",
+   "difficulty": "Medium",
+   "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+   ],
+   "dir": "problems/2492-minimum-score-of-a-path-between-two-cities",
+   "firstSolved": "2026-07-04T03:21:53.000Z",
+   "lastSolved": "2026-07-04T03:21:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2055214660",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "103 ms",
+     "memory": "144.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-04T03:21:53.000Z",
+     "submissionId": "2055214660"
+    }
+   }
+  },
+  "unique-middle-element": {
+   "id": "3978",
+   "title": "Unique Middle Element",
+   "slug": "unique-middle-element",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Counting"
+   ],
+   "dir": "problems/3978-unique-middle-element",
+   "firstSolved": "2026-07-04T14:37:51.000Z",
+   "lastSolved": "2026-07-04T14:37:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2055805567",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-04T14:37:51.000Z",
+     "submissionId": "2055805567"
+    }
+   }
+  },
+  "maximum-valid-pair-sum": {
+   "id": "3979",
+   "title": "Maximum Valid Pair Sum",
+   "slug": "maximum-valid-pair-sum",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Enumeration"
+   ],
+   "dir": "problems/3979-maximum-valid-pair-sum",
+   "firstSolved": "2026-07-04T14:47:35.000Z",
+   "lastSolved": "2026-07-04T14:47:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2055841831",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "205.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-04T14:47:35.000Z",
+     "submissionId": "2055841831"
+    }
+   }
+  },
+  "minimum-operations-to-transform-binary-string": {
+   "id": "3980",
+   "title": "Minimum Operations to Transform Binary String",
+   "slug": "minimum-operations-to-transform-binary-string",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/3980-minimum-operations-to-transform-binary-string",
+   "firstSolved": "2026-07-04T14:56:36.000Z",
+   "lastSolved": "2026-07-04T14:56:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2055868115",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "30.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-04T14:56:36.000Z",
+     "submissionId": "2055868115"
+    }
+   }
+  },
+  "count-distinct-ways-to-form-target-from-two-strings": {
+   "id": "3981",
+   "title": "Count Distinct Ways to Form Target from Two Strings",
+   "slug": "count-distinct-ways-to-form-target-from-two-strings",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3981-count-distinct-ways-to-form-target-from-two-strings",
+   "firstSolved": "2026-07-04T15:17:24.000Z",
+   "lastSolved": "2026-07-04T15:17:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2055916500",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "495 ms",
+     "memory": "78.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-04T15:17:24.000Z",
+     "submissionId": "2055916500"
+    }
+   }
+  },
+  "sum-of-integers-with-maximum-digit-range": {
+   "id": "3982",
+   "title": "Sum of Integers with Maximum Digit Range",
+   "slug": "sum-of-integers-with-maximum-digit-range",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3982-sum-of-integers-with-maximum-digit-range",
+   "firstSolved": "2026-07-05T02:36:43.000Z",
+   "lastSolved": "2026-07-05T02:36:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2056348972",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "30.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-05T02:36:43.000Z",
+     "submissionId": "2056348972"
+    }
+   }
+  },
+  "divisible-game": {
+   "id": "3984",
+   "title": "Divisible Game",
+   "slug": "divisible-game",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Enumeration",
+    "Number Theory"
+   ],
+   "dir": "problems/3984-divisible-game",
+   "firstSolved": "2026-07-05T03:23:55.000Z",
+   "lastSolved": "2026-07-05T03:23:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2056432564",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "166 ms",
+     "memory": "47.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-05T03:23:55.000Z",
+     "submissionId": "2056432564"
+    }
+   }
+  },
+  "subsequence-after-one-replacement": {
+   "id": "3983",
+   "title": "Subsequence After One Replacement",
+   "slug": "subsequence-after-one-replacement",
+   "difficulty": "Medium",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/3983-subsequence-after-one-replacement",
+   "firstSolved": "2026-07-05T03:39:33.000Z",
+   "lastSolved": "2026-07-05T03:39:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2056456710",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "301 ms",
+     "memory": "353.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-05T03:39:33.000Z",
+     "submissionId": "2056456710"
+    }
+   }
+  },
+  "remove-covered-intervals": {
+   "id": "1288",
+   "title": "Remove Covered Intervals",
+   "slug": "remove-covered-intervals",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sorting"
+   ],
+   "dir": "problems/1288-remove-covered-intervals",
+   "firstSolved": "2026-07-06T01:55:30.000Z",
+   "lastSolved": "2026-07-06T01:55:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2057433242",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "6 ms",
+     "memory": "15.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-06T01:55:30.000Z",
+     "submissionId": "2057433242"
+    }
+   }
+  },
+  "concatenate-non-zero-digits-and-multiply-by-sum-ii": {
+   "id": "3756",
+   "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+   "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "String",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii",
+   "firstSolved": "2026-07-08T13:57:52.000Z",
+   "lastSolved": "2026-07-08T13:57:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2060583335",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "35 ms",
+     "memory": "155.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-08T13:57:52.000Z",
+     "submissionId": "2060583335"
+    }
+   }
+  },
+  "path-existence-queries-in-a-graph-i": {
+   "id": "3532",
+   "title": "Path Existence Queries in a Graph I",
+   "slug": "path-existence-queries-in-a-graph-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Union-Find",
+    "Graph Theory"
+   ],
+   "dir": "problems/3532-path-existence-queries-in-a-graph-i",
+   "firstSolved": "2026-07-09T08:23:45.000Z",
+   "lastSolved": "2026-07-09T08:23:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2061471334",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "60 ms",
+     "memory": "236 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-09T08:23:45.000Z",
+     "submissionId": "2061471334"
+    }
+   }
+  },
+  "path-existence-queries-in-a-graph-ii": {
+   "id": "3534",
+   "title": "Path Existence Queries in a Graph II",
+   "slug": "path-existence-queries-in-a-graph-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Graph Theory",
+    "Sorting"
+   ],
+   "dir": "problems/3534-path-existence-queries-in-a-graph-ii",
+   "firstSolved": "2026-07-10T03:59:33.000Z",
+   "lastSolved": "2026-07-10T03:59:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2062367939",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "240 ms",
+     "memory": "349.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-10T03:59:33.000Z",
+     "submissionId": "2062367939"
+    }
+   }
+  },
+  "count-the-number-of-complete-components": {
+   "id": "2685",
+   "title": "Count the Number of Complete Components",
+   "slug": "count-the-number-of-complete-components",
+   "difficulty": "Medium",
+   "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+   ],
+   "dir": "problems/2685-count-the-number-of-complete-components",
+   "firstSolved": "2026-07-11T07:20:37.000Z",
+   "lastSolved": "2026-07-11T07:20:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2063596100",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "69 ms",
+     "memory": "131 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-11T07:20:37.000Z",
+     "submissionId": "2063596100"
+    }
+   }
+  },
+  "rank-transform-of-an-array": {
+   "id": "1331",
+   "title": "Rank Transform of an Array",
+   "slug": "rank-transform-of-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+   ],
+   "dir": "problems/1331-rank-transform-of-an-array",
+   "firstSolved": "2026-07-12T15:08:53.000Z",
+   "lastSolved": "2026-07-12T15:08:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2065125687",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "76 ms",
+     "memory": "50.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-12T15:08:53.000Z",
+     "submissionId": "2065125687"
+    }
+   }
+  },
+  "sequential-digits": {
+   "id": "1291",
+   "title": "Sequential Digits",
+   "slug": "sequential-digits",
+   "difficulty": "Medium",
+   "tags": [
+    "Enumeration"
+   ],
+   "dir": "problems/1291-sequential-digits",
+   "firstSolved": "2026-07-13T03:25:44.000Z",
+   "lastSolved": "2026-07-13T03:25:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2065580844",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-13T03:25:44.000Z",
+     "submissionId": "2065580844"
+    }
+   }
+  },
+  "find-the-number-of-subsequences-with-equal-gcd": {
+   "id": "3336",
+   "title": "Find the Number of Subsequences With Equal GCD",
+   "slug": "find-the-number-of-subsequences-with-equal-gcd",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Number Theory",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+   ],
+   "dir": "problems/3336-find-the-number-of-subsequences-with-equal-gcd",
+   "firstSolved": "2026-07-14T07:50:59.000Z",
+   "lastSolved": "2026-07-14T07:50:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2067078931",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1029 ms",
+     "memory": "315.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-14T07:50:59.000Z",
+     "submissionId": "2067078931"
+    }
+   }
+  },
+  "concatenate-non-zero-digits-and-multiply-by-sum-i": {
+   "id": "3754",
+   "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+   "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+   "firstSolved": "2026-07-14T07:52:08.000Z",
+   "lastSolved": "2026-07-14T07:52:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2067079929",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-14T07:52:08.000Z",
+     "submissionId": "2067079929"
+    }
+   }
+  },
+  "max-consecutive-ones": {
+   "id": "485",
+   "title": "Max Consecutive Ones",
+   "slug": "max-consecutive-ones",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/0485-max-consecutive-ones",
+   "firstSolved": "2026-02-14T09:48:49.000Z",
+   "lastSolved": "2026-07-14T13:27:41.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2067401726",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "50 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-14T13:27:41.000Z",
+     "submissionId": "2067401726"
+    }
+   }
+  },
+  "consecutive-characters": {
+   "id": "1446",
+   "title": "Consecutive Characters",
+   "slug": "consecutive-characters",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/1446-consecutive-characters",
+   "firstSolved": "2026-07-14T13:34:28.000Z",
+   "lastSolved": "2026-07-14T13:34:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2067408909",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "9.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-14T13:34:28.000Z",
+     "submissionId": "2067408909"
+    }
+   }
+  },
+  "shuffle-string": {
+   "id": "1528",
+   "title": "Shuffle String",
+   "slug": "shuffle-string",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String"
+   ],
+   "dir": "problems/1528-shuffle-string",
+   "firstSolved": "2026-07-14T13:44:39.000Z",
+   "lastSolved": "2026-07-14T13:44:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2067419731",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "18.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-14T13:44:39.000Z",
+     "submissionId": "2067419731"
+    }
+   }
   }
  },
  "days": {
@@ -13133,7 +13753,7 @@
   "2026-02-12": 4,
   "2025-12-11": 1,
   "2026-02-13": 1,
-  "2026-02-14": 9,
+  "2026-02-14": 10,
   "2026-02-16": 6,
   "2026-02-15": 1,
   "2026-02-17": 1,
@@ -13270,6 +13890,16 @@
   "2026-06-30": 2,
   "2026-07-01": 1,
   "2026-07-02": 2,
-  "2026-07-03": 1
+  "2026-07-03": 1,
+  "2026-07-04": 5,
+  "2026-07-05": 3,
+  "2026-07-06": 1,
+  "2026-07-08": 1,
+  "2026-07-09": 1,
+  "2026-07-10": 1,
+  "2026-07-11": 1,
+  "2026-07-12": 1,
+  "2026-07-13": 1,
+  "2026-07-14": 4
  }
 }
