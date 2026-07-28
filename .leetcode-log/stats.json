@@ -14317,6 +14317,627 @@
      "submissionId": "2072943023"
     }
    }
+  },
+  "smallest-subsequence-of-distinct-characters": {
+   "id": "1081",
+   "title": "Smallest Subsequence of Distinct Characters",
+   "slug": "smallest-subsequence-of-distinct-characters",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/1081-smallest-subsequence-of-distinct-characters",
+   "firstSolved": "2026-07-19T09:52:51.000Z",
+   "lastSolved": "2026-07-19T09:52:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2073316795",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-19T09:52:51.000Z",
+     "submissionId": "2073316795"
+    }
+   }
+  },
+  "remove-duplicate-letters": {
+   "id": "316",
+   "title": "Remove Duplicate Letters",
+   "slug": "remove-duplicate-letters",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/0316-remove-duplicate-letters",
+   "firstSolved": "2026-07-19T09:53:24.000Z",
+   "lastSolved": "2026-07-19T09:53:24.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2073317265",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-19T09:53:24.000Z",
+     "submissionId": "2073317265"
+    }
+   }
+  },
+  "search-insert-position": {
+   "id": "35",
+   "title": "Search Insert Position",
+   "slug": "search-insert-position",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0035-search-insert-position",
+   "firstSolved": "2025-04-19T14:43:07.000Z",
+   "lastSolved": "2026-07-19T11:37:45.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2073404985",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-19T11:37:45.000Z",
+     "submissionId": "2073404985"
+    }
+   }
+  },
+  "shift-2d-grid": {
+   "id": "1260",
+   "title": "Shift 2D Grid",
+   "slug": "shift-2d-grid",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+   ],
+   "dir": "problems/1260-shift-2d-grid",
+   "firstSolved": "2026-07-20T06:08:58.000Z",
+   "lastSolved": "2026-07-20T06:08:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2074172425",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "18.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-20T06:08:58.000Z",
+     "submissionId": "2074172425"
+    }
+   }
+  },
+  "maximize-active-section-with-trade-i": {
+   "id": "3499",
+   "title": "Maximize Active Section with Trade I",
+   "slug": "maximize-active-section-with-trade-i",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Enumeration"
+   ],
+   "dir": "problems/3499-maximize-active-section-with-trade-i",
+   "firstSolved": "2026-07-21T01:43:28.000Z",
+   "lastSolved": "2026-07-21T01:43:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2075177192",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "150 ms",
+     "memory": "175.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-21T01:43:28.000Z",
+     "submissionId": "2075177192"
+    }
+   }
+  },
+  "reverse-string-prefix": {
+   "id": "3794",
+   "title": "Reverse String Prefix",
+   "slug": "reverse-string-prefix",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/3794-reverse-string-prefix",
+   "firstSolved": "2026-07-21T05:19:34.000Z",
+   "lastSolved": "2026-07-21T05:19:34.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2075339300",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-21T05:19:34.000Z",
+     "submissionId": "2075339300"
+    }
+   }
+  },
+  "maximize-active-section-with-trade-ii": {
+   "id": "3501",
+   "title": "Maximize Active Section with Trade II",
+   "slug": "maximize-active-section-with-trade-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "String",
+    "Binary Search",
+    "Segment Tree"
+   ],
+   "dir": "problems/3501-maximize-active-section-with-trade-ii",
+   "firstSolved": "2026-07-22T04:28:36.000Z",
+   "lastSolved": "2026-07-22T04:28:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2076572754",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "210 ms",
+     "memory": "260.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-22T04:28:36.000Z",
+     "submissionId": "2076572754"
+    }
+   }
+  },
+  "number-of-unique-xor-triplets-i": {
+   "id": "3513",
+   "title": "Number of Unique XOR Triplets I",
+   "slug": "number-of-unique-xor-triplets-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3513-number-of-unique-xor-triplets-i",
+   "firstSolved": "2026-07-23T01:59:56.000Z",
+   "lastSolved": "2026-07-23T01:59:56.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2077758337",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "198.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-23T01:59:56.000Z",
+     "submissionId": "2077758337"
+    }
+   }
+  },
+  "divisor-game": {
+   "id": "1025",
+   "title": "Divisor Game",
+   "slug": "divisor-game",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Brainteaser",
+    "Game Theory",
+    "Impartial Game"
+   ],
+   "dir": "problems/1025-divisor-game",
+   "firstSolved": "2026-04-16T03:24:15.000Z",
+   "lastSolved": "2026-07-23T04:28:06.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2077853074",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-23T04:28:06.000Z",
+     "submissionId": "2077853074"
+    }
+   }
+  },
+  "minimum-recolors-to-get-k-consecutive-black-blocks": {
+   "id": "2379",
+   "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+   "slug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/2379-minimum-recolors-to-get-k-consecutive-black-blocks",
+   "firstSolved": "2026-07-23T04:57:51.000Z",
+   "lastSolved": "2026-07-23T04:57:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2077885476",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-23T04:57:51.000Z",
+     "submissionId": "2077885476"
+    }
+   }
+  },
+  "minimum-bit-flips-to-convert-number": {
+   "id": "2220",
+   "title": "Minimum Bit Flips to Convert Number",
+   "slug": "minimum-bit-flips-to-convert-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/2220-minimum-bit-flips-to-convert-number",
+   "firstSolved": "2026-07-23T10:17:13.000Z",
+   "lastSolved": "2026-07-23T10:17:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2078251228",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-23T10:17:13.000Z",
+     "submissionId": "2078251228"
+    }
+   }
+  },
+  "number-of-unique-xor-triplets-ii": {
+   "id": "3514",
+   "title": "Number of Unique XOR Triplets II",
+   "slug": "number-of-unique-xor-triplets-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Bit Manipulation",
+    "Enumeration"
+   ],
+   "dir": "problems/3514-number-of-unique-xor-triplets-ii",
+   "firstSolved": "2026-07-23T04:21:46.000Z",
+   "lastSolved": "2026-07-24T02:15:54.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2078977420",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1003 ms",
+     "memory": "35.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-24T02:15:54.000Z",
+     "submissionId": "2078977420"
+    }
+   }
+  },
+  "maximum-product-of-two-digits": {
+   "id": "3536",
+   "title": "Maximum Product of Two Digits",
+   "slug": "maximum-product-of-two-digits",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Sorting"
+   ],
+   "dir": "problems/3536-maximum-product-of-two-digits",
+   "firstSolved": "2026-07-25T04:12:30.000Z",
+   "lastSolved": "2026-07-25T04:12:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2080221453",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-25T04:12:30.000Z",
+     "submissionId": "2080221453"
+    }
+   }
+  },
+  "k-closest-points-to-origin": {
+   "id": "973",
+   "title": "K Closest Points to Origin",
+   "slug": "k-closest-points-to-origin",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Divide and Conquer",
+    "Geometry",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect",
+    "K-D Tree"
+   ],
+   "dir": "problems/0973-k-closest-points-to-origin",
+   "firstSolved": "2026-07-25T07:29:13.000Z",
+   "lastSolved": "2026-07-25T07:29:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2080439235",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "20 ms",
+     "memory": "68.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-25T07:29:13.000Z",
+     "submissionId": "2080439235"
+    }
+   }
+  },
+  "maximum-product-of-three-numbers": {
+   "id": "628",
+   "title": "Maximum Product of Three Numbers",
+   "slug": "maximum-product-of-three-numbers",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+   ],
+   "dir": "problems/0628-maximum-product-of-three-numbers",
+   "firstSolved": "2026-07-26T02:02:16.000Z",
+   "lastSolved": "2026-07-26T02:02:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2081325190",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "31.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-26T02:02:16.000Z",
+     "submissionId": "2081325190"
+    }
+   }
+  },
+  "largest-integer-with-given-digit-sum": {
+   "id": "4000",
+   "title": "Largest Integer With Given Digit Sum",
+   "slug": "largest-integer-with-given-digit-sum",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Greedy"
+   ],
+   "dir": "problems/4000-largest-integer-with-given-digit-sum",
+   "firstSolved": "2026-07-26T02:38:00.000Z",
+   "lastSolved": "2026-07-26T02:38:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2081348371",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "35 ms",
+     "memory": "8.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-26T02:38:00.000Z",
+     "submissionId": "2081348371"
+    }
+   }
+  },
+  "aggregate-two-time-series": {
+   "id": "4001",
+   "title": "Aggregate Two Time Series",
+   "slug": "aggregate-two-time-series",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers"
+   ],
+   "dir": "problems/4001-aggregate-two-time-series",
+   "firstSolved": "2026-07-26T02:46:50.000Z",
+   "lastSolved": "2026-07-26T02:46:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2081366921",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "75 ms",
+     "memory": "350.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-26T02:46:50.000Z",
+     "submissionId": "2081366921"
+    }
+   }
+  },
+  "count-valid-sequences": {
+   "id": "4002",
+   "title": "Count Valid Sequences",
+   "slug": "count-valid-sequences",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Combinatorics"
+   ],
+   "dir": "problems/4002-count-valid-sequences",
+   "firstSolved": "2026-07-26T03:08:14.000Z",
+   "lastSolved": "2026-07-26T03:08:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2081407694",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "80 ms",
+     "memory": "116.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-26T03:08:14.000Z",
+     "submissionId": "2081407694"
+    }
+   }
+  },
+  "maximum-product-of-two-elements-in-an-array": {
+   "id": "1464",
+   "title": "Maximum Product of Two Elements in an Array",
+   "slug": "maximum-product-of-two-elements-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/1464-maximum-product-of-two-elements-in-an-array",
+   "firstSolved": "2026-07-27T02:06:26.000Z",
+   "lastSolved": "2026-07-27T09:41:03.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2083157593",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "13.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-27T09:41:03.000Z",
+     "submissionId": "2083157593"
+    }
+   }
+  },
+  "smallest-palindromic-rearrangement-i": {
+   "id": "3517",
+   "title": "Smallest Palindromic Rearrangement I",
+   "slug": "smallest-palindromic-rearrangement-i",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Sorting",
+    "Counting Sort"
+   ],
+   "dir": "problems/3517-smallest-palindromic-rearrangement-i",
+   "firstSolved": "2026-07-28T04:17:14.000Z",
+   "lastSolved": "2026-07-28T04:17:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2084154793",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "84 ms",
+     "memory": "54.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-28T04:17:14.000Z",
+     "submissionId": "2084154793"
+    }
+   }
   }
  },
  "days": {
@@ -14324,7 +14945,7 @@
   "2026-10-14": 1,
   "2025-04-15": 3,
   "2025-04-18": 2,
-  "2025-04-19": 3,
+  "2025-04-19": 4,
   "2025-05-04": 6,
   "2025-12-03": 1,
   "2025-12-07": 4,
@@ -14437,7 +15058,7 @@
   "2026-04-13": 1,
   "2026-04-14": 1,
   "2026-04-15": 1,
-  "2026-04-16": 1,
+  "2026-04-16": 2,
   "2026-04-17": 2,
   "2026-04-19": 3,
   "2026-04-20": 1,
@@ -14530,7 +15151,15 @@
   "2026-07-16": 1,
   "2026-07-17": 2,
   "2026-07-18": 7,
-  "2026-07-19": 4,
-  "2025-12-06": 1
+  "2026-07-19": 6,
+  "2025-12-06": 1,
+  "2026-07-20": 1,
+  "2026-07-21": 2,
+  "2026-07-22": 1,
+  "2026-07-23": 4,
+  "2026-07-25": 2,
+  "2026-07-26": 4,
+  "2026-07-27": 1,
+  "2026-07-28": 1
  }
 }
