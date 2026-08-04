@@ -14938,6 +14938,649 @@
      "submissionId": "2084154793"
     }
    }
+  },
+  "poor-pigs": {
+   "id": "458",
+   "title": "Poor Pigs",
+   "slug": "poor-pigs",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+   ],
+   "dir": "problems/0458-poor-pigs",
+   "firstSolved": "2026-07-28T07:34:46.000Z",
+   "lastSolved": "2026-07-28T07:34:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2084403217",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-28T07:34:46.000Z",
+     "submissionId": "2084403217"
+    }
+   }
+  },
+  "smallest-palindromic-rearrangement-ii": {
+   "id": "3518",
+   "title": "Smallest Palindromic Rearrangement II",
+   "slug": "smallest-palindromic-rearrangement-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Hash Table",
+    "Math",
+    "String",
+    "Combinatorics",
+    "Counting"
+   ],
+   "dir": "problems/3518-smallest-palindromic-rearrangement-ii",
+   "firstSolved": "2026-07-29T05:33:11.000Z",
+   "lastSolved": "2026-07-29T05:33:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2085625761",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "17 ms",
+     "memory": "17.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-29T05:33:11.000Z",
+     "submissionId": "2085625761"
+    }
+   }
+  },
+  "minimum-number-of-pushes-to-type-word-i": {
+   "id": "3014",
+   "title": "Minimum Number of Pushes to Type Word I",
+   "slug": "minimum-number-of-pushes-to-type-word-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "String",
+    "Greedy"
+   ],
+   "dir": "problems/3014-minimum-number-of-pushes-to-type-word-i",
+   "firstSolved": "2026-07-30T04:14:37.000Z",
+   "lastSolved": "2026-07-30T04:14:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2086889202",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-30T04:14:37.000Z",
+     "submissionId": "2086889202"
+    }
+   }
+  },
+  "find-most-frequent-vowel-and-consonant": {
+   "id": "3541",
+   "title": "Find Most Frequent Vowel and Consonant",
+   "slug": "find-most-frequent-vowel-and-consonant",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/3541-find-most-frequent-vowel-and-consonant",
+   "firstSolved": "2026-07-30T04:43:05.000Z",
+   "lastSolved": "2026-07-30T04:43:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2086921387",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "9.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-30T04:43:05.000Z",
+     "submissionId": "2086921387"
+    }
+   }
+  },
+  "minimum-number-of-pushes-to-type-word-ii": {
+   "id": "3016",
+   "title": "Minimum Number of Pushes to Type Word II",
+   "slug": "minimum-number-of-pushes-to-type-word-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Counting"
+   ],
+   "dir": "problems/3016-minimum-number-of-pushes-to-type-word-ii",
+   "firstSolved": "2026-07-31T02:44:38.000Z",
+   "lastSolved": "2026-07-31T06:20:03.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2088389430",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "40 ms",
+     "memory": "26.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-07-31T06:20:03.000Z",
+     "submissionId": "2088389430"
+    }
+   }
+  },
+  "predict-the-winner": {
+   "id": "486",
+   "title": "Predict the Winner",
+   "slug": "predict-the-winner",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/0486-predict-the-winner",
+   "firstSolved": "2026-08-01T03:27:03.000Z",
+   "lastSolved": "2026-08-01T03:27:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2089406551",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "9.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-01T03:27:03.000Z",
+     "submissionId": "2089406551"
+    }
+   }
+  },
+  "merge-intervals": {
+   "id": "56",
+   "title": "Merge Intervals",
+   "slug": "merge-intervals",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Quicksort"
+   ],
+   "dir": "problems/0056-merge-intervals",
+   "firstSolved": "2026-08-01T10:16:15.000Z",
+   "lastSolved": "2026-08-01T10:16:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2089806769",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "23.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-01T10:16:15.000Z",
+     "submissionId": "2089806769"
+    }
+   }
+  },
+  "count-valid-prefixes": {
+   "id": "4006",
+   "title": "Count Valid Prefixes",
+   "slug": "count-valid-prefixes",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/4006-count-valid-prefixes",
+   "firstSolved": "2026-08-01T14:34:11.000Z",
+   "lastSolved": "2026-08-01T14:34:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090063541",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-01T14:34:11.000Z",
+     "submissionId": "2090063541"
+    }
+   }
+  },
+  "minimum-initial-strength-to-defeat-all-monsters": {
+   "id": "4008",
+   "title": "Minimum Initial Strength to Defeat All Monsters",
+   "slug": "minimum-initial-strength-to-defeat-all-monsters",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4008-minimum-initial-strength-to-defeat-all-monsters",
+   "firstSolved": "2026-08-01T15:38:05.000Z",
+   "lastSolved": "2026-08-01T15:38:05.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090219974",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "127 ms",
+     "memory": "267.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-01T15:38:05.000Z",
+     "submissionId": "2090219974"
+    }
+   }
+  },
+  "stone-game": {
+   "id": "877",
+   "title": "Stone Game",
+   "slug": "stone-game",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/0877-stone-game",
+   "firstSolved": "2026-02-19T16:49:47.000Z",
+   "lastSolved": "2026-08-02T02:26:40.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090660241",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-02T02:26:40.000Z",
+     "submissionId": "2090660241"
+    }
+   }
+  },
+  "maximize-pair-strength-using-gcd": {
+   "id": "4010",
+   "title": "Maximize Pair Strength Using GCD",
+   "slug": "maximize-pair-strength-using-gcd",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+   ],
+   "dir": "problems/4010-maximize-pair-strength-using-gcd",
+   "firstSolved": "2026-08-02T02:35:20.000Z",
+   "lastSolved": "2026-08-02T02:35:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090669763",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "770 ms",
+     "memory": "37.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-02T02:35:20.000Z",
+     "submissionId": "2090669763"
+    }
+   }
+  },
+  "count-subarrays-with-even-odd-ratio-i": {
+   "id": "4011",
+   "title": "Count Subarrays With Even Odd Ratio I",
+   "slug": "count-subarrays-with-even-odd-ratio-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4011-count-subarrays-with-even-odd-ratio-i",
+   "firstSolved": "2026-08-02T02:41:48.000Z",
+   "lastSolved": "2026-08-02T02:41:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090687401",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "73 ms",
+     "memory": "32.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-02T02:41:48.000Z",
+     "submissionId": "2090687401"
+    }
+   }
+  },
+  "count-of-unfinished-tasks-after-each-shift": {
+   "id": "4012",
+   "title": "Count of Unfinished Tasks After Each Shift",
+   "slug": "count-of-unfinished-tasks-after-each-shift",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4012-count-of-unfinished-tasks-after-each-shift",
+   "firstSolved": "2026-08-02T02:54:01.000Z",
+   "lastSolved": "2026-08-02T02:54:07.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090717660",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "16 ms",
+     "memory": "162.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-02T02:54:07.000Z",
+     "submissionId": "2090717660"
+    }
+   }
+  },
+  "count-subarrays-with-even-odd-ratio-ii": {
+   "id": "4013",
+   "title": "Count Subarrays With Even Odd Ratio II",
+   "slug": "count-subarrays-with-even-odd-ratio-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4013-count-subarrays-with-even-odd-ratio-ii",
+   "firstSolved": "2026-08-02T03:23:13.000Z",
+   "lastSolved": "2026-08-02T03:23:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2090776432",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "131 ms",
+     "memory": "91.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-02T03:23:13.000Z",
+     "submissionId": "2090776432"
+    }
+   }
+  },
+  "detect-capital": {
+   "id": "520",
+   "title": "Detect Capital",
+   "slug": "detect-capital",
+   "difficulty": "Easy",
+   "tags": [
+    "String"
+   ],
+   "dir": "problems/0520-detect-capital",
+   "firstSolved": "2026-08-02T13:27:43.000Z",
+   "lastSolved": "2026-08-02T13:27:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2091403585",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-02T13:27:43.000Z",
+     "submissionId": "2091403585"
+    }
+   }
+  },
+  "stone-game-iii": {
+   "id": "1406",
+   "title": "Stone Game III",
+   "slug": "stone-game-iii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/1406-stone-game-iii",
+   "firstSolved": "2026-08-03T04:27:38.000Z",
+   "lastSolved": "2026-08-03T04:27:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2092067061",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "23 ms",
+     "memory": "135.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-03T04:27:38.000Z",
+     "submissionId": "2092067061"
+    }
+   }
+  },
+  "sum-of-left-leaves": {
+   "id": "404",
+   "title": "Sum of Left Leaves",
+   "slug": "sum-of-left-leaves",
+   "difficulty": "Easy",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/0404-sum-of-left-leaves",
+   "firstSolved": "2026-08-03T10:09:38.000Z",
+   "lastSolved": "2026-08-03T10:09:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2092453586",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-03T10:09:38.000Z",
+     "submissionId": "2092453586"
+    }
+   }
+  },
+  "minimize-maximum-pair-sum-in-array": {
+   "id": "1877",
+   "title": "Minimize Maximum Pair Sum in Array",
+   "slug": "minimize-maximum-pair-sum-in-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/1877-minimize-maximum-pair-sum-in-array",
+   "firstSolved": "2026-01-24T04:50:01.000Z",
+   "lastSolved": "2026-08-03T12:33:24.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2092594081",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "174 ms",
+     "memory": "100 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-03T12:33:24.000Z",
+     "submissionId": "2092594081"
+    }
+   }
+  },
+  "find-missing-elements": {
+   "id": "3731",
+   "title": "Find Missing Elements",
+   "slug": "find-missing-elements",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+   ],
+   "dir": "problems/3731-find-missing-elements",
+   "firstSolved": "2026-08-04T04:29:15.000Z",
+   "lastSolved": "2026-08-04T04:29:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2093426110",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "33.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-04T04:29:15.000Z",
+     "submissionId": "2093426110"
+    }
+   }
+  },
+  "two-city-scheduling": {
+   "id": "1029",
+   "title": "Two City Scheduling",
+   "slug": "two-city-scheduling",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Hungarian Algorithm",
+    "Successive Shortest Path Algorithm"
+   ],
+   "dir": "problems/1029-two-city-scheduling",
+   "firstSolved": "2026-08-04T04:41:42.000Z",
+   "lastSolved": "2026-08-04T04:41:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2093439358",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-04T04:41:42.000Z",
+     "submissionId": "2093439358"
+    }
+   }
   }
  },
  "days": {
@@ -15004,7 +15647,7 @@
   "2026-02-15": 1,
   "2026-02-17": 1,
   "2026-02-18": 4,
-  "2026-02-19": 1,
+  "2026-02-19": 2,
   "2026-02-20": 2,
   "2026-02-21": 2,
   "2026-02-22": 1,
@@ -15160,6 +15803,14 @@
   "2026-07-25": 2,
   "2026-07-26": 4,
   "2026-07-27": 1,
-  "2026-07-28": 1
+  "2026-07-28": 2,
+  "2026-07-29": 1,
+  "2026-07-30": 2,
+  "2026-07-31": 1,
+  "2026-08-01": 4,
+  "2026-08-02": 5,
+  "2026-08-03": 2,
+  "2026-01-24": 1,
+  "2026-08-04": 2
  }
 }
