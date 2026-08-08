@@ -15581,6 +15581,613 @@
      "submissionId": "2093439358"
     }
    }
+  },
+  "gas-station": {
+   "id": "134",
+   "title": "Gas Station",
+   "slug": "gas-station",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/0134-gas-station",
+   "firstSolved": "2026-08-04T09:43:50.000Z",
+   "lastSolved": "2026-08-04T09:43:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2093788466",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "112.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-04T09:43:50.000Z",
+     "submissionId": "2093788466"
+    }
+   }
+  },
+  "remove-methods-from-project": {
+   "id": "3310",
+   "title": "Remove Methods From Project",
+   "slug": "remove-methods-from-project",
+   "difficulty": "Medium",
+   "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+   ],
+   "dir": "problems/3310-remove-methods-from-project",
+   "firstSolved": "2026-08-05T04:13:21.000Z",
+   "lastSolved": "2026-08-05T04:13:21.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2094775897",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "501 ms",
+     "memory": "389.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-05T04:13:21.000Z",
+     "submissionId": "2094775897"
+    }
+   }
+  },
+  "find-lucky-integer-in-an-array": {
+   "id": "1394",
+   "title": "Find Lucky Integer in an Array",
+   "slug": "find-lucky-integer-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+   ],
+   "dir": "problems/1394-find-lucky-integer-in-an-array",
+   "firstSolved": "2026-08-05T04:22:46.000Z",
+   "lastSolved": "2026-08-05T04:22:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2094785078",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "14 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-05T04:22:46.000Z",
+     "submissionId": "2094785078"
+    }
+   }
+  },
+  "sort-colors": {
+   "id": "75",
+   "title": "Sort Colors",
+   "slug": "sort-colors",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "Quicksort",
+    "Bubble Sort"
+   ],
+   "dir": "problems/0075-sort-colors",
+   "firstSolved": "2026-02-05T13:57:34.000Z",
+   "lastSolved": "2026-08-05T04:26:45.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2094789300",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-05T04:26:45.000Z",
+     "submissionId": "2094789300"
+    }
+   }
+  },
+  "smallest-divisible-digit-product-i": {
+   "id": "3345",
+   "title": "Smallest Divisible Digit Product I",
+   "slug": "smallest-divisible-digit-product-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Enumeration"
+   ],
+   "dir": "problems/3345-smallest-divisible-digit-product-i",
+   "firstSolved": "2026-08-06T04:17:36.000Z",
+   "lastSolved": "2026-08-06T04:17:36.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2096089739",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-06T04:17:36.000Z",
+     "submissionId": "2096089739"
+    }
+   }
+  },
+  "n-queens": {
+   "id": "51",
+   "title": "N-Queens",
+   "slug": "n-queens",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Backtracking",
+    "Algorithm X"
+   ],
+   "dir": "problems/0051-n-queens",
+   "firstSolved": "2026-08-06T08:50:38.000Z",
+   "lastSolved": "2026-08-06T08:50:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2096409809",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-06T08:50:38.000Z",
+     "submissionId": "2096409809"
+    }
+   }
+  },
+  "height-checker": {
+   "id": "1051",
+   "title": "Height Checker",
+   "slug": "height-checker",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Counting Sort",
+    "Bubble Sort"
+   ],
+   "dir": "problems/1051-height-checker",
+   "firstSolved": "2026-06-16T06:52:14.000Z",
+   "lastSolved": "2026-08-06T09:46:57.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2096479398",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-06T09:46:57.000Z",
+     "submissionId": "2096479398"
+    }
+   }
+  },
+  "long-pressed-name": {
+   "id": "925",
+   "title": "Long Pressed Name",
+   "slug": "long-pressed-name",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/0925-long-pressed-name",
+   "firstSolved": "2026-08-06T09:49:51.000Z",
+   "lastSolved": "2026-08-06T09:49:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2096482963",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-06T09:49:51.000Z",
+     "submissionId": "2096482963"
+    }
+   }
+  },
+  "weighted-word-mapping": {
+   "id": "3838",
+   "title": "Weighted Word Mapping",
+   "slug": "weighted-word-mapping",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3838-weighted-word-mapping",
+   "firstSolved": "2026-06-13T06:00:37.000Z",
+   "lastSolved": "2026-08-06T12:45:57.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2096668892",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "43.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-06T12:45:57.000Z",
+     "submissionId": "2096668892"
+    }
+   }
+  },
+  "smallest-divisible-digit-product-ii": {
+   "id": "3348",
+   "title": "Smallest Divisible Digit Product II",
+   "slug": "smallest-divisible-digit-product-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "String",
+    "Backtracking",
+    "Greedy",
+    "Number Theory"
+   ],
+   "dir": "problems/3348-smallest-divisible-digit-product-ii",
+   "firstSolved": "2026-08-06T05:56:39.000Z",
+   "lastSolved": "2026-08-07T04:13:50.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2097435045",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "43 ms",
+     "memory": "46.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-07T04:13:50.000Z",
+     "submissionId": "2097435045"
+    }
+   }
+  },
+  "total-hamming-distance": {
+   "id": "477",
+   "title": "Total Hamming Distance",
+   "slug": "total-hamming-distance",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0477-total-hamming-distance",
+   "firstSolved": "2026-07-23T10:27:23.000Z",
+   "lastSolved": "2026-08-07T05:16:50.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2097501220",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1141 ms",
+     "memory": "22.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-07T05:16:50.000Z",
+     "submissionId": "2097501220"
+    }
+   }
+  },
+  "maximum-beauty-of-an-array-after-applying-operation": {
+   "id": "2779",
+   "title": "Maximum Beauty of an Array After Applying Operation",
+   "slug": "maximum-beauty-of-an-array-after-applying-operation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting"
+   ],
+   "dir": "problems/2779-maximum-beauty-of-an-array-after-applying-operation",
+   "firstSolved": "2026-08-07T09:35:42.000Z",
+   "lastSolved": "2026-08-07T09:35:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2097770868",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "48 ms",
+     "memory": "105 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-07T09:35:42.000Z",
+     "submissionId": "2097770868"
+    }
+   }
+  },
+  "find-the-lexicographically-smallest-valid-sequence": {
+   "id": "3302",
+   "title": "Find the Lexicographically Smallest Valid Sequence",
+   "slug": "find-the-lexicographically-smallest-valid-sequence",
+   "difficulty": "Medium",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/3302-find-the-lexicographically-smallest-valid-sequence",
+   "firstSolved": "2026-08-08T06:13:54.000Z",
+   "lastSolved": "2026-08-08T06:13:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098720512",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "51 ms",
+     "memory": "115.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T06:13:54.000Z",
+     "submissionId": "2098720512"
+    }
+   }
+  },
+  "create-hello-world-function": {
+   "id": "2667",
+   "title": "Create Hello World Function",
+   "slug": "create-hello-world-function",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2667-create-hello-world-function",
+   "firstSolved": "2026-08-08T07:25:58.000Z",
+   "lastSolved": "2026-08-08T07:25:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098799125",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "37 ms",
+     "memory": "53.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:25:58.000Z",
+     "submissionId": "2098799125"
+    }
+   }
+  },
+  "counter": {
+   "id": "2620",
+   "title": "Counter",
+   "slug": "counter",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2620-counter",
+   "firstSolved": "2026-08-08T07:29:31.000Z",
+   "lastSolved": "2026-08-08T07:29:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098802058",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "44 ms",
+     "memory": "53.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:29:31.000Z",
+     "submissionId": "2098802058"
+    }
+   }
+  },
+  "to-be-or-not-to-be": {
+   "id": "2704",
+   "title": "To Be Or Not To Be",
+   "slug": "to-be-or-not-to-be",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2704-to-be-or-not-to-be",
+   "firstSolved": "2026-08-08T07:33:28.000Z",
+   "lastSolved": "2026-08-08T07:33:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098805232",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "50 ms",
+     "memory": "52.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:33:28.000Z",
+     "submissionId": "2098805232"
+    }
+   }
+  },
+  "counter-ii": {
+   "id": "2665",
+   "title": "Counter II",
+   "slug": "counter-ii",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2665-counter-ii",
+   "firstSolved": "2026-08-08T07:35:07.000Z",
+   "lastSolved": "2026-08-08T07:35:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098806592",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "57 ms",
+     "memory": "54.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:35:07.000Z",
+     "submissionId": "2098806592"
+    }
+   }
+  },
+  "climbing-stairs": {
+   "id": "70",
+   "title": "Climbing Stairs",
+   "slug": "climbing-stairs",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+   ],
+   "dir": "problems/0070-climbing-stairs",
+   "firstSolved": "2025-05-04T13:28:08.000Z",
+   "lastSolved": "2026-08-08T07:36:09.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098807514",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:36:09.000Z",
+     "submissionId": "2098807514"
+    }
+   }
+  },
+  "n-th-tribonacci-number": {
+   "id": "1137",
+   "title": "N-th Tribonacci Number",
+   "slug": "n-th-tribonacci-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+   ],
+   "dir": "problems/1137-n-th-tribonacci-number",
+   "firstSolved": "2026-05-25T17:34:18.000Z",
+   "lastSolved": "2026-08-08T07:37:30.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098808620",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:37:30.000Z",
+     "submissionId": "2098808620"
+    }
+   }
+  },
+  "min-cost-climbing-stairs": {
+   "id": "746",
+   "title": "Min Cost Climbing Stairs",
+   "slug": "min-cost-climbing-stairs",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0746-min-cost-climbing-stairs",
+   "firstSolved": "2026-08-03T10:12:06.000Z",
+   "lastSolved": "2026-08-08T07:37:55.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098808947",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "17.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:37:55.000Z",
+     "submissionId": "2098808947"
+    }
+   }
   }
  },
  "days": {
@@ -15589,7 +16196,7 @@
   "2025-04-15": 3,
   "2025-04-18": 2,
   "2025-04-19": 4,
-  "2025-05-04": 6,
+  "2025-05-04": 7,
   "2025-12-03": 1,
   "2025-12-07": 4,
   "2025-12-09": 1,
@@ -15633,7 +16240,7 @@
   "2026-02-02": 1,
   "2026-02-03": 1,
   "2026-02-04": 3,
-  "2026-02-05": 2,
+  "2026-02-05": 3,
   "2026-02-07": 2,
   "2026-02-08": 1,
   "2026-02-09": 1,
@@ -15738,7 +16345,7 @@
   "2026-05-22": 1,
   "2026-05-23": 5,
   "2026-05-24": 4,
-  "2026-05-25": 1,
+  "2026-05-25": 2,
   "2026-03-04": 2,
   "2026-05-26": 1,
   "2026-05-27": 4,
@@ -15759,10 +16366,10 @@
   "2026-06-10": 1,
   "2026-06-11": 1,
   "2026-06-12": 5,
-  "2026-06-13": 3,
+  "2026-06-13": 4,
   "2026-06-14": 4,
   "2026-06-15": 2,
-  "2026-06-16": 2,
+  "2026-06-16": 3,
   "2026-06-17": 2,
   "2026-06-18": 1,
   "2026-06-19": 3,
@@ -15799,7 +16406,7 @@
   "2026-07-20": 1,
   "2026-07-21": 2,
   "2026-07-22": 1,
-  "2026-07-23": 4,
+  "2026-07-23": 5,
   "2026-07-25": 2,
   "2026-07-26": 4,
   "2026-07-27": 1,
@@ -15809,8 +16416,12 @@
   "2026-07-31": 1,
   "2026-08-01": 4,
   "2026-08-02": 5,
-  "2026-08-03": 2,
+  "2026-08-03": 3,
   "2026-01-24": 1,
-  "2026-08-04": 2
+  "2026-08-04": 3,
+  "2026-08-05": 2,
+  "2026-08-06": 4,
+  "2026-08-07": 1,
+  "2026-08-08": 5
  }
 }
