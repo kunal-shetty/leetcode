@@ -16188,6 +16188,645 @@
      "submissionId": "2098808947"
     }
    }
+  },
+  "isomorphic-strings": {
+   "id": "205",
+   "title": "Isomorphic Strings",
+   "slug": "isomorphic-strings",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/0205-isomorphic-strings",
+   "firstSolved": "2026-08-08T07:54:08.000Z",
+   "lastSolved": "2026-08-08T07:54:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2098822237",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-08T07:54:08.000Z",
+     "submissionId": "2098822237"
+    }
+   }
+  },
+  "stone-game-ii": {
+   "id": "1140",
+   "title": "Stone Game II",
+   "slug": "stone-game-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/1140-stone-game-ii",
+   "firstSolved": "2026-08-09T02:28:55.000Z",
+   "lastSolved": "2026-08-09T02:28:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2099702729",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "13.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-09T02:28:55.000Z",
+     "submissionId": "2099702729"
+    }
+   }
+  },
+  "minimum-total-price-after-applying-discounts": {
+   "id": "4014",
+   "title": "Minimum Total Price After Applying Discounts",
+   "slug": "minimum-total-price-after-applying-discounts",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/4014-minimum-total-price-after-applying-discounts",
+   "firstSolved": "2026-08-09T02:34:09.000Z",
+   "lastSolved": "2026-08-09T02:34:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2099705321",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "67 ms",
+     "memory": "223.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-09T02:34:09.000Z",
+     "submissionId": "2099705321"
+    }
+   }
+  },
+  "weighted-sum-of-a-tree": {
+   "id": "4015",
+   "title": "Weighted Sum of a Tree",
+   "slug": "weighted-sum-of-a-tree",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Tree",
+    "Depth-First Search"
+   ],
+   "dir": "problems/4015-weighted-sum-of-a-tree",
+   "firstSolved": "2026-08-09T02:42:35.000Z",
+   "lastSolved": "2026-08-09T02:42:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2099721176",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "153 ms",
+     "memory": "239.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-09T02:42:35.000Z",
+     "submissionId": "2099721176"
+    }
+   }
+  },
+  "maximum-area-of-two-non-overlapping-square-submatrices": {
+   "id": "4016",
+   "title": "Maximum Area of Two Non-Overlapping Square Submatrices",
+   "slug": "maximum-area-of-two-non-overlapping-square-submatrices",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Matrix"
+   ],
+   "dir": "problems/4016-maximum-area-of-two-non-overlapping-square-submatrices",
+   "firstSolved": "2026-08-09T02:57:32.000Z",
+   "lastSolved": "2026-08-09T02:57:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2099751847",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "65 ms",
+     "memory": "126.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-09T02:57:32.000Z",
+     "submissionId": "2099751847"
+    }
+   }
+  },
+  "stone-game-iv": {
+   "id": "1510",
+   "title": "Stone Game IV",
+   "slug": "stone-game-iv",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Sprague–Grundy Theorem",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/1510-stone-game-iv",
+   "firstSolved": "2026-08-10T05:29:51.000Z",
+   "lastSolved": "2026-08-10T05:29:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2101092666",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-10T05:29:51.000Z",
+     "submissionId": "2101092666"
+    }
+   }
+  },
+  "bulb-switcher": {
+   "id": "319",
+   "title": "Bulb Switcher",
+   "slug": "bulb-switcher",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Brainteaser"
+   ],
+   "dir": "problems/0319-bulb-switcher",
+   "firstSolved": "2026-08-10T10:25:19.000Z",
+   "lastSolved": "2026-08-10T10:25:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2101399243",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-10T10:25:19.000Z",
+     "submissionId": "2101399243"
+    }
+   }
+  },
+  "smallest-missing-integer-greater-than-sequential-prefix-sum": {
+   "id": "2996",
+   "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+   "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+   ],
+   "dir": "problems/2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+   "firstSolved": "2026-08-11T04:41:04.000Z",
+   "lastSolved": "2026-08-11T04:41:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2102288414",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "23 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-11T04:41:04.000Z",
+     "submissionId": "2102288414"
+    }
+   }
+  },
+  "insert-delete-getrandom-o1": {
+   "id": "380",
+   "title": "Insert Delete GetRandom O(1)",
+   "slug": "insert-delete-getrandom-o1",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Design",
+    "Randomized"
+   ],
+   "dir": "problems/0380-insert-delete-getrandom-o1",
+   "firstSolved": "2026-08-11T05:00:19.000Z",
+   "lastSolved": "2026-08-11T05:00:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2102310552",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "31 ms",
+     "memory": "113.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-11T05:00:19.000Z",
+     "submissionId": "2102310552"
+    }
+   }
+  },
+  "number-of-good-pairs": {
+   "id": "1512",
+   "title": "Number of Good Pairs",
+   "slug": "number-of-good-pairs",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+   ],
+   "dir": "problems/1512-number-of-good-pairs",
+   "firstSolved": "2026-07-02T07:12:19.000Z",
+   "lastSolved": "2026-08-11T06:08:19.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2102397748",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-11T06:08:19.000Z",
+     "submissionId": "2102397748"
+    }
+   }
+  },
+  "length-of-longest-subarray-with-at-most-k-frequency": {
+   "id": "2958",
+   "title": "Length of Longest Subarray With at Most K Frequency",
+   "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+   ],
+   "dir": "problems/2958-length-of-longest-subarray-with-at-most-k-frequency",
+   "firstSolved": "2026-08-12T05:15:06.000Z",
+   "lastSolved": "2026-08-12T05:15:06.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2103701214",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "69 ms",
+     "memory": "149.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-12T05:15:06.000Z",
+     "submissionId": "2103701214"
+    }
+   }
+  },
+  "longest-substring-of-one-repeating-character": {
+   "id": "2213",
+   "title": "Longest Substring of One Repeating Character",
+   "slug": "longest-substring-of-one-repeating-character",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "String",
+    "Segment Tree",
+    "Ordered Set"
+   ],
+   "dir": "problems/2213-longest-substring-of-one-repeating-character",
+   "firstSolved": "2026-08-13T05:13:35.000Z",
+   "lastSolved": "2026-08-13T05:13:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2104985506",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "345 ms",
+     "memory": "112.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-13T05:13:35.000Z",
+     "submissionId": "2104985506"
+    }
+   }
+  },
+  "nim-game": {
+   "id": "292",
+   "title": "Nim Game",
+   "slug": "nim-game",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Brainteaser",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Impartial Game"
+   ],
+   "dir": "problems/0292-nim-game",
+   "firstSolved": "2026-01-31T10:43:22.000Z",
+   "lastSolved": "2026-08-13T05:36:53.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2105010045",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-13T05:36:53.000Z",
+     "submissionId": "2105010045"
+    }
+   }
+  },
+  "hamming-distance": {
+   "id": "461",
+   "title": "Hamming Distance",
+   "slug": "hamming-distance",
+   "difficulty": "Easy",
+   "tags": [
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0461-hamming-distance",
+   "firstSolved": "2026-07-23T10:15:44.000Z",
+   "lastSolved": "2026-08-13T05:37:20.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2105010543",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-13T05:37:20.000Z",
+     "submissionId": "2105010543"
+    }
+   }
+  },
+  "longest-chunked-palindrome-decomposition": {
+   "id": "1147",
+   "title": "Longest Chunked Palindrome Decomposition",
+   "slug": "longest-chunked-palindrome-decomposition",
+   "difficulty": "Hard",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Greedy",
+    "Rolling Hash",
+    "Hash Function"
+   ],
+   "dir": "problems/1147-longest-chunked-palindrome-decomposition",
+   "firstSolved": "2026-08-13T07:03:31.000Z",
+   "lastSolved": "2026-08-13T07:03:31.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2105109184",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "14.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-13T07:03:31.000Z",
+     "submissionId": "2105109184"
+    }
+   }
+  },
+  "minimize-maximum-of-array": {
+   "id": "2439",
+   "title": "Minimize Maximum of Array",
+   "slug": "minimize-maximum-of-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Prefix Sum"
+   ],
+   "dir": "problems/2439-minimize-maximum-of-array",
+   "firstSolved": "2026-08-13T12:52:07.000Z",
+   "lastSolved": "2026-08-13T12:52:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2105426585",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "75.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-13T12:52:07.000Z",
+     "submissionId": "2105426585"
+    }
+   }
+  },
+  "maximum-length-substring-with-two-occurrences": {
+   "id": "3090",
+   "title": "Maximum Length Substring With Two Occurrences",
+   "slug": "maximum-length-substring-with-two-occurrences",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/3090-maximum-length-substring-with-two-occurrences",
+   "firstSolved": "2026-08-14T02:50:03.000Z",
+   "lastSolved": "2026-08-14T02:50:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2106076107",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-14T02:50:03.000Z",
+     "submissionId": "2106076107"
+    }
+   }
+  },
+  "minimum-operations-to-equalize-binary-string": {
+   "id": "3666",
+   "title": "Minimum Operations to Equalize Binary String",
+   "slug": "minimum-operations-to-equalize-binary-string",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "String",
+    "Breadth-First Search",
+    "Union-Find",
+    "Ordered Set"
+   ],
+   "dir": "problems/3666-minimum-operations-to-equalize-binary-string",
+   "firstSolved": "2026-02-27T02:08:33.000Z",
+   "lastSolved": "2026-08-14T04:27:24.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2106139631",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "19.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-14T04:27:24.000Z",
+     "submissionId": "2106139631"
+    }
+   }
+  },
+  "elevator-requests-i": {
+   "id": "4020",
+   "title": "Elevator Requests I",
+   "slug": "elevator-requests-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/4020-elevator-requests-i",
+   "firstSolved": "2026-08-15T14:38:19.000Z",
+   "lastSolved": "2026-08-15T14:38:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2107781491",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-15T14:38:19.000Z",
+     "submissionId": "2107781491"
+    }
+   }
+  },
+  "minimum-operations-to-make-a-rotated-palindrome-i": {
+   "id": "4021",
+   "title": "Minimum Operations to Make a Rotated Palindrome I",
+   "slug": "minimum-operations-to-make-a-rotated-palindrome-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "String",
+    "Enumeration"
+   ],
+   "dir": "problems/4021-minimum-operations-to-make-a-rotated-palindrome-i",
+   "firstSolved": "2026-08-15T15:00:46.000Z",
+   "lastSolved": "2026-08-15T15:00:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2107836288",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "259 ms",
+     "memory": "10.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-15T15:00:46.000Z",
+     "submissionId": "2107836288"
+    }
+   }
   }
  },
  "days": {
@@ -16235,7 +16874,7 @@
   "2026-01-28": 3,
   "2026-01-29": 1,
   "2026-01-30": 1,
-  "2026-01-31": 5,
+  "2026-01-31": 6,
   "2026-02-01": 2,
   "2026-02-02": 1,
   "2026-02-03": 1,
@@ -16385,7 +17024,7 @@
   "2026-06-29": 2,
   "2026-06-30": 2,
   "2026-07-01": 1,
-  "2026-07-02": 2,
+  "2026-07-02": 3,
   "2026-07-03": 1,
   "2026-07-04": 5,
   "2026-07-05": 3,
@@ -16406,7 +17045,7 @@
   "2026-07-20": 1,
   "2026-07-21": 2,
   "2026-07-22": 1,
-  "2026-07-23": 5,
+  "2026-07-23": 6,
   "2026-07-25": 2,
   "2026-07-26": 4,
   "2026-07-27": 1,
@@ -16422,6 +17061,14 @@
   "2026-08-05": 2,
   "2026-08-06": 4,
   "2026-08-07": 1,
-  "2026-08-08": 5
+  "2026-08-08": 6,
+  "2026-08-09": 4,
+  "2026-08-10": 2,
+  "2026-08-11": 2,
+  "2026-08-12": 1,
+  "2026-08-13": 3,
+  "2026-08-14": 1,
+  "2026-02-27": 1,
+  "2026-08-15": 2
  }
 }
