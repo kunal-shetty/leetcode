@@ -16827,6 +16827,640 @@
      "submissionId": "2107836288"
     }
    }
+  },
+  "k-th-digit-in-infinite-string": {
+   "id": "4022",
+   "title": "K-th Digit in Infinite String",
+   "slug": "k-th-digit-in-infinite-string",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Binary Search"
+   ],
+   "dir": "problems/4022-k-th-digit-in-infinite-string",
+   "firstSolved": "2026-08-15T15:08:52.000Z",
+   "lastSolved": "2026-08-15T15:08:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2107853691",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-15T15:08:52.000Z",
+     "submissionId": "2107853691"
+    }
+   }
+  },
+  "minimum-one-bit-operations-to-make-integers-zero": {
+   "id": "1611",
+   "title": "Minimum One Bit Operations to Make Integers Zero",
+   "slug": "minimum-one-bit-operations-to-make-integers-zero",
+   "difficulty": "Hard",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Recursion",
+    "Memoization"
+   ],
+   "dir": "problems/1611-minimum-one-bit-operations-to-make-integers-zero",
+   "firstSolved": "2026-08-15T16:26:37.000Z",
+   "lastSolved": "2026-08-15T16:26:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2107981599",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-15T16:26:37.000Z",
+     "submissionId": "2107981599"
+    }
+   }
+  },
+  "stone-game-ix": {
+   "id": "2029",
+   "title": "Stone Game IX",
+   "slug": "stone-game-ix",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Minimax",
+    "Counting",
+    "Game Theory",
+    "Nim Game",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/2029-stone-game-ix",
+   "firstSolved": "2026-08-16T01:49:26.000Z",
+   "lastSolved": "2026-08-16T01:49:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2108337581",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "131.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-16T01:49:26.000Z",
+     "submissionId": "2108337581"
+    }
+   }
+  },
+  "nearest-available-drone": {
+   "id": "4024",
+   "title": "Nearest Available Drone",
+   "slug": "nearest-available-drone",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Enumeration"
+   ],
+   "dir": "problems/4024-nearest-available-drone",
+   "firstSolved": "2026-08-16T02:33:50.000Z",
+   "lastSolved": "2026-08-16T02:33:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2108353535",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "55.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-16T02:33:50.000Z",
+     "submissionId": "2108353535"
+    }
+   }
+  },
+  "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights": {
+   "id": "4025",
+   "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
+   "slug": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
+   "firstSolved": "2026-08-16T02:35:37.000Z",
+   "lastSolved": "2026-08-16T02:35:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2108356811",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "178.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-16T02:35:37.000Z",
+     "submissionId": "2108356811"
+    }
+   }
+  },
+  "maximum-gap-between-stations": {
+   "id": "4026",
+   "title": "Maximum Gap Between Stations",
+   "slug": "maximum-gap-between-stations",
+   "difficulty": "Medium",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+   ],
+   "dir": "problems/4026-maximum-gap-between-stations",
+   "firstSolved": "2026-08-16T02:39:58.000Z",
+   "lastSolved": "2026-08-16T02:39:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2108365874",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "62 ms",
+     "memory": "72.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-16T02:39:58.000Z",
+     "submissionId": "2108365874"
+    }
+   }
+  },
+  "elevator-requests-iii": {
+   "id": "4027",
+   "title": "Elevator Requests III",
+   "slug": "elevator-requests-iii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Sorting",
+    "Bitmask"
+   ],
+   "dir": "problems/4027-elevator-requests-iii",
+   "firstSolved": "2026-08-16T02:57:21.000Z",
+   "lastSolved": "2026-08-16T02:57:21.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2108402136",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "463 ms",
+     "memory": "125.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-16T02:57:21.000Z",
+     "submissionId": "2108402136"
+    }
+   }
+  },
+  "stone-game-v": {
+   "id": "1563",
+   "title": "Stone Game V",
+   "slug": "stone-game-v",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+   ],
+   "dir": "problems/1563-stone-game-v",
+   "firstSolved": "2026-08-17T05:29:35.000Z",
+   "lastSolved": "2026-08-17T05:29:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2109715251",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "951 ms",
+     "memory": "27.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-17T05:29:35.000Z",
+     "submissionId": "2109715251"
+    }
+   }
+  },
+  "my-calendar-iii": {
+   "id": "732",
+   "title": "My Calendar III",
+   "slug": "my-calendar-iii",
+   "difficulty": "Hard",
+   "tags": [
+    "Binary Search",
+    "Design",
+    "Segment Tree",
+    "Prefix Sum",
+    "Ordered Set"
+   ],
+   "dir": "problems/0732-my-calendar-iii",
+   "firstSolved": "2026-08-17T12:50:20.000Z",
+   "lastSolved": "2026-08-17T12:50:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2110133132",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "38 ms",
+     "memory": "33.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-17T12:50:20.000Z",
+     "submissionId": "2110133132"
+    }
+   }
+  },
+  "find-the-largest-almost-missing-integer": {
+   "id": "3471",
+   "title": "Find the Largest Almost Missing Integer",
+   "slug": "find-the-largest-almost-missing-integer",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/3471-find-the-largest-almost-missing-integer",
+   "firstSolved": "2026-08-18T04:42:14.000Z",
+   "lastSolved": "2026-08-18T04:42:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2110894993",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "29.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-18T04:42:14.000Z",
+     "submissionId": "2110894993"
+    }
+   }
+  },
+  "number-of-laser-beams-in-a-bank": {
+   "id": "2125",
+   "title": "Number of Laser Beams in a Bank",
+   "slug": "number-of-laser-beams-in-a-bank",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "String",
+    "Matrix"
+   ],
+   "dir": "problems/2125-number-of-laser-beams-in-a-bank",
+   "firstSolved": "2026-08-18T05:43:08.000Z",
+   "lastSolved": "2026-08-18T05:43:08.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2110966906",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "9 ms",
+     "memory": "33.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-18T05:43:08.000Z",
+     "submissionId": "2110966906"
+    }
+   }
+  },
+  "cinema-seat-allocation": {
+   "id": "1386",
+   "title": "Cinema Seat Allocation",
+   "slug": "cinema-seat-allocation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/1386-cinema-seat-allocation",
+   "firstSolved": "2026-08-19T07:32:01.000Z",
+   "lastSolved": "2026-08-19T07:32:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2112393765",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "46 ms",
+     "memory": "65.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-19T07:32:01.000Z",
+     "submissionId": "2112393765"
+    }
+   }
+  },
+  "power-of-two": {
+   "id": "231",
+   "title": "Power of Two",
+   "slug": "power-of-two",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+   ],
+   "dir": "problems/0231-power-of-two",
+   "firstSolved": "2026-02-05T10:17:30.000Z",
+   "lastSolved": "2026-08-19T11:02:04.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2112597034",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-19T11:02:04.000Z",
+     "submissionId": "2112597034"
+    }
+   }
+  },
+  "distribute-elements-into-two-arrays-i": {
+   "id": "3069",
+   "title": "Distribute Elements Into Two Arrays I",
+   "slug": "distribute-elements-into-two-arrays-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+   ],
+   "dir": "problems/3069-distribute-elements-into-two-arrays-i",
+   "firstSolved": "2026-08-20T00:44:43.000Z",
+   "lastSolved": "2026-08-20T08:44:03.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2113697533",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "24 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-20T08:44:03.000Z",
+     "submissionId": "2113697533"
+    }
+   }
+  },
+  "kth-smallest-amount-with-single-denomination-combination": {
+   "id": "3116",
+   "title": "Kth Smallest Amount With Single Denomination Combination",
+   "slug": "kth-smallest-amount-with-single-denomination-combination",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Number Theory"
+   ],
+   "dir": "problems/3116-kth-smallest-amount-with-single-denomination-combination",
+   "firstSolved": "2026-08-21T10:29:22.000Z",
+   "lastSolved": "2026-08-21T10:29:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2114940979",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "131 ms",
+     "memory": "20.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-21T10:29:22.000Z",
+     "submissionId": "2114940979"
+    }
+   }
+  },
+  "check-divisibility-by-digit-sum-and-product": {
+   "id": "3622",
+   "title": "Check Divisibility by Digit Sum and Product",
+   "slug": "check-divisibility-by-digit-sum-and-product",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3622-check-divisibility-by-digit-sum-and-product",
+   "firstSolved": "2026-08-22T00:08:53.000Z",
+   "lastSolved": "2026-08-22T00:08:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2115575293",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-22T00:08:53.000Z",
+     "submissionId": "2115575293"
+    }
+   }
+  },
+  "sum-game": {
+   "id": "1927",
+   "title": "Sum Game",
+   "slug": "sum-game",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "String",
+    "Greedy",
+    "Game Theory"
+   ],
+   "dir": "problems/1927-sum-game",
+   "firstSolved": "2026-08-23T02:23:55.000Z",
+   "lastSolved": "2026-08-23T02:23:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2116717115",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "14.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-23T02:23:55.000Z",
+     "submissionId": "2116717115"
+    }
+   }
+  },
+  "check-ascii-palindromic": {
+   "id": "4030",
+   "title": "Check ASCII Palindromic",
+   "slug": "check-ascii-palindromic",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/4030-check-ascii-palindromic",
+   "firstSolved": "2026-08-23T02:33:09.000Z",
+   "lastSolved": "2026-08-23T02:33:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2116721321",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "9.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-23T02:33:09.000Z",
+     "submissionId": "2116721321"
+    }
+   }
+  },
+  "find-all-numbers-disappeared-in-an-array-ii": {
+   "id": "4031",
+   "title": "Find All Numbers Disappeared in an Array II",
+   "slug": "find-all-numbers-disappeared-in-an-array-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+   ],
+   "dir": "problems/4031-find-all-numbers-disappeared-in-an-array-ii",
+   "firstSolved": "2026-08-23T02:36:07.000Z",
+   "lastSolved": "2026-08-23T02:36:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2116726310",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "51 ms",
+     "memory": "242.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-23T02:36:07.000Z",
+     "submissionId": "2116726310"
+    }
+   }
+  },
+  "longest-subarray-with-at-most-k-distinct-prime-factors": {
+   "id": "4032",
+   "title": "Longest Subarray With at Most K Distinct Prime Factors",
+   "slug": "longest-subarray-with-at-most-k-distinct-prime-factors",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Sliding Window",
+    "Number Theory"
+   ],
+   "dir": "problems/4032-longest-subarray-with-at-most-k-distinct-prime-factors",
+   "firstSolved": "2026-08-23T02:48:53.000Z",
+   "lastSolved": "2026-08-23T02:48:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2116753859",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "623 ms",
+     "memory": "255.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-23T02:48:53.000Z",
+     "submissionId": "2116753859"
+    }
+   }
   }
  },
  "days": {
@@ -16879,7 +17513,7 @@
   "2026-02-02": 1,
   "2026-02-03": 1,
   "2026-02-04": 3,
-  "2026-02-05": 3,
+  "2026-02-05": 4,
   "2026-02-07": 2,
   "2026-02-08": 1,
   "2026-02-09": 1,
@@ -17069,6 +17703,14 @@
   "2026-08-13": 3,
   "2026-08-14": 1,
   "2026-02-27": 1,
-  "2026-08-15": 2
+  "2026-08-15": 4,
+  "2026-08-16": 5,
+  "2026-08-17": 2,
+  "2026-08-18": 2,
+  "2026-08-19": 1,
+  "2026-08-20": 1,
+  "2026-08-21": 1,
+  "2026-08-22": 1,
+  "2026-08-23": 4
  }
 }
