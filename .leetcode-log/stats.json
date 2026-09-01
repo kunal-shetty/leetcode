@@ -17461,6 +17461,626 @@
      "submissionId": "2116753859"
     }
    }
+  },
+  "valid-k-unique-subarrays-i": {
+   "id": "4033",
+   "title": "Valid K-Unique Subarrays I",
+   "slug": "valid-k-unique-subarrays-i",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Sliding Window",
+    "Hash Function",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4033-valid-k-unique-subarrays-i",
+   "firstSolved": "2026-08-23T03:05:25.000Z",
+   "lastSolved": "2026-08-23T06:31:06.000Z",
+   "solves": 5,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2117011918",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "397 ms",
+     "memory": "340.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-23T06:31:06.000Z",
+     "submissionId": "2117011918"
+    }
+   }
+  },
+  "stone-game-viii": {
+   "id": "1872",
+   "title": "Stone Game VIII",
+   "slug": "stone-game-viii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+   ],
+   "dir": "problems/1872-stone-game-viii",
+   "firstSolved": "2026-08-24T01:35:35.000Z",
+   "lastSolved": "2026-08-24T01:35:35.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2117905649",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "104 ms",
+     "memory": "87.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-24T01:35:35.000Z",
+     "submissionId": "2117905649"
+    }
+   }
+  },
+  "return-length-of-arguments-passed": {
+   "id": "2703",
+   "title": "Return Length of Arguments Passed",
+   "slug": "return-length-of-arguments-passed",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/2703-return-length-of-arguments-passed",
+   "firstSolved": "2026-05-27T16:15:08.000Z",
+   "lastSolved": "2026-08-24T04:22:58.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2117986476",
+   "subs": {
+    "solution.js": {
+     "lang": "javascript",
+     "label": "JavaScript",
+     "runtime": "39 ms",
+     "memory": "53.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-24T04:22:58.000Z",
+     "submissionId": "2117986476"
+    }
+   }
+  },
+  "smallest-missing-multiple-of-k": {
+   "id": "3718",
+   "title": "Smallest Missing Multiple of K",
+   "slug": "smallest-missing-multiple-of-k",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/3718-smallest-missing-multiple-of-k",
+   "firstSolved": "2026-08-25T00:36:01.000Z",
+   "lastSolved": "2026-08-25T00:36:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2119031031",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "25.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-25T00:36:01.000Z",
+     "submissionId": "2119031031"
+    }
+   }
+  },
+  "shortest-and-lexicographically-smallest-beautiful-string": {
+   "id": "2904",
+   "title": "Shortest and Lexicographically Smallest Beautiful String",
+   "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/2904-shortest-and-lexicographically-smallest-beautiful-string",
+   "firstSolved": "2026-08-26T05:21:43.000Z",
+   "lastSolved": "2026-08-26T05:21:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2120393936",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-26T05:21:43.000Z",
+     "submissionId": "2120393936"
+    }
+   }
+  },
+  "number-of-1-bits": {
+   "id": "191",
+   "title": "Number of 1 Bits",
+   "slug": "number-of-1-bits",
+   "difficulty": "Easy",
+   "tags": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/0191-number-of-1-bits",
+   "firstSolved": "2026-02-16T09:49:15.000Z",
+   "lastSolved": "2026-08-26T12:27:17.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2120780268",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-26T12:27:17.000Z",
+     "submissionId": "2120780268"
+    }
+   }
+  },
+  "lexicographically-smallest-permutation-greater-than-target": {
+   "id": "3720",
+   "title": "Lexicographically Smallest Permutation Greater Than Target",
+   "slug": "lexicographically-smallest-permutation-greater-than-target",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Counting",
+    "Enumeration"
+   ],
+   "dir": "problems/3720-lexicographically-smallest-permutation-greater-than-target",
+   "firstSolved": "2026-08-27T07:13:54.000Z",
+   "lastSolved": "2026-08-27T07:13:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2121624641",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-27T07:13:54.000Z",
+     "submissionId": "2121624641"
+    }
+   }
+  },
+  "lexicographically-smallest-palindromic-permutation-greater-than-target": {
+   "id": "3734",
+   "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+   "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+   "difficulty": "Hard",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Enumeration"
+   ],
+   "dir": "problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+   "firstSolved": "2026-08-28T07:34:40.000Z",
+   "lastSolved": "2026-08-28T07:34:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2122664138",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "237 ms",
+     "memory": "148.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-28T07:34:40.000Z",
+     "submissionId": "2122664138"
+    }
+   }
+  },
+  "find-the-minimum-area-to-cover-all-ones-i": {
+   "id": "3195",
+   "title": "Find the Minimum Area to Cover All Ones I",
+   "slug": "find-the-minimum-area-to-cover-all-ones-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix"
+   ],
+   "dir": "problems/3195-find-the-minimum-area-to-cover-all-ones-i",
+   "firstSolved": "2026-08-28T09:12:58.000Z",
+   "lastSolved": "2026-08-28T09:12:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2122727726",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "277 ms",
+     "memory": "133.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-28T09:12:58.000Z",
+     "submissionId": "2122727726"
+    }
+   }
+  },
+  "make-lexicographically-smallest-array-by-swapping-elements": {
+   "id": "2948",
+   "title": "Make Lexicographically Smallest Array by Swapping Elements",
+   "slug": "make-lexicographically-smallest-array-by-swapping-elements",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Union-Find",
+    "Sorting"
+   ],
+   "dir": "problems/2948-make-lexicographically-smallest-array-by-swapping-elements",
+   "firstSolved": "2026-08-29T01:25:13.000Z",
+   "lastSolved": "2026-08-29T01:25:13.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2123365368",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "352 ms",
+     "memory": "234.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-29T01:25:13.000Z",
+     "submissionId": "2123365368"
+    }
+   }
+  },
+  "minimum-bishop-moves-to-reach-target": {
+   "id": "4034",
+   "title": "Minimum Bishop Moves to Reach Target",
+   "slug": "minimum-bishop-moves-to-reach-target",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/4034-minimum-bishop-moves-to-reach-target",
+   "firstSolved": "2026-08-29T14:33:11.000Z",
+   "lastSolved": "2026-08-29T14:33:11.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2123920205",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "50.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-29T14:33:11.000Z",
+     "submissionId": "2123920205"
+    }
+   }
+  },
+  "lexicographically-largest-string-after-pair-transformations": {
+   "id": "4036",
+   "title": "Lexicographically Largest String After Pair Transformations",
+   "slug": "lexicographically-largest-string-after-pair-transformations",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "String",
+    "Greedy",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/4036-lexicographically-largest-string-after-pair-transformations",
+   "firstSolved": "2026-08-29T14:48:01.000Z",
+   "lastSolved": "2026-08-29T14:48:01.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2123951149",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "102 ms",
+     "memory": "206.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-29T14:48:01.000Z",
+     "submissionId": "2123951149"
+    }
+   }
+  },
+  "count-integers-appearing-in-a-single-block": {
+   "id": "4038",
+   "title": "Count Integers Appearing in a Single Block",
+   "slug": "count-integers-appearing-in-a-single-block",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+   ],
+   "dir": "problems/4038-count-integers-appearing-in-a-single-block",
+   "firstSolved": "2026-08-30T02:33:34.000Z",
+   "lastSolved": "2026-08-30T02:33:34.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2124447372",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "20.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-30T02:33:34.000Z",
+     "submissionId": "2124447372"
+    }
+   }
+  },
+  "sum-of-decoded-numbers": {
+   "id": "4039",
+   "title": "Sum of Decoded Numbers",
+   "slug": "sum-of-decoded-numbers",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Simulation"
+   ],
+   "dir": "problems/4039-sum-of-decoded-numbers",
+   "firstSolved": "2026-08-30T02:37:33.000Z",
+   "lastSolved": "2026-08-30T02:37:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2124455223",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "127 ms",
+     "memory": "91 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-30T02:37:33.000Z",
+     "submissionId": "2124455223"
+    }
+   }
+  },
+  "minimum-operations-to-form-subset-sum-i": {
+   "id": "4040",
+   "title": "Minimum Operations to Form Subset Sum I",
+   "slug": "minimum-operations-to-form-subset-sum-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/4040-minimum-operations-to-form-subset-sum-i",
+   "firstSolved": "2026-08-30T02:57:34.000Z",
+   "lastSolved": "2026-08-30T02:57:47.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2124496605",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "212 ms",
+     "memory": "72.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-30T02:57:47.000Z",
+     "submissionId": "2124496605"
+    }
+   }
+  },
+  "minimum-operations-to-form-subset-sum-ii": {
+   "id": "4041",
+   "title": "Minimum Operations to Form Subset Sum II",
+   "slug": "minimum-operations-to-form-subset-sum-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/4041-minimum-operations-to-form-subset-sum-ii",
+   "firstSolved": "2026-08-30T02:47:48.000Z",
+   "lastSolved": "2026-08-30T02:57:57.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2124496937",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "565 ms",
+     "memory": "101.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-30T02:57:57.000Z",
+     "submissionId": "2124496937"
+    }
+   }
+  },
+  "removing-minimum-and-maximum-from-array": {
+   "id": "2091",
+   "title": "Removing Minimum and Maximum From Array",
+   "slug": "removing-minimum-and-maximum-from-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy"
+   ],
+   "dir": "problems/2091-removing-minimum-and-maximum-from-array",
+   "firstSolved": "2026-08-30T03:09:43.000Z",
+   "lastSolved": "2026-08-30T03:09:43.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2124519239",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "92.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-30T03:09:43.000Z",
+     "submissionId": "2124519239"
+    }
+   }
+  },
+  "find-the-minimum-and-maximum-number-of-nodes-between-critical-points": {
+   "id": "2058",
+   "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+   "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+   "difficulty": "Medium",
+   "tags": [
+    "Linked List"
+   ],
+   "dir": "problems/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+   "firstSolved": "2026-08-31T01:15:42.000Z",
+   "lastSolved": "2026-08-31T01:15:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2125562897",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "124.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-31T01:15:42.000Z",
+     "submissionId": "2125562897"
+    }
+   }
+  },
+  "valid-anagram": {
+   "id": "242",
+   "title": "Valid Anagram",
+   "slug": "valid-anagram",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sorting"
+   ],
+   "dir": "problems/0242-valid-anagram",
+   "firstSolved": "2026-04-15T05:26:08.000Z",
+   "lastSolved": "2026-08-31T12:57:53.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2126103195",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "9.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-08-31T12:57:53.000Z",
+     "submissionId": "2126103195"
+    }
+   }
+  },
+  "minimum-moves-to-clean-the-classroom": {
+   "id": "3568",
+   "title": "Minimum Moves to Clean the Classroom",
+   "slug": "minimum-moves-to-clean-the-classroom",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Matrix"
+   ],
+   "dir": "problems/3568-minimum-moves-to-clean-the-classroom",
+   "firstSolved": "2026-09-01T04:24:47.000Z",
+   "lastSolved": "2026-09-01T04:24:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2126777466",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "247 ms",
+     "memory": "153.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-01T04:24:47.000Z",
+     "submissionId": "2126777466"
+    }
+   }
   }
  },
  "days": {
@@ -17523,7 +18143,7 @@
   "2025-12-11": 1,
   "2026-02-13": 1,
   "2026-02-14": 10,
-  "2026-02-16": 6,
+  "2026-02-16": 7,
   "2026-02-15": 1,
   "2026-02-17": 1,
   "2026-02-18": 4,
@@ -17580,7 +18200,7 @@
   "2026-04-12": 3,
   "2026-04-13": 1,
   "2026-04-14": 1,
-  "2026-04-15": 1,
+  "2026-04-15": 2,
   "2026-04-16": 2,
   "2026-04-17": 2,
   "2026-04-19": 3,
@@ -17621,7 +18241,7 @@
   "2026-05-25": 2,
   "2026-03-04": 2,
   "2026-05-26": 1,
-  "2026-05-27": 4,
+  "2026-05-27": 5,
   "2026-05-28": 6,
   "2026-05-29": 2,
   "2026-05-30": 2,
@@ -17711,6 +18331,15 @@
   "2026-08-20": 1,
   "2026-08-21": 1,
   "2026-08-22": 1,
-  "2026-08-23": 4
+  "2026-08-23": 5,
+  "2026-08-24": 1,
+  "2026-08-25": 1,
+  "2026-08-26": 1,
+  "2026-08-27": 1,
+  "2026-08-28": 2,
+  "2026-08-29": 3,
+  "2026-08-30": 5,
+  "2026-08-31": 1,
+  "2026-09-01": 1
  }
 }
