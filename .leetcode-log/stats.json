@@ -18081,6 +18081,633 @@
      "submissionId": "2126777466"
     }
    }
+  },
+  "group-anagrams": {
+   "id": "49",
+   "title": "Group Anagrams",
+   "slug": "group-anagrams",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+   ],
+   "dir": "problems/0049-group-anagrams",
+   "firstSolved": "2026-04-18T13:27:43.000Z",
+   "lastSolved": "2026-09-02T03:38:50.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2127907329",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "18 ms",
+     "memory": "26.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-02T03:38:50.000Z",
+     "submissionId": "2127907329"
+    }
+   }
+  },
+  "top-k-frequent-elements": {
+   "id": "347",
+   "title": "Top K Frequent Elements",
+   "slug": "top-k-frequent-elements",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting",
+    "Quickselect"
+   ],
+   "dir": "problems/0347-top-k-frequent-elements",
+   "firstSolved": "2026-09-01T12:27:37.000Z",
+   "lastSolved": "2026-09-02T03:51:05.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2127917710",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "18.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-02T03:51:05.000Z",
+     "submissionId": "2127917710"
+    }
+   }
+  },
+  "valid-sudoku": {
+   "id": "36",
+   "title": "Valid Sudoku",
+   "slug": "valid-sudoku",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+   ],
+   "dir": "problems/0036-valid-sudoku",
+   "firstSolved": "2026-09-02T15:43:41.000Z",
+   "lastSolved": "2026-09-02T15:43:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2128625255",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "24.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-02T15:43:41.000Z",
+     "submissionId": "2128625255"
+    }
+   }
+  },
+  "valid-palindrome": {
+   "id": "125",
+   "title": "Valid Palindrome",
+   "slug": "valid-palindrome",
+   "difficulty": "Easy",
+   "tags": [
+    "Two Pointers",
+    "String"
+   ],
+   "dir": "problems/0125-valid-palindrome",
+   "firstSolved": "2026-01-07T14:12:46.000Z",
+   "lastSolved": "2026-09-03T02:51:36.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2129089886",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "10.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-03T02:51:36.000Z",
+     "submissionId": "2129089886"
+    }
+   }
+  },
+  "two-sum-ii-input-array-is-sorted": {
+   "id": "167",
+   "title": "Two Sum II - Input Array Is Sorted",
+   "slug": "two-sum-ii-input-array-is-sorted",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+   ],
+   "dir": "problems/0167-two-sum-ii-input-array-is-sorted",
+   "firstSolved": "2026-09-03T03:07:44.000Z",
+   "lastSolved": "2026-09-03T03:07:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2129098306",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "19.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-03T03:07:44.000Z",
+     "submissionId": "2129098306"
+    }
+   }
+  },
+  "container-with-most-water": {
+   "id": "11",
+   "title": "Container With Most Water",
+   "slug": "container-with-most-water",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+   ],
+   "dir": "problems/0011-container-with-most-water",
+   "firstSolved": "2026-01-31T10:22:08.000Z",
+   "lastSolved": "2026-09-03T03:18:34.000Z",
+   "solves": 5,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2129104635",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "63 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-03T03:18:34.000Z",
+     "submissionId": "2129104635"
+    }
+   }
+  },
+  "smallest-stable-index-i": {
+   "id": "3903",
+   "title": "Smallest Stable Index I",
+   "slug": "smallest-stable-index-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3903-smallest-stable-index-i",
+   "firstSolved": "2026-04-19T02:31:57.000Z",
+   "lastSolved": "2026-09-04T01:54:52.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2130188017",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "30.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-04T01:54:52.000Z",
+     "submissionId": "2130188017"
+    }
+   }
+  },
+  "trapping-rain-water": {
+   "id": "42",
+   "title": "Trapping Rain Water",
+   "slug": "trapping-rain-water",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Dynamic Programming",
+    "Stack",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/0042-trapping-rain-water",
+   "firstSolved": "2026-02-16T07:08:13.000Z",
+   "lastSolved": "2026-09-04T04:07:23.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2130251893",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "26.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-04T04:07:23.000Z",
+     "submissionId": "2130251893"
+    }
+   }
+  },
+  "best-time-to-buy-and-sell-stock": {
+   "id": "121",
+   "title": "Best Time to Buy and Sell Stock",
+   "slug": "best-time-to-buy-and-sell-stock",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0121-best-time-to-buy-and-sell-stock",
+   "firstSolved": "2026-01-19T12:34:20.000Z",
+   "lastSolved": "2026-09-04T04:35:54.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2130272426",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "97.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-04T04:35:54.000Z",
+     "submissionId": "2130272426"
+    }
+   }
+  },
+  "longest-substring-without-repeating-characters": {
+   "id": "3",
+   "title": "Longest Substring Without Repeating Characters",
+   "slug": "longest-substring-without-repeating-characters",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/0003-longest-substring-without-repeating-characters",
+   "firstSolved": "2026-02-12T07:36:11.000Z",
+   "lastSolved": "2026-09-04T04:50:42.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2130284038",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "320 ms",
+     "memory": "81.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-04T04:50:42.000Z",
+     "submissionId": "2130284038"
+    }
+   }
+  },
+  "sliding-subarray-beauty": {
+   "id": "2653",
+   "title": "Sliding Subarray Beauty",
+   "slug": "sliding-subarray-beauty",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+   ],
+   "dir": "problems/2653-sliding-subarray-beauty",
+   "firstSolved": "2026-09-04T07:20:32.000Z",
+   "lastSolved": "2026-09-04T07:20:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2130426716",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "215 ms",
+     "memory": "191.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-04T07:20:32.000Z",
+     "submissionId": "2130426716"
+    }
+   }
+  },
+  "linked-list-cycle": {
+   "id": "141",
+   "title": "Linked List Cycle",
+   "slug": "linked-list-cycle",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+   ],
+   "dir": "problems/0141-linked-list-cycle",
+   "firstSolved": "2026-02-10T02:54:44.000Z",
+   "lastSolved": "2026-09-04T09:56:19.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2130555160",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "12 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-04T09:56:19.000Z",
+     "submissionId": "2130555160"
+    }
+   }
+  },
+  "smallest-stable-index-ii": {
+   "id": "3904",
+   "title": "Smallest Stable Index II",
+   "slug": "smallest-stable-index-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/3904-smallest-stable-index-ii",
+   "firstSolved": "2026-04-19T02:32:29.000Z",
+   "lastSolved": "2026-09-05T00:54:53.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2131202342",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "15 ms",
+     "memory": "210.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-05T00:54:53.000Z",
+     "submissionId": "2131202342"
+    }
+   }
+  },
+  "daily-temperatures": {
+   "id": "739",
+   "title": "Daily Temperatures",
+   "slug": "daily-temperatures",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/0739-daily-temperatures",
+   "firstSolved": "2026-09-05T03:21:37.000Z",
+   "lastSolved": "2026-09-05T03:21:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2131249169",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "19 ms",
+     "memory": "107.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-05T03:21:37.000Z",
+     "submissionId": "2131249169"
+    }
+   }
+  },
+  "reducing-dishes": {
+   "id": "1402",
+   "title": "Reducing Dishes",
+   "slug": "reducing-dishes",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/1402-reducing-dishes",
+   "firstSolved": "2026-09-05T07:27:49.000Z",
+   "lastSolved": "2026-09-05T07:27:49.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2131448667",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-05T07:27:49.000Z",
+     "submissionId": "2131448667"
+    }
+   }
+  },
+  "distinct-subsequences": {
+   "id": "115",
+   "title": "Distinct Subsequences",
+   "slug": "distinct-subsequences",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0115-distinct-subsequences",
+   "firstSolved": "2026-09-06T01:56:52.000Z",
+   "lastSolved": "2026-09-06T01:56:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2132244905",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-06T01:56:52.000Z",
+     "submissionId": "2132244905"
+    }
+   }
+  },
+  "count-rotations-with-exactly-k-equal-adjacent-pairs": {
+   "id": "4043",
+   "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+   "slug": "count-rotations-with-exactly-k-equal-adjacent-pairs",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Sliding Window",
+    "Enumeration"
+   ],
+   "dir": "problems/4043-count-rotations-with-exactly-k-equal-adjacent-pairs",
+   "firstSolved": "2026-09-06T02:33:02.000Z",
+   "lastSolved": "2026-09-06T02:33:02.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2132257410",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "9.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-06T02:33:02.000Z",
+     "submissionId": "2132257410"
+    }
+   }
+  },
+  "count-good-cyclic-rotations": {
+   "id": "4044",
+   "title": "Count Good Cyclic Rotations",
+   "slug": "count-good-cyclic-rotations",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4044-count-good-cyclic-rotations",
+   "firstSolved": "2026-09-06T02:35:56.000Z",
+   "lastSolved": "2026-09-06T02:35:56.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2132260686",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "16 ms",
+     "memory": "116.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-06T02:35:56.000Z",
+     "submissionId": "2132260686"
+    }
+   }
+  },
+  "count-robot-groups": {
+   "id": "4045",
+   "title": "Count Robot Groups",
+   "slug": "count-robot-groups",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/4045-count-robot-groups",
+   "firstSolved": "2026-09-06T02:42:28.000Z",
+   "lastSolved": "2026-09-06T02:42:28.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2132271701",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "15 ms",
+     "memory": "215.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-06T02:42:28.000Z",
+     "submissionId": "2132271701"
+    }
+   }
+  },
+  "minimum-cost-path-with-at-most-k-turns": {
+   "id": "4046",
+   "title": "Minimum Cost Path With At Most K Turns",
+   "slug": "minimum-cost-path-with-at-most-k-turns",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Heap",
+    "Graph Theory",
+    "Matrix",
+    "Shortest Path"
+   ],
+   "dir": "problems/4046-minimum-cost-path-with-at-most-k-turns",
+   "firstSolved": "2026-09-06T02:59:29.000Z",
+   "lastSolved": "2026-09-06T02:59:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2132305272",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "982 ms",
+     "memory": "74.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-06T02:59:29.000Z",
+     "submissionId": "2132305272"
+    }
+   }
   }
  },
  "days": {
@@ -18105,7 +18732,7 @@
   "2026-01-04": 4,
   "2026-01-05": 1,
   "2026-01-06": 1,
-  "2026-01-07": 1,
+  "2026-01-07": 2,
   "2026-01-08": 2,
   "2026-01-09": 2,
   "2026-01-10": 1,
@@ -18117,7 +18744,7 @@
   "2026-01-16": 1,
   "2026-01-17": 1,
   "2026-01-18": 4,
-  "2026-01-19": 4,
+  "2026-01-19": 5,
   "2026-01-20": 1,
   "2026-01-21": 1,
   "2026-01-22": 1,
@@ -18128,7 +18755,7 @@
   "2026-01-28": 3,
   "2026-01-29": 1,
   "2026-01-30": 1,
-  "2026-01-31": 6,
+  "2026-01-31": 7,
   "2026-02-01": 2,
   "2026-02-02": 1,
   "2026-02-03": 1,
@@ -18137,13 +18764,13 @@
   "2026-02-07": 2,
   "2026-02-08": 1,
   "2026-02-09": 1,
-  "2026-02-10": 6,
+  "2026-02-10": 7,
   "2026-02-11": 5,
-  "2026-02-12": 4,
+  "2026-02-12": 5,
   "2025-12-11": 1,
   "2026-02-13": 1,
   "2026-02-14": 10,
-  "2026-02-16": 7,
+  "2026-02-16": 8,
   "2026-02-15": 1,
   "2026-02-17": 1,
   "2026-02-18": 4,
@@ -18203,7 +18830,7 @@
   "2026-04-15": 2,
   "2026-04-16": 2,
   "2026-04-17": 2,
-  "2026-04-19": 3,
+  "2026-04-19": 5,
   "2026-04-20": 1,
   "2026-04-21": 1,
   "2026-04-22": 2,
@@ -18340,6 +18967,12 @@
   "2026-08-29": 3,
   "2026-08-30": 5,
   "2026-08-31": 1,
-  "2026-09-01": 1
+  "2026-09-01": 2,
+  "2026-04-18": 1,
+  "2026-09-02": 1,
+  "2026-09-03": 1,
+  "2026-09-04": 1,
+  "2026-09-05": 2,
+  "2026-09-06": 5
  }
 }
