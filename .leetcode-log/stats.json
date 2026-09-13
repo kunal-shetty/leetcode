@@ -18708,6 +18708,619 @@
      "submissionId": "2132305272"
     }
    }
+  },
+  "distinct-subsequences-ii": {
+   "id": "940",
+   "title": "Distinct Subsequences II",
+   "slug": "distinct-subsequences-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/0940-distinct-subsequences-ii",
+   "firstSolved": "2026-09-07T00:39:04.000Z",
+   "lastSolved": "2026-09-07T00:39:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2133356965",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-07T00:39:04.000Z",
+     "submissionId": "2133356965"
+    }
+   }
+  },
+  "count-commas-in-range": {
+   "id": "3870",
+   "title": "Count Commas in Range",
+   "slug": "count-commas-in-range",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3870-count-commas-in-range",
+   "firstSolved": "2026-03-15T02:32:59.000Z",
+   "lastSolved": "2026-09-08T00:31:37.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2134480023",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-08T00:31:37.000Z",
+     "submissionId": "2134480023"
+    }
+   }
+  },
+  "permutation-in-string": {
+   "id": "567",
+   "title": "Permutation in String",
+   "slug": "permutation-in-string",
+   "difficulty": "Medium",
+   "tags": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/0567-permutation-in-string",
+   "firstSolved": "2026-09-08T03:14:37.000Z",
+   "lastSolved": "2026-09-08T03:14:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2134553277",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "23 ms",
+     "memory": "32.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-08T03:14:37.000Z",
+     "submissionId": "2134553277"
+    }
+   }
+  },
+  "last-stone-weight": {
+   "id": "1046",
+   "title": "Last Stone Weight",
+   "slug": "last-stone-weight",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/1046-last-stone-weight",
+   "firstSolved": "2026-09-08T03:19:17.000Z",
+   "lastSolved": "2026-09-08T03:19:17.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2134556271",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-08T03:19:17.000Z",
+     "submissionId": "2134556271"
+    }
+   }
+  },
+  "count-commas-in-range-ii": {
+   "id": "3871",
+   "title": "Count Commas in Range II",
+   "slug": "count-commas-in-range-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3871-count-commas-in-range-ii",
+   "firstSolved": "2026-03-15T02:37:51.000Z",
+   "lastSolved": "2026-09-09T01:43:32.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2135730538",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-09T01:43:32.000Z",
+     "submissionId": "2135730538"
+    }
+   }
+  },
+  "russian-doll-envelopes": {
+   "id": "354",
+   "title": "Russian Doll Envelopes",
+   "slug": "russian-doll-envelopes",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting",
+    "Longest Increasing Subsequence"
+   ],
+   "dir": "problems/0354-russian-doll-envelopes",
+   "firstSolved": "2026-09-09T13:13:41.000Z",
+   "lastSolved": "2026-09-09T13:13:41.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2136354762",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "88 ms",
+     "memory": "92.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-09T13:13:41.000Z",
+     "submissionId": "2136354762"
+    }
+   }
+  },
+  "count-nodes-equal-to-average-of-subtree": {
+   "id": "2265",
+   "title": "Count Nodes Equal to Average of Subtree",
+   "slug": "count-nodes-equal-to-average-of-subtree",
+   "difficulty": "Medium",
+   "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+   ],
+   "dir": "problems/2265-count-nodes-equal-to-average-of-subtree",
+   "firstSolved": "2026-09-10T00:45:20.000Z",
+   "lastSolved": "2026-09-10T00:45:20.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2136921977",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "15.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-10T00:45:20.000Z",
+     "submissionId": "2136921977"
+    }
+   }
+  },
+  "compute-alternating-sum": {
+   "id": "3701",
+   "title": "Compute Alternating Sum",
+   "slug": "compute-alternating-sum",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Simulation"
+   ],
+   "dir": "problems/3701-compute-alternating-sum",
+   "firstSolved": "2026-06-19T09:00:05.000Z",
+   "lastSolved": "2026-09-10T06:51:21.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2137184990",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "32.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-10T06:51:21.000Z",
+     "submissionId": "2137184990"
+    }
+   }
+  },
+  "longest-subsequence-with-non-zero-bitwise-xor": {
+   "id": "3702",
+   "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+   "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3702-longest-subsequence-with-non-zero-bitwise-xor",
+   "firstSolved": "2026-08-15T03:47:49.000Z",
+   "lastSolved": "2026-09-10T06:59:54.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2137193771",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "179.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-10T06:59:54.000Z",
+     "submissionId": "2137193771"
+    }
+   }
+  },
+  "unique-3-digit-even-numbers": {
+   "id": "3483",
+   "title": "Unique 3-Digit Even Numbers",
+   "slug": "unique-3-digit-even-numbers",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Enumeration"
+   ],
+   "dir": "problems/3483-unique-3-digit-even-numbers",
+   "firstSolved": "2026-09-11T01:55:53.000Z",
+   "lastSolved": "2026-09-11T01:55:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2138049076",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "30.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-11T01:55:53.000Z",
+     "submissionId": "2138049076"
+    }
+   }
+  },
+  "find-n-unique-integers-sum-up-to-zero": {
+   "id": "1304",
+   "title": "Find N Unique Integers Sum up to Zero",
+   "slug": "find-n-unique-integers-sum-up-to-zero",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/1304-find-n-unique-integers-sum-up-to-zero",
+   "firstSolved": "2026-05-21T04:43:53.000Z",
+   "lastSolved": "2026-09-11T10:17:26.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2138439374",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-11T10:17:26.000Z",
+     "submissionId": "2138439374"
+    }
+   }
+  },
+  "maximum-score-of-non-overlapping-intervals": {
+   "id": "3414",
+   "title": "Maximum Score of Non-overlapping Intervals",
+   "slug": "maximum-score-of-non-overlapping-intervals",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+   ],
+   "dir": "problems/3414-maximum-score-of-non-overlapping-intervals",
+   "firstSolved": "2026-09-12T02:55:42.000Z",
+   "lastSolved": "2026-09-12T02:55:42.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2139064910",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "844 ms",
+     "memory": "326.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-12T02:55:42.000Z",
+     "submissionId": "2139064910"
+    }
+   }
+  },
+  "count-values-with-equally-spaced-occurrences-ii": {
+   "id": "4049",
+   "title": "Count Values With Equally Spaced Occurrences II",
+   "slug": "count-values-with-equally-spaced-occurrences-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/4049-count-values-with-equally-spaced-occurrences-ii",
+   "firstSolved": "2026-09-12T14:34:21.000Z",
+   "lastSolved": "2026-09-12T14:34:21.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2139579521",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "314 ms",
+     "memory": "318.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-12T14:34:21.000Z",
+     "submissionId": "2139579521"
+    }
+   }
+  },
+  "count-values-with-equally-spaced-occurrences-i": {
+   "id": "4048",
+   "title": "Count Values With Equally Spaced Occurrences I",
+   "slug": "count-values-with-equally-spaced-occurrences-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table"
+   ],
+   "dir": "problems/4048-count-values-with-equally-spaced-occurrences-i",
+   "firstSolved": "2026-09-12T14:35:14.000Z",
+   "lastSolved": "2026-09-12T14:35:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2139581660",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "19 ms",
+     "memory": "34.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-12T14:35:14.000Z",
+     "submissionId": "2139581660"
+    }
+   }
+  },
+  "minimum-days-to-score-exactly-n-points": {
+   "id": "4050",
+   "title": "Minimum Days to Score Exactly N Points",
+   "slug": "minimum-days-to-score-exactly-n-points",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/4050-minimum-days-to-score-exactly-n-points",
+   "firstSolved": "2026-09-12T14:38:54.000Z",
+   "lastSolved": "2026-09-12T14:38:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2139591264",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "153 ms",
+     "memory": "15.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-12T14:38:54.000Z",
+     "submissionId": "2139591264"
+    }
+   }
+  },
+  "count-subarrays-with-distant-sums": {
+   "id": "4051",
+   "title": "Count Subarrays with Distant Sums",
+   "slug": "count-subarrays-with-distant-sums",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4051-count-subarrays-with-distant-sums",
+   "firstSolved": "2026-09-12T14:53:55.000Z",
+   "lastSolved": "2026-09-12T16:18:15.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2139768874",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "143 ms",
+     "memory": "124.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-12T16:18:15.000Z",
+     "submissionId": "2139768874"
+    }
+   }
+  },
+  "cyclically-shift-rows-and-columns": {
+   "id": "4052",
+   "title": "Cyclically Shift Rows and Columns",
+   "slug": "cyclically-shift-rows-and-columns",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+   ],
+   "dir": "problems/4052-cyclically-shift-rows-and-columns",
+   "firstSolved": "2026-09-13T02:33:22.000Z",
+   "lastSolved": "2026-09-13T02:33:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2140103604",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "73.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-13T02:33:22.000Z",
+     "submissionId": "2140103604"
+    }
+   }
+  },
+  "count-shadow-pairs-i": {
+   "id": "4054",
+   "title": "Count Shadow Pairs I",
+   "slug": "count-shadow-pairs-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+   ],
+   "dir": "problems/4054-count-shadow-pairs-i",
+   "firstSolved": "2026-09-13T02:47:12.000Z",
+   "lastSolved": "2026-09-13T02:47:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2140119080",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "707 ms",
+     "memory": "309.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-13T02:47:12.000Z",
+     "submissionId": "2140119080"
+    }
+   }
+  },
+  "minimum-operations-to-make-every-element-palindromic": {
+   "id": "4053",
+   "title": "Minimum Operations to Make Every Element Palindromic",
+   "slug": "minimum-operations-to-make-every-element-palindromic",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/4053-minimum-operations-to-make-every-element-palindromic",
+   "firstSolved": "2026-09-13T03:11:15.000Z",
+   "lastSolved": "2026-09-13T03:11:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2140153739",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "85 ms",
+     "memory": "137.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-13T03:11:15.000Z",
+     "submissionId": "2140153739"
+    }
+   }
+  },
+  "image-overlap": {
+   "id": "835",
+   "title": "Image Overlap",
+   "slug": "image-overlap",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Matrix"
+   ],
+   "dir": "problems/0835-image-overlap",
+   "firstSolved": "2026-09-13T04:13:26.000Z",
+   "lastSolved": "2026-09-13T04:13:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2140231597",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "8 ms",
+     "memory": "14 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-13T04:13:26.000Z",
+     "submissionId": "2140231597"
+    }
+   }
   }
  },
  "days": {
@@ -18796,7 +19409,7 @@
   "2026-03-12": 1,
   "2026-03-13": 1,
   "2026-03-14": 1,
-  "2026-03-15": 2,
+  "2026-03-15": 4,
   "2026-03-16": 1,
   "2026-03-17": 1,
   "2026-03-18": 1,
@@ -18861,7 +19474,7 @@
   "2026-05-18": 1,
   "2026-05-19": 2,
   "2026-05-20": 2,
-  "2026-05-21": 1,
+  "2026-05-21": 2,
   "2026-05-22": 1,
   "2026-05-23": 5,
   "2026-05-24": 4,
@@ -18892,7 +19505,7 @@
   "2026-06-16": 3,
   "2026-06-17": 2,
   "2026-06-18": 1,
-  "2026-06-19": 3,
+  "2026-06-19": 4,
   "2025-12-12": 1,
   "2026-06-20": 4,
   "2026-06-21": 6,
@@ -18950,7 +19563,7 @@
   "2026-08-13": 3,
   "2026-08-14": 1,
   "2026-02-27": 1,
-  "2026-08-15": 4,
+  "2026-08-15": 5,
   "2026-08-16": 5,
   "2026-08-17": 2,
   "2026-08-18": 2,
@@ -18973,6 +19586,13 @@
   "2026-09-03": 1,
   "2026-09-04": 1,
   "2026-09-05": 2,
-  "2026-09-06": 5
+  "2026-09-06": 5,
+  "2026-09-07": 1,
+  "2026-09-08": 2,
+  "2026-09-09": 1,
+  "2026-09-10": 1,
+  "2026-09-11": 1,
+  "2026-09-12": 5,
+  "2026-09-13": 4
  }
 }
