@@ -19321,6 +19321,632 @@
      "submissionId": "2140231597"
     }
    }
+  },
+  "rectangle-overlap": {
+   "id": "836",
+   "title": "Rectangle Overlap",
+   "slug": "rectangle-overlap",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Geometry"
+   ],
+   "dir": "problems/0836-rectangle-overlap",
+   "firstSolved": "2026-09-14T02:12:45.000Z",
+   "lastSolved": "2026-09-14T02:12:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2141112131",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-14T02:12:45.000Z",
+     "submissionId": "2141112131"
+    }
+   }
+  },
+  "running-sum-of-1d-array": {
+   "id": "1480",
+   "title": "Running Sum of 1d Array",
+   "slug": "running-sum-of-1d-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1480-running-sum-of-1d-array",
+   "firstSolved": "2026-09-14T13:19:32.000Z",
+   "lastSolved": "2026-09-14T13:19:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2141586585",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-14T13:19:32.000Z",
+     "submissionId": "2141586585"
+    }
+   }
+  },
+  "maximum-number-of-non-overlapping-palindrome-substrings": {
+   "id": "2472",
+   "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+   "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+   "difficulty": "Hard",
+   "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/2472-maximum-number-of-non-overlapping-palindrome-substrings",
+   "firstSolved": "2026-09-15T03:16:29.000Z",
+   "lastSolved": "2026-09-15T03:16:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2142127924",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-15T03:16:29.000Z",
+     "submissionId": "2142127924"
+    }
+   }
+  },
+  "unique-paths": {
+   "id": "62",
+   "title": "Unique Paths",
+   "slug": "unique-paths",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+   ],
+   "dir": "problems/0062-unique-paths",
+   "firstSolved": "2026-09-15T04:41:15.000Z",
+   "lastSolved": "2026-09-15T04:41:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2142187419",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-15T04:41:15.000Z",
+     "submissionId": "2142187419"
+    }
+   }
+  },
+  "count-of-matches-in-tournament": {
+   "id": "1688",
+   "title": "Count of Matches in Tournament",
+   "slug": "count-of-matches-in-tournament",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Simulation"
+   ],
+   "dir": "problems/1688-count-of-matches-in-tournament",
+   "firstSolved": "2026-09-16T02:42:30.000Z",
+   "lastSolved": "2026-09-16T02:42:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2143178453",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-16T02:42:30.000Z",
+     "submissionId": "2143178453"
+    }
+   }
+  },
+  "number-of-sets-of-k-non-overlapping-line-segments": {
+   "id": "1621",
+   "title": "Number of Sets of K Non-Overlapping Line Segments",
+   "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1621-number-of-sets-of-k-non-overlapping-line-segments",
+   "firstSolved": "2026-09-16T03:55:19.000Z",
+   "lastSolved": "2026-09-16T03:55:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2143221136",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "38 ms",
+     "memory": "53 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-16T03:55:19.000Z",
+     "submissionId": "2143221136"
+    }
+   }
+  },
+  "repeated-substring-pattern": {
+   "id": "459",
+   "title": "Repeated Substring Pattern",
+   "slug": "repeated-substring-pattern",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+   ],
+   "dir": "problems/0459-repeated-substring-pattern",
+   "firstSolved": "2026-09-16T15:32:51.000Z",
+   "lastSolved": "2026-09-16T15:32:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2143805807",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "13.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-16T15:32:51.000Z",
+     "submissionId": "2143805807"
+    }
+   }
+  },
+  "find-two-non-overlapping-sub-arrays-each-with-target-sum": {
+   "id": "1477",
+   "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+   "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sliding Window"
+   ],
+   "dir": "problems/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+   "firstSolved": "2026-09-17T05:23:16.000Z",
+   "lastSolved": "2026-09-17T05:23:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2144343333",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "88.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-17T05:23:16.000Z",
+     "submissionId": "2144343333"
+    }
+   }
+  },
+  "minimum-window-substring": {
+   "id": "76",
+   "title": "Minimum Window Substring",
+   "slug": "minimum-window-substring",
+   "difficulty": "Hard",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+   ],
+   "dir": "problems/0076-minimum-window-substring",
+   "firstSolved": "2026-09-17T14:13:44.000Z",
+   "lastSolved": "2026-09-17T14:13:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2144789843",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-17T14:13:44.000Z",
+     "submissionId": "2144789843"
+    }
+   }
+  },
+  "next-permutation": {
+   "id": "31",
+   "title": "Next Permutation",
+   "slug": "next-permutation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Two Pointers"
+   ],
+   "dir": "problems/0031-next-permutation",
+   "firstSolved": "2026-09-17T16:33:25.000Z",
+   "lastSolved": "2026-09-17T16:33:25.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2144931194",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "15.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-17T16:33:25.000Z",
+     "submissionId": "2144931194"
+    }
+   }
+  },
+  "relative-ranks": {
+   "id": "506",
+   "title": "Relative Ranks",
+   "slug": "relative-ranks",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/0506-relative-ranks",
+   "firstSolved": "2026-09-18T04:01:58.000Z",
+   "lastSolved": "2026-09-18T04:01:58.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2145321572",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "15.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-18T04:01:58.000Z",
+     "submissionId": "2145321572"
+    }
+   }
+  },
+  "maximum-number-of-non-overlapping-substrings": {
+   "id": "1520",
+   "title": "Maximum Number of Non-Overlapping Substrings",
+   "slug": "maximum-number-of-non-overlapping-substrings",
+   "difficulty": "Hard",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/1520-maximum-number-of-non-overlapping-substrings",
+   "firstSolved": "2026-09-18T06:07:47.000Z",
+   "lastSolved": "2026-09-18T06:07:47.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2145432051",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "15 ms",
+     "memory": "23.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-18T06:07:47.000Z",
+     "submissionId": "2145432051"
+    }
+   }
+  },
+  "circle-and-rectangle-overlapping": {
+   "id": "1401",
+   "title": "Circle and Rectangle Overlapping",
+   "slug": "circle-and-rectangle-overlapping",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Geometry"
+   ],
+   "dir": "problems/1401-circle-and-rectangle-overlapping",
+   "firstSolved": "2026-09-19T05:00:37.000Z",
+   "lastSolved": "2026-09-19T05:00:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2146297256",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-19T05:00:37.000Z",
+     "submissionId": "2146297256"
+    }
+   }
+  },
+  "number-of-intersecting-interval-pairs-i": {
+   "id": "4056",
+   "title": "Number of Intersecting Interval Pairs I",
+   "slug": "number-of-intersecting-interval-pairs-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Enumeration"
+   ],
+   "dir": "problems/4056-number-of-intersecting-interval-pairs-i",
+   "firstSolved": "2026-09-20T02:42:59.000Z",
+   "lastSolved": "2026-09-20T02:42:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2147155445",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "36.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-20T02:42:59.000Z",
+     "submissionId": "2147155445"
+    }
+   }
+  },
+  "number-of-intersecting-interval-pairs-ii": {
+   "id": "4057",
+   "title": "Number of Intersecting Interval Pairs II",
+   "slug": "number-of-intersecting-interval-pairs-ii",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+   ],
+   "dir": "problems/4057-number-of-intersecting-interval-pairs-ii",
+   "firstSolved": "2026-09-20T02:50:59.000Z",
+   "lastSolved": "2026-09-20T02:50:59.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2147170961",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "202 ms",
+     "memory": "307.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-20T02:50:59.000Z",
+     "submissionId": "2147170961"
+    }
+   }
+  },
+  "lexicographically-largest-power-array": {
+   "id": "4059",
+   "title": "Lexicographically Largest Power Array",
+   "slug": "lexicographically-largest-power-array",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/4059-lexicographically-largest-power-array",
+   "firstSolved": "2026-09-20T03:03:16.000Z",
+   "lastSolved": "2026-09-20T03:03:16.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2147193670",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "127 ms",
+     "memory": "358.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-20T03:03:16.000Z",
+     "submissionId": "2147193670"
+    }
+   }
+  },
+  "reverse-degree-of-a-string": {
+   "id": "3498",
+   "title": "Reverse Degree of a String",
+   "slug": "reverse-degree-of-a-string",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Simulation"
+   ],
+   "dir": "problems/3498-reverse-degree-of-a-string",
+   "firstSolved": "2026-06-27T07:47:22.000Z",
+   "lastSolved": "2026-09-20T03:06:29.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2147199446",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "10 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-20T03:06:29.000Z",
+     "submissionId": "2147199446"
+    }
+   }
+  },
+  "regular-expression-matching": {
+   "id": "10",
+   "title": "Regular Expression Matching",
+   "slug": "regular-expression-matching",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Recursion"
+   ],
+   "dir": "problems/0010-regular-expression-matching",
+   "firstSolved": "2026-09-20T09:37:46.000Z",
+   "lastSolved": "2026-09-20T09:37:46.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2147539974",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-20T09:37:46.000Z",
+     "submissionId": "2147539974"
+    }
+   }
+  },
+  "find-x-value-of-array-i": {
+   "id": "3524",
+   "title": "Find X Value of Array I",
+   "slug": "find-x-value-of-array-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+   ],
+   "dir": "problems/3524-find-x-value-of-array-i",
+   "firstSolved": "2026-09-21T01:37:40.000Z",
+   "lastSolved": "2026-09-21T01:37:40.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2148169088",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "133 ms",
+     "memory": "151.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-21T01:37:40.000Z",
+     "submissionId": "2148169088"
+    }
+   }
+  },
+  "top-k-frequent-words": {
+   "id": "692",
+   "title": "Top K Frequent Words",
+   "slug": "top-k-frequent-words",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Trie",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+   ],
+   "dir": "problems/0692-top-k-frequent-words",
+   "firstSolved": "2026-09-22T04:06:15.000Z",
+   "lastSolved": "2026-09-22T04:06:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2149276983",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "18.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-22T04:06:15.000Z",
+     "submissionId": "2149276983"
+    }
+   }
   }
  },
  "days": {
@@ -19513,7 +20139,7 @@
   "2026-06-23": 3,
   "2026-06-24": 1,
   "2026-06-25": 3,
-  "2026-06-27": 3,
+  "2026-06-27": 4,
   "2026-06-28": 4,
   "2026-06-29": 2,
   "2026-06-30": 2,
@@ -19593,6 +20219,15 @@
   "2026-09-10": 1,
   "2026-09-11": 1,
   "2026-09-12": 5,
-  "2026-09-13": 4
+  "2026-09-13": 4,
+  "2026-09-14": 2,
+  "2026-09-15": 2,
+  "2026-09-16": 3,
+  "2026-09-17": 3,
+  "2026-09-18": 2,
+  "2026-09-19": 1,
+  "2026-09-20": 4,
+  "2026-09-21": 1,
+  "2026-09-22": 1
  }
 }
