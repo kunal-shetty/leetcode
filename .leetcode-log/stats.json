@@ -19947,6 +19947,630 @@
      "submissionId": "2149276983"
     }
    }
+  },
+  "check-if-two-chessboard-squares-have-the-same-color": {
+   "id": "3274",
+   "title": "Check if Two Chessboard Squares Have the Same Color",
+   "slug": "check-if-two-chessboard-squares-have-the-same-color",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "String"
+   ],
+   "dir": "problems/3274-check-if-two-chessboard-squares-have-the-same-color",
+   "firstSolved": "2026-09-22T06:26:18.000Z",
+   "lastSolved": "2026-09-22T06:27:07.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2149407053",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-22T06:27:07.000Z",
+     "submissionId": "2149407053"
+    }
+   }
+  },
+  "find-x-value-of-array-ii": {
+   "id": "3525",
+   "title": "Find X Value of Array II",
+   "slug": "find-x-value-of-array-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Segment Tree"
+   ],
+   "dir": "problems/3525-find-x-value-of-array-ii",
+   "firstSolved": "2026-09-22T09:56:32.000Z",
+   "lastSolved": "2026-09-22T09:56:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2149577620",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "393 ms",
+     "memory": "310.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-22T09:56:32.000Z",
+     "submissionId": "2149577620"
+    }
+   }
+  },
+  "minimum-operations-to-reduce-x-to-zero": {
+   "id": "1658",
+   "title": "Minimum Operations to Reduce X to Zero",
+   "slug": "minimum-operations-to-reduce-x-to-zero",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+   ],
+   "dir": "problems/1658-minimum-operations-to-reduce-x-to-zero",
+   "firstSolved": "2026-09-23T01:41:14.000Z",
+   "lastSolved": "2026-09-23T01:41:14.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2150313177",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "102.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-23T01:41:14.000Z",
+     "submissionId": "2150313177"
+    }
+   }
+  },
+  "find-first-and-last-position-of-element-in-sorted-array": {
+   "id": "34",
+   "title": "Find First and Last Position of Element in Sorted Array",
+   "slug": "find-first-and-last-position-of-element-in-sorted-array",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0034-find-first-and-last-position-of-element-in-sorted-array",
+   "firstSolved": "2026-09-23T03:42:38.000Z",
+   "lastSolved": "2026-09-23T03:42:38.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2150379804",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "17.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-23T03:42:38.000Z",
+     "submissionId": "2150379804"
+    }
+   }
+  },
+  "fruit-into-baskets": {
+   "id": "904",
+   "title": "Fruit Into Baskets",
+   "slug": "fruit-into-baskets",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+   ],
+   "dir": "problems/0904-fruit-into-baskets",
+   "firstSolved": "2026-09-23T16:21:26.000Z",
+   "lastSolved": "2026-09-23T16:21:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2151103116",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "27 ms",
+     "memory": "85 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-23T16:21:26.000Z",
+     "submissionId": "2151103116"
+    }
+   }
+  },
+  "smallest-index-with-digit-sum-equal-to-index": {
+   "id": "3550",
+   "title": "Smallest Index With Digit Sum Equal to Index",
+   "slug": "smallest-index-with-digit-sum-equal-to-index",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/3550-smallest-index-with-digit-sum-equal-to-index",
+   "firstSolved": "2026-09-24T00:36:53.000Z",
+   "lastSolved": "2026-09-24T00:36:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2151431990",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "31 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-24T00:36:53.000Z",
+     "submissionId": "2151431990"
+    }
+   }
+  },
+  "kids-with-the-greatest-number-of-candies": {
+   "id": "1431",
+   "title": "Kids With the Greatest Number of Candies",
+   "slug": "kids-with-the-greatest-number-of-candies",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/1431-kids-with-the-greatest-number-of-candies",
+   "firstSolved": "2026-09-24T12:45:29.000Z",
+   "lastSolved": "2026-09-24T12:45:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2151977417",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-24T12:45:29.000Z",
+     "submissionId": "2151977417"
+    }
+   }
+  },
+  "brace-expansion-ii": {
+   "id": "1096",
+   "title": "Brace Expansion II",
+   "slug": "brace-expansion-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Stack",
+    "Breadth-First Search",
+    "Sorting"
+   ],
+   "dir": "problems/1096-brace-expansion-ii",
+   "firstSolved": "2026-09-25T06:16:27.000Z",
+   "lastSolved": "2026-09-25T06:16:27.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2152694140",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "11 ms",
+     "memory": "17.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-25T06:16:27.000Z",
+     "submissionId": "2152694140"
+    }
+   }
+  },
+  "evaluate-the-bracket-pairs-of-a-string": {
+   "id": "1807",
+   "title": "Evaluate the Bracket Pairs of a String",
+   "slug": "evaluate-the-bracket-pairs-of-a-string",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String"
+   ],
+   "dir": "problems/1807-evaluate-the-bracket-pairs-of-a-string",
+   "firstSolved": "2026-09-26T01:38:53.000Z",
+   "lastSolved": "2026-09-26T03:40:20.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2153476903",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "130 ms",
+     "memory": "144.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-26T03:40:20.000Z",
+     "submissionId": "2153476903"
+    }
+   }
+  },
+  "minimum-queen-moves-to-reach-target": {
+   "id": "4061",
+   "title": "Minimum Queen Moves to Reach Target",
+   "slug": "minimum-queen-moves-to-reach-target",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Math"
+   ],
+   "dir": "problems/4061-minimum-queen-moves-to-reach-target",
+   "firstSolved": "2026-09-26T14:36:55.000Z",
+   "lastSolved": "2026-09-26T14:36:55.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2153960347",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "50.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-26T14:36:55.000Z",
+     "submissionId": "2153960347"
+    }
+   }
+  },
+  "transform-array-using-pair-operations": {
+   "id": "4062",
+   "title": "Transform Array Using Pair Operations",
+   "slug": "transform-array-using-pair-operations",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Brainteaser"
+   ],
+   "dir": "problems/4062-transform-array-using-pair-operations",
+   "firstSolved": "2026-09-26T14:38:26.000Z",
+   "lastSolved": "2026-09-26T14:38:26.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2153964911",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "193.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-26T14:38:26.000Z",
+     "submissionId": "2153964911"
+    }
+   }
+  },
+  "longest-subarray-divisible-by-k-with-at-most-one-negation-i": {
+   "id": "4063",
+   "title": "Longest Subarray Divisible by K with At Most One Negation I",
+   "slug": "longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+   ],
+   "dir": "problems/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+   "firstSolved": "2026-09-26T14:47:22.000Z",
+   "lastSolved": "2026-09-26T14:47:22.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2153989328",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1057 ms",
+     "memory": "346.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-26T14:47:22.000Z",
+     "submissionId": "2153989328"
+    }
+   }
+  },
+  "rearrange-array-by-removing-distinct-values": {
+   "id": "4065",
+   "title": "Rearrange Array by Removing Distinct Values",
+   "slug": "rearrange-array-by-removing-distinct-values",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Simulation",
+    "Counting",
+    "Ordered Set"
+   ],
+   "dir": "problems/4065-rearrange-array-by-removing-distinct-values",
+   "firstSolved": "2026-09-27T02:32:32.000Z",
+   "lastSolved": "2026-09-27T02:32:32.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2154459565",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "33.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-27T02:32:32.000Z",
+     "submissionId": "2154459565"
+    }
+   }
+  },
+  "maximum-equal-adjacent-pairs-after-at-most-one-replacement": {
+   "id": "4066",
+   "title": "Maximum Equal Adjacent Pairs After at Most One Replacement",
+   "slug": "maximum-equal-adjacent-pairs-after-at-most-one-replacement",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+   ],
+   "dir": "problems/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement",
+   "firstSolved": "2026-09-27T02:36:34.000Z",
+   "lastSolved": "2026-09-27T02:36:34.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2154464071",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "919 ms",
+     "memory": "494 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-27T02:36:34.000Z",
+     "submissionId": "2154464071"
+    }
+   }
+  },
+  "maximize-meeting-earnings-with-idle-gaps": {
+   "id": "4068",
+   "title": "Maximize Meeting Earnings with Idle Gaps",
+   "slug": "maximize-meeting-earnings-with-idle-gaps",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+   ],
+   "dir": "problems/4068-maximize-meeting-earnings-with-idle-gaps",
+   "firstSolved": "2026-09-27T02:49:56.000Z",
+   "lastSolved": "2026-09-27T02:49:56.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2154483445",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "64 ms",
+     "memory": "195 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-27T02:49:56.000Z",
+     "submissionId": "2154483445"
+    }
+   }
+  },
+  "longest-subarray-with-restricted-pair-sums": {
+   "id": "4067",
+   "title": "Longest Subarray With Restricted Pair Sums",
+   "slug": "longest-subarray-with-restricted-pair-sums",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+   ],
+   "dir": "problems/4067-longest-subarray-with-restricted-pair-sums",
+   "firstSolved": "2026-09-27T03:02:18.000Z",
+   "lastSolved": "2026-09-27T03:02:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2154501875",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1353 ms",
+     "memory": "157.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-27T03:02:18.000Z",
+     "submissionId": "2154501875"
+    }
+   }
+  },
+  "reverse-substrings-between-each-pair-of-parentheses": {
+   "id": "1190",
+   "title": "Reverse Substrings Between Each Pair of Parentheses",
+   "slug": "reverse-substrings-between-each-pair-of-parentheses",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/1190-reverse-substrings-between-each-pair-of-parentheses",
+   "firstSolved": "2026-09-27T03:59:37.000Z",
+   "lastSolved": "2026-09-27T03:59:37.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2154577956",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-27T03:59:37.000Z",
+     "submissionId": "2154577956"
+    }
+   }
+  },
+  "maximum-nesting-depth-of-the-parentheses": {
+   "id": "1614",
+   "title": "Maximum Nesting Depth of the Parentheses",
+   "slug": "maximum-nesting-depth-of-the-parentheses",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/1614-maximum-nesting-depth-of-the-parentheses",
+   "firstSolved": "2026-09-28T00:58:04.000Z",
+   "lastSolved": "2026-09-28T00:58:04.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2155439797",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-28T00:58:04.000Z",
+     "submissionId": "2155439797"
+    }
+   }
+  },
+  "check-if-there-is-a-valid-parentheses-string-path": {
+   "id": "2267",
+   "title": " Check if There Is a Valid Parentheses String Path",
+   "slug": "check-if-there-is-a-valid-parentheses-string-path",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/2267-check-if-there-is-a-valid-parentheses-string-path",
+   "firstSolved": "2026-09-29T05:22:50.000Z",
+   "lastSolved": "2026-09-29T05:22:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2156695784",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "160 ms",
+     "memory": "82.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-29T05:22:50.000Z",
+     "submissionId": "2156695784"
+    }
+   }
+  },
+  "maximum-nesting-depth-of-two-valid-parentheses-strings": {
+   "id": "1111",
+   "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+   "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+   "firstSolved": "2026-09-30T06:43:09.000Z",
+   "lastSolved": "2026-09-30T06:43:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2157884140",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "10.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-30T06:43:09.000Z",
+     "submissionId": "2157884140"
+    }
+   }
   }
  },
  "days": {
@@ -20228,6 +20852,14 @@
   "2026-09-19": 1,
   "2026-09-20": 4,
   "2026-09-21": 1,
-  "2026-09-22": 1
+  "2026-09-22": 3,
+  "2026-09-23": 3,
+  "2026-09-24": 2,
+  "2026-09-25": 1,
+  "2026-09-26": 4,
+  "2026-09-27": 5,
+  "2026-09-28": 1,
+  "2026-09-29": 1,
+  "2026-09-30": 1
  }
 }
