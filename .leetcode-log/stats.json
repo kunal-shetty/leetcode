@@ -20571,6 +20571,616 @@
      "submissionId": "2157884140"
     }
    }
+  },
+  "find-closest-person": {
+   "id": "3516",
+   "title": "Find Closest Person",
+   "slug": "find-closest-person",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/3516-find-closest-person",
+   "firstSolved": "2026-09-30T13:09:12.000Z",
+   "lastSolved": "2026-09-30T13:09:12.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2158174845",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-30T13:09:12.000Z",
+     "submissionId": "2158174845"
+    }
+   }
+  },
+  "add-two-integers": {
+   "id": "2235",
+   "title": "Add Two Integers",
+   "slug": "add-two-integers",
+   "difficulty": "Easy",
+   "tags": [
+    "Math"
+   ],
+   "dir": "problems/2235-add-two-integers",
+   "firstSolved": "2026-09-30T13:10:48.000Z",
+   "lastSolved": "2026-09-30T13:10:48.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2158176309",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-09-30T13:10:48.000Z",
+     "submissionId": "2158176309"
+    }
+   }
+  },
+  "valid-parentheses": {
+   "id": "20",
+   "title": "Valid Parentheses",
+   "slug": "valid-parentheses",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/0020-valid-parentheses",
+   "firstSolved": "2025-12-04T05:52:37.000Z",
+   "lastSolved": "2026-10-01T01:30:50.000Z",
+   "solves": 5,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2158680287",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "10.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-01T01:30:50.000Z",
+     "submissionId": "2158680287"
+    }
+   }
+  },
+  "fibonacci-number": {
+   "id": "509",
+   "title": "Fibonacci Number",
+   "slug": "fibonacci-number",
+   "difficulty": "Easy",
+   "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+   ],
+   "dir": "problems/0509-fibonacci-number",
+   "firstSolved": "2026-06-14T14:48:54.000Z",
+   "lastSolved": "2026-10-01T05:51:16.000Z",
+   "solves": 3,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2158865911",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-01T05:51:16.000Z",
+     "submissionId": "2158865911"
+    }
+   }
+  },
+  "majority-element": {
+   "id": "169",
+   "title": "Majority Element",
+   "slug": "majority-element",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+   ],
+   "dir": "problems/0169-majority-element",
+   "firstSolved": "2026-02-04T08:50:40.000Z",
+   "lastSolved": "2026-10-01T08:21:35.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2158998005",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "42 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-01T08:21:35.000Z",
+     "submissionId": "2158998005"
+    }
+   }
+  },
+  "generate-parentheses": {
+   "id": "22",
+   "title": "Generate Parentheses",
+   "slug": "generate-parentheses",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/0022-generate-parentheses",
+   "firstSolved": "2026-10-02T01:54:49.000Z",
+   "lastSolved": "2026-10-02T01:54:49.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2159701733",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "15.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-02T01:54:49.000Z",
+     "submissionId": "2159701733"
+    }
+   }
+  },
+  "find-peak-element": {
+   "id": "162",
+   "title": "Find Peak Element",
+   "slug": "find-peak-element",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search"
+   ],
+   "dir": "problems/0162-find-peak-element",
+   "firstSolved": "2026-10-02T10:30:30.000Z",
+   "lastSolved": "2026-10-02T10:30:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2160040468",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "12.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-02T10:30:30.000Z",
+     "submissionId": "2160040468"
+    }
+   }
+  },
+  "element-appearing-more-than-25-in-sorted-array": {
+   "id": "1287",
+   "title": "Element Appearing More Than 25% In Sorted Array",
+   "slug": "element-appearing-more-than-25-in-sorted-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/1287-element-appearing-more-than-25-in-sorted-array",
+   "firstSolved": "2026-10-02T10:33:19.000Z",
+   "lastSolved": "2026-10-02T10:33:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2160042492",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "16.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-02T10:33:19.000Z",
+     "submissionId": "2160042492"
+    }
+   }
+  },
+  "longest-valid-parentheses": {
+   "id": "32",
+   "title": "Longest Valid Parentheses",
+   "slug": "longest-valid-parentheses",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/0032-longest-valid-parentheses",
+   "firstSolved": "2026-10-03T06:27:00.000Z",
+   "lastSolved": "2026-10-03T06:27:00.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2160791099",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-03T06:27:00.000Z",
+     "submissionId": "2160791099"
+    }
+   }
+  },
+  "valid-parenthesis-string": {
+   "id": "678",
+   "title": "Valid Parenthesis String",
+   "slug": "valid-parenthesis-string",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/0678-valid-parenthesis-string",
+   "firstSolved": "2026-01-19T15:54:14.000Z",
+   "lastSolved": "2026-10-04T02:04:53.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2161564836",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-04T02:04:53.000Z",
+     "submissionId": "2161564836"
+    }
+   }
+  },
+  "count-good-strings": {
+   "id": "4073",
+   "title": "Count Good Strings",
+   "slug": "count-good-strings",
+   "difficulty": "Hard",
+   "tags": [],
+   "dir": "problems/4073-count-good-strings",
+   "firstSolved": "2026-10-04T02:36:45.000Z",
+   "lastSolved": "2026-10-04T02:36:45.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2161579352",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-04T02:36:45.000Z",
+     "submissionId": "2161579352"
+    }
+   }
+  },
+  "minimum-rotations-to-dial-a-number-i": {
+   "id": "4070",
+   "title": "Minimum Rotations to Dial a Number I",
+   "slug": "minimum-rotations-to-dial-a-number-i",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/4070-minimum-rotations-to-dial-a-number-i",
+   "firstSolved": "2026-10-04T02:38:30.000Z",
+   "lastSolved": "2026-10-04T02:38:39.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2161582046",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-04T02:38:39.000Z",
+     "submissionId": "2161582046"
+    }
+   }
+  },
+  "maximum-alternating-subarray-sum-with-one-deletion": {
+   "id": "4072",
+   "title": "Maximum Alternating Subarray Sum With One Deletion",
+   "slug": "maximum-alternating-subarray-sum-with-one-deletion",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/4072-maximum-alternating-subarray-sum-with-one-deletion",
+   "firstSolved": "2026-10-04T02:54:19.000Z",
+   "lastSolved": "2026-10-04T02:54:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2161605902",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "35 ms",
+     "memory": "207.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-04T02:54:19.000Z",
+     "submissionId": "2161605902"
+    }
+   }
+  },
+  "score-of-parentheses": {
+   "id": "856",
+   "title": "Score of Parentheses",
+   "slug": "score-of-parentheses",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/0856-score-of-parentheses",
+   "firstSolved": "2026-10-05T01:31:51.000Z",
+   "lastSolved": "2026-10-05T01:31:51.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2162611524",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-05T01:31:51.000Z",
+     "submissionId": "2162611524"
+    }
+   }
+  },
+  "count-hills-and-valleys-in-an-array": {
+   "id": "2210",
+   "title": "Count Hills and Valleys in an Array",
+   "slug": "count-hills-and-valleys-in-an-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array"
+   ],
+   "dir": "problems/2210-count-hills-and-valleys-in-an-array",
+   "firstSolved": "2026-10-05T10:51:18.000Z",
+   "lastSolved": "2026-10-05T10:51:18.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2163034411",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-05T10:51:18.000Z",
+     "submissionId": "2163034411"
+    }
+   }
+  },
+  "range-sum-query-immutable": {
+   "id": "303",
+   "title": "Range Sum Query - Immutable",
+   "slug": "range-sum-query-immutable",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Design",
+    "Prefix Sum"
+   ],
+   "dir": "problems/0303-range-sum-query-immutable",
+   "firstSolved": "2026-10-06T07:59:52.000Z",
+   "lastSolved": "2026-10-06T07:59:52.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2163996258",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "24 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-06T07:59:52.000Z",
+     "submissionId": "2163996258"
+    }
+   }
+  },
+  "minimum-add-to-make-parentheses-valid": {
+   "id": "921",
+   "title": "Minimum Add to Make Parentheses Valid",
+   "slug": "minimum-add-to-make-parentheses-valid",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/0921-minimum-add-to-make-parentheses-valid",
+   "firstSolved": "2026-10-06T08:37:50.000Z",
+   "lastSolved": "2026-10-06T08:37:50.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2164024383",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-06T08:37:50.000Z",
+     "submissionId": "2164024383"
+    }
+   }
+  },
+  "remove-invalid-parentheses": {
+   "id": "301",
+   "title": "Remove Invalid Parentheses",
+   "slug": "remove-invalid-parentheses",
+   "difficulty": "Hard",
+   "tags": [
+    "String",
+    "Backtracking",
+    "Breadth-First Search"
+   ],
+   "dir": "problems/0301-remove-invalid-parentheses",
+   "firstSolved": "2026-10-07T06:09:39.000Z",
+   "lastSolved": "2026-10-07T06:09:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2164975109",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "11.4 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-07T06:09:39.000Z",
+     "submissionId": "2164975109"
+    }
+   }
+  },
+  "two-letter-card-game": {
+   "id": "3664",
+   "title": "Two-Letter Card Game",
+   "slug": "two-letter-card-game",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting",
+    "Enumeration"
+   ],
+   "dir": "problems/3664-two-letter-card-game",
+   "firstSolved": "2026-10-07T06:38:03.000Z",
+   "lastSolved": "2026-10-07T06:44:55.000Z",
+   "solves": 4,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2165008723",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "36 ms",
+     "memory": "276.1 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-07T06:44:55.000Z",
+     "submissionId": "2165008723"
+    }
+   }
+  },
+  "remove-outermost-parentheses": {
+   "id": "1021",
+   "title": "Remove Outermost Parentheses",
+   "slug": "remove-outermost-parentheses",
+   "difficulty": "Easy",
+   "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/1021-remove-outermost-parentheses",
+   "firstSolved": "2026-07-23T04:35:22.000Z",
+   "lastSolved": "2026-10-08T06:04:20.000Z",
+   "solves": 2,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2166010247",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "3 ms",
+     "memory": "8.8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-08T06:04:20.000Z",
+     "submissionId": "2166010247"
+    }
+   }
   }
  },
  "days": {
@@ -20607,7 +21217,7 @@
   "2026-01-16": 1,
   "2026-01-17": 1,
   "2026-01-18": 4,
-  "2026-01-19": 5,
+  "2026-01-19": 6,
   "2026-01-20": 1,
   "2026-01-21": 1,
   "2026-01-22": 1,
@@ -20622,7 +21232,7 @@
   "2026-02-01": 2,
   "2026-02-02": 1,
   "2026-02-03": 1,
-  "2026-02-04": 3,
+  "2026-02-04": 4,
   "2026-02-05": 4,
   "2026-02-07": 2,
   "2026-02-08": 1,
@@ -20750,7 +21360,7 @@
   "2026-06-11": 1,
   "2026-06-12": 5,
   "2026-06-13": 4,
-  "2026-06-14": 4,
+  "2026-06-14": 5,
   "2026-06-15": 2,
   "2026-06-16": 3,
   "2026-06-17": 2,
@@ -20789,7 +21399,7 @@
   "2026-07-20": 1,
   "2026-07-21": 2,
   "2026-07-22": 1,
-  "2026-07-23": 6,
+  "2026-07-23": 7,
   "2026-07-25": 2,
   "2026-07-26": 4,
   "2026-07-27": 1,
@@ -20860,6 +21470,13 @@
   "2026-09-27": 5,
   "2026-09-28": 1,
   "2026-09-29": 1,
-  "2026-09-30": 1
+  "2026-09-30": 3,
+  "2025-12-04": 1,
+  "2026-10-02": 3,
+  "2026-10-03": 1,
+  "2026-10-04": 3,
+  "2026-10-05": 2,
+  "2026-10-06": 2,
+  "2026-10-07": 2
  }
 }

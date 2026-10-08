@@ -1,38 +1,38 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-662-2da44e) ![Streak](https://img.shields.io/badge/streak-0%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-682-2da44e) ![Streak](https://img.shields.io/badge/streak-0%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ██████████████████ 271
-Medium  ████████████████████ 294
-Hard    ███████ 97
+Easy    ███████████████████ 281
+Medium  ████████████████████ 301
+Hard    ███████ 100
 ```
 
-**662** problems · **287** active days · current streak **0** · longest **86**
+**682** problems · **294** active days · current streak **0** · longest **86**
 
 ## Last 20 weeks
 
 ```
-🟦🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
-🟦🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨⬜⬜
-🟩🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨⬜🟨
-🟨🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟨⬜🟨
+🟦🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜
+🟦🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩⬜
+🟩🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟨
+🟨🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨
 🟨🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜⬜
-🟨🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨⬜⬜⬜
-🟦🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦⬜⬜⬜
+🟨🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦⬜⬜
+🟦🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨⬜⬜
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×631 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×651 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×375 · `String` ×156 · `Math` ×149 · `Hash Table` ×138 · `Dynamic Programming` ×94 · `Sorting` ×90 · `Greedy` ×71 · `Two Pointers` ×63
+`Array` ×381 · `String` ×165 · `Math` ×152 · `Hash Table` ×140 · `Dynamic Programming` ×98 · `Sorting` ×91 · `Greedy` ×73 · `Two Pointers` ×63
 
 ## Problems
 
@@ -57,12 +57,15 @@ Hard    ███████ 97
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) · [notes](problems/0017-letter-combinations-of-a-phone-number/README.md) | 🟡 Medium | Hash Table, String, Backtracking | [C++](problems/0017-letter-combinations-of-a-phone-number/solution.cpp) | 2026-01-31 |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) · [notes](problems/0018-4sum/README.md) | 🟡 Medium | Array, Two Pointers, Sorting | [C++](problems/0018-4sum/solution.cpp) | 2026-03-31 |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) · [notes](problems/0019-remove-nth-node-from-end-of-list/README.md) | 🟡 Medium | Linked List, Two Pointers | [C++](problems/0019-remove-nth-node-from-end-of-list/solution.cpp) | 2026-07-18 |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) · [notes](problems/0020-valid-parentheses/README.md) | 🟢 Easy | String, Stack, Bracket Sequences | [C++](problems/0020-valid-parentheses/solution.cpp) | 2026-10-01 |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) · [notes](problems/0021-merge-two-sorted-lists/README.md) | 🟢 Easy | Linked List, Recursion | [C++](problems/0021-merge-two-sorted-lists/solution.cpp) | 2026-02-21 |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) · [notes](problems/0022-generate-parentheses/README.md) | 🟡 Medium | String, Dynamic Programming, Backtracking | [C++](problems/0022-generate-parentheses/solution.cpp) | 2026-10-02 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) · [notes](problems/0026-remove-duplicates-from-sorted-array/README.md) | 🟢 Easy | Array, Two Pointers | [C++](problems/0026-remove-duplicates-from-sorted-array/solution.cpp) | 2026-06-29 |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) · [notes](problems/0027-remove-element/README.md) | 🟢 Easy | Array, Two Pointers | [C++](problems/0027-remove-element/solution.cpp) | 2026-04-01 |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) · [notes](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md) | 🟢 Easy | Two Pointers, String, String Matching | [C++](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) | 2025-05-04 |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) · [notes](problems/0029-divide-two-integers/README.md) | 🟡 Medium | Math, Bit Manipulation | [C++](problems/0029-divide-two-integers/solution.cpp) | 2025-12-03 |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) · [notes](problems/0031-next-permutation/README.md) | 🟡 Medium | Array, Two Pointers | [C++](problems/0031-next-permutation/solution.cpp) | 2026-09-17 |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) · [notes](problems/0032-longest-valid-parentheses/README.md) | 🔴 Hard | String, Dynamic Programming, Stack | [C++](problems/0032-longest-valid-parentheses/solution.cpp) | 2026-10-03 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) · [notes](problems/0033-search-in-rotated-sorted-array/README.md) | 🟡 Medium | Array, Binary Search | [C++](problems/0033-search-in-rotated-sorted-array/solution.cpp) | 2026-05-22 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) · [notes](problems/0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | 🟡 Medium | Array, Binary Search | [C++](problems/0034-find-first-and-last-position-of-element-in-sorted-array/solution.cpp) | 2026-09-23 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) · [notes](problems/0035-search-insert-position/README.md) | 🟢 Easy | Array, Binary Search | [C++](problems/0035-search-insert-position/solution.cpp) | 2026-07-19 |
@@ -121,7 +124,9 @@ Hard    ███████ 97
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) · [notes](problems/0154-find-minimum-in-rotated-sorted-array-ii/README.md) | 🔴 Hard | Array, Binary Search | [C++](problems/0154-find-minimum-in-rotated-sorted-array-ii/solution.cpp) | 2026-05-16 |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) · [notes](problems/0155-min-stack/README.md) | 🟡 Medium | Stack, Design | [C++](problems/0155-min-stack/solution.cpp) | 2026-06-29 |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) · [notes](problems/0160-intersection-of-two-linked-lists/README.md) | 🟢 Easy | Hash Table, Linked List, Two Pointers | [C++](problems/0160-intersection-of-two-linked-lists/solution.cpp) | 2026-03-01 |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) · [notes](problems/0162-find-peak-element/README.md) | 🟡 Medium | Array, Binary Search | [C++](problems/0162-find-peak-element/solution.cpp) | 2026-10-02 |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) · [notes](problems/0167-two-sum-ii-input-array-is-sorted/README.md) | 🟡 Medium | Array, Two Pointers, Binary Search | [C++](problems/0167-two-sum-ii-input-array-is-sorted/solution.cpp) | 2026-09-03 |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) · [notes](problems/0169-majority-element/README.md) | 🟢 Easy | Array, Hash Table, Divide and Conquer | [C++](problems/0169-majority-element/solution.cpp) | 2026-10-01 |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) · [notes](problems/0175-combine-two-tables/README.md) | 🟢 Easy | Database | [MySQL](problems/0175-combine-two-tables/solution.sql) | 2026-02-12 |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) · [notes](problems/0178-rank-scores/README.md) | 🟡 Medium | Database | [MySQL](problems/0178-rank-scores/solution.sql) | 2026-02-10 |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) · [notes](problems/0181-employees-earning-more-than-their-managers/README.md) | 🟢 Easy | Database | [MySQL](problems/0181-employees-earning-more-than-their-managers/solution.sql) | 2026-02-12 |
@@ -148,6 +153,8 @@ Hard    ███████ 97
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) · [notes](problems/0268-missing-number/README.md) | 🟢 Easy | Array, Hash Table, Math | [C++](problems/0268-missing-number/solution.cpp) | 2025-12-09 |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) · [notes](problems/0287-find-the-duplicate-number/README.md) | 🟡 Medium | Array, Two Pointers, Binary Search | [C++](problems/0287-find-the-duplicate-number/solution.cpp) | 2026-02-14 |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) · [notes](problems/0292-nim-game/README.md) | 🟢 Easy | Math, Brainteaser, Minimax | [C++](problems/0292-nim-game/solution.cpp) | 2026-08-13 |
+| 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) · [notes](problems/0301-remove-invalid-parentheses/README.md) | 🔴 Hard | String, Backtracking, Breadth-First Search | [C++](problems/0301-remove-invalid-parentheses/solution.cpp) | 2026-10-07 |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) · [notes](problems/0303-range-sum-query-immutable/README.md) | 🟢 Easy | Array, Design, Prefix Sum | [C++](problems/0303-range-sum-query-immutable/solution.cpp) | 2026-10-06 |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) · [notes](problems/0316-remove-duplicate-letters/README.md) | 🟡 Medium | String, Stack, Greedy | [C++](problems/0316-remove-duplicate-letters/solution.cpp) | 2026-07-19 |
 | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) · [notes](problems/0319-bulb-switcher/README.md) | 🟡 Medium | Math, Brainteaser | [C++](problems/0319-bulb-switcher/solution.cpp) | 2026-08-10 |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) · [notes](problems/0342-power-of-four/README.md) | 🟢 Easy | Math, Bit Manipulation, Recursion | [C++](problems/0342-power-of-four/solution.cpp) | 2026-06-13 |
@@ -177,6 +184,7 @@ Hard    ███████ 97
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) · [notes](problems/0485-max-consecutive-ones/README.md) | 🟢 Easy | Array | [C++](problems/0485-max-consecutive-ones/solution.cpp) | 2026-07-14 |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) · [notes](problems/0486-predict-the-winner/README.md) | 🟡 Medium | Array, Math, Dynamic Programming | [C++](problems/0486-predict-the-winner/solution.cpp) | 2026-08-01 |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) · [notes](problems/0506-relative-ranks/README.md) | 🟢 Easy | Array, Sorting, Heap (Priority Queue) | [C++](problems/0506-relative-ranks/solution.cpp) | 2026-09-18 |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) · [notes](problems/0509-fibonacci-number/README.md) | 🟢 Easy | Math, Dynamic Programming, Recursion | [C++](problems/0509-fibonacci-number/solution.cpp) | 2026-10-01 |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) · [notes](problems/0511-game-play-analysis-i/README.md) | 🟢 Easy | Database | [MySQL](problems/0511-game-play-analysis-i/solution.sql) | 2026-03-22 |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) · [notes](problems/0520-detect-capital/README.md) | 🟢 Easy | String | [C++](problems/0520-detect-capital/solution.cpp) | 2026-08-02 |
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) · [notes](problems/0535-encode-and-decode-tinyurl/README.md) | 🟡 Medium | Hash Table, String, Design | [C++](problems/0535-encode-and-decode-tinyurl/solution.cpp) | 2026-06-01 |
@@ -199,6 +207,7 @@ Hard    ███████ 97
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) · [notes](problems/0628-maximum-product-of-three-numbers/README.md) | 🟢 Easy | Array, Math, Sorting | [C++](problems/0628-maximum-product-of-three-numbers/solution.cpp) | 2026-07-26 |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) · [notes](problems/0645-set-mismatch/README.md) | 🟢 Easy | Array, Hash Table, Bit Manipulation | [C++](problems/0645-set-mismatch/solution.cpp) | 2026-02-14 |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) · [notes](problems/0657-robot-return-to-origin/README.md) | 🟢 Easy | String, Simulation | [C++](problems/0657-robot-return-to-origin/solution.cpp) | 2026-07-15 |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) · [notes](problems/0678-valid-parenthesis-string/README.md) | 🟡 Medium | String, Dynamic Programming, Stack | [C++](problems/0678-valid-parenthesis-string/solution.cpp) | 2026-10-04 |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) · [notes](problems/0692-top-k-frequent-words/README.md) | 🟡 Medium | Array, Hash Table, String | [C++](problems/0692-top-k-frequent-words/solution.cpp) | 2026-09-22 |
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) · [notes](problems/0693-binary-number-with-alternating-bits/README.md) | 🟢 Easy | Bit Manipulation | [C++](problems/0693-binary-number-with-alternating-bits/solution.cpp) | 2026-02-18 |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) · [notes](problems/0696-count-binary-substrings/README.md) | 🟢 Easy | Two Pointers, String | [C++](problems/0696-count-binary-substrings/solution.cpp) | 2026-02-19 |
@@ -221,6 +230,7 @@ Hard    ███████ 97
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) · [notes](problems/0799-champagne-tower/README.md) | 🟡 Medium | Dynamic Programming | [C++](problems/0799-champagne-tower/solution.cpp) | 2026-02-14 |
 | 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/) · [notes](problems/0835-image-overlap/README.md) | 🟡 Medium | Array, Matrix | [C++](problems/0835-image-overlap/solution.cpp) | 2026-09-13 |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) · [notes](problems/0836-rectangle-overlap/README.md) | 🟢 Easy | Math, Geometry | [C++](problems/0836-rectangle-overlap/solution.cpp) | 2026-09-14 |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) · [notes](problems/0856-score-of-parentheses/README.md) | 🟡 Medium | String, Stack, Bracket Sequences | [C++](problems/0856-score-of-parentheses/solution.cpp) | 2026-10-05 |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) · [notes](problems/0860-lemonade-change/README.md) | 🟢 Easy | Array, Greedy | [C++](problems/0860-lemonade-change/solution.cpp) | 2026-06-17 |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) · [notes](problems/0865-smallest-subtree-with-all-the-deepest-nodes/README.md) | 🟡 Medium | Hash Table, Tree, Depth-First Search | [C++](problems/0865-smallest-subtree-with-all-the-deepest-nodes/solution.cpp) | 2026-01-09 |
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) · [notes](problems/0868-binary-gap/README.md) | 🟢 Easy | Bit Manipulation | [C++](problems/0868-binary-gap/solution.cpp) | 2026-02-22 |
@@ -229,6 +239,7 @@ Hard    ███████ 97
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) · [notes](problems/0896-monotonic-array/README.md) | 🟢 Easy | Array | [C++](problems/0896-monotonic-array/solution.cpp) | 2026-06-26 |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) · [notes](problems/0904-fruit-into-baskets/README.md) | 🟡 Medium | Array, Hash Table, Sliding Window | [C++](problems/0904-fruit-into-baskets/solution.cpp) | 2026-09-23 |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) · [notes](problems/0905-sort-array-by-parity/README.md) | 🟢 Easy | Array, Two Pointers, Sorting | [C++](problems/0905-sort-array-by-parity/solution.cpp) | 2026-05-20 |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) · [notes](problems/0921-minimum-add-to-make-parentheses-valid/README.md) | 🟡 Medium | String, Stack, Greedy | [C++](problems/0921-minimum-add-to-make-parentheses-valid/solution.cpp) | 2026-10-06 |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) · [notes](problems/0925-long-pressed-name/README.md) | 🟢 Easy | Two Pointers, String | [C++](problems/0925-long-pressed-name/solution.cpp) | 2026-08-06 |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) · [notes](problems/0940-distinct-subsequences-ii/README.md) | 🔴 Hard | String, Dynamic Programming | [C++](problems/0940-distinct-subsequences-ii/solution.cpp) | 2026-09-07 |
 | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) · [notes](problems/0961-n-repeated-element-in-size-2n-array/README.md) | 🟢 Easy | Array, Hash Table, Pigeonhole Principle | [C++](problems/0961-n-repeated-element-in-size-2n-array/solution.cpp) | 2026-01-02 |
@@ -237,6 +248,7 @@ Hard    ███████ 97
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) · [notes](problems/1002-find-common-characters/README.md) | 🟢 Easy | Array, Hash Table, String | [C++](problems/1002-find-common-characters/solution.cpp) | 2026-06-23 |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) · [notes](problems/1009-complement-of-base-10-integer/README.md) | 🟢 Easy | Bit Manipulation | [C++](problems/1009-complement-of-base-10-integer/solution.cpp) | 2026-03-11 |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) · [notes](problems/1015-smallest-integer-divisible-by-k/README.md) | 🟡 Medium | Hash Table, Math, Pigeonhole Principle | [C++](problems/1015-smallest-integer-divisible-by-k/solution.cpp) | 2026-01-04 |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) · [notes](problems/1021-remove-outermost-parentheses/README.md) | 🟢 Easy | String, Stack, Bracket Sequences | [C++](problems/1021-remove-outermost-parentheses/solution.cpp) | 2026-10-08 |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) · [notes](problems/1022-sum-of-root-to-leaf-binary-numbers/README.md) | 🟢 Easy | Tree, Depth-First Search, Binary Tree | [C++](problems/1022-sum-of-root-to-leaf-binary-numbers/solution.cpp) | 2026-02-24 |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) · [notes](problems/1024-video-stitching/README.md) | 🟡 Medium | Array, Dynamic Programming, Greedy | [C++](problems/1024-video-stitching/solution.cpp) | 2026-06-02 |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) · [notes](problems/1025-divisor-game/README.md) | 🟢 Easy | Math, Dynamic Programming, Brainteaser | [C++](problems/1025-divisor-game/solution.cpp) | 2026-07-23 |
@@ -262,6 +274,7 @@ Hard    ███████ 97
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) · [notes](problems/1260-shift-2d-grid/README.md) | 🟢 Easy | Array, Matrix, Simulation | [C++](problems/1260-shift-2d-grid/solution.cpp) | 2026-07-20 |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) · [notes](problems/1266-minimum-time-visiting-all-points/README.md) | 🟢 Easy | Array, Math, Geometry | [C++](problems/1266-minimum-time-visiting-all-points/solution.cpp) | 2026-01-12 |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) · [notes](problems/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | 🟡 Medium | Array, Hash Table, Greedy | [C++](problems/1282-group-the-people-given-the-group-size-they-belong-to/solution.cpp) | 2026-06-22 |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) · [notes](problems/1287-element-appearing-more-than-25-in-sorted-array/README.md) | 🟢 Easy | Array | [C++](problems/1287-element-appearing-more-than-25-in-sorted-array/solution.cpp) | 2026-10-02 |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) · [notes](problems/1288-remove-covered-intervals/README.md) | 🟡 Medium | Array, Sorting | [C++](problems/1288-remove-covered-intervals/solution.cpp) | 2026-07-06 |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) · [notes](problems/1291-sequential-digits/README.md) | 🟡 Medium | Enumeration | [C++](problems/1291-sequential-digits/solution.cpp) | 2026-07-13 |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) · [notes](problems/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/README.md) | 🟡 Medium | Array, Binary Search, Matrix | [C++](problems/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.cpp) | 2026-01-19 |
@@ -378,8 +391,10 @@ Hard    ███████ 97
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) · [notes](problems/2144-minimum-cost-of-buying-candies-with-discount/README.md) | 🟢 Easy | Array, Greedy, Sorting | [C++](problems/2144-minimum-cost-of-buying-candies-with-discount/solution.cpp) | 2026-06-01 |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) · [notes](problems/2161-partition-array-according-to-given-pivot/README.md) | 🟡 Medium | Array, Two Pointers, Simulation | [C++](problems/2161-partition-array-according-to-given-pivot/solution.cpp) | 2026-06-08 |
 | 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) · [notes](problems/2196-create-binary-tree-from-descriptions/README.md) | 🟡 Medium | Array, Hash Table, Tree | [C++](problems/2196-create-binary-tree-from-descriptions/solution.cpp) | 2026-06-07 |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) · [notes](problems/2210-count-hills-and-valleys-in-an-array/README.md) | 🟢 Easy | Array | [C++](problems/2210-count-hills-and-valleys-in-an-array/solution.cpp) | 2026-10-05 |
 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) · [notes](problems/2213-longest-substring-of-one-repeating-character/README.md) | 🔴 Hard | Array, String, Segment Tree | [C++](problems/2213-longest-substring-of-one-repeating-character/solution.cpp) | 2026-08-13 |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) · [notes](problems/2220-minimum-bit-flips-to-convert-number/README.md) | 🟢 Easy | Bit Manipulation | [C++](problems/2220-minimum-bit-flips-to-convert-number/solution.cpp) | 2026-07-23 |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) · [notes](problems/2235-add-two-integers/README.md) | 🟢 Easy | Math | [C++](problems/2235-add-two-integers/solution.cpp) | 2026-09-30 |
 | 2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) · [notes](problems/2251-number-of-flowers-in-full-bloom/README.md) | 🔴 Hard | Array, Hash Table, Binary Search | [C++](problems/2251-number-of-flowers-in-full-bloom/solution.cpp) | 2026-05-30 |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) · [notes](problems/2265-count-nodes-equal-to-average-of-subtree/README.md) | 🟡 Medium | Tree, Depth-First Search, Binary Tree | [C++](problems/2265-count-nodes-equal-to-average-of-subtree/solution.cpp) | 2026-09-10 |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) · [notes](problems/2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | 🔴 Hard | Array, Dynamic Programming, Matrix | [C++](problems/2267-check-if-there-is-a-valid-parentheses-string-path/solution.cpp) | 2026-09-29 |
@@ -492,6 +507,7 @@ Hard    ███████ 97
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) · [notes](problems/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | 🟢 Easy | Array, Math | [C++](problems/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.cpp) | 2026-05-27 |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) · [notes](problems/3513-number-of-unique-xor-triplets-i/README.md) | 🟡 Medium | Array, Math, Bit Manipulation | [C++](problems/3513-number-of-unique-xor-triplets-i/solution.cpp) | 2026-07-23 |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) · [notes](problems/3514-number-of-unique-xor-triplets-ii/README.md) | 🟡 Medium | Array, Math, Bit Manipulation | [C++](problems/3514-number-of-unique-xor-triplets-ii/solution.cpp) | 2026-07-24 |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) · [notes](problems/3516-find-closest-person/README.md) | 🟢 Easy | Math | [C++](problems/3516-find-closest-person/solution.cpp) | 2026-09-30 |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) · [notes](problems/3517-smallest-palindromic-rearrangement-i/README.md) | 🟡 Medium | String, Sorting, Counting Sort | [C++](problems/3517-smallest-palindromic-rearrangement-i/solution.cpp) | 2026-07-28 |
 | 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) · [notes](problems/3518-smallest-palindromic-rearrangement-ii/README.md) | 🔴 Hard | Hash Table, Math, String | [C++](problems/3518-smallest-palindromic-rearrangement-ii/solution.cpp) | 2026-07-29 |
 | 3524 | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) · [notes](problems/3524-find-x-value-of-array-i/README.md) | 🟡 Medium | Array, Math, Dynamic Programming | [C++](problems/3524-find-x-value-of-array-i/solution.cpp) | 2026-09-21 |
@@ -526,6 +542,7 @@ Hard    ███████ 97
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) · [notes](problems/3658-gcd-of-odd-and-even-sums/README.md) | 🟢 Easy | Math, Number Theory | [C++](problems/3658-gcd-of-odd-and-even-sums/solution.cpp) | 2026-07-15 |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) · [notes](problems/3660-jump-game-ix/README.md) | 🟡 Medium | Array, Dynamic Programming | [C++](problems/3660-jump-game-ix/solution.cpp) | 2026-05-07 |
 | 3661 | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) · [notes](problems/3661-maximum-walls-destroyed-by-robots/README.md) | 🔴 Hard | Array, Binary Search, Dynamic Programming | [C++](problems/3661-maximum-walls-destroyed-by-robots/solution.cpp) | 2026-04-03 |
+| 3664 | [Two-Letter Card Game](https://leetcode.com/problems/two-letter-card-game/) · [notes](problems/3664-two-letter-card-game/README.md) | 🟡 Medium | Array, Hash Table, String | [C++](problems/3664-two-letter-card-game/solution.cpp) | 2026-10-07 |
 | 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) · [notes](problems/3666-minimum-operations-to-equalize-binary-string/README.md) | 🔴 Hard | Math, String, Breadth-First Search | [C++](problems/3666-minimum-operations-to-equalize-binary-string/solution.cpp) | 2026-08-14 |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) · [notes](problems/3668-restore-finishing-order/README.md) | 🟢 Easy | Array, Hash Table | [C++](problems/3668-restore-finishing-order/solution.cpp) | 2026-05-19 |
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) · [notes](problems/3683-earliest-time-to-finish-one-task/README.md) | 🟢 Easy | Array | [C++](problems/3683-earliest-time-to-finish-one-task/solution.cpp) | 2026-06-06 |
@@ -700,3 +717,6 @@ Hard    ███████ 97
 | 4066 | [Maximum Equal Adjacent Pairs After at Most One Replacement](https://leetcode.com/problems/maximum-equal-adjacent-pairs-after-at-most-one-replacement/) · [notes](problems/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/README.md) | 🟡 Medium | Array, Hash Table, Counting | [C++](problems/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/solution.cpp) | 2026-09-27 |
 | 4067 | [Longest Subarray With Restricted Pair Sums](https://leetcode.com/problems/longest-subarray-with-restricted-pair-sums/) · [notes](problems/4067-longest-subarray-with-restricted-pair-sums/README.md) | 🟡 Medium | Array, Hash Table, Sliding Window | [C++](problems/4067-longest-subarray-with-restricted-pair-sums/solution.cpp) | 2026-09-27 |
 | 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) · [notes](problems/4068-maximize-meeting-earnings-with-idle-gaps/README.md) | 🔴 Hard | Array, Binary Search, Dynamic Programming | [C++](problems/4068-maximize-meeting-earnings-with-idle-gaps/solution.cpp) | 2026-09-27 |
+| 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) · [notes](problems/4070-minimum-rotations-to-dial-a-number-i/README.md) | 🟢 Easy |  | [C++](problems/4070-minimum-rotations-to-dial-a-number-i/solution.cpp) | 2026-10-04 |
+| 4072 | [Maximum Alternating Subarray Sum With One Deletion](https://leetcode.com/problems/maximum-alternating-subarray-sum-with-one-deletion/) · [notes](problems/4072-maximum-alternating-subarray-sum-with-one-deletion/README.md) | 🟡 Medium |  | [C++](problems/4072-maximum-alternating-subarray-sum-with-one-deletion/solution.cpp) | 2026-10-04 |
+| 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) · [notes](problems/4073-count-good-strings/README.md) | 🔴 Hard |  | [C++](problems/4073-count-good-strings/solution.cpp) | 2026-10-04 |
