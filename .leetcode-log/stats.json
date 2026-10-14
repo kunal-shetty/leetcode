@@ -31,9 +31,40 @@
      "submissionId": "2170988642"
     }
    }
+  },
+  "maximize-sum-of-squares-of-digits": {
+   "id": "3723",
+   "title": "Maximize Sum of Squares of Digits",
+   "slug": "maximize-sum-of-squares-of-digits",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Greedy"
+   ],
+   "dir": "problems/3723-maximize-sum-of-squares-of-digits",
+   "firstSolved": "2026-10-14T16:45:06.220Z",
+   "lastSolved": "2026-10-14T16:45:06.220Z",
+   "solves": 1,
+   "timeSpentSec": 409,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2172325697",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "50 ms",
+     "memory": "58.4 MB",
+     "runtimePct": 75.63480000000004,
+     "memoryPct": 84.26410000000003,
+     "at": "2026-10-14T16:45:06.220Z",
+     "submissionId": "2172325697"
+    }
+   }
   }
  },
  "days": {
-  "2026-10-13": 1
+  "2026-10-13": 1,
+  "2026-10-14": 1
  }
 }
