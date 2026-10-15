@@ -21181,10 +21181,451 @@
      "submissionId": "2166010247"
     }
    }
+  },
+  "minimum-insertions-to-balance-a-parentheses-string": {
+   "id": "1541",
+   "title": "Minimum Insertions to Balance a Parentheses String",
+   "slug": "minimum-insertions-to-balance-a-parentheses-string",
+   "difficulty": "Medium",
+   "tags": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+   ],
+   "dir": "problems/1541-minimum-insertions-to-balance-a-parentheses-string",
+   "firstSolved": "2026-10-09T01:55:19.000Z",
+   "lastSolved": "2026-10-09T01:55:19.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2166836240",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "15.5 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-09T01:55:19.000Z",
+     "submissionId": "2166836240"
+    }
+   }
+  },
+  "jump-game": {
+   "id": "55",
+   "title": "Jump Game",
+   "slug": "jump-game",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+   ],
+   "dir": "problems/0055-jump-game",
+   "firstSolved": "2026-10-09T06:49:54.000Z",
+   "lastSolved": "2026-10-09T06:49:54.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2167040045",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "52.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-09T06:49:54.000Z",
+     "submissionId": "2167040045"
+    }
+   }
+  },
+  "maximum-product-pair-with-target-sum": {
+   "id": "4074",
+   "title": "Maximum Product Pair With Target Sum",
+   "slug": "maximum-product-pair-with-target-sum",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/4074-maximum-product-pair-with-target-sum",
+   "firstSolved": "2026-10-10T15:05:34.000Z",
+   "lastSolved": "2026-10-10T15:05:34.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168304862",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "31.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-10T15:05:34.000Z",
+     "submissionId": "2168304862"
+    }
+   }
+  },
+  "longest-resilient-subarray-ii": {
+   "id": "4076",
+   "title": "Longest Resilient Subarray II",
+   "slug": "longest-resilient-subarray-ii",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/4076-longest-resilient-subarray-ii",
+   "firstSolved": "2026-10-10T15:17:53.000Z",
+   "lastSolved": "2026-10-10T15:17:53.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168330131",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "12 ms",
+     "memory": "187.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-10T15:17:53.000Z",
+     "submissionId": "2168330131"
+    }
+   }
+  },
+  "longest-resilient-subarray-i": {
+   "id": "4075",
+   "title": "Longest Resilient Subarray I",
+   "slug": "longest-resilient-subarray-i",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/4075-longest-resilient-subarray-i",
+   "firstSolved": "2026-10-10T15:18:07.000Z",
+   "lastSolved": "2026-10-10T15:18:07.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168330549",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "39.9 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-10T15:18:07.000Z",
+     "submissionId": "2168330549"
+    }
+   }
+  },
+  "minimum-sum-of-squared-difference": {
+   "id": "2333",
+   "title": "Minimum Sum of Squared Difference",
+   "slug": "minimum-sum-of-squared-difference",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/2333-minimum-sum-of-squared-difference",
+   "firstSolved": "2026-10-10T18:02:03.000Z",
+   "lastSolved": "2026-10-10T18:02:03.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168521099",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "7 ms",
+     "memory": "136.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-10T18:02:03.000Z",
+     "submissionId": "2168521099"
+    }
+   }
+  },
+  "sum-of-squares-of-special-elements": {
+   "id": "2778",
+   "title": "Sum of Squares of Special Elements ",
+   "slug": "sum-of-squares-of-special-elements",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Enumeration"
+   ],
+   "dir": "problems/2778-sum-of-squares-of-special-elements",
+   "firstSolved": "2026-10-11T02:00:49.000Z",
+   "lastSolved": "2026-10-11T02:00:49.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168725732",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "40.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-11T02:00:49.000Z",
+     "submissionId": "2168725732"
+    }
+   }
+  },
+  "three-fibonacci-sum": {
+   "id": "4078",
+   "title": "Three Fibonacci Sum",
+   "slug": "three-fibonacci-sum",
+   "difficulty": "Easy",
+   "tags": [],
+   "dir": "problems/4078-three-fibonacci-sum",
+   "firstSolved": "2026-10-11T02:31:49.000Z",
+   "lastSolved": "2026-10-11T02:31:49.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168736191",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "8 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-11T02:31:49.000Z",
+     "submissionId": "2168736191"
+    }
+   }
+  },
+  "design-bus-seat-booking-system": {
+   "id": "4080",
+   "title": "Design Bus Seat Booking System",
+   "slug": "design-bus-seat-booking-system",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/4080-design-bus-seat-booking-system",
+   "firstSolved": "2026-10-11T02:39:29.000Z",
+   "lastSolved": "2026-10-11T02:39:29.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168747747",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "185 ms",
+     "memory": "330.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-11T02:39:29.000Z",
+     "submissionId": "2168747747"
+    }
+   }
+  },
+  "prime-subset-selection-i": {
+   "id": "4079",
+   "title": "Prime Subset Selection I",
+   "slug": "prime-subset-selection-i",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/4079-prime-subset-selection-i",
+   "firstSolved": "2026-10-11T02:43:39.000Z",
+   "lastSolved": "2026-10-11T02:43:39.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168755288",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "344 ms",
+     "memory": "67.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-11T02:43:39.000Z",
+     "submissionId": "2168755288"
+    }
+   }
+  },
+  "prime-subset-selection-ii": {
+   "id": "4081",
+   "title": "Prime Subset Selection II",
+   "slug": "prime-subset-selection-ii",
+   "difficulty": "Hard",
+   "tags": [],
+   "dir": "problems/4081-prime-subset-selection-ii",
+   "firstSolved": "2026-10-11T02:59:30.000Z",
+   "lastSolved": "2026-10-11T02:59:30.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2168783963",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "39 ms",
+     "memory": "58.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-11T02:59:30.000Z",
+     "submissionId": "2168783963"
+    }
+   }
+  },
+  "sum-of-square-numbers": {
+   "id": "633",
+   "title": "Sum of Square Numbers",
+   "slug": "sum-of-square-numbers",
+   "difficulty": "Medium",
+   "tags": [
+    "Math",
+    "Two Pointers",
+    "Binary Search"
+   ],
+   "dir": "problems/0633-sum-of-square-numbers",
+   "firstSolved": "2026-10-11T12:28:44.000Z",
+   "lastSolved": "2026-10-11T12:28:44.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2169252545",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "7.7 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-11T12:28:44.000Z",
+     "submissionId": "2169252545"
+    }
+   }
+  },
+  "apply-operations-on-array-to-maximize-sum-of-squares": {
+   "id": "2897",
+   "title": "Apply Operations on Array to Maximize Sum of Squares",
+   "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/2897-apply-operations-on-array-to-maximize-sum-of-squares",
+   "firstSolved": "2026-10-12T07:22:09.000Z",
+   "lastSolved": "2026-10-12T07:22:09.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2169956679",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "67 ms",
+     "memory": "90.6 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-12T07:22:09.000Z",
+     "submissionId": "2169956679"
+    }
+   }
+  },
+  "maximum-alternating-sum-of-squares": {
+   "id": "3727",
+   "title": "Maximum Alternating Sum of Squares",
+   "slug": "maximum-alternating-sum-of-squares",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+   ],
+   "dir": "problems/3727-maximum-alternating-sum-of-squares",
+   "firstSolved": "2026-10-13T00:29:15.000Z",
+   "lastSolved": "2026-10-13T00:29:15.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2170672966",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "72 ms",
+     "memory": "212.2 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-13T00:29:15.000Z",
+     "submissionId": "2170672966"
+    }
+   }
+  },
+  "subarrays-distinct-element-sum-of-squares-i": {
+   "id": "2913",
+   "title": "Subarrays Distinct Element Sum of Squares I",
+   "slug": "subarrays-distinct-element-sum-of-squares-i",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Indexed Tree",
+    "Segment Tree"
+   ],
+   "dir": "problems/2913-subarrays-distinct-element-sum-of-squares-i",
+   "firstSolved": "2026-10-15T03:37:33.000Z",
+   "lastSolved": "2026-10-15T03:37:33.000Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2172650931",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "42 ms",
+     "memory": "36.3 MB",
+     "runtimePct": null,
+     "memoryPct": null,
+     "at": "2026-10-15T03:37:33.000Z",
+     "submissionId": "2172650931"
+    }
+   }
   }
  },
  "days": {
-  "2026-10-13": 1,
+  "2026-10-13": 2,
   "2026-10-14": 1,
   "2025-04-15": 3,
   "2025-04-18": 2,
@@ -21477,6 +21918,11 @@
   "2026-10-04": 3,
   "2026-10-05": 2,
   "2026-10-06": 2,
-  "2026-10-07": 2
+  "2026-10-07": 2,
+  "2026-10-09": 2,
+  "2026-10-10": 4,
+  "2026-10-11": 6,
+  "2026-10-12": 1,
+  "2026-10-15": 1
  }
 }
