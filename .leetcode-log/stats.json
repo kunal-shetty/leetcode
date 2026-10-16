@@ -21622,6 +21622,38 @@
      "submissionId": "2172650931"
     }
    }
+  },
+  "subarrays-distinct-element-sum-of-squares-ii": {
+   "id": "2916",
+   "title": "Subarrays Distinct Element Sum of Squares II",
+   "slug": "subarrays-distinct-element-sum-of-squares-ii",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Indexed Tree",
+    "Segment Tree"
+   ],
+   "dir": "problems/2916-subarrays-distinct-element-sum-of-squares-ii",
+   "firstSolved": "2026-10-16T10:41:54.589Z",
+   "lastSolved": "2026-10-16T10:41:54.589Z",
+   "solves": 1,
+   "timeSpentSec": 855,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2173757360",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "83 ms",
+     "memory": "101.7 MB",
+     "runtimePct": 100,
+     "memoryPct": 88.31170000000002,
+     "at": "2026-10-16T10:41:54.589Z",
+     "submissionId": "2173757360"
+    }
+   }
   }
  },
  "days": {
@@ -21923,6 +21955,7 @@
   "2026-10-10": 4,
   "2026-10-11": 6,
   "2026-10-12": 1,
-  "2026-10-15": 1
+  "2026-10-15": 1,
+  "2026-10-16": 1
  }
 }

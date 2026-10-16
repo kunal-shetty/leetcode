@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-697-2da44e) ![Streak](https://img.shields.io/badge/streak-7%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-698-2da44e) ![Streak](https://img.shields.io/badge/streak-8%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -9,10 +9,10 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ```
 Easy    ██████████████████ 285
 Medium  ████████████████████ 310
-Hard    ███████ 102
+Hard    ███████ 103
 ```
 
-**697** problems · **299** active days · current streak **7** · longest **86**
+**698** problems · **300** active days · current streak **8** · longest **86**
 
 ## Last 20 weeks
 
@@ -22,7 +22,7 @@ Hard    ███████ 102
 🟩🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩
 🟨🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨
 🟨🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨
-🟨🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩⬜
+🟨🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨
 🟦🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜
 ```
 
@@ -30,9 +30,9 @@ Hard    ███████ 102
 
 ## Languages & topics
 
-`C++` ×666 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×667 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×387 · `String` ×166 · `Math` ×153 · `Hash Table` ×142 · `Dynamic Programming` ×99 · `Sorting` ×93 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×388 · `String` ×166 · `Math` ×153 · `Hash Table` ×143 · `Dynamic Programming` ×99 · `Sorting` ×93 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -451,6 +451,7 @@ Hard    ███████ 102
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) · [notes](problems/2904-shortest-and-lexicographically-smallest-beautiful-string/README.md) | 🟡 Medium | String, Sliding Window | [C++](problems/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.cpp) | 2026-08-26 |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/) · [notes](problems/2906-construct-product-matrix/README.md) | 🟡 Medium | Array, Matrix, Prefix Sum | [C++](problems/2906-construct-product-matrix/solution.cpp) | 2026-03-24 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) · [notes](problems/2913-subarrays-distinct-element-sum-of-squares-i/README.md) | 🟢 Easy | Array, Hash Table, Binary Indexed Tree | [C++](problems/2913-subarrays-distinct-element-sum-of-squares-i/solution.cpp) | 2026-10-15 |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) · [notes](problems/2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | 🔴 Hard | Array, Hash Table, Binary Indexed Tree | [C++](problems/2916-subarrays-distinct-element-sum-of-squares-ii/solution.cpp) | 2026-10-16 |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) · [notes](problems/2942-find-words-containing-character/README.md) | 🟢 Easy | Array, String | [C++](problems/2942-find-words-containing-character/solution.cpp) | 2026-06-19 |
 | 2943 | [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) · [notes](problems/2943-maximize-area-of-square-hole-in-grid/README.md) | 🟡 Medium | Array, Sorting | [C++](problems/2943-maximize-area-of-square-hole-in-grid/solution.cpp) | 2026-01-15 |
 | 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) · [notes](problems/2946-matrix-similarity-after-cyclic-shifts/README.md) | 🟢 Easy | Array, Math, Matrix | [C++](problems/2946-matrix-similarity-after-cyclic-shifts/solution.cpp) | 2026-03-27 |
