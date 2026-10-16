@@ -3,7 +3,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) ![Hard](https://img.shields.io/badge/Hard-red)
 
 **Topics:** `Array` `Hash Table` `Binary Indexed Tree` `Segment Tree`  
-**Time spent:** 14m 15s  
+**Time spent:** 17m 54s  
 **First solved:** 2026-10-16 · **Accepted submissions logged:** 1
 
 ## Submissions

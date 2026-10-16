@@ -21635,10 +21635,10 @@
     "Segment Tree"
    ],
    "dir": "problems/2916-subarrays-distinct-element-sum-of-squares-ii",
-   "firstSolved": "2026-10-16T10:41:54.589Z",
-   "lastSolved": "2026-10-16T10:41:54.589Z",
+   "firstSolved": "2026-10-16T10:41:54.990Z",
+   "lastSolved": "2026-10-16T10:41:54.990Z",
    "solves": 1,
-   "timeSpentSec": 855,
+   "timeSpentSec": 1074,
    "rating": null,
    "note": "",
    "lastSubmissionId": "2173757360",
@@ -21650,7 +21650,7 @@
      "memory": "101.7 MB",
      "runtimePct": 100,
      "memoryPct": 88.31170000000002,
-     "at": "2026-10-16T10:41:54.589Z",
+     "at": "2026-10-16T10:41:54.990Z",
      "submissionId": "2173757360"
     }
    }
