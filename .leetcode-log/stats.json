@@ -21747,6 +21747,33 @@
      "submissionId": "2174988378"
     }
    }
+  },
+  "find-root-of-a-colored-tree": {
+   "id": "4085",
+   "title": "Find Root of a Colored Tree",
+   "slug": "find-root-of-a-colored-tree",
+   "difficulty": "Medium",
+   "tags": [],
+   "dir": "problems/4085-find-root-of-a-colored-tree",
+   "firstSolved": "2026-10-18T11:44:18.025Z",
+   "lastSolved": "2026-10-18T11:44:18.025Z",
+   "solves": 1,
+   "timeSpentSec": 274,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2175347461",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "141 ms",
+     "memory": "266 MB",
+     "runtimePct": 52.49490000000001,
+     "memoryPct": 53.295,
+     "at": "2026-10-18T11:44:18.025Z",
+     "submissionId": "2175347461"
+    }
+   }
   }
  },
  "days": {
@@ -22050,6 +22077,6 @@
   "2026-10-12": 1,
   "2026-10-15": 1,
   "2026-10-16": 1,
-  "2026-10-18": 3
+  "2026-10-18": 4
  }
 }

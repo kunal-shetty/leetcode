@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-701-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-702-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -8,11 +8,11 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ```
 Easy    ██████████████████ 285
-Medium  ████████████████████ 310
+Medium  ████████████████████ 311
 Hard    ███████ 104
 ```
 
-**701** problems · **301** active days · current streak **1** · longest **86**
+**702** problems · **301** active days · current streak **1** · longest **86**
 
 ## Last 20 weeks
 
@@ -30,7 +30,7 @@ Hard    ███████ 104
 
 ## Languages & topics
 
-`C++` ×670 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×671 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
 `Array` ×389 · `String` ×166 · `Math` ×154 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×93 · `Greedy` ×78 · `Two Pointers` ×64
 
@@ -737,5 +737,6 @@ Hard    ███████ 104
 | 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) · [notes](problems/4079-prime-subset-selection-i/README.md) | 🟡 Medium |  | [C++](problems/4079-prime-subset-selection-i/solution.cpp) | 2026-10-11 |
 | 4080 | [Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) · [notes](problems/4080-design-bus-seat-booking-system/README.md) | 🟡 Medium |  | [C++](problems/4080-design-bus-seat-booking-system/solution.cpp) | 2026-10-11 |
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) · [notes](problems/4081-prime-subset-selection-ii/README.md) | 🔴 Hard |  | [C++](problems/4081-prime-subset-selection-ii/solution.cpp) | 2026-10-11 |
+| 4085 | [Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/) · [notes](problems/4085-find-root-of-a-colored-tree/README.md) | 🟡 Medium |  | [C++](problems/4085-find-root-of-a-colored-tree/solution.cpp) | 2026-10-18 |
 | 4430 | [minimum deletions to make array sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) · [notes](problems/4430-minimum-deletions-to-make-array-sharp/README.md) | ⚪ Unknown |  | [C++](problems/4430-minimum-deletions-to-make-array-sharp/solution.cpp) | 2026-10-18 |
 | 4456 | [last visited cell in a directional grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) · [notes](problems/4456-last-visited-cell-in-a-directional-grid/README.md) | ⚪ Unknown |  | [C++](problems/4456-last-visited-cell-in-a-directional-grid/solution.cpp) | 2026-10-18 |
