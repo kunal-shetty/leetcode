@@ -21720,6 +21720,33 @@
      "submissionId": "2174982093"
     }
    }
+  },
+  "last-visited-cell-in-a-directional-grid": {
+   "id": "4456",
+   "title": "last visited cell in a directional grid",
+   "slug": "last-visited-cell-in-a-directional-grid",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4456-last-visited-cell-in-a-directional-grid",
+   "firstSolved": "2026-10-18T02:39:00.791Z",
+   "lastSolved": "2026-10-18T02:39:00.791Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2174988378",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "50 ms",
+     "memory": "144.3 MB",
+     "runtimePct": 44.44449999999999,
+     "memoryPct": 66.66670000000002,
+     "at": "2026-10-18T02:39:00.791Z",
+     "submissionId": "2174988378"
+    }
+   }
   }
  },
  "days": {
@@ -22023,6 +22050,6 @@
   "2026-10-12": 1,
   "2026-10-15": 1,
   "2026-10-16": 1,
-  "2026-10-18": 2
+  "2026-10-18": 3
  }
 }
