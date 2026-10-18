@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-698-2da44e) ![Streak](https://img.shields.io/badge/streak-8%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-699-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -9,30 +9,30 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ```
 Easy    ██████████████████ 285
 Medium  ████████████████████ 310
-Hard    ███████ 103
+Hard    ███████ 104
 ```
 
-**698** problems · **300** active days · current streak **8** · longest **86**
+**699** problems · **301** active days · current streak **1** · longest **86**
 
 ## Last 20 weeks
 
 ```
-🟦🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟦🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨
-🟩🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩
-🟨🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨
-🟨🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨
-🟨🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨
-🟦🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜
+🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨
+🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨⬜
+🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩⬜
+🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
+🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
+🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨⬜
+🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜⬜
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×667 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×668 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×388 · `String` ×166 · `Math` ×153 · `Hash Table` ×143 · `Dynamic Programming` ×99 · `Sorting` ×93 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×389 · `String` ×166 · `Math` ×154 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×93 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -329,6 +329,7 @@ Hard    ███████ 103
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) · [notes](problems/1545-find-kth-bit-in-nth-binary-string/README.md) | 🟡 Medium | String, Recursion, Simulation | [C++](problems/1545-find-kth-bit-in-nth-binary-string/solution.cpp) | 2026-03-03 |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) · [notes](problems/1559-detect-cycles-in-2d-grid/README.md) | 🟡 Medium | Array, Depth-First Search, Breadth-First Search | [C++](problems/1559-detect-cycles-in-2d-grid/solution.cpp) | 2026-04-26 |
 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/) · [notes](problems/1563-stone-game-v/README.md) | 🔴 Hard | Array, Math, Dynamic Programming | [C++](problems/1563-stone-game-v/solution.cpp) | 2026-08-17 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) · [notes](problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | 🔴 Hard | Array, Math, Divide and Conquer | [C++](problems/1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.cpp) | 2026-10-18 |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) · [notes](problems/1582-special-positions-in-a-binary-matrix/README.md) | 🟢 Easy | Array, Matrix | [C++](problems/1582-special-positions-in-a-binary-matrix/solution.cpp) | 2026-05-25 |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) · [notes](problems/1594-maximum-non-negative-product-in-a-matrix/README.md) | 🟡 Medium | Array, Dynamic Programming, Matrix | [C++](problems/1594-maximum-non-negative-product-in-a-matrix/solution.cpp) | 2026-03-23 |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) · [notes](problems/1603-design-parking-system/README.md) | 🟢 Easy | Design, Simulation, Counting | [C++](problems/1603-design-parking-system/solution.cpp) | 2026-05-28 |
