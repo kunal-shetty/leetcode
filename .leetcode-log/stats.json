@@ -21774,6 +21774,37 @@
      "submissionId": "2175347461"
     }
    }
+  },
+  "find-target-indices-after-sorting-array": {
+   "id": "2089",
+   "title": "Find Target Indices After Sorting Array",
+   "slug": "find-target-indices-after-sorting-array",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+   ],
+   "dir": "problems/2089-find-target-indices-after-sorting-array",
+   "firstSolved": "2026-10-19T15:30:43.105Z",
+   "lastSolved": "2026-10-19T15:30:43.105Z",
+   "solves": 1,
+   "timeSpentSec": 18,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2176348155",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "15.1 MB",
+     "runtimePct": 100,
+     "memoryPct": 51.99999999999999,
+     "at": "2026-10-19T15:30:43.105Z",
+     "submissionId": "2176348155"
+    }
+   }
   }
  },
  "days": {
@@ -22077,6 +22108,7 @@
   "2026-10-12": 1,
   "2026-10-15": 1,
   "2026-10-16": 1,
-  "2026-10-18": 4
+  "2026-10-18": 4,
+  "2026-10-19": 1
  }
 }

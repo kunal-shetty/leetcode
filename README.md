@@ -1,24 +1,24 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-702-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-703-2da44e) ![Streak](https://img.shields.io/badge/streak-2%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ██████████████████ 285
+Easy    ██████████████████ 286
 Medium  ████████████████████ 311
 Hard    ███████ 104
 ```
 
-**702** problems · **301** active days · current streak **1** · longest **86**
+**703** problems · **302** active days · current streak **2** · longest **86**
 
 ## Last 20 weeks
 
 ```
 🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨⬜
+🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨
 🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩⬜
 🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
 🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
@@ -30,9 +30,9 @@ Hard    ███████ 104
 
 ## Languages & topics
 
-`C++` ×671 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×672 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×389 · `String` ×166 · `Math` ×154 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×93 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×390 · `String` ×166 · `Math` ×154 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×94 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -385,6 +385,7 @@ Hard    ███████ 104
 | 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) · [notes](problems/2069-walking-robot-simulation-ii/README.md) | 🟡 Medium | Design, Simulation | [C++](problems/2069-walking-robot-simulation-ii/solution.cpp) | 2026-04-07 |
 | 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) · [notes](problems/2075-decode-the-slanted-ciphertext/README.md) | 🟡 Medium | String, Simulation | [C++](problems/2075-decode-the-slanted-ciphertext/solution.cpp) | 2026-04-04 |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) · [notes](problems/2078-two-furthest-houses-with-different-colors/README.md) | 🟢 Easy | Array, Greedy | [C++](problems/2078-two-furthest-houses-with-different-colors/solution.cpp) | 2026-04-20 |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) · [notes](problems/2089-find-target-indices-after-sorting-array/README.md) | 🟢 Easy | Array, Binary Search, Sorting | [C++](problems/2089-find-target-indices-after-sorting-array/solution.cpp) | 2026-10-19 |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) · [notes](problems/2091-removing-minimum-and-maximum-from-array/README.md) | 🟡 Medium | Array, Greedy | [C++](problems/2091-removing-minimum-and-maximum-from-array/solution.cpp) | 2026-08-30 |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) · [notes](problems/2095-delete-the-middle-node-of-a-linked-list/README.md) | 🟡 Medium | Linked List, Two Pointers | [C++](problems/2095-delete-the-middle-node-of-a-linked-list/solution.cpp) | 2026-06-15 |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) · [notes](problems/2110-number-of-smooth-descent-periods-of-a-stock/README.md) | 🟡 Medium | Array, Math, Two Pointers | [C++](problems/2110-number-of-smooth-descent-periods-of-a-stock/solution.cpp) | 2025-12-15 |
