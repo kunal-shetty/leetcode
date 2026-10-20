@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-703-2da44e) ![Streak](https://img.shields.io/badge/streak-2%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-704-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -9,17 +9,17 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ```
 Easy    ██████████████████ 286
 Medium  ████████████████████ 311
-Hard    ███████ 104
+Hard    ███████ 105
 ```
 
-**703** problems · **302** active days · current streak **2** · longest **86**
+**704** problems · **303** active days · current streak **3** · longest **86**
 
 ## Last 20 weeks
 
 ```
 🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨
-🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩⬜
+🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨
 🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
 🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
 🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨⬜
@@ -30,9 +30,9 @@ Hard    ███████ 104
 
 ## Languages & topics
 
-`C++` ×672 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×673 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×390 · `String` ×166 · `Math` ×154 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×94 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×391 · `String` ×166 · `Math` ×155 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -610,6 +610,7 @@ Hard    ███████ 104
 | 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) · [notes](problems/3882-minimum-xor-path-in-a-grid/README.md) | 🟡 Medium | Array, Dynamic Programming, Bit Manipulation | [C++](problems/3882-minimum-xor-path-in-a-grid/solution.cpp) | 2026-03-28 |
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) · [notes](problems/3884-first-matching-character-from-both-ends/README.md) | 🟢 Easy | Two Pointers, String | [C++](problems/3884-first-matching-character-from-both-ends/solution.cpp) | 2026-03-29 |
 | 3885 | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) · [notes](problems/3885-design-event-manager/README.md) | 🟡 Medium | Array, Hash Table, Design | [C++](problems/3885-design-event-manager/solution.cpp) | 2026-03-29 |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) · [notes](problems/3886-sum-of-sortable-integers/README.md) | 🔴 Hard | Array, Math, Sorting | [C++](problems/3886-sum-of-sortable-integers/solution.cpp) | 2026-10-20 |
 | 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) · [notes](problems/3887-incremental-even-weighted-cycle-queries/README.md) | 🔴 Hard | Union-Find, Graph Theory | [C++](problems/3887-incremental-even-weighted-cycle-queries/solution.cpp) | 2026-03-29 |
 | 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) · [notes](problems/3889-mirror-frequency-distance/README.md) | 🟡 Medium | Hash Table, String, Counting | [C++](problems/3889-mirror-frequency-distance/solution.cpp) | 2026-04-05 |
 | 3890 | [Integers With Multiple Sum of Two Cubes](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) · [notes](problems/3890-integers-with-multiple-sum-of-two-cubes/README.md) | 🟡 Medium | Hash Table, Sorting, Counting | [C++](problems/3890-integers-with-multiple-sum-of-two-cubes/solution.cpp) | 2026-04-05 |

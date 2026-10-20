@@ -21805,6 +21805,38 @@
      "submissionId": "2176348155"
     }
    }
+  },
+  "sum-of-sortable-integers": {
+   "id": "3886",
+   "title": "Sum of Sortable Integers",
+   "slug": "sum-of-sortable-integers",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Math",
+    "Sorting",
+    "Enumeration"
+   ],
+   "dir": "problems/3886-sum-of-sortable-integers",
+   "firstSolved": "2026-10-20T04:14:01.354Z",
+   "lastSolved": "2026-10-20T04:14:01.354Z",
+   "solves": 1,
+   "timeSpentSec": 242,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2176729515",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "23 ms",
+     "memory": "98.1 MB",
+     "runtimePct": 91.1764,
+     "memoryPct": 34.55850000000002,
+     "at": "2026-10-20T04:14:01.354Z",
+     "submissionId": "2176729515"
+    }
+   }
   }
  },
  "days": {
@@ -22109,6 +22141,7 @@
   "2026-10-15": 1,
   "2026-10-16": 1,
   "2026-10-18": 4,
-  "2026-10-19": 1
+  "2026-10-19": 1,
+  "2026-10-20": 1
  }
 }
