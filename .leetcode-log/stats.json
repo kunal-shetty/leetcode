@@ -21837,6 +21837,36 @@
      "submissionId": "2176729515"
     }
    }
+  },
+  "maximum-k-to-sort-a-permutation": {
+   "id": "3644",
+   "title": "Maximum K to Sort a Permutation",
+   "slug": "maximum-k-to-sort-a-permutation",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Bit Manipulation"
+   ],
+   "dir": "problems/3644-maximum-k-to-sort-a-permutation",
+   "firstSolved": "2026-10-23T10:16:08.967Z",
+   "lastSolved": "2026-10-23T10:16:08.967Z",
+   "solves": 1,
+   "timeSpentSec": 17,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2179560697",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "4 ms",
+     "memory": "152.5 MB",
+     "runtimePct": 28.571399999999997,
+     "memoryPct": 98.0952,
+     "at": "2026-10-23T10:16:08.967Z",
+     "submissionId": "2179560697"
+    }
+   }
   }
  },
  "days": {
@@ -22142,6 +22172,7 @@
   "2026-10-16": 1,
   "2026-10-18": 4,
   "2026-10-19": 1,
-  "2026-10-20": 1
+  "2026-10-20": 1,
+  "2026-10-23": 1
  }
 }

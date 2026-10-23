@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-704-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-705-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -8,11 +8,11 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ```
 Easy    ██████████████████ 286
-Medium  ████████████████████ 311
+Medium  ████████████████████ 312
 Hard    ███████ 105
 ```
 
-**704** problems · **303** active days · current streak **3** · longest **86**
+**705** problems · **304** active days · current streak **1** · longest **86**
 
 ## Last 20 weeks
 
@@ -22,7 +22,7 @@ Hard    ███████ 105
 🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨
 🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
 🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
-🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨⬜
+🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟨
 🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜⬜
 ```
 
@@ -30,9 +30,9 @@ Hard    ███████ 105
 
 ## Languages & topics
 
-`C++` ×673 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×674 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×391 · `String` ×166 · `Math` ×155 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×392 · `String` ×166 · `Math` ×155 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -545,6 +545,7 @@ Hard    ███████ 105
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) · [notes](problems/3637-trionic-array-i/README.md) | 🟢 Easy | Array | [C++](problems/3637-trionic-array-i/solution.cpp) | 2026-02-03 |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) · [notes](problems/3640-trionic-array-ii/README.md) | 🔴 Hard | Array, Dynamic Programming | [C++](problems/3640-trionic-array-ii/solution.cpp) | 2026-02-04 |
 | 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) · [notes](problems/3643-flip-square-submatrix-vertically/README.md) | 🟢 Easy | Array, Two Pointers, Matrix | [C++](problems/3643-flip-square-submatrix-vertically/solution.cpp) | 2026-03-21 |
+| 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) · [notes](problems/3644-maximum-k-to-sort-a-permutation/README.md) | 🟡 Medium | Array, Bit Manipulation | [C++](problems/3644-maximum-k-to-sort-a-permutation/solution.cpp) | 2026-10-23 |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) · [notes](problems/3650-minimum-cost-path-with-edge-reversals/README.md) | 🟡 Medium | Graph Theory, Heap (Priority Queue), Shortest Path | [C++](problems/3650-minimum-cost-path-with-edge-reversals/solution.cpp) | 2026-01-27 |
 | 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) · [notes](problems/3651-minimum-cost-path-with-teleportations/README.md) | 🔴 Hard | Array, Dynamic Programming, Matrix | [C++](problems/3651-minimum-cost-path-with-teleportations/solution.cpp) | 2026-01-28 |
 | 3653 | [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) · [notes](problems/3653-xor-after-range-multiplication-queries-i/README.md) | 🟡 Medium | Array, Divide and Conquer, Simulation | [C++](problems/3653-xor-after-range-multiplication-queries-i/solution.cpp) | 2026-04-08 |
