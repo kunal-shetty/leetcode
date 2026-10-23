@@ -7,7 +7,7 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ## Progress
 
 ```
-Easy    ██████████████████ 286
+Easy    ██████████████████ 287
 Medium  ████████████████████ 312
 Hard    ███████ 105
 ```
@@ -22,7 +22,7 @@ Hard    ███████ 105
 🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨
 🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
 🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
-🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟨
+🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩
 🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜⬜
 ```
 
@@ -740,6 +740,6 @@ Hard    ███████ 105
 | 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) · [notes](problems/4079-prime-subset-selection-i/README.md) | 🟡 Medium |  | [C++](problems/4079-prime-subset-selection-i/solution.cpp) | 2026-10-11 |
 | 4080 | [Design Bus Seat Booking System](https://leetcode.com/problems/design-bus-seat-booking-system/) · [notes](problems/4080-design-bus-seat-booking-system/README.md) | 🟡 Medium |  | [C++](problems/4080-design-bus-seat-booking-system/solution.cpp) | 2026-10-11 |
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) · [notes](problems/4081-prime-subset-selection-ii/README.md) | 🔴 Hard |  | [C++](problems/4081-prime-subset-selection-ii/solution.cpp) | 2026-10-11 |
+| 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) · [notes](problems/4430-minimum-deletions-to-make-array-sharp/README.md) | 🟢 Easy |  | [C++](problems/4430-minimum-deletions-to-make-array-sharp/solution.cpp) | 2026-10-23 |
 | 4085 | [Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/) · [notes](problems/4085-find-root-of-a-colored-tree/README.md) | 🟡 Medium |  | [C++](problems/4085-find-root-of-a-colored-tree/solution.cpp) | 2026-10-18 |
-| 4430 | [minimum deletions to make array sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) · [notes](problems/4430-minimum-deletions-to-make-array-sharp/README.md) | ⚪ Unknown |  | [C++](problems/4430-minimum-deletions-to-make-array-sharp/solution.cpp) | 2026-10-18 |
 | 4456 | [last visited cell in a directional grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) · [notes](problems/4456-last-visited-cell-in-a-directional-grid/README.md) | ⚪ Unknown |  | [C++](problems/4456-last-visited-cell-in-a-directional-grid/solution.cpp) | 2026-10-18 |

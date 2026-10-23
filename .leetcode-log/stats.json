@@ -21695,29 +21695,29 @@
    }
   },
   "minimum-deletions-to-make-array-sharp": {
-   "id": "4430",
-   "title": "minimum deletions to make array sharp",
+   "id": "4083",
+   "title": "Minimum Deletions to Make Array Sharp",
    "slug": "minimum-deletions-to-make-array-sharp",
-   "difficulty": "Unknown",
+   "difficulty": "Easy",
    "tags": [],
    "dir": "problems/4430-minimum-deletions-to-make-array-sharp",
    "firstSolved": "2026-10-18T02:34:43.769Z",
-   "lastSolved": "2026-10-18T02:34:43.769Z",
-   "solves": 1,
+   "lastSolved": "2026-10-23T11:37:12.090Z",
+   "solves": 2,
    "timeSpentSec": 0,
    "rating": null,
    "note": "",
-   "lastSubmissionId": "2174982093",
+   "lastSubmissionId": "2179611547",
    "subs": {
     "solution.cpp": {
      "lang": "cpp",
      "label": "C++",
-     "runtime": "3 ms",
-     "memory": "31.3 MB",
-     "runtimePct": 0,
-     "memoryPct": 66.66669999999999,
-     "at": "2026-10-18T02:34:43.769Z",
-     "submissionId": "2174982093"
+     "runtime": "0 ms",
+     "memory": "31.1 MB",
+     "runtimePct": 100,
+     "memoryPct": 27.058600000000013,
+     "at": "2026-10-23T11:37:12.090Z",
+     "submissionId": "2179611547"
     }
    }
   },
@@ -22173,6 +22173,6 @@
   "2026-10-18": 4,
   "2026-10-19": 1,
   "2026-10-20": 1,
-  "2026-10-23": 1
+  "2026-10-23": 2
  }
 }

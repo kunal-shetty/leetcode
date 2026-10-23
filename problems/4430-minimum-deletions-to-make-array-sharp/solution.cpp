@@ -1,17 +1,17 @@
-// 4430. minimum deletions to make array sharp
-// Difficulty: Unknown
+// 4083. Minimum Deletions to Make Array Sharp
+// Difficulty: Easy
 // https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/
-// Runtime: 3 ms (beats 0.0%)
-// Memory: 31.3 MB (beats 66.7%)
-// Submitted: 2026-10-18
+// Runtime: 0 ms (beats 100.0%)
+// Memory: 31.1 MB (beats 27.1%)
+// Submitted: 2026-10-23
 
 class Solution {
 public:
     int minDeletions(vector<int>& nums) {
-        int res = 0, n = nums.size();
-        for(int i =0; i < n-1; i++){
-            if(nums[i] == nums[i + 1]) res++;
+        int del = 0;
+        for(int i = 1; i < nums.size(); i++){
+            if(nums[i - 1] == nums[i]) del++;
         }
-        return res;
+        return del;
     }
 };
