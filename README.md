@@ -1,18 +1,18 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-705-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-706-2da44e) ![Streak](https://img.shields.io/badge/streak-2%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ██████████████████ 287
+Easy    ██████████████████ 288
 Medium  ████████████████████ 312
 Hard    ███████ 105
 ```
 
-**705** problems · **304** active days · current streak **1** · longest **86**
+**706** problems · **305** active days · current streak **2** · longest **86**
 
 ## Last 20 weeks
 
@@ -23,16 +23,16 @@ Hard    ███████ 105
 🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
 🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
 🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩
-🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜⬜
+🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟨
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×674 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×675 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×392 · `String` ×166 · `Math` ×155 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×392 · `String` ×167 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -408,6 +408,7 @@ Hard    ███████ 105
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) · [notes](problems/2379-minimum-recolors-to-get-k-consecutive-black-blocks/README.md) | 🟢 Easy | String, Sliding Window | [C++](problems/2379-minimum-recolors-to-get-k-consecutive-black-blocks/solution.cpp) | 2026-07-23 |
 | 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) · [notes](problems/2391-minimum-amount-of-time-to-collect-garbage/README.md) | 🟡 Medium | Array, String, Prefix Sum | [C++](problems/2391-minimum-amount-of-time-to-collect-garbage/solution.cpp) | 2026-06-01 |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) · [notes](problems/2396-strictly-palindromic-number/README.md) | 🟡 Medium | Math, Two Pointers, Brainteaser | [C++](problems/2396-strictly-palindromic-number/solution.cpp) | 2026-02-10 |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) · [notes](problems/2409-count-days-spent-together/README.md) | 🟢 Easy | Math, String | [C++](problems/2409-count-days-spent-together/solution.cpp) | 2026-10-24 |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) · [notes](problems/2433-find-the-original-array-of-prefix-xor/README.md) | 🟡 Medium | Array, Bit Manipulation | [C++](problems/2433-find-the-original-array-of-prefix-xor/solution.cpp) | 2026-05-31 |
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) · [notes](problems/2439-minimize-maximum-of-array/README.md) | 🟡 Medium | Array, Binary Search, Dynamic Programming | [C++](problems/2439-minimize-maximum-of-array/solution.cpp) | 2026-08-13 |
 | 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) · [notes](problems/2452-words-within-two-edits-of-dictionary/README.md) | 🟡 Medium | Array, String, Trie | [C++](problems/2452-words-within-two-edits-of-dictionary/solution.cpp) | 2026-04-22 |
