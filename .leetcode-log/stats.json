@@ -21897,6 +21897,33 @@
      "submissionId": "2180120426"
     }
    }
+  },
+  "count-subarrays-with-loose-bounds": {
+   "id": "4391",
+   "title": "count subarrays with loose bounds",
+   "slug": "count-subarrays-with-loose-bounds",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4391-count-subarrays-with-loose-bounds",
+   "firstSolved": "2026-10-24T15:07:25.793Z",
+   "lastSolved": "2026-10-24T15:07:25.793Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2180578981",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "10 ms",
+     "memory": "312.8 MB",
+     "runtimePct": 100,
+     "memoryPct": 100,
+     "at": "2026-10-24T15:07:25.793Z",
+     "submissionId": "2180578981"
+    }
+   }
   }
  },
  "days": {
@@ -22204,6 +22231,6 @@
   "2026-10-19": 1,
   "2026-10-20": 1,
   "2026-10-23": 2,
-  "2026-10-24": 1
+  "2026-10-24": 2
  }
 }
