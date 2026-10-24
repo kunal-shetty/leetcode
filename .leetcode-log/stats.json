@@ -21924,6 +21924,33 @@
      "submissionId": "2180578981"
     }
    }
+  },
+  "count-magical-substring-pairs-i": {
+   "id": "4402",
+   "title": "count magical substring pairs i",
+   "slug": "count-magical-substring-pairs-i",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4402-count-magical-substring-pairs-i",
+   "firstSolved": "2026-10-24T15:24:03.877Z",
+   "lastSolved": "2026-10-24T15:24:03.877Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2180604971",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "97 ms",
+     "memory": "30.9 MB",
+     "runtimePct": 87.5,
+     "memoryPct": 56.25,
+     "at": "2026-10-24T15:24:03.877Z",
+     "submissionId": "2180604971"
+    }
+   }
   }
  },
  "days": {
@@ -22231,6 +22258,6 @@
   "2026-10-19": 1,
   "2026-10-20": 1,
   "2026-10-23": 2,
-  "2026-10-24": 2
+  "2026-10-24": 3
  }
 }
