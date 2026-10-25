@@ -22005,6 +22005,33 @@
      "submissionId": "2180975654"
     }
    }
+  },
+  "count-frequency-staircase-subarrays-i": {
+   "id": "4441",
+   "title": "count frequency staircase subarrays i",
+   "slug": "count-frequency-staircase-subarrays-i",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4441-count-frequency-staircase-subarrays-i",
+   "firstSolved": "2026-10-25T02:57:08.430Z",
+   "lastSolved": "2026-10-25T02:57:08.430Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2180988278",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1545 ms",
+     "memory": "435.3 MB",
+     "runtimePct": 31.817599999999995,
+     "memoryPct": 49.99949999999998,
+     "at": "2026-10-25T02:57:08.430Z",
+     "submissionId": "2180988278"
+    }
+   }
   }
  },
  "days": {
@@ -22313,6 +22340,6 @@
   "2026-10-20": 1,
   "2026-10-23": 2,
   "2026-10-24": 3,
-  "2026-10-25": 2
+  "2026-10-25": 3
  }
 }
