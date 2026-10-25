@@ -21978,6 +21978,33 @@
      "submissionId": "2180953830"
     }
    }
+  },
+  "maximize-sum-after-at-most-k-digit-rearrangements": {
+   "id": "4311",
+   "title": "maximize sum after at most k digit rearrangements",
+   "slug": "maximize-sum-after-at-most-k-digit-rearrangements",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4311-maximize-sum-after-at-most-k-digit-rearrangements",
+   "firstSolved": "2026-10-25T02:48:03.267Z",
+   "lastSolved": "2026-10-25T02:48:03.267Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2180975654",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "428 ms",
+     "memory": "149 MB",
+     "runtimePct": 25.000300000000017,
+     "memoryPct": 58.33350000000002,
+     "at": "2026-10-25T02:48:03.267Z",
+     "submissionId": "2180975654"
+    }
+   }
   }
  },
  "days": {
@@ -22286,6 +22313,6 @@
   "2026-10-20": 1,
   "2026-10-23": 2,
   "2026-10-24": 3,
-  "2026-10-25": 1
+  "2026-10-25": 2
  }
 }
