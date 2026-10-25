@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-708-2da44e) ![Streak](https://img.shields.io/badge/streak-2%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-709-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,25 +12,25 @@ Medium  ████████████████████ 312
 Hard    ███████ 105
 ```
 
-**708** problems · **305** active days · current streak **2** · longest **86**
+**709** problems · **306** active days · current streak **3** · longest **86**
 
 ## Last 20 weeks
 
 ```
-🟦🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟩🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨
-🟩🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨
-🟨🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜
-🟨🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜
-🟦🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩
-🟦🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦
+🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨
+🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨⬜
+🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨⬜
+🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜⬜
+🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜⬜
+🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩⬜
+🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦⬜
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×677 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×678 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
 `Array` ×392 · `String` ×167 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
@@ -745,4 +745,5 @@ Hard    ███████ 105
 | 4085 | [Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/) · [notes](problems/4085-find-root-of-a-colored-tree/README.md) | 🟡 Medium |  | [C++](problems/4085-find-root-of-a-colored-tree/solution.cpp) | 2026-10-18 |
 | 4391 | [count subarrays with loose bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) · [notes](problems/4391-count-subarrays-with-loose-bounds/README.md) | ⚪ Unknown |  | [C++](problems/4391-count-subarrays-with-loose-bounds/solution.cpp) | 2026-10-24 |
 | 4402 | [count magical substring pairs i](https://leetcode.com/problems/count-magical-substring-pairs-i/) · [notes](problems/4402-count-magical-substring-pairs-i/README.md) | ⚪ Unknown |  | [C++](problems/4402-count-magical-substring-pairs-i/solution.cpp) | 2026-10-24 |
+| 4449 | [binary digit score](https://leetcode.com/problems/binary-digit-score/) · [notes](problems/4449-binary-digit-score/README.md) | ⚪ Unknown |  | [C++](problems/4449-binary-digit-score/solution.cpp) | 2026-10-25 |
 | 4456 | [last visited cell in a directional grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) · [notes](problems/4456-last-visited-cell-in-a-directional-grid/README.md) | ⚪ Unknown |  | [C++](problems/4456-last-visited-cell-in-a-directional-grid/solution.cpp) | 2026-10-18 |

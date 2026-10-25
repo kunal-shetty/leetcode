@@ -21951,6 +21951,33 @@
      "submissionId": "2180604971"
     }
    }
+  },
+  "binary-digit-score": {
+   "id": "4449",
+   "title": "binary digit score",
+   "slug": "binary-digit-score",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4449-binary-digit-score",
+   "firstSolved": "2026-10-25T02:33:33.142Z",
+   "lastSolved": "2026-10-25T02:33:33.142Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2180953830",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "1 ms",
+     "memory": "8.5 MB",
+     "runtimePct": 7.692300000000003,
+     "memoryPct": 92.3077,
+     "at": "2026-10-25T02:33:33.142Z",
+     "submissionId": "2180953830"
+    }
+   }
   }
  },
  "days": {
@@ -22258,6 +22285,7 @@
   "2026-10-19": 1,
   "2026-10-20": 1,
   "2026-10-23": 2,
-  "2026-10-24": 3
+  "2026-10-24": 3,
+  "2026-10-25": 1
  }
 }
