@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-711-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-712-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -8,11 +8,11 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ```
 Easy    ██████████████████ 288
-Medium  ████████████████████ 312
+Medium  ████████████████████ 313
 Hard    ███████ 105
 ```
 
-**711** problems · **306** active days · current streak **3** · longest **86**
+**712** problems · **306** active days · current streak **3** · longest **86**
 
 ## Last 20 weeks
 
@@ -30,9 +30,9 @@ Hard    ███████ 105
 
 ## Languages & topics
 
-`C++` ×680 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×681 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×392 · `String` ×167 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×393 · `String` ×167 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -273,6 +273,7 @@ Hard    ███████ 105
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) · [notes](problems/1193-monthly-transactions-i/README.md) | 🟡 Medium | Database | [MySQL](problems/1193-monthly-transactions-i/solution.sql) | 2026-03-31 |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) · [notes](problems/1200-minimum-absolute-difference/README.md) | 🟢 Easy | Array, Sorting | [C++](problems/1200-minimum-absolute-difference/solution.cpp) | 2026-01-26 |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) · [notes](problems/1221-split-a-string-in-balanced-strings/README.md) | 🟢 Easy | String, Greedy, Counting | [C++](problems/1221-split-a-string-in-balanced-strings/solution.cpp) | 2026-06-23 |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) · [notes](problems/1254-number-of-closed-islands/README.md) | 🟡 Medium | Array, Depth-First Search, Breadth-First Search | [C++](problems/1254-number-of-closed-islands/solution.cpp) | 2026-10-25 |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) · [notes](problems/1260-shift-2d-grid/README.md) | 🟢 Easy | Array, Matrix, Simulation | [C++](problems/1260-shift-2d-grid/solution.cpp) | 2026-07-20 |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) · [notes](problems/1266-minimum-time-visiting-all-points/README.md) | 🟢 Easy | Array, Math, Geometry | [C++](problems/1266-minimum-time-visiting-all-points/solution.cpp) | 2026-01-12 |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) · [notes](problems/1282-group-the-people-given-the-group-size-they-belong-to/README.md) | 🟡 Medium | Array, Hash Table, Greedy | [C++](problems/1282-group-the-people-given-the-group-size-they-belong-to/solution.cpp) | 2026-06-22 |
