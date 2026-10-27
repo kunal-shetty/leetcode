@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-713-2da44e) ![Streak](https://img.shields.io/badge/streak-4%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-713-2da44e) ![Streak](https://img.shields.io/badge/streak-5%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,14 +12,14 @@ Medium  ████████████████████ 314
 Hard    ███████ 105
 ```
 
-**713** problems · **307** active days · current streak **4** · longest **86**
+**713** problems · **308** active days · current streak **5** · longest **86**
 
 ## Last 20 weeks
 
 ```
 🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨
-🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨⬜
+🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨
 🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜⬜
 🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜⬜
 🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩⬜
@@ -659,7 +659,7 @@ Hard    ███████ 105
 | 3955 | [Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) · [notes](problems/3955-valid-binary-strings-with-cost-limit/README.md) | 🟡 Medium | String, Backtracking, Bit Manipulation | [C++](problems/3955-valid-binary-strings-with-cost-limit/solution.cpp) | 2026-06-07 |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) · [notes](problems/3959-check-good-integer/README.md) | 🟢 Easy | Math, Simulation | [C++](problems/3959-check-good-integer/solution.cpp) | 2026-06-14 |
 | 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray/) · [notes](problems/3960-frequency-balance-subarray/README.md) | 🟡 Medium | Array, Hash Table, Counting | [C++](problems/3960-frequency-balance-subarray/solution.cpp) | 2026-06-14 |
-| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) · [notes](problems/3963-create-grid-with-exactly-one-path/README.md) | 🟢 Easy |  | [C++](problems/3963-create-grid-with-exactly-one-path/solution.cpp) | 2026-06-20 |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) · [notes](problems/3963-create-grid-with-exactly-one-path/README.md) | 🟢 Easy |  | [C++](problems/3963-create-grid-with-exactly-one-path/solution.cpp) | 2026-10-27 |
 | 3964 | [Minimum Lights to Illuminate a Road](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) · [notes](problems/3964-minimum-lights-to-illuminate-a-road/README.md) | 🟡 Medium | Array, Prefix Sum | [C++](problems/3964-minimum-lights-to-illuminate-a-road/solution.cpp) | 2026-06-20 |
 | 3966 | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) · [notes](problems/3966-count-good-integers-in-a-range/README.md) | 🔴 Hard | Math, Dynamic Programming | [C++](problems/3966-count-good-integers-in-a-range/solution.cpp) | 2026-06-20 |
 | 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) · [notes](problems/3968-maximum-manhattan-distance-after-all-moves/README.md) | 🟡 Medium | Math, String, Counting | [C++](problems/3968-maximum-manhattan-distance-after-all-moves/solution.cpp) | 2026-06-21 |

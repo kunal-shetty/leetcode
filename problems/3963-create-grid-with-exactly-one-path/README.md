@@ -3,14 +3,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/create-grid-with-exactly-one-path/) ![Easy](https://img.shields.io/badge/Easy-brightgreen)
 
 **Topics:** —  
-**Time spent:** —  
-**First solved:** 2026-06-20 · **Accepted submissions logged:** 1
+**Time spent:** 10s  
+**First solved:** 2026-06-20 · **Accepted submissions logged:** 2
 
 ## Submissions
 
 | Language | Runtime (beats) | Memory (beats) | Date |
 | --- | --- | --- | --- |
-| [C++](./solution.cpp) | 4 ms (—) | 11 MB (—) | 2026-06-20 |
+| [C++](./solution.cpp) | 0 ms (100.0%) | 11 MB (74.2%) | 2026-10-27 |
 
 ## Notes
 

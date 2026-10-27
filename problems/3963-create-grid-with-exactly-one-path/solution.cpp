@@ -1,9 +1,9 @@
 // 3963. Create Grid With Exactly One Path
 // Difficulty: Easy
 // https://leetcode.com/problems/create-grid-with-exactly-one-path/
-// Runtime: 4 ms (beats —)
-// Memory: 11 MB (beats —)
-// Submitted: 2026-06-20
+// Runtime: 0 ms (beats 100.0%)
+// Memory: 11 MB (beats 74.2%)
+// Submitted: 2026-10-27
 
 class Solution {
 public:

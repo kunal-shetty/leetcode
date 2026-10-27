@@ -11805,22 +11805,22 @@
    "tags": [],
    "dir": "problems/3963-create-grid-with-exactly-one-path",
    "firstSolved": "2026-06-20T14:36:00.000Z",
-   "lastSolved": "2026-06-20T14:36:00.000Z",
-   "solves": 1,
-   "timeSpentSec": 0,
+   "lastSolved": "2026-10-27T10:41:51.029Z",
+   "solves": 2,
+   "timeSpentSec": 10,
    "rating": null,
    "note": "",
-   "lastSubmissionId": "2039857072",
+   "lastSubmissionId": "2183001821",
    "subs": {
     "solution.cpp": {
      "lang": "cpp",
      "label": "C++",
-     "runtime": "4 ms",
+     "runtime": "0 ms",
      "memory": "11 MB",
-     "runtimePct": null,
-     "memoryPct": null,
-     "at": "2026-06-20T14:36:00.000Z",
-     "submissionId": "2039857072"
+     "runtimePct": 100,
+     "memoryPct": 74.2475,
+     "at": "2026-10-27T10:41:51.029Z",
+     "submissionId": "2183001821"
     }
    }
   },
@@ -22407,6 +22407,7 @@
   "2026-10-23": 2,
   "2026-10-24": 3,
   "2026-10-25": 4,
-  "2026-10-26": 1
+  "2026-10-26": 1,
+  "2026-10-27": 1
  }
 }
