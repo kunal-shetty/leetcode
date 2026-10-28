@@ -3,14 +3,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) ![Medium](https://img.shields.io/badge/Medium-yellow)
 
 **Topics:** `Array` `Dynamic Programming` `Bit Manipulation` `Matrix`  
-**Time spent:** —  
-**First solved:** 2026-03-28 · **Accepted submissions logged:** 1
+**Time spent:** 4m 21s  
+**First solved:** 2026-03-28 · **Accepted submissions logged:** 2
 
 ## Submissions
 
 | Language | Runtime (beats) | Memory (beats) | Date |
 | --- | --- | --- | --- |
-| [C++](./solution.cpp) | 287 ms (—) | 52.7 MB (—) | 2026-03-28 |
+| [C++](./solution.cpp) | 90 ms (98.3%) | 41.7 MB (86.8%) | 2026-10-28 |
 
 ## Notes
 

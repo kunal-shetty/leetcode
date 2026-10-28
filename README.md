@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-713-2da44e) ![Streak](https://img.shields.io/badge/streak-5%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-713-2da44e) ![Streak](https://img.shields.io/badge/streak-6%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,7 +12,7 @@ Medium  ████████████████████ 314
 Hard    ███████ 105
 ```
 
-**713** problems · **308** active days · current streak **5** · longest **86**
+**713** problems · **309** active days · current streak **6** · longest **86**
 
 ## Last 20 weeks
 
@@ -20,7 +20,7 @@ Hard    ███████ 105
 🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨
 🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨
-🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜⬜
+🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
 🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜⬜
 🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩⬜
 🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦⬜
@@ -611,7 +611,7 @@ Hard    ███████ 105
 | 3877 | [Minimum Removals to Achieve Target XOR](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) · [notes](problems/3877-minimum-removals-to-achieve-target-xor/README.md) | 🟡 Medium | Array, Dynamic Programming, Bit Manipulation | [C++](problems/3877-minimum-removals-to-achieve-target-xor/solution.cpp) | 2026-04-11 |
 | 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) · [notes](problems/3880-minimum-absolute-difference-between-two-values/README.md) | 🟢 Easy | Array, Enumeration | [C++](problems/3880-minimum-absolute-difference-between-two-values/solution.cpp) | 2026-03-28 |
 | 3881 | [Direction Assignments with Exactly K Visible People](https://leetcode.com/problems/direction-assignments-with-exactly-k-visible-people/) · [notes](problems/3881-direction-assignments-with-exactly-k-visible-people/README.md) | 🟡 Medium | Math, Combinatorics | [C++](problems/3881-direction-assignments-with-exactly-k-visible-people/solution.cpp) | 2026-03-28 |
-| 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) · [notes](problems/3882-minimum-xor-path-in-a-grid/README.md) | 🟡 Medium | Array, Dynamic Programming, Bit Manipulation | [C++](problems/3882-minimum-xor-path-in-a-grid/solution.cpp) | 2026-03-28 |
+| 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) · [notes](problems/3882-minimum-xor-path-in-a-grid/README.md) | 🟡 Medium | Array, Dynamic Programming, Bit Manipulation | [C++](problems/3882-minimum-xor-path-in-a-grid/solution.cpp) | 2026-10-28 |
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) · [notes](problems/3884-first-matching-character-from-both-ends/README.md) | 🟢 Easy | Two Pointers, String | [C++](problems/3884-first-matching-character-from-both-ends/solution.cpp) | 2026-03-29 |
 | 3885 | [Design Event Manager](https://leetcode.com/problems/design-event-manager/) · [notes](problems/3885-design-event-manager/README.md) | 🟡 Medium | Array, Hash Table, Design | [C++](problems/3885-design-event-manager/solution.cpp) | 2026-03-29 |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) · [notes](problems/3886-sum-of-sortable-integers/README.md) | 🔴 Hard | Array, Math, Sorting | [C++](problems/3886-sum-of-sortable-integers/solution.cpp) | 2026-10-20 |

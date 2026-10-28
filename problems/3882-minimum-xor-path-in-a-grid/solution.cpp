@@ -1,46 +1,31 @@
 // 3882. Minimum XOR Path in a Grid
 // Difficulty: Medium
 // https://leetcode.com/problems/minimum-xor-path-in-a-grid/
-// Runtime: 287 ms (beats —)
-// Memory: 52.7 MB (beats —)
-// Submitted: 2026-03-28
+// Runtime: 90 ms (beats 98.3%)
+// Memory: 41.7 MB (beats 86.8%)
+// Submitted: 2026-10-28
+
+using bits = bitset<1024>;
 
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
+        int n = grid[0].size();
+        vector<bits> dp(n);
+        dp[0][0] = 1;
 
-        vector<vector<bitset<1024>>> dp(m, vector<bitset<1024>>(n));
-
-        dp[0][0][grid[0][0]] = 1;
-
-        for (int i = 0; i < m; i++) {
+        for (auto g : grid)
             for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0)
-                    continue;
-
-                bitset<1024> cur;
-
-                if (i > 0) {
-                    for (int x = 0; x < 1024; x++)
-                        if (dp[i - 1][j][x])
-                            cur[x ^ grid[i][j]] = 1;
+                bits r = dp[j] | (j ? dp[j - 1] : bits());
+                dp[j].reset();
+                for (int x = 0; x < 1024; x++) {
+                    if (r[x]) dp[j][x ^ g[j]] = 1;
                 }
-
-                if (j > 0) {
-                    for (int x = 0; x < 1024; x++)
-                        if (dp[i][j - 1][x])
-                            cur[x ^ grid[i][j]] = 1;
-                }
-
-                dp[i][j] = cur;
             }
-        }
 
-        for (int x = 0; x < 1024; x++)
-            if (dp[m - 1][n - 1][x])
-                return x;
+        int res = 0;
+        while (!dp[n - 1][res]) res++;
 
-        return 0;
+        return res;
     }
 };

@@ -5273,22 +5273,22 @@
    ],
    "dir": "problems/3882-minimum-xor-path-in-a-grid",
    "firstSolved": "2026-03-28T15:20:11.000Z",
-   "lastSolved": "2026-03-28T15:20:11.000Z",
-   "solves": 1,
-   "timeSpentSec": 0,
+   "lastSolved": "2026-10-28T08:03:21.313Z",
+   "solves": 2,
+   "timeSpentSec": 261,
    "rating": null,
    "note": "",
-   "lastSubmissionId": "1961914071",
+   "lastSubmissionId": "2183736986",
    "subs": {
     "solution.cpp": {
      "lang": "cpp",
      "label": "C++",
-     "runtime": "287 ms",
-     "memory": "52.7 MB",
-     "runtimePct": null,
-     "memoryPct": null,
-     "at": "2026-03-28T15:20:11.000Z",
-     "submissionId": "1961914071"
+     "runtime": "90 ms",
+     "memory": "41.7 MB",
+     "runtimePct": 98.34719999999999,
+     "memoryPct": 86.77709999999996,
+     "at": "2026-10-28T08:03:21.313Z",
+     "submissionId": "2183736986"
     }
    }
   },
@@ -22408,6 +22408,7 @@
   "2026-10-24": 3,
   "2026-10-25": 4,
   "2026-10-26": 1,
-  "2026-10-27": 1
+  "2026-10-27": 1,
+  "2026-10-28": 1
  }
 }
