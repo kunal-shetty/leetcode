@@ -3,14 +3,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) ![Hard](https://img.shields.io/badge/Hard-red)
 
 **Topics:** `Array` `String` `Divide and Conquer` `Bit Manipulation` `Tree` `Depth-First Search` `Binary Indexed Tree` `Segment Tree`  
-**Time spent:** 12m 49s  
-**First solved:** 2026-10-29 · **Accepted submissions logged:** 1
+**Time spent:** 13m 01s  
+**First solved:** 2026-10-29 · **Accepted submissions logged:** 2
 
 ## Submissions
 
 | Language | Runtime (beats) | Memory (beats) | Date |
 | --- | --- | --- | --- |
-| [C++](./solution.cpp) | 686 ms (31.8%) | 427.3 MB (11.4%) | 2026-10-29 |
+| [C++](./solution.cpp) | 701 ms (31.8%) | 427.5 MB (11.4%) | 2026-10-29 |
 
 ## Notes
 

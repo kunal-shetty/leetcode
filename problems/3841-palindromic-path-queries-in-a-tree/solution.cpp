@@ -1,8 +1,8 @@
 // 3841. Palindromic Path Queries in a Tree
 // Difficulty: Hard
 // https://leetcode.com/problems/palindromic-path-queries-in-a-tree/
-// Runtime: 686 ms (beats 31.8%)
-// Memory: 427.3 MB (beats 11.4%)
+// Runtime: 701 ms (beats 31.8%)
+// Memory: 427.5 MB (beats 11.4%)
 // Submitted: 2026-10-29
 
 class Solution {
@@ -45,13 +45,14 @@ class Solution {
     }
 
     bool isAncestor(int node, int other) {
-        return entry[node] <= entry[other] &&
-               exit[other] <= exit[node];
+        return entry[node] <= entry[other] && exit[other] <= exit[node];
     }
 
     int lca(int nodeA, int nodeB) {
-        if (isAncestor(nodeA, nodeB)) return nodeA;
-        if (isAncestor(nodeB, nodeA)) return nodeB;
+        if (isAncestor(nodeA, nodeB))
+            return nodeA;
+        if (isAncestor(nodeB, nodeA))
+            return nodeB;
 
         for (int level = logN - 1; level >= 0; level--)
             if (!isAncestor(ancestors[level][nodeA], nodeB))
@@ -64,19 +65,18 @@ class Solution {
         int common = lca(nodeA, nodeB);
 
         int path = (prefixMask[nodeA] ^ get(entry[nodeA])) ^
-                       (prefixMask[nodeB] ^ get(entry[nodeB])) ^
-                       charMask[common];
+                   (prefixMask[nodeB] ^ get(entry[nodeB])) ^ charMask[common];
 
         return !(path & (path - 1));
     }
 
     void dfs() {
-vector<vector<int>> stack = {{0, 0, 0}};
+        vector<vector<int>> stack = {{0, 0, 0}};
         while (!stack.empty()) {
-          auto curr = stack.back();
-stack.pop_back();
+            auto curr = stack.back();
+            stack.pop_back();
 
-int node = curr[0], parent = curr[1], state = curr[2];
+            int node = curr[0], parent = curr[1], state = curr[2];
             if (state == 1) {
                 exit[node] = timer - 1;
                 continue;
@@ -90,8 +90,7 @@ int node = curr[0], parent = curr[1], state = curr[2];
                     ancestors[level - 1][ancestors[level - 1][node]];
 
             prefixMask[node] =
-                (node == parent ? 0 : prefixMask[parent]) ^
-                charMask[node];
+                (node == parent ? 0 : prefixMask[parent]) ^ charMask[node];
 
             stack.push_back({node, parent, 1});
 
@@ -121,12 +120,13 @@ int node = curr[0], parent = curr[1], state = curr[2];
     }
 
 public:
-    vector<bool> palindromePath(int n, vector<vector<int>>& edges,
-                                string s, vector<string>& queries) {
+    vector<bool> palindromePath(int n, vector<vector<int>>& edges, string s,
+                                vector<string>& queries) {
         this->n = n;
         logN = 1;
 
-        while ((1 << logN) <= n) logN++;
+        while ((1 << logN) <= n)
+            logN++;
 
         adj.assign(n, {});
 

@@ -22116,22 +22116,22 @@
    ],
    "dir": "problems/3841-palindromic-path-queries-in-a-tree",
    "firstSolved": "2026-10-29T05:10:46.833Z",
-   "lastSolved": "2026-10-29T05:10:46.833Z",
-   "solves": 1,
-   "timeSpentSec": 769,
+   "lastSolved": "2026-10-29T05:11:00.094Z",
+   "solves": 2,
+   "timeSpentSec": 781,
    "rating": null,
    "note": "",
-   "lastSubmissionId": "2184440552",
+   "lastSubmissionId": "2184440690",
    "subs": {
     "solution.cpp": {
      "lang": "cpp",
      "label": "C++",
-     "runtime": "686 ms",
-     "memory": "427.3 MB",
+     "runtime": "701 ms",
+     "memory": "427.5 MB",
      "runtimePct": 31.81650000000007,
      "memoryPct": 11.361599999999997,
-     "at": "2026-10-29T05:10:46.833Z",
-     "submissionId": "2184440552"
+     "at": "2026-10-29T05:11:00.094Z",
+     "submissionId": "2184440690"
     }
    }
   }
