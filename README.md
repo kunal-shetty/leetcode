@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-713-2da44e) ![Streak](https://img.shields.io/badge/streak-6%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-714-2da44e) ![Streak](https://img.shields.io/badge/streak-7%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -9,10 +9,10 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ```
 Easy    ██████████████████ 288
 Medium  ████████████████████ 314
-Hard    ███████ 105
+Hard    ███████ 106
 ```
 
-**713** problems · **309** active days · current streak **6** · longest **86**
+**714** problems · **310** active days · current streak **7** · longest **86**
 
 ## Last 20 weeks
 
@@ -21,7 +21,7 @@ Hard    ███████ 105
 🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨
 🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨
 🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
-🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜⬜
+🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨
 🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩⬜
 🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦⬜
 ```
@@ -30,9 +30,9 @@ Hard    ███████ 105
 
 ## Languages & topics
 
-`C++` ×682 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×683 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×394 · `String` ×167 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×395 · `String` ×168 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -599,6 +599,7 @@ Hard    ███████ 105
 | 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) · [notes](problems/3827-count-monobit-integers/README.md) | 🟢 Easy | Bit Manipulation, Enumeration | [C++](problems/3827-count-monobit-integers/solution.cpp) | 2026-04-24 |
 | 3829 | [Design Ride Sharing System](https://leetcode.com/problems/design-ride-sharing-system/) · [notes](problems/3829-design-ride-sharing-system/README.md) | 🟡 Medium | Hash Table, Design, Queue | [C++](problems/3829-design-ride-sharing-system/solution.cpp) | 2026-05-23 |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) · [notes](problems/3838-weighted-word-mapping/README.md) | 🟢 Easy | Array, String, Simulation | [C++](problems/3838-weighted-word-mapping/solution.cpp) | 2026-08-06 |
+| 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) · [notes](problems/3841-palindromic-path-queries-in-a-tree/README.md) | 🔴 Hard | Array, String, Divide and Conquer | [C++](problems/3841-palindromic-path-queries-in-a-tree/solution.cpp) | 2026-10-29 |
 | 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) · [notes](problems/3842-toggle-light-bulbs/README.md) | 🟢 Easy | Array, Hash Table, Sorting | [C++](problems/3842-toggle-light-bulbs/solution.cpp) | 2026-04-30 |
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) · [notes](problems/3857-minimum-cost-to-split-into-ones/README.md) | 🟡 Medium | Math, Dynamic Programming | [C++](problems/3857-minimum-cost-to-split-into-ones/solution.cpp) | 2026-05-17 |
 | 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) · [notes](problems/3861-minimum-capacity-box/README.md) | 🟢 Easy | Array | [C++](problems/3861-minimum-capacity-box/solution.cpp) | 2026-04-11 |
