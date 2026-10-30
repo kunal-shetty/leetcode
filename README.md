@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-714-2da44e) ![Streak](https://img.shields.io/badge/streak-7%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-714-2da44e) ![Streak](https://img.shields.io/badge/streak-8%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,7 +12,7 @@ Medium  ████████████████████ 314
 Hard    ███████ 106
 ```
 
-**714** problems · **310** active days · current streak **7** · longest **86**
+**714** problems · **311** active days · current streak **8** · longest **86**
 
 ## Last 20 weeks
 
@@ -22,7 +22,7 @@ Hard    ███████ 106
 🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨
 🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
 🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨
-🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩⬜
+🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨
 🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦⬜
 ```
 
@@ -665,7 +665,7 @@ Hard    ███████ 106
 | 3966 | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) · [notes](problems/3966-count-good-integers-in-a-range/README.md) | 🔴 Hard | Math, Dynamic Programming | [C++](problems/3966-count-good-integers-in-a-range/solution.cpp) | 2026-06-20 |
 | 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) · [notes](problems/3968-maximum-manhattan-distance-after-all-moves/README.md) | 🟡 Medium | Math, String, Counting | [C++](problems/3968-maximum-manhattan-distance-after-all-moves/solution.cpp) | 2026-06-21 |
 | 3969 | [Valid Subarrays With Matching Sum Digits I](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) · [notes](problems/3969-valid-subarrays-with-matching-sum-digits-i/README.md) | 🟡 Medium | Array, Hash Table, Sliding Window | [C++](problems/3969-valid-subarrays-with-matching-sum-digits-i/solution.cpp) | 2026-06-21 |
-| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) · [notes](problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/README.md) | 🟡 Medium | String, Graph Theory, Heap (Priority Queue) | [C++](problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.cpp) | 2026-06-21 |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) · [notes](problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/README.md) | 🟡 Medium | String, Graph Theory, Heap (Priority Queue) | [C++](problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.cpp) | 2026-10-30 |
 | 3971 | [Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) · [notes](problems/3971-maximum-total-value/README.md) | 🔴 Hard | Array, Math, Binary Search | [C++](problems/3971-maximum-total-value/solution.cpp) | 2026-06-21 |
 | 3974 | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) · [notes](problems/3974-maximum-total-sum-of-k-selected-elements/README.md) | 🟡 Medium | Array, Greedy, Sorting | [C++](problems/3974-maximum-total-sum-of-k-selected-elements/solution.cpp) | 2026-06-28 |
 | 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals/) · [notes](problems/3975-filter-occupied-intervals/README.md) | 🟡 Medium | Array, Sorting | [C++](problems/3975-filter-occupied-intervals/solution.cpp) | 2026-06-28 |

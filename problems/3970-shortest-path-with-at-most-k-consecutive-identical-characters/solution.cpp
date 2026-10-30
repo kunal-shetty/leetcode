@@ -1,9 +1,9 @@
 // 3970. Shortest Path With At Most K Consecutive Identical Characters
 // Difficulty: Medium
 // https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
-// Runtime: 333 ms (beats —)
-// Memory: 330.5 MB (beats —)
-// Submitted: 2026-06-21
+// Runtime: 382 ms (beats 23.0%)
+// Memory: 330.2 MB (beats 20.9%)
+// Submitted: 2026-10-30
 
 using T = tuple<long long, int, int>;
 const long long INF = 1e18;
@@ -26,13 +26,11 @@ public:
             auto [d, u, count] = pq.top();
             pq.pop();
 
-            if (d > dist[u][count])
-                continue;
+            if (d > dist[u][count]) continue;
 
             for (auto [v, w] : g[u]) {
                 int newCount = labels[u] == labels[v] ? count + 1 : 1;
-                if (newCount > k)
-                    continue;
+                if (newCount > k) continue;
 
                 if (d + w < dist[v][newCount]) {
                     dist[v][newCount] = d + w;
@@ -40,8 +38,8 @@ public:
                 }
             }
         }
-        long long ans =
+        long long res =
             *min_element(dist[n - 1].begin() + 1, dist[n - 1].end());
-        return ans == INF ? -1 : ans;
+        return res == INF ? -1 : res;
     }
 };

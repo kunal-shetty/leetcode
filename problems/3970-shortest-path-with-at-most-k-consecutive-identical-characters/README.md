@@ -3,14 +3,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) ![Medium](https://img.shields.io/badge/Medium-yellow)
 
 **Topics:** `String` `Graph Theory` `Heap (Priority Queue)` `Shortest Path`  
-**Time spent:** —  
-**First solved:** 2026-06-21 · **Accepted submissions logged:** 1
+**Time spent:** 12m 30s  
+**First solved:** 2026-06-21 · **Accepted submissions logged:** 2
 
 ## Submissions
 
 | Language | Runtime (beats) | Memory (beats) | Date |
 | --- | --- | --- | --- |
-| [C++](./solution.cpp) | 333 ms (—) | 330.5 MB (—) | 2026-06-21 |
+| [C++](./solution.cpp) | 382 ms (23.0%) | 330.2 MB (20.9%) | 2026-10-30 |
 
 ## Notes
 

@@ -12025,22 +12025,22 @@
    ],
    "dir": "problems/3970-shortest-path-with-at-most-k-consecutive-identical-characters",
    "firstSolved": "2026-06-21T02:53:57.000Z",
-   "lastSolved": "2026-06-21T02:53:57.000Z",
-   "solves": 1,
-   "timeSpentSec": 0,
+   "lastSolved": "2026-10-30T14:01:05.086Z",
+   "solves": 2,
+   "timeSpentSec": 750,
    "rating": null,
    "note": "",
-   "lastSubmissionId": "2040421214",
+   "lastSubmissionId": "2185536297",
    "subs": {
     "solution.cpp": {
      "lang": "cpp",
      "label": "C++",
-     "runtime": "333 ms",
-     "memory": "330.5 MB",
-     "runtimePct": null,
-     "memoryPct": null,
-     "at": "2026-06-21T02:53:57.000Z",
-     "submissionId": "2040421214"
+     "runtime": "382 ms",
+     "memory": "330.2 MB",
+     "runtimePct": 22.9967999999999,
+     "memoryPct": 20.92960000000003,
+     "at": "2026-10-30T14:01:05.086Z",
+     "submissionId": "2185536297"
     }
    }
   },
@@ -22446,6 +22446,7 @@
   "2026-10-26": 1,
   "2026-10-27": 1,
   "2026-10-28": 1,
-  "2026-10-29": 1
+  "2026-10-29": 1,
+  "2026-10-30": 1
  }
 }
