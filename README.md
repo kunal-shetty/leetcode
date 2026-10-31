@@ -1,18 +1,18 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-715-2da44e) ![Streak](https://img.shields.io/badge/streak-9%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-716-2da44e) ![Streak](https://img.shields.io/badge/streak-9%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ██████████████████ 288
+Easy    ██████████████████ 289
 Medium  ████████████████████ 315
 Hard    ███████ 106
 ```
 
-**715** problems · **312** active days · current streak **9** · longest **86**
+**716** problems · **312** active days · current streak **9** · longest **86**
 
 ## Last 20 weeks
 
@@ -23,16 +23,16 @@ Hard    ███████ 106
 🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
 🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨
 🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨
-🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟨
+🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟩
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×684 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×685 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×396 · `String` ×168 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×396 · `String` ×169 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
 
 ## Problems
 
@@ -351,6 +351,7 @@ Hard    ███████ 106
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) · [notes](problems/1732-find-the-highest-altitude/README.md) | 🟢 Easy | Array, Prefix Sum | [C++](problems/1732-find-the-highest-altitude/solution.cpp) | 2026-06-19 |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) · [notes](problems/1752-check-if-array-is-sorted-and-rotated/README.md) | 🟢 Easy | Array | [C++](problems/1752-check-if-array-is-sorted-and-rotated/solution.cpp) | 2026-05-23 |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) · [notes](problems/1758-minimum-changes-to-make-alternating-binary-string/README.md) | 🟢 Easy | String | [C++](problems/1758-minimum-changes-to-make-alternating-binary-string/solution.cpp) | 2026-03-05 |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) · [notes](problems/1768-merge-strings-alternately/README.md) | 🟢 Easy | Two Pointers, String | [C++](problems/1768-merge-strings-alternately/solution.cpp) | 2026-10-31 |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) · [notes](problems/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/README.md) | 🟡 Medium | Array, String, Prefix Sum | [C++](problems/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/solution.cpp) | 2026-06-12 |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) · [notes](problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones/README.md) | 🟢 Easy | String | [C++](problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.cpp) | 2026-03-06 |
 | 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) · [notes](problems/1807-evaluate-the-bracket-pairs-of-a-string/README.md) | 🟡 Medium | Array, Hash Table, String | [C++](problems/1807-evaluate-the-bracket-pairs-of-a-string/solution.cpp) | 2026-09-26 |
