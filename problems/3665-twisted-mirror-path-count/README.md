@@ -3,14 +3,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/twisted-mirror-path-count/) ![Medium](https://img.shields.io/badge/Medium-yellow)
 
 **Topics:** `Array` `Dynamic Programming` `Matrix`  
-**Time spent:** 4m 08s  
-**First solved:** 2026-10-31 · **Accepted submissions logged:** 1
+**Time spent:** 4m 18s  
+**First solved:** 2026-10-31 · **Accepted submissions logged:** 2
 
 ## Submissions
 
 | Language | Runtime (beats) | Memory (beats) | Date |
 | --- | --- | --- | --- |
-| [C++](./solution.cpp) | 47 ms (91.7%) | 223.6 MB (68.3%) | 2026-10-31 |
+| [C++](./solution.cpp) | 53 ms (90.0%) | 223.7 MB (68.3%) | 2026-10-31 |
 
 ## Notes
 

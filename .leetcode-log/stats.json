@@ -22147,22 +22147,22 @@
    ],
    "dir": "problems/3665-twisted-mirror-path-count",
    "firstSolved": "2026-10-31T03:57:43.807Z",
-   "lastSolved": "2026-10-31T03:57:43.807Z",
-   "solves": 1,
-   "timeSpentSec": 248,
+   "lastSolved": "2026-10-31T03:57:53.635Z",
+   "solves": 2,
+   "timeSpentSec": 258,
    "rating": null,
    "note": "",
-   "lastSubmissionId": "2185908127",
+   "lastSubmissionId": "2185908251",
    "subs": {
     "solution.cpp": {
      "lang": "cpp",
      "label": "C++",
-     "runtime": "47 ms",
-     "memory": "223.6 MB",
-     "runtimePct": 91.66680000000002,
+     "runtime": "53 ms",
+     "memory": "223.7 MB",
+     "runtimePct": 90.00020000000004,
      "memoryPct": 68.33360000000005,
-     "at": "2026-10-31T03:57:43.807Z",
-     "submissionId": "2185908127"
+     "at": "2026-10-31T03:57:53.635Z",
+     "submissionId": "2185908251"
     }
    }
   }
