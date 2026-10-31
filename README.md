@@ -1,18 +1,18 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-716-2da44e) ![Streak](https://img.shields.io/badge/streak-9%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-717-2da44e) ![Streak](https://img.shields.io/badge/streak-9%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ██████████████████ 289
+Easy    ██████████████████ 290
 Medium  ████████████████████ 315
 Hard    ███████ 106
 ```
 
-**716** problems · **312** active days · current streak **9** · longest **86**
+**717** problems · **312** active days · current streak **9** · longest **86**
 
 ## Last 20 weeks
 
@@ -23,16 +23,16 @@ Hard    ███████ 106
 🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
 🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨
 🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨
-🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟩
+🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×685 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×686 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×396 · `String` ×169 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
+`Array` ×396 · `String` ×170 · `Math` ×156 · `Hash Table` ×144 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
 
 ## Problems
 
@@ -164,6 +164,7 @@ Hard    ███████ 106
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [notes](problems/0347-top-k-frequent-elements/README.md) | 🟡 Medium | Array, Hash Table, Divide and Conquer | [C++](problems/0347-top-k-frequent-elements/solution.cpp) | 2026-09-02 |
 | 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) · [notes](problems/0354-russian-doll-envelopes/README.md) | 🔴 Hard | Array, Binary Search, Dynamic Programming | [C++](problems/0354-russian-doll-envelopes/solution.cpp) | 2026-09-09 |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) · [notes](problems/0380-insert-delete-getrandom-o1/README.md) | 🟡 Medium | Array, Hash Table, Math | [C++](problems/0380-insert-delete-getrandom-o1/solution.cpp) | 2026-08-11 |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) · [notes](problems/0383-ransom-note/README.md) | 🟢 Easy | Hash Table, String, Counting | [C++](problems/0383-ransom-note/solution.cpp) | 2026-10-31 |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) · [notes](problems/0387-first-unique-character-in-a-string/README.md) | 🟢 Easy | Hash Table, String, Queue | [C++](problems/0387-first-unique-character-in-a-string/solution.cpp) | 2026-04-10 |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) · [notes](problems/0389-find-the-difference/README.md) | 🟢 Easy | Hash Table, String, Bit Manipulation | [C++](problems/0389-find-the-difference/solution.cpp) | 2025-12-07 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) · [notes](problems/0392-is-subsequence/README.md) | 🟢 Easy | Two Pointers, String, Dynamic Programming | [C++](problems/0392-is-subsequence/solution.cpp) | 2025-12-10 |

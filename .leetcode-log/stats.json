@@ -22195,6 +22195,37 @@
      "submissionId": "2185914504"
     }
    }
+  },
+  "ransom-note": {
+   "id": "383",
+   "title": "Ransom Note",
+   "slug": "ransom-note",
+   "difficulty": "Easy",
+   "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+   ],
+   "dir": "problems/0383-ransom-note",
+   "firstSolved": "2026-10-31T04:20:45.423Z",
+   "lastSolved": "2026-10-31T04:20:45.423Z",
+   "solves": 1,
+   "timeSpentSec": 179,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2185917666",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "12.7 MB",
+     "runtimePct": 30.953300000000006,
+     "memoryPct": 7.319700000000003,
+     "at": "2026-10-31T04:20:45.423Z",
+     "submissionId": "2185917666"
+    }
+   }
   }
  },
  "days": {
@@ -22509,6 +22540,6 @@
   "2026-10-28": 1,
   "2026-10-29": 1,
   "2026-10-30": 1,
-  "2026-10-31": 2
+  "2026-10-31": 3
  }
 }
