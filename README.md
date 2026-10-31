@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-714-2da44e) ![Streak](https://img.shields.io/badge/streak-8%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-715-2da44e) ![Streak](https://img.shields.io/badge/streak-9%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -8,11 +8,11 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ```
 Easy    ██████████████████ 288
-Medium  ████████████████████ 314
+Medium  ████████████████████ 315
 Hard    ███████ 106
 ```
 
-**714** problems · **311** active days · current streak **8** · longest **86**
+**715** problems · **312** active days · current streak **9** · longest **86**
 
 ## Last 20 weeks
 
@@ -23,16 +23,16 @@ Hard    ███████ 106
 🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
 🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨
 🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨
-🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦⬜
+🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟨
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×683 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×684 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×395 · `String` ×168 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×100 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
+`Array` ×396 · `String` ×168 · `Math` ×156 · `Hash Table` ×143 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×64
 
 ## Problems
 
@@ -557,6 +557,7 @@ Hard    ███████ 106
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/) · [notes](problems/3660-jump-game-ix/README.md) | 🟡 Medium | Array, Dynamic Programming | [C++](problems/3660-jump-game-ix/solution.cpp) | 2026-05-07 |
 | 3661 | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) · [notes](problems/3661-maximum-walls-destroyed-by-robots/README.md) | 🔴 Hard | Array, Binary Search, Dynamic Programming | [C++](problems/3661-maximum-walls-destroyed-by-robots/solution.cpp) | 2026-04-03 |
 | 3664 | [Two-Letter Card Game](https://leetcode.com/problems/two-letter-card-game/) · [notes](problems/3664-two-letter-card-game/README.md) | 🟡 Medium | Array, Hash Table, String | [C++](problems/3664-two-letter-card-game/solution.cpp) | 2026-10-07 |
+| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) · [notes](problems/3665-twisted-mirror-path-count/README.md) | 🟡 Medium | Array, Dynamic Programming, Matrix | [C++](problems/3665-twisted-mirror-path-count/solution.cpp) | 2026-10-31 |
 | 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) · [notes](problems/3666-minimum-operations-to-equalize-binary-string/README.md) | 🔴 Hard | Math, String, Breadth-First Search | [C++](problems/3666-minimum-operations-to-equalize-binary-string/solution.cpp) | 2026-08-14 |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) · [notes](problems/3668-restore-finishing-order/README.md) | 🟢 Easy | Array, Hash Table | [C++](problems/3668-restore-finishing-order/solution.cpp) | 2026-05-19 |
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) · [notes](problems/3683-earliest-time-to-finish-one-task/README.md) | 🟢 Easy | Array | [C++](problems/3683-earliest-time-to-finish-one-task/solution.cpp) | 2026-06-06 |

@@ -22134,6 +22134,37 @@
      "submissionId": "2184440690"
     }
    }
+  },
+  "twisted-mirror-path-count": {
+   "id": "3665",
+   "title": "Twisted Mirror Path Count",
+   "slug": "twisted-mirror-path-count",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+   ],
+   "dir": "problems/3665-twisted-mirror-path-count",
+   "firstSolved": "2026-10-31T03:57:43.807Z",
+   "lastSolved": "2026-10-31T03:57:43.807Z",
+   "solves": 1,
+   "timeSpentSec": 248,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2185908127",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "47 ms",
+     "memory": "223.6 MB",
+     "runtimePct": 91.66680000000002,
+     "memoryPct": 68.33360000000005,
+     "at": "2026-10-31T03:57:43.807Z",
+     "submissionId": "2185908127"
+    }
+   }
   }
  },
  "days": {
@@ -22447,6 +22478,7 @@
   "2026-10-27": 1,
   "2026-10-28": 1,
   "2026-10-29": 1,
-  "2026-10-30": 1
+  "2026-10-30": 1,
+  "2026-10-31": 1
  }
 }
