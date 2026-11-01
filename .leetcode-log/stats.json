@@ -22226,6 +22226,33 @@
      "submissionId": "2185917666"
     }
    }
+  },
+  "minimum-value-of-merged-integers": {
+   "id": "4448",
+   "title": "minimum value of merged integers",
+   "slug": "minimum-value-of-merged-integers",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4448-minimum-value-of-merged-integers",
+   "firstSolved": "2026-11-01T02:37:34.309Z",
+   "lastSolved": "2026-11-01T02:37:34.309Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2186582879",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "0 ms",
+     "memory": "32.3 MB",
+     "runtimePct": 100,
+     "memoryPct": 42.70829999999999,
+     "at": "2026-11-01T02:37:34.309Z",
+     "submissionId": "2186582879"
+    }
+   }
   }
  },
  "days": {
@@ -22540,6 +22567,7 @@
   "2026-10-28": 1,
   "2026-10-29": 1,
   "2026-10-30": 1,
-  "2026-10-31": 3
+  "2026-10-31": 3,
+  "2026-11-01": 1
  }
 }

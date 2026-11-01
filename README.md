@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-717-2da44e) ![Streak](https://img.shields.io/badge/streak-9%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-718-2da44e) ![Streak](https://img.shields.io/badge/streak-10%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,25 +12,25 @@ Medium  ████████████████████ 315
 Hard    ███████ 106
 ```
 
-**717** problems · **312** active days · current streak **9** · longest **86**
+**718** problems · **313** active days · current streak **10** · longest **86**
 
 ## Last 20 weeks
 
 ```
-🟦🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
-🟩🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨
-🟦🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨
-🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨
-🟨🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨
-🟦⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨
-🟦🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦
+🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨
+🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨⬜
+🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨⬜
+🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨⬜
+🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨⬜
+⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨⬜
+🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦⬜
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×686 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×687 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
 `Array` ×396 · `String` ×170 · `Math` ×156 · `Hash Table` ×144 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
 
@@ -753,5 +753,6 @@ Hard    ███████ 106
 | 4391 | [count subarrays with loose bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) · [notes](problems/4391-count-subarrays-with-loose-bounds/README.md) | ⚪ Unknown |  | [C++](problems/4391-count-subarrays-with-loose-bounds/solution.cpp) | 2026-10-24 |
 | 4402 | [count magical substring pairs i](https://leetcode.com/problems/count-magical-substring-pairs-i/) · [notes](problems/4402-count-magical-substring-pairs-i/README.md) | ⚪ Unknown |  | [C++](problems/4402-count-magical-substring-pairs-i/solution.cpp) | 2026-10-24 |
 | 4441 | [count frequency staircase subarrays i](https://leetcode.com/problems/count-frequency-staircase-subarrays-i/) · [notes](problems/4441-count-frequency-staircase-subarrays-i/README.md) | ⚪ Unknown |  | [C++](problems/4441-count-frequency-staircase-subarrays-i/solution.cpp) | 2026-10-25 |
+| 4448 | [minimum value of merged integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) · [notes](problems/4448-minimum-value-of-merged-integers/README.md) | ⚪ Unknown |  | [C++](problems/4448-minimum-value-of-merged-integers/solution.cpp) | 2026-11-01 |
 | 4449 | [binary digit score](https://leetcode.com/problems/binary-digit-score/) · [notes](problems/4449-binary-digit-score/README.md) | ⚪ Unknown |  | [C++](problems/4449-binary-digit-score/solution.cpp) | 2026-10-25 |
 | 4456 | [last visited cell in a directional grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) · [notes](problems/4456-last-visited-cell-in-a-directional-grid/README.md) | ⚪ Unknown |  | [C++](problems/4456-last-visited-cell-in-a-directional-grid/solution.cpp) | 2026-10-18 |
