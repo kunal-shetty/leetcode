@@ -22280,6 +22280,33 @@
      "submissionId": "2186592095"
     }
    }
+  },
+  "minimum-operations-to-sort-with-locked-indices": {
+   "id": "4325",
+   "title": "minimum operations to sort with locked indices",
+   "slug": "minimum-operations-to-sort-with-locked-indices",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4325-minimum-operations-to-sort-with-locked-indices",
+   "firstSolved": "2026-11-01T02:52:44.879Z",
+   "lastSolved": "2026-11-01T02:52:44.879Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2186602372",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "25 ms",
+     "memory": "45.3 MB",
+     "runtimePct": 57.142600000000016,
+     "memoryPct": 100,
+     "at": "2026-11-01T02:52:44.879Z",
+     "submissionId": "2186602372"
+    }
+   }
   }
  },
  "days": {
@@ -22595,6 +22622,6 @@
   "2026-10-29": 1,
   "2026-10-30": 1,
   "2026-10-31": 3,
-  "2026-11-01": 2
+  "2026-11-01": 3
  }
 }
