@@ -22253,6 +22253,33 @@
      "submissionId": "2186582879"
     }
    }
+  },
+  "minimize-the-maximum-value-of-gcd-connected-array": {
+   "id": "4462",
+   "title": "minimize the maximum value of gcd connected array",
+   "slug": "minimize-the-maximum-value-of-gcd-connected-array",
+   "difficulty": "Unknown",
+   "tags": [],
+   "dir": "problems/4462-minimize-the-maximum-value-of-gcd-connected-array",
+   "firstSolved": "2026-11-01T02:44:49.513Z",
+   "lastSolved": "2026-11-01T02:44:49.513Z",
+   "solves": 1,
+   "timeSpentSec": 0,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2186592095",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "5 ms",
+     "memory": "8.8 MB",
+     "runtimePct": 27.272799999999986,
+     "memoryPct": 100,
+     "at": "2026-11-01T02:44:49.513Z",
+     "submissionId": "2186592095"
+    }
+   }
   }
  },
  "days": {
@@ -22568,6 +22595,6 @@
   "2026-10-29": 1,
   "2026-10-30": 1,
   "2026-10-31": 3,
-  "2026-11-01": 1
+  "2026-11-01": 2
  }
 }

@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-718-2da44e) ![Streak](https://img.shields.io/badge/streak-10%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-719-2da44e) ![Streak](https://img.shields.io/badge/streak-10%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,12 +12,12 @@ Medium  ████████████████████ 315
 Hard    ███████ 106
 ```
 
-**718** problems · **313** active days · current streak **10** · longest **86**
+**719** problems · **313** active days · current streak **10** · longest **86**
 
 ## Last 20 weeks
 
 ```
-🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟨
+🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟩
 🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨⬜
 🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨⬜
 🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨⬜
@@ -30,7 +30,7 @@ Hard    ███████ 106
 
 ## Languages & topics
 
-`C++` ×687 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×688 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
 `Array` ×396 · `String` ×170 · `Math` ×156 · `Hash Table` ×144 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
 
@@ -756,3 +756,4 @@ Hard    ███████ 106
 | 4448 | [minimum value of merged integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) · [notes](problems/4448-minimum-value-of-merged-integers/README.md) | ⚪ Unknown |  | [C++](problems/4448-minimum-value-of-merged-integers/solution.cpp) | 2026-11-01 |
 | 4449 | [binary digit score](https://leetcode.com/problems/binary-digit-score/) · [notes](problems/4449-binary-digit-score/README.md) | ⚪ Unknown |  | [C++](problems/4449-binary-digit-score/solution.cpp) | 2026-10-25 |
 | 4456 | [last visited cell in a directional grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/) · [notes](problems/4456-last-visited-cell-in-a-directional-grid/README.md) | ⚪ Unknown |  | [C++](problems/4456-last-visited-cell-in-a-directional-grid/solution.cpp) | 2026-10-18 |
+| 4462 | [minimize the maximum value of gcd connected array](https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/) · [notes](problems/4462-minimize-the-maximum-value-of-gcd-connected-array/README.md) | ⚪ Unknown |  | [C++](problems/4462-minimize-the-maximum-value-of-gcd-connected-array/solution.cpp) | 2026-11-01 |
