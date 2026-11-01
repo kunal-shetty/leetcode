@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-720-2da44e) ![Streak](https://img.shields.io/badge/streak-10%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-721-2da44e) ![Streak](https://img.shields.io/badge/streak-10%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -9,10 +9,10 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ```
 Easy    ██████████████████ 290
 Medium  ████████████████████ 315
-Hard    ███████ 106
+Hard    ███████ 107
 ```
 
-**720** problems · **313** active days · current streak **10** · longest **86**
+**721** problems · **313** active days · current streak **10** · longest **86**
 
 ## Last 20 weeks
 
@@ -30,7 +30,7 @@ Hard    ███████ 106
 
 ## Languages & topics
 
-`C++` ×689 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×690 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
 `Array` ×396 · `String` ×170 · `Math` ×156 · `Hash Table` ×144 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
 
@@ -749,6 +749,7 @@ Hard    ███████ 106
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) · [notes](problems/4081-prime-subset-selection-ii/README.md) | 🔴 Hard |  | [C++](problems/4081-prime-subset-selection-ii/solution.cpp) | 2026-10-11 |
 | 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) · [notes](problems/4430-minimum-deletions-to-make-array-sharp/README.md) | 🟢 Easy |  | [C++](problems/4430-minimum-deletions-to-make-array-sharp/solution.cpp) | 2026-10-23 |
 | 4085 | [Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/) · [notes](problems/4085-find-root-of-a-colored-tree/README.md) | 🟡 Medium |  | [C++](problems/4085-find-root-of-a-colored-tree/solution.cpp) | 2026-10-18 |
+| 4100 | [Minimum Cost Path With Even XOR Parity](https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/) · [notes](problems/4100-minimum-cost-path-with-even-xor-parity/README.md) | 🔴 Hard |  | [C++](problems/4100-minimum-cost-path-with-even-xor-parity/solution.cpp) | 2026-11-01 |
 | 4311 | [maximize sum after at most k digit rearrangements](https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/) · [notes](problems/4311-maximize-sum-after-at-most-k-digit-rearrangements/README.md) | ⚪ Unknown |  | [C++](problems/4311-maximize-sum-after-at-most-k-digit-rearrangements/solution.cpp) | 2026-10-25 |
 | 4325 | [minimum operations to sort with locked indices](https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/) · [notes](problems/4325-minimum-operations-to-sort-with-locked-indices/README.md) | ⚪ Unknown |  | [C++](problems/4325-minimum-operations-to-sort-with-locked-indices/solution.cpp) | 2026-11-01 |
 | 4391 | [count subarrays with loose bounds](https://leetcode.com/problems/count-subarrays-with-loose-bounds/) · [notes](problems/4391-count-subarrays-with-loose-bounds/README.md) | ⚪ Unknown |  | [C++](problems/4391-count-subarrays-with-loose-bounds/solution.cpp) | 2026-10-24 |

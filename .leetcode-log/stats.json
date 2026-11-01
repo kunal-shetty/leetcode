@@ -22307,6 +22307,33 @@
      "submissionId": "2186602372"
     }
    }
+  },
+  "minimum-cost-path-with-even-xor-parity": {
+   "id": "4100",
+   "title": "Minimum Cost Path With Even XOR Parity",
+   "slug": "minimum-cost-path-with-even-xor-parity",
+   "difficulty": "Hard",
+   "tags": [],
+   "dir": "problems/4100-minimum-cost-path-with-even-xor-parity",
+   "firstSolved": "2026-11-01T14:58:30.776Z",
+   "lastSolved": "2026-11-01T14:58:30.776Z",
+   "solves": 1,
+   "timeSpentSec": 194,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2187067446",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "124 ms",
+     "memory": "305.7 MB",
+     "runtimePct": 87.5,
+     "memoryPct": 87.5,
+     "at": "2026-11-01T14:58:30.776Z",
+     "submissionId": "2187067446"
+    }
+   }
   }
  },
  "days": {
@@ -22622,6 +22649,6 @@
   "2026-10-29": 1,
   "2026-10-30": 1,
   "2026-10-31": 3,
-  "2026-11-01": 3
+  "2026-11-01": 4
  }
 }
