@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-721-2da44e) ![Streak](https://img.shields.io/badge/streak-10%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-721-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -12,14 +12,14 @@ Medium  ████████████████████ 315
 Hard    ███████ 107
 ```
 
-**721** problems · **313** active days · current streak **10** · longest **86**
+**721** problems · **314** active days · current streak **1** · longest **86**
 
 ## Last 20 weeks
 
 ```
 🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨⬜
-🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨⬜
+🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨🟨
 🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨⬜
 🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨⬜
 ⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨⬜
@@ -580,7 +580,7 @@ Hard    ███████ 107
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) · [notes](problems/3727-maximum-alternating-sum-of-squares/README.md) | 🟡 Medium | Array, Greedy, Sorting | [C++](problems/3727-maximum-alternating-sum-of-squares/solution.cpp) | 2026-10-13 |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) · [notes](problems/3731-find-missing-elements/README.md) | 🟢 Easy | Array, Hash Table, Sorting | [C++](problems/3731-find-missing-elements/solution.cpp) | 2026-08-04 |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) · [notes](problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md) | 🔴 Hard | Two Pointers, String, Enumeration | [C++](problems/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.cpp) | 2026-08-28 |
-| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) · [notes](problems/3736-minimum-moves-to-equal-array-elements-iii/README.md) | 🟢 Easy | Array, Math | [C++](problems/3736-minimum-moves-to-equal-array-elements-iii/solution.cpp) | 2026-06-25 |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) · [notes](problems/3736-minimum-moves-to-equal-array-elements-iii/README.md) | 🟢 Easy | Array, Math | [C++](problems/3736-minimum-moves-to-equal-array-elements-iii/solution.cpp) | 2026-11-03 |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) · [notes](problems/3737-count-subarrays-with-majority-element-i/README.md) | 🟡 Medium | Array, Hash Table, Divide and Conquer | [C++](problems/3737-count-subarrays-with-majority-element-i/solution.cpp) | 2026-06-25 |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) · [notes](problems/3739-count-subarrays-with-majority-element-ii/README.md) | 🔴 Hard | Array, Hash Table, Divide and Conquer | [C++](problems/3739-count-subarrays-with-majority-element-ii/solution.cpp) | 2026-06-26 |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) · [notes](problems/3740-minimum-distance-between-three-equal-elements-i/README.md) | 🟢 Easy | Array, Hash Table | [C++](problems/3740-minimum-distance-between-three-equal-elements-i/solution.cpp) | 2026-04-30 |

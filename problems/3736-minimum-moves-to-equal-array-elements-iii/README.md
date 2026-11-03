@@ -3,14 +3,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) ![Easy](https://img.shields.io/badge/Easy-brightgreen)
 
 **Topics:** `Array` `Math`  
-**Time spent:** —  
-**First solved:** 2026-06-25 · **Accepted submissions logged:** 2
+**Time spent:** 1m 51s  
+**First solved:** 2026-06-25 · **Accepted submissions logged:** 3
 
 ## Submissions
 
 | Language | Runtime (beats) | Memory (beats) | Date |
 | --- | --- | --- | --- |
-| [C++](./solution.cpp) | 0 ms (—) | 31.6 MB (—) | 2026-06-25 |
+| [C++](./solution.cpp) | 2 ms (13.3%) | 31.3 MB (98.4%) | 2026-11-03 |
 
 ## Notes
 
