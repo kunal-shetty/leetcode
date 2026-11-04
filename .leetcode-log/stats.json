@@ -22349,10 +22349,10 @@
     "Heap (Priority Queue)"
    ],
    "dir": "problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
-   "firstSolved": "2026-11-04T04:40:06.409Z",
-   "lastSolved": "2026-11-04T04:40:06.409Z",
+   "firstSolved": "2026-11-04T04:40:10.083Z",
+   "lastSolved": "2026-11-04T04:40:10.083Z",
    "solves": 1,
-   "timeSpentSec": 1549,
+   "timeSpentSec": 1550,
    "rating": null,
    "note": "",
    "lastSubmissionId": "2189193098",
@@ -22364,7 +22364,7 @@
      "memory": "220.5 MB",
      "runtimePct": 100,
      "memoryPct": 96.875,
-     "at": "2026-11-04T04:40:06.409Z",
+     "at": "2026-11-04T04:40:10.083Z",
      "submissionId": "2189193098"
     }
    }

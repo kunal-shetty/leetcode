@@ -3,7 +3,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-open%20problem-orange?logo=leetcode)](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) ![Hard](https://img.shields.io/badge/Hard-red)
 
 **Topics:** `Array` `Hash Table` `Math` `Dynamic Programming` `Sliding Window` `Heap (Priority Queue)`  
-**Time spent:** 25m 49s  
+**Time spent:** 25m 50s  
 **First solved:** 2026-11-04 · **Accepted submissions logged:** 1
 
 ## Submissions
