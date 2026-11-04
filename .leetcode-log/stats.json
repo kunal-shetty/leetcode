@@ -22334,6 +22334,40 @@
      "submissionId": "2187067446"
     }
    }
+  },
+  "minimum-operations-to-make-elements-within-k-subarrays-equal": {
+   "id": "3505",
+   "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+   "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+   "difficulty": "Hard",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Dynamic Programming",
+    "Sliding Window",
+    "Heap (Priority Queue)"
+   ],
+   "dir": "problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+   "firstSolved": "2026-11-04T04:40:06.409Z",
+   "lastSolved": "2026-11-04T04:40:06.409Z",
+   "solves": 1,
+   "timeSpentSec": 1549,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2189193098",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "438 ms",
+     "memory": "220.5 MB",
+     "runtimePct": 100,
+     "memoryPct": 96.875,
+     "at": "2026-11-04T04:40:06.409Z",
+     "submissionId": "2189193098"
+    }
+   }
   }
  },
  "days": {
@@ -22650,6 +22684,7 @@
   "2026-10-30": 1,
   "2026-10-31": 3,
   "2026-11-01": 4,
-  "2026-11-03": 1
+  "2026-11-03": 1,
+  "2026-11-04": 1
  }
 }

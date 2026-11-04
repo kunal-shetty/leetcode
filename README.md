@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-721-2da44e) ![Streak](https://img.shields.io/badge/streak-1%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-722-2da44e) ![Streak](https://img.shields.io/badge/streak-2%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -9,10 +9,10 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 ```
 Easy    ██████████████████ 290
 Medium  ████████████████████ 315
-Hard    ███████ 107
+Hard    ███████ 108
 ```
 
-**721** problems · **314** active days · current streak **1** · longest **86**
+**722** problems · **315** active days · current streak **2** · longest **86**
 
 ## Last 20 weeks
 
@@ -20,7 +20,7 @@ Hard    ███████ 107
 🟦🟦🟦🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
 🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨⬜
 🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨🟨
-🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨⬜
+🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨🟨
 🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨⬜
 ⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨⬜
 🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦⬜
@@ -30,9 +30,9 @@ Hard    ███████ 107
 
 ## Languages & topics
 
-`C++` ×690 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×691 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×396 · `String` ×170 · `Math` ×156 · `Hash Table` ×144 · `Dynamic Programming` ×101 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
+`Array` ×397 · `String` ×170 · `Math` ×157 · `Hash Table` ×145 · `Dynamic Programming` ×102 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
 
 ## Problems
 
@@ -516,6 +516,7 @@ Hard    ███████ 107
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) · [notes](problems/3498-reverse-degree-of-a-string/README.md) | 🟢 Easy | String, Simulation | [C++](problems/3498-reverse-degree-of-a-string/solution.cpp) | 2026-09-20 |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) · [notes](problems/3499-maximize-active-section-with-trade-i/README.md) | 🟡 Medium | String, Enumeration | [C++](problems/3499-maximize-active-section-with-trade-i/solution.cpp) | 2026-07-21 |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) · [notes](problems/3501-maximize-active-section-with-trade-ii/README.md) | 🔴 Hard | Array, String, Binary Search | [C++](problems/3501-maximize-active-section-with-trade-ii/solution.cpp) | 2026-07-22 |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) · [notes](problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md) | 🔴 Hard | Array, Hash Table, Math | [C++](problems/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/solution.cpp) | 2026-11-04 |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) · [notes](problems/3507-minimum-pair-removal-to-sort-array-i/README.md) | 🟢 Easy | Array, Hash Table, Linked List | [C++](problems/3507-minimum-pair-removal-to-sort-array-i/solution.cpp) | 2026-01-22 |
 | 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) · [notes](problems/3510-minimum-pair-removal-to-sort-array-ii/README.md) | 🔴 Hard | Array, Hash Table, Linked List | [C++](problems/3510-minimum-pair-removal-to-sort-array-ii/solution.cpp) | 2026-01-23 |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) · [notes](problems/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md) | 🟢 Easy | Array, Math | [C++](problems/3512-minimum-operations-to-make-array-sum-divisible-by-k/solution.cpp) | 2026-05-27 |
