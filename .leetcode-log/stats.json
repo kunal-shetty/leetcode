@@ -22368,6 +22368,38 @@
      "submissionId": "2189193098"
     }
    }
+  },
+  "find-the-distance-value-between-two-arrays": {
+   "id": "1385",
+   "title": "Find the Distance Value Between Two Arrays",
+   "slug": "find-the-distance-value-between-two-arrays",
+   "difficulty": "Easy",
+   "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+   ],
+   "dir": "problems/1385-find-the-distance-value-between-two-arrays",
+   "firstSolved": "2026-11-05T06:51:39.696Z",
+   "lastSolved": "2026-11-05T06:51:39.696Z",
+   "solves": 1,
+   "timeSpentSec": 366,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2189982253",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2 ms",
+     "memory": "16.5 MB",
+     "runtimePct": 36.9535,
+     "memoryPct": 75.8111,
+     "at": "2026-11-05T06:51:39.696Z",
+     "submissionId": "2189982253"
+    }
+   }
   }
  },
  "days": {
@@ -22685,6 +22717,7 @@
   "2026-10-31": 3,
   "2026-11-01": 4,
   "2026-11-03": 1,
-  "2026-11-04": 1
+  "2026-11-04": 1,
+  "2026-11-05": 1
  }
 }

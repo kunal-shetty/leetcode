@@ -1,18 +1,18 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-722-2da44e) ![Streak](https://img.shields.io/badge/streak-2%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-723-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ## Progress
 
 ```
-Easy    ██████████████████ 290
+Easy    ██████████████████ 291
 Medium  ████████████████████ 315
 Hard    ███████ 108
 ```
 
-**722** problems · **315** active days · current streak **2** · longest **86**
+**723** problems · **316** active days · current streak **3** · longest **86**
 
 ## Last 20 weeks
 
@@ -21,7 +21,7 @@ Hard    ███████ 108
 🟦🟩🟨🟨🟨🟨🟦🟩🟩🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨⬜
 🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨🟨
 🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨🟨
-🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨⬜
+🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨🟨
 ⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨⬜
 🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦⬜
 ```
@@ -30,9 +30,9 @@ Hard    ███████ 108
 
 ## Languages & topics
 
-`C++` ×691 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×692 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×397 · `String` ×170 · `Math` ×157 · `Hash Table` ×145 · `Dynamic Programming` ×102 · `Sorting` ×95 · `Greedy` ×78 · `Two Pointers` ×65
+`Array` ×398 · `String` ×170 · `Math` ×157 · `Hash Table` ×145 · `Dynamic Programming` ×102 · `Sorting` ×96 · `Greedy` ×78 · `Two Pointers` ×66
 
 ## Problems
 
@@ -297,6 +297,7 @@ Hard    ███████ 108
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) · [notes](problems/1358-number-of-substrings-containing-all-three-characters/README.md) | 🟡 Medium | Hash Table, String, Sliding Window | [C++](problems/1358-number-of-substrings-containing-all-three-characters/solution.cpp) | 2026-06-30 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) · [notes](problems/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | 🟢 Easy | Array, Hash Table, Sorting | [C++](problems/1365-how-many-numbers-are-smaller-than-the-current-number/solution.cpp) | 2026-02-14 |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) · [notes](problems/1382-balance-a-binary-search-tree/README.md) | 🟡 Medium | Divide and Conquer, Greedy, Tree | [C++](problems/1382-balance-a-binary-search-tree/solution.cpp) | 2026-02-09 |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) · [notes](problems/1385-find-the-distance-value-between-two-arrays/README.md) | 🟢 Easy | Array, Two Pointers, Binary Search | [C++](problems/1385-find-the-distance-value-between-two-arrays/solution.cpp) | 2026-11-05 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) · [notes](problems/1386-cinema-seat-allocation/README.md) | 🟡 Medium | Array, Hash Table, Greedy | [C++](problems/1386-cinema-seat-allocation/solution.cpp) | 2026-08-19 |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) · [notes](problems/1390-four-divisors/README.md) | 🟡 Medium | Array, Math, Prime Factorization | [C++](problems/1390-four-divisors/solution.cpp) | 2026-01-04 |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) · [notes](problems/1391-check-if-there-is-a-valid-path-in-a-grid/README.md) | 🟡 Medium | Array, Depth-First Search, Breadth-First Search | [C++](problems/1391-check-if-there-is-a-valid-path-in-a-grid/solution.cpp) | 2026-04-27 |
