@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-723-2da44e) ![Streak](https://img.shields.io/badge/streak-3%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-724-2da44e) ![Streak](https://img.shields.io/badge/streak-4%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -8,11 +8,11 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ```
 Easy    ██████████████████ 291
-Medium  ████████████████████ 315
+Medium  ████████████████████ 316
 Hard    ███████ 108
 ```
 
-**723** problems · **316** active days · current streak **3** · longest **86**
+**724** problems · **317** active days · current streak **4** · longest **86**
 
 ## Last 20 weeks
 
@@ -22,7 +22,7 @@ Hard    ███████ 108
 🟦🟩⬜🟦🟩🟩🟦🟩🟩🟨🟩🟩🟩🟦🟨🟩🟩🟨🟨🟨
 🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨🟨
 🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨🟨
-⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨⬜
+⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨🟨
 🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦⬜
 ```
 
@@ -30,9 +30,9 @@ Hard    ███████ 108
 
 ## Languages & topics
 
-`C++` ×692 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×693 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×398 · `String` ×170 · `Math` ×157 · `Hash Table` ×145 · `Dynamic Programming` ×102 · `Sorting` ×96 · `Greedy` ×78 · `Two Pointers` ×66
+`Array` ×399 · `String` ×170 · `Math` ×157 · `Hash Table` ×146 · `Dynamic Programming` ×102 · `Sorting` ×97 · `Greedy` ×78 · `Two Pointers` ×66
 
 ## Problems
 
@@ -440,6 +440,7 @@ Hard    ███████ 108
 | 2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/) · [notes](problems/2708-maximum-strength-of-a-group/README.md) | 🟡 Medium | Array, Dynamic Programming, Backtracking | [C++](problems/2708-maximum-strength-of-a-group/solution.cpp) | 2026-05-24 |
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) · [notes](problems/2722-join-two-arrays-by-id/README.md) | 🟡 Medium |  | [JavaScript](problems/2722-join-two-arrays-by-id/solution.js) | 2026-03-19 |
 | 2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/) · [notes](problems/2723-add-two-promises/README.md) | 🟢 Easy |  | [JavaScript](problems/2723-add-two-promises/solution.js) | 2026-05-28 |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) · [notes](problems/2747-count-zero-request-servers/README.md) | 🟡 Medium | Array, Hash Table, Sliding Window | [C++](problems/2747-count-zero-request-servers/solution.cpp) | 2026-11-06 |
 | 2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) · [notes](problems/2751-robot-collisions/README.md) | 🔴 Hard | Array, Stack, Sorting | [C++](problems/2751-robot-collisions/solution.cpp) | 2026-04-01 |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) · [notes](problems/2769-find-the-maximum-achievable-number/README.md) | 🟢 Easy | Math | [C++](problems/2769-find-the-maximum-achievable-number/solution.cpp) | 2026-05-31 |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) · [notes](problems/2770-maximum-number-of-jumps-to-reach-the-last-index/README.md) | 🟡 Medium | Array, Dynamic Programming | [C++](problems/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.cpp) | 2026-05-10 |

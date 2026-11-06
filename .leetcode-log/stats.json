@@ -22400,6 +22400,38 @@
      "submissionId": "2189982253"
     }
    }
+  },
+  "count-zero-request-servers": {
+   "id": "2747",
+   "title": "Count Zero Request Servers",
+   "slug": "count-zero-request-servers",
+   "difficulty": "Medium",
+   "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Sorting"
+   ],
+   "dir": "problems/2747-count-zero-request-servers",
+   "firstSolved": "2026-11-06T03:48:50.751Z",
+   "lastSolved": "2026-11-06T03:48:50.751Z",
+   "solves": 1,
+   "timeSpentSec": 1357,
+   "rating": null,
+   "note": "",
+   "lastSubmissionId": "2190548970",
+   "subs": {
+    "solution.cpp": {
+     "lang": "cpp",
+     "label": "C++",
+     "runtime": "2308 ms",
+     "memory": "619.1 MB",
+     "runtimePct": 5.194900000000079,
+     "memoryPct": 5.194900000000061,
+     "at": "2026-11-06T03:48:50.751Z",
+     "submissionId": "2190548970"
+    }
+   }
   }
  },
  "days": {
@@ -22718,6 +22750,7 @@
   "2026-11-01": 4,
   "2026-11-03": 1,
   "2026-11-04": 1,
-  "2026-11-05": 1
+  "2026-11-05": 1,
+  "2026-11-06": 1
  }
 }
