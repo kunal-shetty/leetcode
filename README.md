@@ -1,6 +1,6 @@
 # 🧩 LeetCode Log
 
-![Solved](https://img.shields.io/badge/solved-724-2da44e) ![Streak](https://img.shields.io/badge/streak-4%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
+![Solved](https://img.shields.io/badge/solved-725-2da44e) ![Streak](https://img.shields.io/badge/streak-5%20days-ffa116) ![Longest](https://img.shields.io/badge/longest-86%20days-8957e5)
 
 Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
@@ -8,11 +8,11 @@ Logged automatically by **LeetLog**. Every accepted submission becomes a commit.
 
 ```
 Easy    ██████████████████ 291
-Medium  ████████████████████ 316
+Medium  ████████████████████ 317
 Hard    ███████ 108
 ```
 
-**724** problems · **317** active days · current streak **4** · longest **86**
+**725** problems · **318** active days · current streak **5** · longest **86**
 
 ## Last 20 weeks
 
@@ -23,16 +23,16 @@ Hard    ███████ 108
 🟨🟨🟨🟩🟨🟨🟩🟨🟨🟨🟨🟨🟦🟦🟦🟩🟨⬜🟨🟨
 🟦🟦🟨🟨🟦🟩🟦🟦🟨🟨🟨🟨🟦🟩⬜⬜🟨⬜🟨🟨
 ⬜🟨🟨🟩⬜🟨🟨🟨🟨🟩🟨🟨🟩🟨🟦🟩🟨🟩🟨🟨
-🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦⬜
+🟦🟦🟨🟦🟩🟦🟦🟦🟨🟦🟩🟦🟨🟦🟨🟦⬜🟦🟦🟨
 ```
 
 ⬜ none · 🟨 1 · 🟩 2 · 🟦 3+ problems a day
 
 ## Languages & topics
 
-`C++` ×693 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
+`C++` ×694 · `MySQL` ×21 · `JavaScript` ×8 · `Python3` ×6 · `Pandas` ×2 · `Python` ×1
 
-`Array` ×399 · `String` ×170 · `Math` ×157 · `Hash Table` ×146 · `Dynamic Programming` ×102 · `Sorting` ×97 · `Greedy` ×78 · `Two Pointers` ×66
+`Array` ×400 · `String` ×170 · `Math` ×157 · `Hash Table` ×146 · `Dynamic Programming` ×102 · `Sorting` ×97 · `Greedy` ×78 · `Two Pointers` ×66
 
 ## Problems
 
@@ -368,6 +368,7 @@ Hard    ███████ 108
 | 1872 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) · [notes](problems/1872-stone-game-viii/README.md) | 🔴 Hard | Array, Math, Dynamic Programming | [C++](problems/1872-stone-game-viii/solution.cpp) | 2026-08-24 |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) · [notes](problems/1877-minimize-maximum-pair-sum-in-array/README.md) | 🟡 Medium | Array, Two Pointers, Greedy | [C++](problems/1877-minimize-maximum-pair-sum-in-array/solution.cpp) | 2026-08-03 |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) · [notes](problems/1878-get-biggest-three-rhombus-sums-in-a-grid/README.md) | 🟡 Medium | Array, Math, Sorting | [C++](problems/1878-get-biggest-three-rhombus-sums-in-a-grid/solution.cpp) | 2026-03-16 |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) · [notes](problems/1882-process-tasks-using-servers/README.md) | 🟡 Medium | Array, Heap (Priority Queue) | [C++](problems/1882-process-tasks-using-servers/solution.cpp) | 2026-11-07 |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) · [notes](problems/1886-determine-whether-matrix-can-be-obtained-by-rotation/README.md) | 🟢 Easy | Array, Matrix | [C++](problems/1886-determine-whether-matrix-can-be-obtained-by-rotation/solution.cpp) | 2026-03-22 |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) · [notes](problems/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/README.md) | 🟡 Medium | String, Dynamic Programming, Sliding Window | [C++](problems/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/solution.cpp) | 2026-03-07 |
 | 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) · [notes](problems/1895-largest-magic-square/README.md) | 🟡 Medium | Array, Matrix, Prefix Sum | [C++](problems/1895-largest-magic-square/solution.cpp) | 2026-01-18 |
